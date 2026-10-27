@@ -1,0 +1,13 @@
+icd10,diagnosis,index_discharges,readmissions,readmit_rate_pct
+I50.9,"Heart failure, unspecified",383,86,22.5
+N17.9,"Acute kidney failure, unspecified",194,38,19.6
+J44.1,COPD with acute exacerbation,500,89,17.8
+I21.4,NSTEMI myocardial infarction,204,35,17.2
+S72.001A,Fracture of right femoral neck,136,20,14.7
+A41.9,"Sepsis, unspecified organism",287,41,14.3
+E11.65,Type 2 diabetes with hyperglycemia,418,57,13.6
+M17.11,"Primary osteoarthritis, right knee",190,24,12.6
+J18.9,"Pneumonia, unspecified organism",610,75,12.3
+K35.80,Acute appendicitis,239,20,8.4
+R07.9,"Chest pain, unspecified",116,3,2.6
+N39.0,Urinary tract infection,102,2,2.0

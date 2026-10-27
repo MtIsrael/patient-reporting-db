@@ -1,0 +1,2501 @@
+patient_id,mrn,first_name,last_name,birth_date,sex,city,state,zip,insurance
+1,CC100007,Ruth,Williams,1953-09-27,F,Dover,DE,19901,Medicare
+2,CC100014,Raj,Smith,1966-08-19,M,Elkton,MD,21921,Commercial - BCBS
+3,CC100021,Samuel,Walker,1937-09-03,M,New Castle,DE,19720,Commercial - BCBS
+4,CC100028,Jennifer,Lee,1977-05-07,F,Chester,PA,19013,Medicaid
+5,CC100035,Jennifer,Miller,1990-09-26,F,Middletown,DE,19709,Commercial - Aetna
+6,CC100042,Mei,Hall,1980-06-15,F,Wilmington,DE,19801,Commercial - BCBS
+7,CC100049,Mei,Scott,1977-05-05,F,Wilmington,DE,19801,Commercial - BCBS
+8,CC100056,Aisha,Lee,1993-12-26,F,Wilmington,DE,19801,Commercial - Aetna
+9,CC100063,Kevin,Green,1974-09-19,M,New Castle,DE,19720,Commercial - BCBS
+10,CC100070,Priya,Mitchell,1940-10-08,F,Middletown,DE,19709,Medicare
+11,CC100077,Priya,Brown,1937-03-06,F,New Castle,DE,19720,Medicare
+12,CC100084,Michael,Green,1990-07-09,M,Elkton,MD,21921,Self-Pay
+13,CC100091,Samuel,Hill,1965-02-09,M,New Castle,DE,19720,Medicaid
+14,CC100098,Aisha,Roberts,1969-11-10,F,Elkton,MD,21921,Self-Pay
+15,CC100105,Raj,Campbell,1947-07-13,M,New Castle,DE,19720,Medicare
+16,CC100112,Olivia,Perez,1974-06-15,F,Dover,DE,19901,Medicaid
+17,CC100119,Nicole,Lopez,1965-03-17,F,Newark,DE,19711,Self-Pay
+18,CC100126,Anthony,Garcia,1987-09-16,M,Middletown,DE,19709,Commercial - Cigna
+19,CC100133,Carmen,Garcia,1986-12-04,F,Wilmington,DE,19801,Medicaid
+20,CC100140,James,Allen,1934-12-01,M,Dover,DE,19901,Medicare Advantage
+21,CC100147,Carlos,Lee,1964-01-26,M,Chester,PA,19013,Commercial - Aetna
+22,CC100154,Brianna,Hill,1939-12-24,F,New Castle,DE,19720,Medicare Advantage
+23,CC100161,Angela,Scott,1980-02-21,F,Elkton,MD,21921,Medicaid
+24,CC100168,Luis,Williams,1976-08-04,M,Chester,PA,19013,Commercial - Aetna
+25,CC100175,Brian,Walker,1930-10-29,M,Dover,DE,19901,Medicare
+26,CC100182,Brian,Mitchell,1960-04-02,M,Newark,DE,19711,Medicare
+27,CC100189,Emily,Nelson,1966-01-07,F,Wilmington,DE,19801,Commercial - BCBS
+28,CC100196,Keisha,Miller,1992-07-18,F,Chester,PA,19013,Commercial - Aetna
+29,CC100203,Linda,Allen,1958-07-12,F,New Castle,DE,19720,Medicare
+30,CC100210,Brian,Brown,1975-11-20,M,Elkton,MD,21921,Medicaid
+31,CC100217,Kevin,Green,1977-02-24,M,Middletown,DE,19709,Commercial - BCBS
+32,CC100224,James,Lopez,1985-04-13,M,Bear,DE,19701,Commercial - Cigna
+33,CC100231,Jamal,Young,1972-01-26,M,Wilmington,DE,19801,Commercial - Cigna
+34,CC100238,Mei,Brown,1974-01-21,F,Newark,DE,19711,Commercial - Aetna
+35,CC100245,Nicole,Lopez,1968-03-20,F,Bear,DE,19701,Commercial - BCBS
+36,CC100252,Emily,Johnson,1963-12-16,F,Bear,DE,19701,Commercial - Aetna
+37,CC100259,Brianna,Young,1976-11-28,F,Dover,DE,19901,Commercial - Cigna
+38,CC100266,Emily,Adams,1938-02-12,F,Wilmington,DE,19801,Medicare Advantage
+39,CC100273,Michael,Martinez,1999-07-23,M,Newark,DE,19711,Commercial - BCBS
+40,CC100280,Isaac,Campbell,1987-06-12,M,Newark,DE,19711,Commercial - BCBS
+41,CC100287,Jamal,Rodriguez,1990-11-16,M,Wilmington,DE,19801,Commercial - Aetna
+42,CC100294,Nicole,Roberts,1983-04-21,F,Newark,DE,19711,Commercial - Cigna
+43,CC100301,Victor,Scott,1969-06-11,M,New Castle,DE,19720,Commercial - Aetna
+44,CC100308,Hannah,Campbell,1966-07-02,F,Newark,DE,19711,Medicaid
+45,CC100315,Danielle,Brown,1983-12-16,F,Wilmington,DE,19801,Self-Pay
+46,CC100322,Victor,Young,1969-03-02,M,Dover,DE,19901,Commercial - Cigna
+47,CC100329,Jamal,Baker,1960-01-12,M,Bear,DE,19701,Commercial - BCBS
+48,CC100336,Tanya,Carter,1948-06-21,F,Wilmington,DE,19801,Medicare
+49,CC100343,Marcus,Scott,1994-04-13,M,Chester,PA,19013,Commercial - Cigna
+50,CC100350,Anthony,Smith,1990-06-06,M,New Castle,DE,19720,Commercial - Cigna
+51,CC100357,Robert,Scott,1935-07-17,M,Wilmington,DE,19801,Medicare Advantage
+52,CC100364,Luis,Lee,1943-09-14,M,Bear,DE,19701,Medicare
+53,CC100371,Jennifer,Young,1968-10-14,F,Elkton,MD,21921,Medicaid
+54,CC100378,Ruth,Rodriguez,1962-11-20,F,Middletown,DE,19709,Medicaid
+55,CC100385,Grace,Brown,1997-02-11,F,New Castle,DE,19720,Commercial - Aetna
+56,CC100392,Emily,Phillips,1960-03-04,F,Elkton,MD,21921,Commercial - BCBS
+57,CC100399,Angela,Lopez,1956-06-30,F,Newark,DE,19711,Medicare Advantage
+58,CC100406,Priya,Roberts,1963-11-23,F,Chester,PA,19013,Commercial - BCBS
+59,CC100413,Kevin,Lee,1956-12-27,M,Wilmington,DE,19801,Medicare
+60,CC100420,Carlos,Lee,1949-04-14,M,Newark,DE,19711,Medicare
+61,CC100427,Olivia,Davis,1982-06-26,F,Newark,DE,19711,Self-Pay
+62,CC100434,Raj,Scott,1960-04-01,M,Chester,PA,19013,Commercial - BCBS
+63,CC100441,Grace,Smith,1955-01-18,F,Chester,PA,19013,Commercial - BCBS
+64,CC100448,Eric,Baker,1950-10-26,M,Chester,PA,19013,Medicare
+65,CC100455,Maria,Lee,1976-08-06,F,Elkton,MD,21921,Self-Pay
+66,CC100462,Ruth,Roberts,1956-06-25,F,Wilmington,DE,19801,Commercial - BCBS
+67,CC100469,Rosa,Brown,1952-02-13,F,Middletown,DE,19709,Commercial - BCBS
+68,CC100476,Jennifer,Nelson,1968-07-22,F,New Castle,DE,19720,Commercial - Aetna
+69,CC100483,Carlos,Perez,1972-05-04,M,New Castle,DE,19720,Commercial - Aetna
+70,CC100490,Brian,Adams,1963-03-13,M,Newark,DE,19711,Commercial - BCBS
+71,CC100497,Brian,Wright,1955-02-21,M,Dover,DE,19901,Medicare
+72,CC100504,Andre,Wright,1973-01-07,M,Dover,DE,19901,Commercial - Cigna
+73,CC100511,Keisha,Carter,1985-03-21,F,Newark,DE,19711,Medicaid
+74,CC100518,Maria,Green,1951-12-07,F,Newark,DE,19711,Medicare
+75,CC100525,Priya,Davis,1991-01-26,F,Elkton,MD,21921,Commercial - Aetna
+76,CC100532,Michael,Phillips,1942-08-30,M,Dover,DE,19901,Commercial - BCBS
+77,CC100539,David,Lopez,1956-11-04,M,Elkton,MD,21921,Commercial - BCBS
+78,CC100546,Rosa,Garcia,1958-08-26,F,Dover,DE,19901,Medicare
+79,CC100553,William,Brown,1953-04-15,M,Dover,DE,19901,Commercial - BCBS
+80,CC100560,Daniel,Walker,1974-02-14,M,Middletown,DE,19709,Self-Pay
+81,CC100567,Olivia,Mitchell,1996-06-29,F,Wilmington,DE,19801,Commercial - BCBS
+82,CC100574,Nicole,Allen,1959-11-02,F,Wilmington,DE,19801,Medicare Advantage
+83,CC100581,Brianna,Hill,1966-03-08,F,New Castle,DE,19720,Commercial - BCBS
+84,CC100588,Emily,Adams,1971-08-24,F,Bear,DE,19701,Medicaid
+85,CC100595,Daniel,Baker,2005-03-26,M,Chester,PA,19013,Commercial - Cigna
+86,CC100602,James,Rodriguez,1986-07-18,M,Chester,PA,19013,Self-Pay
+87,CC100609,Jamal,Perez,1961-12-06,M,New Castle,DE,19720,Medicaid
+88,CC100616,Isaac,Lopez,1936-04-06,M,Bear,DE,19701,Medicare Advantage
+89,CC100623,Sofia,Wright,1946-06-01,F,New Castle,DE,19720,Medicare
+90,CC100630,Carmen,Perez,1955-07-17,F,Elkton,MD,21921,Commercial - BCBS
+91,CC100637,Victor,Walker,2006-07-14,M,Dover,DE,19901,Self-Pay
+92,CC100644,Tanya,Brown,1980-08-02,F,Newark,DE,19711,Commercial - BCBS
+93,CC100651,Keisha,Mitchell,1977-03-26,F,Chester,PA,19013,Self-Pay
+94,CC100658,Jennifer,Young,1967-07-19,F,New Castle,DE,19720,Commercial - Aetna
+95,CC100665,Hannah,Allen,1930-09-05,F,Wilmington,DE,19801,Commercial - BCBS
+96,CC100672,Hannah,Rodriguez,1954-10-01,F,Dover,DE,19901,Medicare
+97,CC100679,Brian,Brown,1948-01-18,M,Wilmington,DE,19801,Medicare Advantage
+98,CC100686,Nicole,Nelson,1956-03-17,F,New Castle,DE,19720,Medicare
+99,CC100693,Kevin,Davis,1984-08-11,M,Elkton,MD,21921,Medicaid
+100,CC100700,Andre,Green,1930-07-20,M,Newark,DE,19711,Medicare
+101,CC100707,Robert,Garcia,1930-07-22,M,Wilmington,DE,19801,Commercial - BCBS
+102,CC100714,Mei,Perez,1975-08-16,F,Wilmington,DE,19801,Commercial - BCBS
+103,CC100721,Maria,Davis,1983-04-26,F,Wilmington,DE,19801,Commercial - Aetna
+104,CC100728,Michael,Hall,1954-07-08,M,Dover,DE,19901,Medicare
+105,CC100735,Rosa,Young,1971-06-15,F,Chester,PA,19013,Medicaid
+106,CC100742,Keisha,Hill,1944-10-01,F,Dover,DE,19901,Commercial - BCBS
+107,CC100749,David,Garcia,1953-08-14,M,Dover,DE,19901,Medicare
+108,CC100756,Raj,Garcia,1957-02-15,M,Elkton,MD,21921,Medicare Advantage
+109,CC100763,William,Williams,1982-04-08,M,Middletown,DE,19709,Medicaid
+110,CC100770,Carlos,Baker,1953-12-30,M,Bear,DE,19701,Commercial - BCBS
+111,CC100777,Ruth,Hill,1950-03-16,F,Newark,DE,19711,Medicare
+112,CC100784,Olivia,Lee,1981-01-01,F,Newark,DE,19711,Commercial - Cigna
+113,CC100791,Linda,Miller,1988-12-04,F,New Castle,DE,19720,Commercial - BCBS
+114,CC100798,Luis,Lee,1982-08-17,M,Wilmington,DE,19801,Medicaid
+115,CC100805,Linda,Johnson,1978-02-17,F,New Castle,DE,19720,Self-Pay
+116,CC100812,Raj,Mitchell,1983-10-25,M,Elkton,MD,21921,Medicaid
+117,CC100819,Angela,Hill,1958-04-28,F,Elkton,MD,21921,Medicare
+118,CC100826,Jamal,Miller,1961-10-10,M,Newark,DE,19711,Commercial - Aetna
+119,CC100833,Priya,Johnson,1949-09-21,F,Elkton,MD,21921,Commercial - BCBS
+120,CC100840,Danielle,Hill,1948-09-01,F,Middletown,DE,19709,Commercial - BCBS
+121,CC100847,Robert,Johnson,1972-06-04,M,Wilmington,DE,19801,Self-Pay
+122,CC100854,Victor,Scott,1932-04-22,M,Dover,DE,19901,Medicare
+123,CC100861,Eric,Mitchell,1950-08-12,M,Elkton,MD,21921,Medicare Advantage
+124,CC100868,Aisha,Allen,1974-09-06,F,New Castle,DE,19720,Commercial - BCBS
+125,CC100875,Brianna,Brown,1965-01-09,F,New Castle,DE,19720,Commercial - BCBS
+126,CC100882,Brian,Davis,1977-12-29,M,Elkton,MD,21921,Commercial - BCBS
+127,CC100889,Andre,Green,1972-08-31,M,Dover,DE,19901,Commercial - BCBS
+128,CC100896,Rosa,Smith,1958-05-06,F,Dover,DE,19901,Medicare Advantage
+129,CC100903,Luis,Perez,1986-03-30,M,New Castle,DE,19720,Commercial - Aetna
+130,CC100910,Isaac,Brown,1951-01-27,M,Bear,DE,19701,Medicare
+131,CC100917,Danielle,Hall,1979-01-09,F,Dover,DE,19901,Commercial - Cigna
+132,CC100924,Sofia,Green,1960-11-11,F,Newark,DE,19711,Medicare
+133,CC100931,Luis,Davis,1944-02-20,M,Elkton,MD,21921,Medicare Advantage
+134,CC100938,Brianna,Hall,1944-07-29,F,Dover,DE,19901,Medicare Advantage
+135,CC100945,Luis,Roberts,1948-02-23,M,Elkton,MD,21921,Medicare Advantage
+136,CC100952,Daniel,Smith,1971-09-22,M,Bear,DE,19701,Commercial - Cigna
+137,CC100959,Hannah,King,1975-12-28,F,Middletown,DE,19709,Commercial - BCBS
+138,CC100966,Rosa,Rodriguez,1979-11-02,F,Chester,PA,19013,Commercial - Cigna
+139,CC100973,Keisha,Lee,1979-03-14,F,Elkton,MD,21921,Commercial - BCBS
+140,CC100980,Ruth,Campbell,1963-12-06,F,New Castle,DE,19720,Medicaid
+141,CC100987,Hannah,Martinez,1990-09-14,F,Bear,DE,19701,Commercial - Aetna
+142,CC100994,Marcus,Hill,1964-08-12,M,Chester,PA,19013,Commercial - Cigna
+143,CC101001,Isaac,Scott,1953-09-07,M,New Castle,DE,19720,Medicare
+144,CC101008,James,Mitchell,1939-08-16,M,Wilmington,DE,19801,Commercial - BCBS
+145,CC101015,Hannah,Davis,1966-08-31,F,Wilmington,DE,19801,Commercial - BCBS
+146,CC101022,Nicole,Davis,1956-08-01,F,Wilmington,DE,19801,Medicare
+147,CC101029,James,Hill,1974-03-04,M,Wilmington,DE,19801,Commercial - Cigna
+148,CC101036,Olivia,Campbell,2007-04-21,F,Elkton,MD,21921,Commercial - Cigna
+149,CC101043,Hannah,Rodriguez,1988-01-10,F,Elkton,MD,21921,Commercial - BCBS
+150,CC101050,William,Green,1969-06-03,M,New Castle,DE,19720,Medicaid
+151,CC101057,Linda,Garcia,1947-06-06,F,Chester,PA,19013,Medicare Advantage
+152,CC101064,Jamal,Scott,1973-07-30,M,Wilmington,DE,19801,Commercial - BCBS
+153,CC101071,Danielle,Nelson,1969-01-19,F,Newark,DE,19711,Medicaid
+154,CC101078,Tanya,Baker,1958-05-28,F,Dover,DE,19901,Commercial - BCBS
+155,CC101085,Priya,Smith,1947-09-14,F,Dover,DE,19901,Medicare
+156,CC101092,Emily,Smith,1944-09-29,F,Chester,PA,19013,Medicare Advantage
+157,CC101099,Isaac,Adams,1958-10-15,M,Newark,DE,19711,Medicare
+158,CC101106,William,Roberts,1973-09-16,M,Elkton,MD,21921,Medicaid
+159,CC101113,Jamal,Phillips,1957-10-01,M,Elkton,MD,21921,Medicare Advantage
+160,CC101120,Thomas,Green,1940-08-31,M,Chester,PA,19013,Medicare Advantage
+161,CC101127,James,Smith,1941-05-27,M,Elkton,MD,21921,Medicare Advantage
+162,CC101134,Ruth,Young,1946-10-10,F,Middletown,DE,19709,Commercial - BCBS
+163,CC101141,Brianna,Miller,1963-08-30,F,Bear,DE,19701,Medicaid
+164,CC101148,Samuel,Allen,1960-07-09,M,Wilmington,DE,19801,Medicare
+165,CC101155,Priya,Nelson,1987-07-13,F,Elkton,MD,21921,Medicaid
+166,CC101162,Brian,Hill,1969-10-01,M,Elkton,MD,21921,Commercial - BCBS
+167,CC101169,William,Rodriguez,1974-04-09,M,New Castle,DE,19720,Self-Pay
+168,CC101176,Carmen,Johnson,1947-08-11,F,Middletown,DE,19709,Medicare
+169,CC101183,Angela,Hill,1957-05-14,F,Newark,DE,19711,Commercial - BCBS
+170,CC101190,Raj,Campbell,1984-08-04,M,Middletown,DE,19709,Commercial - Aetna
+171,CC101197,Danielle,Scott,1974-08-02,F,New Castle,DE,19720,Commercial - Cigna
+172,CC101204,Grace,Roberts,1975-08-16,F,Dover,DE,19901,Self-Pay
+173,CC101211,Ruth,Mitchell,1955-05-08,F,Wilmington,DE,19801,Medicare Advantage
+174,CC101218,Ruth,Wright,1977-08-29,F,Elkton,MD,21921,Commercial - Cigna
+175,CC101225,James,Phillips,1950-08-28,M,Middletown,DE,19709,Medicare
+176,CC101232,Angela,Miller,1982-05-22,F,Elkton,MD,21921,Commercial - BCBS
+177,CC101239,James,Walker,1970-10-11,M,New Castle,DE,19720,Self-Pay
+178,CC101246,David,Roberts,1956-12-02,M,Chester,PA,19013,Medicare
+179,CC101253,Jennifer,Phillips,1976-03-05,F,New Castle,DE,19720,Commercial - BCBS
+180,CC101260,Anthony,Garcia,1963-05-15,M,Newark,DE,19711,Medicaid
+181,CC101267,Brian,Hall,2000-10-27,M,Elkton,MD,21921,Commercial - BCBS
+182,CC101274,Keisha,Adams,1980-01-21,F,Wilmington,DE,19801,Medicaid
+183,CC101281,Thomas,Allen,1950-12-15,M,Wilmington,DE,19801,Medicare
+184,CC101288,Rosa,Scott,1973-07-02,F,Chester,PA,19013,Commercial - Aetna
+185,CC101295,Luis,Lee,1979-03-06,M,Bear,DE,19701,Commercial - Aetna
+186,CC101302,Marcus,Brown,1974-08-09,M,Chester,PA,19013,Commercial - Cigna
+187,CC101309,Priya,Walker,1948-06-26,F,New Castle,DE,19720,Medicare Advantage
+188,CC101316,Linda,Perez,1944-03-25,F,Wilmington,DE,19801,Medicare
+189,CC101323,Danielle,Nelson,1966-08-21,F,Newark,DE,19711,Self-Pay
+190,CC101330,Anthony,Scott,1971-01-20,M,Dover,DE,19901,Medicaid
+191,CC101337,Priya,Turner,1948-12-13,F,Bear,DE,19701,Medicare
+192,CC101344,Tanya,Lee,1950-09-20,F,New Castle,DE,19720,Medicare
+193,CC101351,Thomas,Perez,1958-08-17,M,Dover,DE,19901,Medicare Advantage
+194,CC101358,Priya,Rodriguez,1957-05-17,F,Middletown,DE,19709,Medicare Advantage
+195,CC101365,Isaac,Johnson,1937-12-09,M,New Castle,DE,19720,Commercial - BCBS
+196,CC101372,Aisha,King,1976-08-08,F,Middletown,DE,19709,Commercial - BCBS
+197,CC101379,Carlos,Campbell,1997-02-03,M,Newark,DE,19711,Commercial - Aetna
+198,CC101386,Priya,Garcia,1957-04-01,F,Middletown,DE,19709,Medicare
+199,CC101393,Anthony,Garcia,1969-07-19,M,Bear,DE,19701,Self-Pay
+200,CC101400,Priya,Carter,1973-07-29,F,Wilmington,DE,19801,Medicaid
+201,CC101407,David,Adams,1930-04-05,M,Dover,DE,19901,Commercial - BCBS
+202,CC101414,Nicole,Allen,1949-02-11,F,Newark,DE,19711,Commercial - BCBS
+203,CC101421,Carmen,Johnson,1973-03-25,F,Wilmington,DE,19801,Commercial - Aetna
+204,CC101428,Tanya,Wright,1976-04-07,F,Chester,PA,19013,Commercial - Aetna
+205,CC101435,Jennifer,Nelson,1982-06-23,F,Wilmington,DE,19801,Commercial - BCBS
+206,CC101442,Michael,Wright,1963-11-26,M,New Castle,DE,19720,Commercial - BCBS
+207,CC101449,Raj,Carter,1964-09-14,M,New Castle,DE,19720,Commercial - BCBS
+208,CC101456,Andre,Williams,1966-04-11,M,Newark,DE,19711,Self-Pay
+209,CC101463,Carmen,Miller,1991-01-22,F,New Castle,DE,19720,Self-Pay
+210,CC101470,Marcus,King,1951-02-22,M,Dover,DE,19901,Medicare Advantage
+211,CC101477,Isaac,Martinez,1942-06-20,M,Dover,DE,19901,Medicare
+212,CC101484,Raj,Hall,1969-07-23,M,Wilmington,DE,19801,Commercial - Cigna
+213,CC101491,Raj,Miller,1968-09-08,M,Newark,DE,19711,Commercial - Aetna
+214,CC101498,William,Brown,2002-03-18,M,Newark,DE,19711,Medicaid
+215,CC101505,Angela,Scott,1978-10-21,F,Elkton,MD,21921,Commercial - Cigna
+216,CC101512,Nicole,Brown,2003-08-23,F,Chester,PA,19013,Commercial - BCBS
+217,CC101519,Andre,Brown,1977-07-15,M,Bear,DE,19701,Commercial - Aetna
+218,CC101526,Kevin,Martinez,1965-04-24,M,New Castle,DE,19720,Self-Pay
+219,CC101533,Victor,Hall,1964-03-30,M,Middletown,DE,19709,Commercial - Cigna
+220,CC101540,Mei,King,1956-07-03,F,Wilmington,DE,19801,Medicare
+221,CC101547,Priya,Hall,1967-10-08,F,Wilmington,DE,19801,Commercial - BCBS
+222,CC101554,Jennifer,Nelson,1968-06-21,F,Wilmington,DE,19801,Self-Pay
+223,CC101561,Danielle,Rodriguez,1983-09-07,F,Bear,DE,19701,Commercial - Aetna
+224,CC101568,Robert,Turner,1941-06-06,M,Elkton,MD,21921,Medicare
+225,CC101575,Danielle,Brown,1981-04-21,F,Bear,DE,19701,Commercial - Cigna
+226,CC101582,Angela,Hall,1980-12-01,F,Elkton,MD,21921,Commercial - Aetna
+227,CC101589,Carlos,Williams,1963-01-03,M,Wilmington,DE,19801,Medicaid
+228,CC101596,Raj,Adams,1995-08-27,M,New Castle,DE,19720,Self-Pay
+229,CC101603,Hannah,Carter,1958-09-14,F,Elkton,MD,21921,Commercial - BCBS
+230,CC101610,Thomas,Scott,1981-06-12,M,Newark,DE,19711,Commercial - Aetna
+231,CC101617,Thomas,Lopez,1975-03-13,M,Middletown,DE,19709,Commercial - Aetna
+232,CC101624,Brian,Rodriguez,1979-10-27,M,New Castle,DE,19720,Commercial - Aetna
+233,CC101631,Danielle,Perez,1949-04-10,F,Middletown,DE,19709,Medicare
+234,CC101638,Andre,Wright,2007-02-24,M,Wilmington,DE,19801,Commercial - Aetna
+235,CC101645,Anthony,Allen,1988-11-24,M,Chester,PA,19013,Self-Pay
+236,CC101652,Raj,Smith,1967-03-30,M,Middletown,DE,19709,Commercial - Aetna
+237,CC101659,Victor,Turner,1958-12-16,M,Newark,DE,19711,Commercial - BCBS
+238,CC101666,Keisha,Johnson,1977-04-04,F,Chester,PA,19013,Self-Pay
+239,CC101673,Nicole,Miller,1953-07-23,F,Wilmington,DE,19801,Medicare
+240,CC101680,Maria,Lee,1994-05-25,F,Chester,PA,19013,Commercial - Cigna
+241,CC101687,Eric,Wright,1978-08-12,M,Wilmington,DE,19801,Self-Pay
+242,CC101694,Robert,Rodriguez,1956-06-10,M,Middletown,DE,19709,Medicare Advantage
+243,CC101701,James,Rodriguez,1969-09-17,M,Newark,DE,19711,Self-Pay
+244,CC101708,Jamal,Baker,1952-09-16,M,Dover,DE,19901,Medicare Advantage
+245,CC101715,Anthony,Johnson,1978-04-17,M,Dover,DE,19901,Self-Pay
+246,CC101722,Linda,Nelson,1977-06-24,F,Dover,DE,19901,Commercial - Aetna
+247,CC101729,Kevin,Carter,1951-11-22,M,Dover,DE,19901,Commercial - BCBS
+248,CC101736,Grace,Allen,1930-11-25,F,Wilmington,DE,19801,Medicare
+249,CC101743,Jamal,Hill,1944-08-16,M,Bear,DE,19701,Medicare
+250,CC101750,Carlos,Campbell,1955-01-22,M,Middletown,DE,19709,Medicare Advantage
+251,CC101757,Ruth,Miller,1943-05-28,F,Chester,PA,19013,Medicare
+252,CC101764,Grace,Lee,1970-12-21,F,Chester,PA,19013,Self-Pay
+253,CC101771,Maria,Brown,1961-11-27,F,Middletown,DE,19709,Self-Pay
+254,CC101778,William,King,1950-09-23,M,Chester,PA,19013,Medicare Advantage
+255,CC101785,Olivia,Adams,1983-09-14,F,Bear,DE,19701,Medicaid
+256,CC101792,Isaac,Brown,1985-09-09,M,Chester,PA,19013,Commercial - Aetna
+257,CC101799,Raj,Phillips,1948-06-21,M,New Castle,DE,19720,Medicare Advantage
+258,CC101806,Kevin,Roberts,1935-07-12,M,Wilmington,DE,19801,Medicare
+259,CC101813,William,Brown,1978-07-08,M,New Castle,DE,19720,Medicaid
+260,CC101820,Marcus,Allen,1968-11-15,M,Dover,DE,19901,Commercial - Cigna
+261,CC101827,Daniel,Carter,1989-03-19,M,Bear,DE,19701,Commercial - BCBS
+262,CC101834,Ruth,Brown,1970-09-23,F,Middletown,DE,19709,Self-Pay
+263,CC101841,Jamal,Roberts,1977-06-28,M,Elkton,MD,21921,Medicaid
+264,CC101848,Brianna,Scott,1970-08-03,F,Dover,DE,19901,Commercial - Cigna
+265,CC101855,Mei,Hall,1990-01-25,F,Bear,DE,19701,Medicaid
+266,CC101862,Carlos,Davis,1985-04-29,M,Elkton,MD,21921,Commercial - BCBS
+267,CC101869,Hannah,Green,1961-09-19,F,Middletown,DE,19709,Commercial - Cigna
+268,CC101876,Eric,Mitchell,1980-09-21,M,Middletown,DE,19709,Medicaid
+269,CC101883,Brianna,Allen,1987-10-17,F,Chester,PA,19013,Commercial - Aetna
+270,CC101890,Olivia,Smith,1999-03-08,F,Elkton,MD,21921,Commercial - Cigna
+271,CC101897,Jamal,Smith,1955-09-15,M,New Castle,DE,19720,Medicare
+272,CC101904,Grace,Turner,1989-08-01,F,Elkton,MD,21921,Self-Pay
+273,CC101911,Michael,Hill,1955-01-20,M,Wilmington,DE,19801,Medicare Advantage
+274,CC101918,Michael,Miller,1996-02-18,M,Chester,PA,19013,Self-Pay
+275,CC101925,Mei,Walker,1941-07-10,F,Middletown,DE,19709,Medicare
+276,CC101932,Robert,Wright,1967-10-15,M,Bear,DE,19701,Commercial - BCBS
+277,CC101939,Jamal,Davis,1971-09-26,M,Wilmington,DE,19801,Medicaid
+278,CC101946,Danielle,Williams,1970-04-21,F,Bear,DE,19701,Commercial - BCBS
+279,CC101953,Andre,Hill,1974-10-07,M,Wilmington,DE,19801,Commercial - BCBS
+280,CC101960,Luis,Lee,1962-08-01,M,Middletown,DE,19709,Commercial - BCBS
+281,CC101967,Anthony,Scott,1958-10-27,M,Newark,DE,19711,Medicare Advantage
+282,CC101974,Brianna,Allen,2007-10-18,F,Dover,DE,19901,Medicaid
+283,CC101981,Nicole,Green,2007-01-20,F,Newark,DE,19711,Medicaid
+284,CC101988,Hannah,Williams,1964-08-22,F,Newark,DE,19711,Medicaid
+285,CC101995,Daniel,Hall,1939-03-02,M,Bear,DE,19701,Commercial - BCBS
+286,CC102002,Danielle,Lee,1940-04-16,F,Bear,DE,19701,Commercial - BCBS
+287,CC102009,Marcus,Young,1976-10-30,M,Newark,DE,19711,Commercial - Cigna
+288,CC102016,Daniel,Brown,1984-11-15,M,Middletown,DE,19709,Medicaid
+289,CC102023,Sofia,Carter,1954-09-04,F,Wilmington,DE,19801,Commercial - BCBS
+290,CC102030,Anthony,Phillips,1963-08-09,M,Bear,DE,19701,Medicaid
+291,CC102037,Ruth,Rodriguez,1935-09-18,F,Bear,DE,19701,Medicare
+292,CC102044,Anthony,Allen,1932-06-04,M,New Castle,DE,19720,Medicare
+293,CC102051,Angela,Martinez,1943-07-09,F,Elkton,MD,21921,Commercial - BCBS
+294,CC102058,Daniel,Perez,1930-05-24,M,Elkton,MD,21921,Medicare
+295,CC102065,Danielle,Scott,1946-11-30,F,Dover,DE,19901,Medicare
+296,CC102072,Anthony,Green,1954-04-05,M,Middletown,DE,19709,Commercial - BCBS
+297,CC102079,Jennifer,Lee,1930-09-27,F,Chester,PA,19013,Medicare
+298,CC102086,Grace,Adams,1960-04-27,F,Bear,DE,19701,Commercial - BCBS
+299,CC102093,Olivia,Campbell,1961-09-23,F,Wilmington,DE,19801,Medicaid
+300,CC102100,Olivia,Mitchell,1999-01-11,F,Chester,PA,19013,Commercial - Aetna
+301,CC102107,Priya,Smith,1985-08-10,F,Newark,DE,19711,Medicaid
+302,CC102114,Nicole,Mitchell,1964-12-14,F,New Castle,DE,19720,Commercial - Cigna
+303,CC102121,Maria,Martinez,1979-07-21,F,Dover,DE,19901,Commercial - Aetna
+304,CC102128,Samuel,Smith,1958-08-05,M,Elkton,MD,21921,Medicare
+305,CC102135,Keisha,Miller,1969-05-11,F,Dover,DE,19901,Medicaid
+306,CC102142,Linda,Davis,1980-07-11,F,Newark,DE,19711,Commercial - Aetna
+307,CC102149,Keisha,Williams,1977-06-03,F,Bear,DE,19701,Commercial - Aetna
+308,CC102156,Angela,Hall,1989-10-28,F,Wilmington,DE,19801,Commercial - Cigna
+309,CC102163,Linda,Smith,1975-03-08,F,Elkton,MD,21921,Self-Pay
+310,CC102170,Raj,Phillips,1975-09-10,M,Dover,DE,19901,Commercial - Aetna
+311,CC102177,Victor,Johnson,1980-04-13,M,Newark,DE,19711,Self-Pay
+312,CC102184,David,Carter,1961-01-26,M,Newark,DE,19711,Self-Pay
+313,CC102191,James,Turner,1991-08-07,M,New Castle,DE,19720,Commercial - Aetna
+314,CC102198,Robert,Nelson,1949-10-20,M,Elkton,MD,21921,Medicare
+315,CC102205,Emily,Martinez,1968-09-20,F,Wilmington,DE,19801,Self-Pay
+316,CC102212,Victor,Wright,1968-06-23,M,Wilmington,DE,19801,Commercial - BCBS
+317,CC102219,Brianna,Walker,1957-11-18,F,Chester,PA,19013,Medicare
+318,CC102226,David,Garcia,1953-04-06,M,New Castle,DE,19720,Medicare Advantage
+319,CC102233,James,Baker,1966-04-20,M,Dover,DE,19901,Self-Pay
+320,CC102240,Rosa,Martinez,1975-11-09,F,Bear,DE,19701,Commercial - Cigna
+321,CC102247,Luis,Baker,1984-03-19,M,Chester,PA,19013,Commercial - Cigna
+322,CC102254,Victor,Johnson,1964-06-05,M,Bear,DE,19701,Commercial - Aetna
+323,CC102261,Maria,Baker,1953-08-26,F,Newark,DE,19711,Commercial - BCBS
+324,CC102268,Ruth,Green,1973-04-12,F,Newark,DE,19711,Medicaid
+325,CC102275,Eric,Lopez,1983-06-30,M,Bear,DE,19701,Self-Pay
+326,CC102282,Olivia,Nelson,1949-03-01,F,Bear,DE,19701,Commercial - BCBS
+327,CC102289,Mei,Campbell,1944-01-20,F,Bear,DE,19701,Medicare Advantage
+328,CC102296,Grace,Roberts,1943-11-05,F,Elkton,MD,21921,Medicare
+329,CC102303,Sofia,Miller,1995-07-07,F,Middletown,DE,19709,Medicaid
+330,CC102310,Angela,Adams,1976-11-17,F,Chester,PA,19013,Commercial - Aetna
+331,CC102317,Linda,Walker,1939-04-22,F,Elkton,MD,21921,Medicare
+332,CC102324,Aisha,Smith,1976-12-06,F,Newark,DE,19711,Commercial - Aetna
+333,CC102331,Olivia,Johnson,1951-02-07,F,Dover,DE,19901,Commercial - BCBS
+334,CC102338,Sofia,King,1941-06-14,F,Dover,DE,19901,Medicare
+335,CC102345,Carlos,Lopez,1960-05-17,M,Elkton,MD,21921,Medicare
+336,CC102352,Rosa,Young,1940-08-22,F,Chester,PA,19013,Medicare
+337,CC102359,Daniel,Mitchell,1967-04-28,M,Middletown,DE,19709,Commercial - BCBS
+338,CC102366,Jennifer,Hill,1983-07-05,F,New Castle,DE,19720,Commercial - Aetna
+339,CC102373,Eric,Wright,1964-07-29,M,Dover,DE,19901,Commercial - BCBS
+340,CC102380,Maria,Young,1963-10-18,F,Wilmington,DE,19801,Commercial - Aetna
+341,CC102387,Brian,Campbell,1970-09-26,M,Elkton,MD,21921,Commercial - Aetna
+342,CC102394,Sofia,Hill,1962-06-27,F,Chester,PA,19013,Commercial - Aetna
+343,CC102401,Danielle,Walker,1963-06-17,F,Newark,DE,19711,Commercial - Cigna
+344,CC102408,Linda,Davis,1952-12-06,F,Bear,DE,19701,Medicare
+345,CC102415,Jennifer,Davis,1976-01-31,F,Newark,DE,19711,Self-Pay
+346,CC102422,Keisha,Mitchell,2004-12-04,F,Elkton,MD,21921,Commercial - BCBS
+347,CC102429,Hannah,Walker,1978-08-16,F,Middletown,DE,19709,Medicaid
+348,CC102436,Robert,Lopez,1963-10-09,M,Elkton,MD,21921,Commercial - Cigna
+349,CC102443,Kevin,Green,1940-03-23,M,New Castle,DE,19720,Medicare Advantage
+350,CC102450,Angela,Perez,1965-12-22,F,Chester,PA,19013,Commercial - Cigna
+351,CC102457,Danielle,Carter,1989-09-12,F,New Castle,DE,19720,Self-Pay
+352,CC102464,Eric,Adams,1987-10-30,M,Dover,DE,19901,Self-Pay
+353,CC102471,William,Brown,1984-01-02,M,Dover,DE,19901,Commercial - Cigna
+354,CC102478,Tanya,Green,1951-11-20,F,Middletown,DE,19709,Medicare
+355,CC102485,James,Phillips,1961-08-18,M,Elkton,MD,21921,Commercial - Aetna
+356,CC102492,Andre,Scott,2007-01-25,M,New Castle,DE,19720,Commercial - BCBS
+357,CC102499,Keisha,King,1963-07-20,F,Bear,DE,19701,Commercial - BCBS
+358,CC102506,Sofia,Martinez,1936-03-02,F,New Castle,DE,19720,Medicare Advantage
+359,CC102513,Eric,Walker,1957-10-01,M,Elkton,MD,21921,Medicare
+360,CC102520,Maria,Allen,1989-10-24,F,Wilmington,DE,19801,Commercial - BCBS
+361,CC102527,Angela,Lee,1971-07-03,F,Elkton,MD,21921,Commercial - Aetna
+362,CC102534,Emily,Turner,1956-12-18,F,Chester,PA,19013,Medicare Advantage
+363,CC102541,Luis,Scott,1958-03-20,M,Dover,DE,19901,Medicare
+364,CC102548,Kevin,Williams,1956-12-08,M,Chester,PA,19013,Commercial - BCBS
+365,CC102555,James,Smith,1995-04-07,M,Bear,DE,19701,Commercial - BCBS
+366,CC102562,James,Rodriguez,1959-08-23,M,Middletown,DE,19709,Medicare
+367,CC102569,Linda,Nelson,1958-07-07,F,Bear,DE,19701,Commercial - BCBS
+368,CC102576,Raj,Young,1952-01-10,M,New Castle,DE,19720,Medicare Advantage
+369,CC102583,Sofia,Rodriguez,1978-11-24,F,Bear,DE,19701,Commercial - Aetna
+370,CC102590,Victor,Lopez,1970-03-04,M,Newark,DE,19711,Commercial - Aetna
+371,CC102597,Anthony,Allen,1954-10-20,M,Wilmington,DE,19801,Medicare
+372,CC102604,James,Carter,1958-05-20,M,Elkton,MD,21921,Medicare Advantage
+373,CC102611,Sofia,Young,1960-01-26,F,New Castle,DE,19720,Medicare Advantage
+374,CC102618,Brianna,Brown,1983-12-03,F,Newark,DE,19711,Commercial - Aetna
+375,CC102625,Anthony,Lee,1950-10-22,M,Middletown,DE,19709,Medicare
+376,CC102632,Rosa,Johnson,1960-03-04,F,Newark,DE,19711,Medicare
+377,CC102639,Priya,Nelson,1964-10-28,F,Chester,PA,19013,Self-Pay
+378,CC102646,Michael,Roberts,1966-03-31,M,Wilmington,DE,19801,Commercial - BCBS
+379,CC102653,Mei,Carter,1965-03-20,F,Chester,PA,19013,Commercial - Cigna
+380,CC102660,Grace,Rodriguez,1990-03-23,F,Elkton,MD,21921,Self-Pay
+381,CC102667,William,Walker,2000-01-19,M,Bear,DE,19701,Medicaid
+382,CC102674,Mei,Nelson,1963-05-09,F,Wilmington,DE,19801,Medicaid
+383,CC102681,Raj,Campbell,1972-06-01,M,Chester,PA,19013,Medicaid
+384,CC102688,Robert,Smith,1981-01-18,M,Wilmington,DE,19801,Commercial - Cigna
+385,CC102695,Kevin,Williams,1966-02-13,M,Newark,DE,19711,Medicaid
+386,CC102702,Thomas,Hall,1966-05-24,M,Wilmington,DE,19801,Medicaid
+387,CC102709,Ruth,Rodriguez,1984-08-02,F,Newark,DE,19711,Commercial - Cigna
+388,CC102716,Eric,Rodriguez,1993-07-23,M,New Castle,DE,19720,Commercial - Cigna
+389,CC102723,Mei,Green,1970-07-17,F,New Castle,DE,19720,Self-Pay
+390,CC102730,Isaac,Smith,1987-07-02,M,New Castle,DE,19720,Self-Pay
+391,CC102737,Robert,Nelson,1957-06-22,M,Newark,DE,19711,Medicare Advantage
+392,CC102744,Keisha,Lee,2007-05-20,F,Chester,PA,19013,Self-Pay
+393,CC102751,Maria,Carter,2007-04-17,F,Bear,DE,19701,Commercial - Cigna
+394,CC102758,Ruth,Miller,1944-08-26,F,Bear,DE,19701,Commercial - BCBS
+395,CC102765,Hannah,Baker,1962-07-25,F,Chester,PA,19013,Self-Pay
+396,CC102772,Michael,Allen,1939-09-03,M,Wilmington,DE,19801,Medicare
+397,CC102779,Olivia,Wright,2000-05-18,F,Elkton,MD,21921,Commercial - Cigna
+398,CC102786,Sofia,Walker,1962-11-11,F,Wilmington,DE,19801,Medicaid
+399,CC102793,Kevin,Young,1940-07-14,M,Dover,DE,19901,Medicare Advantage
+400,CC102800,Maria,Hall,1991-08-08,F,New Castle,DE,19720,Commercial - Aetna
+401,CC102807,James,Phillips,1961-01-25,M,Chester,PA,19013,Commercial - BCBS
+402,CC102814,Sofia,Adams,1949-02-28,F,New Castle,DE,19720,Medicare
+403,CC102821,Daniel,Carter,1968-04-26,M,New Castle,DE,19720,Commercial - Cigna
+404,CC102828,Marcus,Perez,1941-03-12,M,Bear,DE,19701,Medicare
+405,CC102835,Isaac,Baker,1958-10-26,M,Dover,DE,19901,Medicare Advantage
+406,CC102842,Michael,Green,1963-02-25,M,Chester,PA,19013,Commercial - Aetna
+407,CC102849,Jennifer,Green,1953-04-10,F,Bear,DE,19701,Medicare Advantage
+408,CC102856,Raj,Carter,1941-01-03,M,Chester,PA,19013,Medicare
+409,CC102863,Priya,Walker,2007-10-16,F,Middletown,DE,19709,Commercial - Cigna
+410,CC102870,Jamal,Miller,1969-06-27,M,Elkton,MD,21921,Medicaid
+411,CC102877,Isaac,Nelson,1993-04-14,M,Dover,DE,19901,Commercial - BCBS
+412,CC102884,Emily,Turner,1971-05-27,F,Middletown,DE,19709,Commercial - BCBS
+413,CC102891,William,Davis,1971-01-12,M,Middletown,DE,19709,Medicaid
+414,CC102898,Robert,Phillips,1958-04-27,M,Middletown,DE,19709,Medicare
+415,CC102905,Anthony,Campbell,1940-11-01,M,Bear,DE,19701,Commercial - BCBS
+416,CC102912,Kevin,Turner,1983-06-02,M,Bear,DE,19701,Commercial - BCBS
+417,CC102919,Hannah,Carter,1970-01-21,F,Elkton,MD,21921,Medicaid
+418,CC102926,Luis,Perez,1977-08-13,M,Chester,PA,19013,Self-Pay
+419,CC102933,Jennifer,Johnson,1938-12-25,F,Newark,DE,19711,Medicare Advantage
+420,CC102940,Kevin,Walker,1957-11-20,M,Middletown,DE,19709,Medicare
+421,CC102947,Eric,King,1942-01-24,M,Bear,DE,19701,Medicare Advantage
+422,CC102954,Grace,Garcia,1992-05-24,F,Bear,DE,19701,Self-Pay
+423,CC102961,Thomas,Lee,1963-07-02,M,Dover,DE,19901,Medicaid
+424,CC102968,Linda,Allen,1977-03-20,F,Middletown,DE,19709,Commercial - Cigna
+425,CC102975,Mei,Davis,1961-08-18,F,Middletown,DE,19709,Self-Pay
+426,CC102982,Thomas,Phillips,1962-12-05,M,Bear,DE,19701,Medicaid
+427,CC102989,Andre,Baker,1972-02-18,M,New Castle,DE,19720,Medicaid
+428,CC102996,Sofia,Wright,1967-04-28,F,Chester,PA,19013,Medicaid
+429,CC103003,Angela,Nelson,1991-05-04,F,Dover,DE,19901,Commercial - Aetna
+430,CC103010,William,Carter,1987-10-18,M,Elkton,MD,21921,Medicaid
+431,CC103017,Keisha,Green,1931-07-27,F,Middletown,DE,19709,Medicare
+432,CC103024,Keisha,Smith,1953-01-20,F,Dover,DE,19901,Commercial - BCBS
+433,CC103031,Linda,Rodriguez,2002-01-22,F,Wilmington,DE,19801,Commercial - BCBS
+434,CC103038,Brianna,Smith,1971-04-22,F,Middletown,DE,19709,Medicaid
+435,CC103045,Hannah,Rodriguez,1950-07-26,F,New Castle,DE,19720,Medicare
+436,CC103052,Linda,Smith,1946-11-05,F,Newark,DE,19711,Commercial - BCBS
+437,CC103059,Brianna,Davis,1957-06-23,F,Chester,PA,19013,Medicare
+438,CC103066,William,Campbell,1932-06-02,M,New Castle,DE,19720,Medicare Advantage
+439,CC103073,Marcus,Rodriguez,1968-05-16,M,Middletown,DE,19709,Self-Pay
+440,CC103080,Raj,Adams,2001-12-08,M,Bear,DE,19701,Self-Pay
+441,CC103087,Mei,Brown,1969-05-14,F,Middletown,DE,19709,Medicaid
+442,CC103094,Carlos,Young,1967-02-22,M,Middletown,DE,19709,Medicaid
+443,CC103101,Raj,Wright,2001-05-03,M,Wilmington,DE,19801,Self-Pay
+444,CC103108,Anthony,Baker,1932-04-18,M,Dover,DE,19901,Commercial - BCBS
+445,CC103115,Daniel,Rodriguez,1966-10-25,M,Bear,DE,19701,Medicaid
+446,CC103122,Angela,Lopez,1955-01-13,F,Wilmington,DE,19801,Medicare Advantage
+447,CC103129,Kevin,Baker,1973-07-14,M,Elkton,MD,21921,Medicaid
+448,CC103136,Thomas,Brown,1952-06-17,M,Middletown,DE,19709,Commercial - BCBS
+449,CC103143,Marcus,Roberts,1970-07-07,M,Middletown,DE,19709,Commercial - Cigna
+450,CC103150,Brian,Scott,1955-12-05,M,Chester,PA,19013,Medicare
+451,CC103157,Emily,Scott,1978-06-07,F,Chester,PA,19013,Commercial - BCBS
+452,CC103164,Jamal,Mitchell,1959-09-30,M,Newark,DE,19711,Commercial - BCBS
+453,CC103171,Thomas,Hill,1967-03-14,M,Middletown,DE,19709,Medicaid
+454,CC103178,Mei,Green,1994-12-06,F,Elkton,MD,21921,Medicaid
+455,CC103185,Linda,Perez,1979-01-08,F,New Castle,DE,19720,Commercial - Cigna
+456,CC103192,Marcus,King,1957-04-10,M,Wilmington,DE,19801,Medicare
+457,CC103199,Maria,Wright,1978-11-19,F,Dover,DE,19901,Commercial - BCBS
+458,CC103206,Keisha,Hill,1973-08-29,F,New Castle,DE,19720,Commercial - BCBS
+459,CC103213,Ruth,Nelson,1977-05-25,F,Elkton,MD,21921,Commercial - Aetna
+460,CC103220,Samuel,Phillips,1983-01-26,M,Bear,DE,19701,Commercial - Aetna
+461,CC103227,Jennifer,Rodriguez,1930-05-21,F,Bear,DE,19701,Medicare
+462,CC103234,Thomas,Carter,1965-08-26,M,Newark,DE,19711,Commercial - Cigna
+463,CC103241,Grace,Baker,1985-10-18,F,Wilmington,DE,19801,Commercial - Aetna
+464,CC103248,Eric,Roberts,1951-06-28,M,Newark,DE,19711,Medicare
+465,CC103255,Aisha,Brown,1987-09-14,F,Elkton,MD,21921,Commercial - BCBS
+466,CC103262,Eric,Turner,1978-02-02,M,Newark,DE,19711,Medicaid
+467,CC103269,Andre,Green,1970-09-17,M,Bear,DE,19701,Medicaid
+468,CC103276,Priya,Scott,1983-01-25,F,New Castle,DE,19720,Medicaid
+469,CC103283,Angela,Campbell,1958-07-24,F,Wilmington,DE,19801,Medicare
+470,CC103290,James,Johnson,1966-11-18,M,Elkton,MD,21921,Self-Pay
+471,CC103297,James,Turner,1977-12-20,M,Wilmington,DE,19801,Self-Pay
+472,CC103304,Nicole,Hall,2007-07-09,F,New Castle,DE,19720,Medicaid
+473,CC103311,Robert,Phillips,1954-10-05,M,Bear,DE,19701,Medicare
+474,CC103318,Tanya,Brown,1959-04-15,F,Newark,DE,19711,Commercial - BCBS
+475,CC103325,Jamal,Nelson,1965-06-15,M,Bear,DE,19701,Commercial - Aetna
+476,CC103332,Mei,Lee,1980-01-04,F,Dover,DE,19901,Self-Pay
+477,CC103339,Carlos,Allen,1968-09-28,M,Elkton,MD,21921,Medicaid
+478,CC103346,Priya,Wright,2004-05-13,F,Dover,DE,19901,Commercial - BCBS
+479,CC103353,Olivia,Campbell,1985-10-28,F,Bear,DE,19701,Commercial - Cigna
+480,CC103360,Carlos,Perez,1936-01-05,M,Bear,DE,19701,Medicare
+481,CC103367,Andre,Campbell,1969-07-27,M,Wilmington,DE,19801,Medicaid
+482,CC103374,Rosa,Miller,1960-09-05,F,Chester,PA,19013,Commercial - BCBS
+483,CC103381,Samuel,Young,1965-09-03,M,Newark,DE,19711,Commercial - BCBS
+484,CC103388,Danielle,Roberts,1992-10-30,F,Bear,DE,19701,Self-Pay
+485,CC103395,Raj,Campbell,1958-09-14,M,Bear,DE,19701,Medicare Advantage
+486,CC103402,Tanya,Johnson,1963-06-23,F,New Castle,DE,19720,Self-Pay
+487,CC103409,Angela,Allen,1988-06-12,F,Bear,DE,19701,Commercial - Aetna
+488,CC103416,William,Hill,1971-06-23,M,Dover,DE,19901,Medicaid
+489,CC103423,Brianna,Carter,1949-03-30,F,New Castle,DE,19720,Medicare
+490,CC103430,William,Davis,1967-05-10,M,New Castle,DE,19720,Medicaid
+491,CC103437,Samuel,Phillips,1975-12-27,M,Bear,DE,19701,Commercial - BCBS
+492,CC103444,Danielle,Miller,1941-10-30,F,Elkton,MD,21921,Medicare
+493,CC103451,Eric,Young,1958-07-29,M,Chester,PA,19013,Medicare
+494,CC103458,Aisha,King,1938-05-07,F,New Castle,DE,19720,Medicare Advantage
+495,CC103465,Raj,Young,1962-07-31,M,Chester,PA,19013,Commercial - Aetna
+496,CC103472,Angela,Phillips,1970-12-21,F,Chester,PA,19013,Self-Pay
+497,CC103479,Hannah,Miller,1960-02-23,F,Middletown,DE,19709,Medicare Advantage
+498,CC103486,Mei,Garcia,1980-03-09,F,Chester,PA,19013,Commercial - Cigna
+499,CC103493,Jennifer,Lopez,1966-06-07,F,Newark,DE,19711,Self-Pay
+500,CC103500,Robert,Hill,1943-03-02,M,Chester,PA,19013,Commercial - BCBS
+501,CC103507,Thomas,Hill,1987-10-23,M,Middletown,DE,19709,Self-Pay
+502,CC103514,Brianna,Rodriguez,1961-05-04,F,Bear,DE,19701,Self-Pay
+503,CC103521,Linda,Smith,1986-12-23,F,Middletown,DE,19709,Commercial - Cigna
+504,CC103528,Daniel,Miller,1937-11-04,M,Middletown,DE,19709,Commercial - BCBS
+505,CC103535,Luis,Allen,1971-08-22,M,Middletown,DE,19709,Commercial - BCBS
+506,CC103542,Raj,Young,1985-09-01,M,Wilmington,DE,19801,Self-Pay
+507,CC103549,Keisha,Wright,1949-02-07,F,Chester,PA,19013,Medicare Advantage
+508,CC103556,Daniel,Baker,1962-05-10,M,Newark,DE,19711,Self-Pay
+509,CC103563,Angela,Lee,1974-05-09,F,Chester,PA,19013,Commercial - Aetna
+510,CC103570,Brianna,Phillips,2006-06-03,F,Middletown,DE,19709,Self-Pay
+511,CC103577,Thomas,Lopez,1979-10-04,M,Wilmington,DE,19801,Commercial - BCBS
+512,CC103584,Ruth,Mitchell,1963-06-29,F,Middletown,DE,19709,Commercial - Cigna
+513,CC103591,James,Mitchell,1953-10-18,M,Wilmington,DE,19801,Medicare
+514,CC103598,Kevin,Miller,1969-01-18,M,Elkton,MD,21921,Commercial - Cigna
+515,CC103605,Carmen,Hill,1962-07-13,F,Elkton,MD,21921,Commercial - BCBS
+516,CC103612,Carlos,Lopez,1974-08-09,M,Dover,DE,19901,Self-Pay
+517,CC103619,Keisha,Brown,1981-12-16,F,Wilmington,DE,19801,Commercial - Cigna
+518,CC103626,Daniel,Phillips,1979-04-22,M,Middletown,DE,19709,Commercial - Cigna
+519,CC103633,Samuel,Perez,1971-10-05,M,Chester,PA,19013,Commercial - Aetna
+520,CC103640,Jamal,Miller,1969-05-22,M,Wilmington,DE,19801,Medicaid
+521,CC103647,Linda,Young,1961-01-21,F,Chester,PA,19013,Medicaid
+522,CC103654,James,Young,1943-06-12,M,Bear,DE,19701,Medicare
+523,CC103661,Marcus,Smith,1984-10-23,M,Elkton,MD,21921,Commercial - BCBS
+524,CC103668,Marcus,Lopez,1993-05-14,M,Middletown,DE,19709,Commercial - Cigna
+525,CC103675,Thomas,Campbell,1967-02-07,M,Bear,DE,19701,Commercial - Cigna
+526,CC103682,Carlos,Carter,1969-09-08,M,New Castle,DE,19720,Commercial - BCBS
+527,CC103689,Sofia,Scott,1962-06-23,F,Bear,DE,19701,Commercial - Cigna
+528,CC103696,Olivia,Turner,1945-05-30,F,New Castle,DE,19720,Medicare
+529,CC103703,Hannah,Hill,1991-02-07,F,Chester,PA,19013,Commercial - Aetna
+530,CC103710,Luis,Williams,1947-12-07,M,Middletown,DE,19709,Medicare
+531,CC103717,Raj,Roberts,1987-03-29,M,Chester,PA,19013,Self-Pay
+532,CC103724,Michael,Garcia,1952-07-13,M,Newark,DE,19711,Medicare Advantage
+533,CC103731,Hannah,Phillips,1980-04-26,F,Chester,PA,19013,Commercial - Aetna
+534,CC103738,Hannah,Hill,1938-07-06,F,Elkton,MD,21921,Medicare Advantage
+535,CC103745,Carlos,Davis,1961-11-05,M,Wilmington,DE,19801,Commercial - Cigna
+536,CC103752,James,Hill,1988-11-19,M,Elkton,MD,21921,Medicaid
+537,CC103759,Raj,Miller,1976-05-15,M,Newark,DE,19711,Self-Pay
+538,CC103766,Priya,Davis,1932-11-18,F,Newark,DE,19711,Medicare Advantage
+539,CC103773,David,Mitchell,1978-06-01,M,Middletown,DE,19709,Medicaid
+540,CC103780,Marcus,Williams,1968-06-12,M,Chester,PA,19013,Self-Pay
+541,CC103787,Olivia,Brown,1931-07-16,F,Dover,DE,19901,Medicare
+542,CC103794,Rosa,Phillips,1984-11-14,F,Dover,DE,19901,Commercial - Cigna
+543,CC103801,Jamal,Walker,1969-11-01,M,Elkton,MD,21921,Medicaid
+544,CC103808,Jamal,Brown,1974-01-21,M,New Castle,DE,19720,Self-Pay
+545,CC103815,Emily,King,1941-12-05,F,Chester,PA,19013,Medicare
+546,CC103822,Grace,Hill,1975-06-09,F,Chester,PA,19013,Self-Pay
+547,CC103829,Maria,Miller,1944-11-12,F,Wilmington,DE,19801,Medicare Advantage
+548,CC103836,Maria,Campbell,1976-10-08,F,Chester,PA,19013,Commercial - Aetna
+549,CC103843,Priya,Lopez,1965-05-11,F,Bear,DE,19701,Commercial - BCBS
+550,CC103850,Angela,Williams,1960-10-13,F,Middletown,DE,19709,Commercial - BCBS
+551,CC103857,Samuel,King,1956-04-20,M,Wilmington,DE,19801,Medicare
+552,CC103864,Andre,Garcia,1947-01-17,M,Wilmington,DE,19801,Commercial - BCBS
+553,CC103871,Thomas,Rodriguez,1963-01-25,M,Chester,PA,19013,Commercial - Aetna
+554,CC103878,Priya,Scott,2007-02-20,F,Middletown,DE,19709,Self-Pay
+555,CC103885,Aisha,Allen,1966-01-17,F,New Castle,DE,19720,Commercial - Cigna
+556,CC103892,Isaac,Lee,1945-08-16,M,Dover,DE,19901,Medicare Advantage
+557,CC103899,Hannah,Garcia,1953-06-19,F,Dover,DE,19901,Medicare Advantage
+558,CC103906,Raj,Campbell,1973-01-14,M,Wilmington,DE,19801,Self-Pay
+559,CC103913,David,Scott,1946-12-01,M,New Castle,DE,19720,Medicare
+560,CC103920,Brianna,Turner,1973-12-12,F,Bear,DE,19701,Commercial - Aetna
+561,CC103927,Anthony,Davis,1998-03-09,M,Newark,DE,19711,Medicaid
+562,CC103934,Kevin,Hill,1968-04-01,M,Chester,PA,19013,Medicaid
+563,CC103941,Anthony,Campbell,1950-02-27,M,Chester,PA,19013,Medicare
+564,CC103948,Kevin,Young,2007-12-11,M,Wilmington,DE,19801,Medicaid
+565,CC103955,William,Walker,1955-09-22,M,Dover,DE,19901,Medicare
+566,CC103962,Brian,Martinez,1978-07-09,M,Chester,PA,19013,Commercial - Cigna
+567,CC103969,Danielle,Campbell,1971-08-25,F,Bear,DE,19701,Commercial - Cigna
+568,CC103976,Danielle,Adams,1978-07-12,F,Elkton,MD,21921,Self-Pay
+569,CC103983,Maria,Carter,1938-02-13,F,Dover,DE,19901,Commercial - BCBS
+570,CC103990,Thomas,Turner,1958-11-15,M,Dover,DE,19901,Medicare
+571,CC103997,Grace,Nelson,1971-12-16,F,New Castle,DE,19720,Commercial - BCBS
+572,CC104004,Carmen,Scott,1973-05-29,F,Wilmington,DE,19801,Commercial - Cigna
+573,CC104011,Sofia,Wright,1968-08-05,F,Elkton,MD,21921,Commercial - BCBS
+574,CC104018,Linda,Young,1972-05-24,F,Newark,DE,19711,Self-Pay
+575,CC104025,Eric,Nelson,1950-02-03,M,Newark,DE,19711,Medicare
+576,CC104032,Hannah,Wright,1946-12-09,F,Dover,DE,19901,Medicare Advantage
+577,CC104039,Tanya,Walker,1962-04-08,F,New Castle,DE,19720,Medicaid
+578,CC104046,Aisha,Young,1962-03-18,F,Dover,DE,19901,Commercial - Aetna
+579,CC104053,William,Smith,2007-07-18,M,Middletown,DE,19709,Medicaid
+580,CC104060,Linda,Lee,1973-04-21,F,New Castle,DE,19720,Commercial - BCBS
+581,CC104067,Isaac,Lee,1972-09-14,M,Elkton,MD,21921,Commercial - Cigna
+582,CC104074,Luis,Hill,1974-04-05,M,Chester,PA,19013,Commercial - BCBS
+583,CC104081,Brianna,Rodriguez,1962-03-29,F,Bear,DE,19701,Commercial - Aetna
+584,CC104088,Anthony,Allen,1958-10-23,M,Elkton,MD,21921,Medicare Advantage
+585,CC104095,Keisha,Young,1994-06-30,F,Dover,DE,19901,Commercial - Aetna
+586,CC104102,Ruth,Perez,1977-08-08,F,Middletown,DE,19709,Commercial - BCBS
+587,CC104109,Sofia,Wright,1978-03-05,F,Chester,PA,19013,Self-Pay
+588,CC104116,Angela,Wright,2007-08-21,F,Newark,DE,19711,Commercial - Cigna
+589,CC104123,Keisha,Scott,1986-10-15,F,Bear,DE,19701,Commercial - Cigna
+590,CC104130,Ruth,Walker,1953-11-25,F,Middletown,DE,19709,Medicare
+591,CC104137,Ruth,Garcia,1958-11-07,F,Middletown,DE,19709,Commercial - BCBS
+592,CC104144,Hannah,Lee,1946-06-05,F,New Castle,DE,19720,Medicare
+593,CC104151,William,King,1983-12-13,M,Bear,DE,19701,Commercial - Cigna
+594,CC104158,Anthony,Scott,1981-05-04,M,Chester,PA,19013,Commercial - BCBS
+595,CC104165,Jamal,Phillips,1972-01-18,M,Elkton,MD,21921,Self-Pay
+596,CC104172,James,Adams,1977-04-25,M,Elkton,MD,21921,Self-Pay
+597,CC104179,William,Hill,1975-06-29,M,Chester,PA,19013,Medicaid
+598,CC104186,Brian,Scott,1933-05-07,M,Bear,DE,19701,Medicare
+599,CC104193,Kevin,Roberts,1978-09-01,M,New Castle,DE,19720,Commercial - Cigna
+600,CC104200,Angela,Garcia,1956-06-18,F,New Castle,DE,19720,Medicare
+601,CC104207,Grace,Smith,1933-01-07,F,Dover,DE,19901,Medicare
+602,CC104214,Mei,Phillips,1940-11-29,F,Newark,DE,19711,Medicare Advantage
+603,CC104221,Maria,Garcia,1954-06-25,F,Newark,DE,19711,Commercial - BCBS
+604,CC104228,Jamal,Wright,1958-08-15,M,New Castle,DE,19720,Medicare
+605,CC104235,Brian,Baker,1999-11-08,M,Middletown,DE,19709,Medicaid
+606,CC104242,Priya,Mitchell,1977-04-06,F,Bear,DE,19701,Self-Pay
+607,CC104249,Mei,Walker,1972-10-11,F,Wilmington,DE,19801,Commercial - Aetna
+608,CC104256,Marcus,Hall,1961-08-21,M,Wilmington,DE,19801,Commercial - BCBS
+609,CC104263,Emily,Garcia,2002-10-07,F,New Castle,DE,19720,Medicaid
+610,CC104270,Linda,Williams,1976-12-09,F,Chester,PA,19013,Medicaid
+611,CC104277,Jamal,Perez,1987-12-12,M,Middletown,DE,19709,Commercial - Aetna
+612,CC104284,William,Williams,1974-08-01,M,Dover,DE,19901,Commercial - Cigna
+613,CC104291,Nicole,King,1970-05-11,F,Dover,DE,19901,Commercial - Aetna
+614,CC104298,Olivia,Miller,2003-11-25,F,Bear,DE,19701,Commercial - Cigna
+615,CC104305,Brian,Brown,1955-03-28,M,Chester,PA,19013,Commercial - BCBS
+616,CC104312,Brian,Lopez,1978-05-18,M,Newark,DE,19711,Commercial - Aetna
+617,CC104319,Raj,Wright,1974-12-06,M,Elkton,MD,21921,Self-Pay
+618,CC104326,Victor,Wright,1967-08-09,M,Middletown,DE,19709,Commercial - Aetna
+619,CC104333,Nicole,Hall,1930-09-04,F,Bear,DE,19701,Medicare
+620,CC104340,Carmen,Williams,1938-12-01,F,Wilmington,DE,19801,Medicare
+621,CC104347,Mei,Hall,1972-04-20,F,Middletown,DE,19709,Commercial - Cigna
+622,CC104354,Ruth,Phillips,1961-03-30,F,Dover,DE,19901,Commercial - BCBS
+623,CC104361,Thomas,Martinez,1937-11-22,M,Dover,DE,19901,Medicare
+624,CC104368,Tanya,King,1992-09-16,F,Bear,DE,19701,Commercial - Aetna
+625,CC104375,Jennifer,Rodriguez,1993-08-26,F,Newark,DE,19711,Commercial - Aetna
+626,CC104382,Rosa,Mitchell,1985-08-14,F,Chester,PA,19013,Medicaid
+627,CC104389,Mei,Campbell,1962-07-31,F,Chester,PA,19013,Self-Pay
+628,CC104396,James,Baker,1939-10-16,M,Chester,PA,19013,Medicare
+629,CC104403,Luis,Allen,1961-02-14,M,Newark,DE,19711,Medicaid
+630,CC104410,William,Allen,1933-10-25,M,Elkton,MD,21921,Commercial - BCBS
+631,CC104417,Samuel,Adams,1964-07-12,M,Dover,DE,19901,Medicaid
+632,CC104424,Thomas,Carter,1985-02-08,M,Middletown,DE,19709,Commercial - BCBS
+633,CC104431,Daniel,Lee,1962-06-05,M,Newark,DE,19711,Commercial - BCBS
+634,CC104438,Emily,Scott,1961-11-25,F,Dover,DE,19901,Medicaid
+635,CC104445,Jennifer,Baker,1968-07-27,F,Middletown,DE,19709,Self-Pay
+636,CC104452,Rosa,Adams,1978-08-29,F,Wilmington,DE,19801,Commercial - BCBS
+637,CC104459,Priya,Perez,1958-10-03,F,Dover,DE,19901,Medicare
+638,CC104466,Keisha,Miller,1952-01-06,F,Wilmington,DE,19801,Medicare Advantage
+639,CC104473,Nicole,Scott,1968-10-28,F,Newark,DE,19711,Medicaid
+640,CC104480,Carmen,Scott,1994-10-01,F,Dover,DE,19901,Commercial - Cigna
+641,CC104487,Victor,Garcia,1959-12-21,M,Dover,DE,19901,Medicare Advantage
+642,CC104494,Ruth,Carter,1970-03-17,F,New Castle,DE,19720,Commercial - Cigna
+643,CC104501,Daniel,Garcia,1983-04-26,M,Newark,DE,19711,Commercial - Aetna
+644,CC104508,Michael,Phillips,1994-03-30,M,Chester,PA,19013,Self-Pay
+645,CC104515,Sofia,Johnson,1978-10-23,F,New Castle,DE,19720,Commercial - BCBS
+646,CC104522,Marcus,Green,1971-03-11,M,Newark,DE,19711,Commercial - BCBS
+647,CC104529,Hannah,Smith,1930-09-07,F,Bear,DE,19701,Medicare Advantage
+648,CC104536,Danielle,Hall,1948-09-27,F,Elkton,MD,21921,Medicare
+649,CC104543,Michael,Campbell,1970-06-12,M,Wilmington,DE,19801,Commercial - BCBS
+650,CC104550,Emily,Adams,1973-10-25,F,Elkton,MD,21921,Commercial - BCBS
+651,CC104557,Brianna,Smith,1968-11-09,F,Wilmington,DE,19801,Commercial - Cigna
+652,CC104564,Isaac,Johnson,1985-04-28,M,Elkton,MD,21921,Commercial - Aetna
+653,CC104571,Michael,Brown,1977-01-21,M,Bear,DE,19701,Medicaid
+654,CC104578,Eric,Turner,1977-02-23,M,Middletown,DE,19709,Commercial - Aetna
+655,CC104585,Michael,Young,1997-07-31,M,Chester,PA,19013,Commercial - Cigna
+656,CC104592,Brian,Lee,2007-06-30,M,Chester,PA,19013,Commercial - Aetna
+657,CC104599,Tanya,Miller,1933-07-23,F,New Castle,DE,19720,Medicare
+658,CC104606,Samuel,Miller,1976-09-05,M,Bear,DE,19701,Commercial - Aetna
+659,CC104613,Kevin,Walker,1955-09-29,M,Newark,DE,19711,Medicare Advantage
+660,CC104620,Samuel,Davis,2000-02-29,M,New Castle,DE,19720,Commercial - BCBS
+661,CC104627,Hannah,Baker,1967-08-19,F,New Castle,DE,19720,Medicaid
+662,CC104634,Brianna,Lopez,1950-12-12,F,New Castle,DE,19720,Medicare Advantage
+663,CC104641,Eric,Hall,1981-11-25,M,Wilmington,DE,19801,Commercial - Cigna
+664,CC104648,Hannah,Rodriguez,1968-05-27,F,New Castle,DE,19720,Commercial - BCBS
+665,CC104655,Maria,Perez,1937-09-11,F,Elkton,MD,21921,Medicare
+666,CC104662,Isaac,Miller,1999-01-25,M,Wilmington,DE,19801,Medicaid
+667,CC104669,Linda,Allen,1956-02-23,F,Dover,DE,19901,Commercial - BCBS
+668,CC104676,Danielle,Mitchell,1955-05-06,F,Elkton,MD,21921,Medicare
+669,CC104683,Michael,Lopez,1966-08-30,M,Elkton,MD,21921,Medicaid
+670,CC104690,Keisha,Miller,1934-09-24,F,Newark,DE,19711,Medicare
+671,CC104697,Danielle,Brown,1981-10-05,F,New Castle,DE,19720,Commercial - Cigna
+672,CC104704,Nicole,Brown,1966-11-17,F,Newark,DE,19711,Commercial - BCBS
+673,CC104711,Linda,Martinez,1971-02-03,F,New Castle,DE,19720,Medicaid
+674,CC104718,Isaac,Miller,1978-03-11,M,New Castle,DE,19720,Commercial - Cigna
+675,CC104725,Andre,Phillips,1958-01-30,M,Middletown,DE,19709,Medicare
+676,CC104732,Mei,Wright,1981-03-18,F,Bear,DE,19701,Commercial - BCBS
+677,CC104739,Linda,Roberts,1983-07-02,F,Newark,DE,19711,Commercial - BCBS
+678,CC104746,Eric,Brown,1952-10-25,M,Elkton,MD,21921,Medicare
+679,CC104753,Hannah,Hall,1974-06-19,F,Newark,DE,19711,Commercial - Cigna
+680,CC104760,Eric,Allen,1938-08-31,M,Dover,DE,19901,Medicare
+681,CC104767,Marcus,Hall,1954-05-22,M,Middletown,DE,19709,Medicare
+682,CC104774,Raj,Wright,1996-07-23,M,Wilmington,DE,19801,Medicaid
+683,CC104781,Carmen,Miller,1977-11-30,F,Dover,DE,19901,Commercial - BCBS
+684,CC104788,Olivia,Martinez,1978-09-09,F,New Castle,DE,19720,Commercial - Aetna
+685,CC104795,Rosa,Turner,1985-07-21,F,Dover,DE,19901,Medicaid
+686,CC104802,Mei,Adams,1977-01-25,F,Bear,DE,19701,Medicaid
+687,CC104809,Thomas,Williams,1955-11-03,M,Chester,PA,19013,Medicare
+688,CC104816,Ruth,Miller,1969-06-10,F,Dover,DE,19901,Medicaid
+689,CC104823,David,Scott,1968-01-08,M,Elkton,MD,21921,Medicaid
+690,CC104830,Marcus,Miller,1975-12-29,M,Middletown,DE,19709,Commercial - Aetna
+691,CC104837,Maria,Allen,1969-05-27,F,Newark,DE,19711,Self-Pay
+692,CC104844,Emily,Phillips,1945-07-11,F,New Castle,DE,19720,Medicare
+693,CC104851,Thomas,Davis,1959-12-01,M,Middletown,DE,19709,Medicare
+694,CC104858,Keisha,Green,1949-11-21,F,New Castle,DE,19720,Medicare Advantage
+695,CC104865,Thomas,Adams,1961-06-24,M,Chester,PA,19013,Commercial - Aetna
+696,CC104872,Danielle,Brown,1970-07-26,F,Chester,PA,19013,Medicaid
+697,CC104879,Anthony,Baker,1992-11-13,M,Dover,DE,19901,Commercial - BCBS
+698,CC104886,Marcus,Davis,1965-05-31,M,New Castle,DE,19720,Medicaid
+699,CC104893,Grace,Hall,1971-02-17,F,Chester,PA,19013,Medicaid
+700,CC104900,Jamal,Brown,1960-08-03,M,Wilmington,DE,19801,Medicare
+701,CC104907,Ruth,Rodriguez,1962-06-27,F,Middletown,DE,19709,Self-Pay
+702,CC104914,Marcus,Johnson,1970-06-19,M,New Castle,DE,19720,Commercial - BCBS
+703,CC104921,Grace,Carter,1985-12-14,F,Middletown,DE,19709,Commercial - Aetna
+704,CC104928,Raj,Phillips,1957-01-22,M,Bear,DE,19701,Medicare
+705,CC104935,Luis,Lee,1957-11-08,M,Wilmington,DE,19801,Medicare
+706,CC104942,Carmen,Turner,1982-01-03,F,Bear,DE,19701,Self-Pay
+707,CC104949,James,Lee,1970-06-23,M,Middletown,DE,19709,Self-Pay
+708,CC104956,James,Smith,2007-09-12,M,Middletown,DE,19709,Self-Pay
+709,CC104963,Aisha,Nelson,2001-05-02,F,Elkton,MD,21921,Commercial - Cigna
+710,CC104970,Sofia,Garcia,1982-10-12,F,New Castle,DE,19720,Commercial - BCBS
+711,CC104977,Rosa,Smith,1957-06-30,F,Elkton,MD,21921,Medicare Advantage
+712,CC104984,Danielle,Hall,1991-09-25,F,Bear,DE,19701,Self-Pay
+713,CC104991,David,Roberts,1968-04-15,M,Newark,DE,19711,Medicaid
+714,CC104998,Aisha,Young,1993-08-06,F,New Castle,DE,19720,Self-Pay
+715,CC105005,Priya,Lee,1946-10-12,F,Chester,PA,19013,Commercial - BCBS
+716,CC105012,William,Nelson,1969-07-03,M,Middletown,DE,19709,Medicaid
+717,CC105019,Emily,Brown,1960-12-28,F,New Castle,DE,19720,Medicare
+718,CC105026,Rosa,Turner,1957-02-08,F,Wilmington,DE,19801,Commercial - BCBS
+719,CC105033,Ruth,Davis,1996-11-28,F,Chester,PA,19013,Medicaid
+720,CC105040,Jennifer,Wright,1960-10-24,F,Elkton,MD,21921,Commercial - BCBS
+721,CC105047,Sofia,Smith,1969-06-06,F,Chester,PA,19013,Commercial - Aetna
+722,CC105054,Brianna,Martinez,2006-11-13,F,Chester,PA,19013,Self-Pay
+723,CC105061,James,Mitchell,1948-06-25,M,Newark,DE,19711,Medicare Advantage
+724,CC105068,Isaac,Perez,1968-10-18,M,Chester,PA,19013,Commercial - Aetna
+725,CC105075,Olivia,Hill,1930-04-12,F,Newark,DE,19711,Medicare Advantage
+726,CC105082,Sofia,Hall,1985-05-07,F,Bear,DE,19701,Medicaid
+727,CC105089,Tanya,Campbell,1964-10-14,F,Elkton,MD,21921,Commercial - Cigna
+728,CC105096,Olivia,Martinez,1972-03-15,F,Wilmington,DE,19801,Medicaid
+729,CC105103,Isaac,Turner,1962-02-19,M,Bear,DE,19701,Commercial - BCBS
+730,CC105110,Hannah,Miller,1949-09-28,F,New Castle,DE,19720,Medicare
+731,CC105117,Marcus,Adams,1930-07-10,M,Elkton,MD,21921,Commercial - BCBS
+732,CC105124,Brianna,Green,1965-02-03,F,Middletown,DE,19709,Commercial - Cigna
+733,CC105131,Carlos,Perez,1992-01-12,M,Wilmington,DE,19801,Self-Pay
+734,CC105138,Kevin,Johnson,1965-04-02,M,Bear,DE,19701,Commercial - Cigna
+735,CC105145,Eric,Garcia,1994-05-31,M,Dover,DE,19901,Commercial - Cigna
+736,CC105152,Tanya,Phillips,1975-07-25,F,Dover,DE,19901,Commercial - Aetna
+737,CC105159,Carmen,Miller,1972-05-31,F,Middletown,DE,19709,Commercial - Aetna
+738,CC105166,Andre,Davis,1987-08-15,M,Elkton,MD,21921,Commercial - Cigna
+739,CC105173,Linda,Adams,1976-09-22,F,New Castle,DE,19720,Self-Pay
+740,CC105180,Anthony,King,1981-05-12,M,Newark,DE,19711,Commercial - Cigna
+741,CC105187,Keisha,Young,1975-07-24,F,Dover,DE,19901,Medicaid
+742,CC105194,Emily,Campbell,1972-03-26,F,New Castle,DE,19720,Commercial - BCBS
+743,CC105201,Thomas,Garcia,1982-08-31,M,Chester,PA,19013,Commercial - Cigna
+744,CC105208,Jennifer,Johnson,1968-12-24,F,Dover,DE,19901,Commercial - Aetna
+745,CC105215,Luis,Wright,1997-01-03,M,Elkton,MD,21921,Self-Pay
+746,CC105222,Michael,Baker,1980-09-24,M,Chester,PA,19013,Commercial - Cigna
+747,CC105229,David,Hill,1952-03-15,M,Chester,PA,19013,Commercial - BCBS
+748,CC105236,Marcus,Rodriguez,1983-10-05,M,Chester,PA,19013,Commercial - BCBS
+749,CC105243,Samuel,Lopez,1946-09-29,M,Bear,DE,19701,Medicare
+750,CC105250,Andre,Brown,1943-11-19,M,Elkton,MD,21921,Medicare
+751,CC105257,Carmen,Perez,1981-10-19,F,Dover,DE,19901,Medicaid
+752,CC105264,Priya,Allen,1985-08-27,F,Newark,DE,19711,Commercial - BCBS
+753,CC105271,Brian,Miller,1930-08-11,M,Wilmington,DE,19801,Medicare Advantage
+754,CC105278,Hannah,Garcia,1981-01-14,F,Wilmington,DE,19801,Commercial - BCBS
+755,CC105285,Brianna,Miller,1984-11-13,F,Dover,DE,19901,Commercial - Cigna
+756,CC105292,Sofia,Young,1968-08-30,F,Elkton,MD,21921,Commercial - Cigna
+757,CC105299,Aisha,Turner,1995-07-27,F,New Castle,DE,19720,Self-Pay
+758,CC105306,Isaac,Garcia,1989-10-07,M,Elkton,MD,21921,Commercial - Aetna
+759,CC105313,Maria,Baker,1939-02-08,F,Middletown,DE,19709,Medicare
+760,CC105320,Aisha,Campbell,1962-10-08,F,Bear,DE,19701,Self-Pay
+761,CC105327,Priya,Brown,1954-07-13,F,Elkton,MD,21921,Commercial - BCBS
+762,CC105334,Danielle,Lopez,1946-03-19,F,Newark,DE,19711,Medicare Advantage
+763,CC105341,Emily,Green,1974-11-09,F,Dover,DE,19901,Medicaid
+764,CC105348,William,Perez,1954-04-22,M,Bear,DE,19701,Medicare Advantage
+765,CC105355,Nicole,Davis,1973-03-19,F,Middletown,DE,19709,Medicaid
+766,CC105362,Victor,Johnson,1965-09-20,M,Wilmington,DE,19801,Commercial - Aetna
+767,CC105369,Mei,Baker,2007-04-19,F,Newark,DE,19711,Medicaid
+768,CC105376,Isaac,Carter,1931-01-09,M,Wilmington,DE,19801,Medicare
+769,CC105383,Jamal,Adams,1979-07-30,M,Middletown,DE,19709,Self-Pay
+770,CC105390,Kevin,Mitchell,1984-03-28,M,Wilmington,DE,19801,Commercial - BCBS
+771,CC105397,Olivia,Nelson,1990-07-26,F,Newark,DE,19711,Commercial - Aetna
+772,CC105404,Raj,King,1969-07-03,M,Elkton,MD,21921,Commercial - BCBS
+773,CC105411,Linda,Lopez,1953-04-26,F,Dover,DE,19901,Commercial - BCBS
+774,CC105418,Carmen,Hill,2007-02-26,F,New Castle,DE,19720,Commercial - BCBS
+775,CC105425,Jennifer,Carter,1984-01-27,F,Elkton,MD,21921,Commercial - Cigna
+776,CC105432,Mei,Smith,1942-08-14,F,Middletown,DE,19709,Medicare
+777,CC105439,Nicole,Phillips,1993-11-17,F,Newark,DE,19711,Commercial - Aetna
+778,CC105446,Angela,Allen,1980-08-24,F,Chester,PA,19013,Medicaid
+779,CC105453,Keisha,Brown,1968-05-30,F,New Castle,DE,19720,Medicaid
+780,CC105460,Raj,Lee,1979-01-24,M,Dover,DE,19901,Medicaid
+781,CC105467,Ruth,Hall,1979-01-19,F,New Castle,DE,19720,Self-Pay
+782,CC105474,Grace,Allen,1985-12-03,F,Newark,DE,19711,Medicaid
+783,CC105481,Victor,Hill,1978-09-23,M,Dover,DE,19901,Commercial - BCBS
+784,CC105488,Eric,Turner,1984-01-13,M,Newark,DE,19711,Self-Pay
+785,CC105495,Keisha,Carter,1992-02-10,F,Elkton,MD,21921,Medicaid
+786,CC105502,Aisha,Allen,1976-08-10,F,Middletown,DE,19709,Commercial - Cigna
+787,CC105509,Ruth,Davis,1933-01-12,F,Chester,PA,19013,Medicare Advantage
+788,CC105516,Carmen,Green,1993-09-25,F,Middletown,DE,19709,Medicaid
+789,CC105523,Angela,Carter,1978-01-06,F,Elkton,MD,21921,Self-Pay
+790,CC105530,Raj,Roberts,1972-09-26,M,Wilmington,DE,19801,Commercial - BCBS
+791,CC105537,Andre,Johnson,1985-08-29,M,Dover,DE,19901,Commercial - BCBS
+792,CC105544,Jennifer,Martinez,1959-05-21,F,Middletown,DE,19709,Medicare
+793,CC105551,Marcus,Carter,1949-05-28,M,Bear,DE,19701,Medicare Advantage
+794,CC105558,Linda,Phillips,1971-11-16,F,Middletown,DE,19709,Commercial - BCBS
+795,CC105565,Anthony,Green,1963-02-01,M,Dover,DE,19901,Commercial - BCBS
+796,CC105572,Ruth,Williams,1950-08-12,F,Newark,DE,19711,Medicare
+797,CC105579,Robert,Hill,1968-09-15,M,Newark,DE,19711,Commercial - Cigna
+798,CC105586,Angela,Lopez,1939-04-05,F,Newark,DE,19711,Medicare
+799,CC105593,Brian,Garcia,1976-09-07,M,Bear,DE,19701,Medicaid
+800,CC105600,Angela,Turner,1955-11-07,F,Elkton,MD,21921,Medicare
+801,CC105607,Nicole,Martinez,1962-05-02,F,Chester,PA,19013,Commercial - Aetna
+802,CC105614,Thomas,Scott,1966-10-30,M,Dover,DE,19901,Commercial - BCBS
+803,CC105621,James,Garcia,1975-08-31,M,Wilmington,DE,19801,Self-Pay
+804,CC105628,Luis,Johnson,1975-04-09,M,Dover,DE,19901,Commercial - Aetna
+805,CC105635,Marcus,Baker,1997-11-07,M,Middletown,DE,19709,Commercial - Aetna
+806,CC105642,Andre,Walker,1957-11-16,M,Newark,DE,19711,Commercial - BCBS
+807,CC105649,Carmen,King,1978-10-09,F,Elkton,MD,21921,Medicaid
+808,CC105656,Mei,King,1949-06-04,F,Middletown,DE,19709,Medicare
+809,CC105663,Brian,Hall,1957-04-29,M,Dover,DE,19901,Medicare
+810,CC105670,Jennifer,Williams,2003-09-05,F,New Castle,DE,19720,Self-Pay
+811,CC105677,Carlos,Adams,1978-09-07,M,Chester,PA,19013,Commercial - Cigna
+812,CC105684,Nicole,Brown,1981-01-23,F,Dover,DE,19901,Commercial - Aetna
+813,CC105691,Emily,Turner,1972-07-01,F,Chester,PA,19013,Self-Pay
+814,CC105698,Danielle,Martinez,1988-08-05,F,Middletown,DE,19709,Commercial - Cigna
+815,CC105705,Hannah,Williams,1954-03-02,F,Middletown,DE,19709,Medicare
+816,CC105712,Angela,Nelson,1996-10-30,F,Dover,DE,19901,Commercial - Cigna
+817,CC105719,Daniel,Davis,1997-06-13,M,Dover,DE,19901,Commercial - Cigna
+818,CC105726,Keisha,Carter,1974-10-31,F,Bear,DE,19701,Commercial - BCBS
+819,CC105733,Angela,Lee,1955-10-10,F,Dover,DE,19901,Medicare Advantage
+820,CC105740,Angela,Perez,1949-09-04,F,New Castle,DE,19720,Commercial - BCBS
+821,CC105747,Marcus,Allen,1993-05-10,M,Middletown,DE,19709,Commercial - Cigna
+822,CC105754,Olivia,Johnson,1943-03-11,F,Dover,DE,19901,Medicare Advantage
+823,CC105761,Andre,Lee,1974-03-27,M,Wilmington,DE,19801,Commercial - BCBS
+824,CC105768,Priya,Perez,1965-12-13,F,Elkton,MD,21921,Commercial - Cigna
+825,CC105775,Brian,Davis,1948-02-29,M,Wilmington,DE,19801,Commercial - BCBS
+826,CC105782,Maria,Martinez,1986-02-13,F,Chester,PA,19013,Commercial - Aetna
+827,CC105789,Emily,Rodriguez,1978-08-09,F,Bear,DE,19701,Commercial - Aetna
+828,CC105796,Ruth,Brown,2000-11-05,F,Dover,DE,19901,Commercial - Aetna
+829,CC105803,Maria,Phillips,1947-10-02,F,Chester,PA,19013,Medicare Advantage
+830,CC105810,Raj,Adams,1965-02-13,M,Newark,DE,19711,Medicaid
+831,CC105817,Hannah,Smith,1941-08-30,F,Chester,PA,19013,Medicare
+832,CC105824,Hannah,Williams,1955-05-02,F,New Castle,DE,19720,Commercial - BCBS
+833,CC105831,Grace,Nelson,1951-01-18,F,Middletown,DE,19709,Medicare
+834,CC105838,Thomas,Phillips,1940-09-24,M,Elkton,MD,21921,Commercial - BCBS
+835,CC105845,Marcus,Allen,1964-07-19,M,Bear,DE,19701,Commercial - Cigna
+836,CC105852,Priya,Williams,1968-12-14,F,Newark,DE,19711,Self-Pay
+837,CC105859,Jamal,Williams,1945-02-26,M,Dover,DE,19901,Medicare Advantage
+838,CC105866,Brianna,Scott,1952-11-08,F,Bear,DE,19701,Medicare Advantage
+839,CC105873,Anthony,Smith,1963-06-20,M,Dover,DE,19901,Self-Pay
+840,CC105880,Danielle,Rodriguez,1979-08-17,F,Chester,PA,19013,Self-Pay
+841,CC105887,Aisha,Smith,1979-06-24,F,New Castle,DE,19720,Commercial - BCBS
+842,CC105894,Aisha,Young,1969-02-10,F,Elkton,MD,21921,Commercial - Aetna
+843,CC105901,Raj,Rodriguez,1955-07-31,M,Wilmington,DE,19801,Medicare
+844,CC105908,Angela,Miller,1931-12-23,F,Chester,PA,19013,Commercial - BCBS
+845,CC105915,Michael,Roberts,1973-09-29,M,New Castle,DE,19720,Commercial - Aetna
+846,CC105922,Brianna,Lopez,1958-03-19,F,Dover,DE,19901,Medicare Advantage
+847,CC105929,Maria,Mitchell,1959-12-12,F,Chester,PA,19013,Medicare Advantage
+848,CC105936,Grace,Davis,1957-12-17,F,Bear,DE,19701,Medicare
+849,CC105943,Grace,Miller,1965-11-24,F,Wilmington,DE,19801,Medicaid
+850,CC105950,James,Phillips,1984-05-25,M,Elkton,MD,21921,Commercial - Cigna
+851,CC105957,Emily,Adams,1976-06-15,F,Bear,DE,19701,Medicaid
+852,CC105964,Ruth,Baker,2007-08-17,F,Bear,DE,19701,Commercial - BCBS
+853,CC105971,Nicole,Davis,1949-02-20,F,Wilmington,DE,19801,Medicare
+854,CC105978,William,Turner,1971-06-23,M,Chester,PA,19013,Self-Pay
+855,CC105985,Olivia,Adams,1981-05-28,F,New Castle,DE,19720,Commercial - Cigna
+856,CC105992,Grace,Phillips,1956-01-13,F,Dover,DE,19901,Medicare Advantage
+857,CC105999,Samuel,Baker,1990-11-18,M,Dover,DE,19901,Medicaid
+858,CC106006,Hannah,Baker,1963-05-29,F,Chester,PA,19013,Commercial - Cigna
+859,CC106013,David,Hall,1984-02-16,M,Middletown,DE,19709,Self-Pay
+860,CC106020,Tanya,Perez,1986-01-30,F,Dover,DE,19901,Self-Pay
+861,CC106027,Brian,Davis,1930-10-03,M,Middletown,DE,19709,Medicare
+862,CC106034,Victor,Green,1953-07-19,M,Wilmington,DE,19801,Medicare
+863,CC106041,Mei,Roberts,1988-12-03,F,New Castle,DE,19720,Commercial - BCBS
+864,CC106048,Kevin,Johnson,1969-02-14,M,Middletown,DE,19709,Commercial - Cigna
+865,CC106055,Priya,Wright,1970-02-15,F,Newark,DE,19711,Commercial - BCBS
+866,CC106062,Anthony,Allen,1972-10-23,M,Chester,PA,19013,Self-Pay
+867,CC106069,Marcus,Miller,1982-04-20,M,Middletown,DE,19709,Commercial - BCBS
+868,CC106076,Daniel,Davis,1978-06-26,M,Elkton,MD,21921,Commercial - Aetna
+869,CC106083,Emily,Davis,2000-08-27,F,Elkton,MD,21921,Commercial - BCBS
+870,CC106090,William,Brown,1969-10-04,M,Elkton,MD,21921,Commercial - BCBS
+871,CC106097,Brianna,Davis,1978-12-30,F,Newark,DE,19711,Commercial - Aetna
+872,CC106104,Anthony,Mitchell,1998-03-25,M,Dover,DE,19901,Commercial - BCBS
+873,CC106111,Raj,Scott,1974-05-29,M,Middletown,DE,19709,Commercial - Cigna
+874,CC106118,Sofia,Davis,1946-06-01,F,Dover,DE,19901,Medicare
+875,CC106125,Grace,Miller,1965-11-12,F,Bear,DE,19701,Commercial - Aetna
+876,CC106132,Hannah,Roberts,1978-02-16,F,Wilmington,DE,19801,Commercial - BCBS
+877,CC106139,David,Campbell,1949-06-10,M,Bear,DE,19701,Commercial - BCBS
+878,CC106146,Keisha,Johnson,1943-05-06,F,New Castle,DE,19720,Commercial - BCBS
+879,CC106153,Sofia,Baker,1953-02-23,F,Dover,DE,19901,Medicare Advantage
+880,CC106160,Jamal,Mitchell,1965-03-27,M,Wilmington,DE,19801,Commercial - Cigna
+881,CC106167,Emily,Smith,1961-10-03,F,Dover,DE,19901,Commercial - Aetna
+882,CC106174,Keisha,Lee,1984-06-25,F,Elkton,MD,21921,Commercial - Cigna
+883,CC106181,Samuel,Lee,1946-07-20,M,Newark,DE,19711,Medicare Advantage
+884,CC106188,Eric,Mitchell,1979-03-21,M,Chester,PA,19013,Commercial - BCBS
+885,CC106195,Brianna,Martinez,1988-03-24,F,Chester,PA,19013,Self-Pay
+886,CC106202,David,Johnson,1969-07-10,M,Bear,DE,19701,Commercial - BCBS
+887,CC106209,Andre,Lee,1998-08-05,M,Dover,DE,19901,Commercial - BCBS
+888,CC106216,Isaac,Hill,1990-12-13,M,Dover,DE,19901,Self-Pay
+889,CC106223,Nicole,Williams,1981-11-20,F,Dover,DE,19901,Commercial - BCBS
+890,CC106230,Aisha,King,1959-09-27,F,Dover,DE,19901,Medicare Advantage
+891,CC106237,Raj,Miller,1958-01-10,M,Bear,DE,19701,Medicare
+892,CC106244,Kevin,Hill,1959-02-13,M,Elkton,MD,21921,Medicare
+893,CC106251,Aisha,Scott,1996-12-12,F,New Castle,DE,19720,Self-Pay
+894,CC106258,Carlos,Walker,1955-10-16,M,Elkton,MD,21921,Medicare
+895,CC106265,David,Martinez,1955-01-31,M,New Castle,DE,19720,Medicare Advantage
+896,CC106272,Thomas,Nelson,1979-10-02,M,Chester,PA,19013,Commercial - Cigna
+897,CC106279,Brian,Garcia,1942-11-24,M,Middletown,DE,19709,Medicare Advantage
+898,CC106286,Luis,Adams,1990-11-06,M,Newark,DE,19711,Commercial - Cigna
+899,CC106293,Emily,King,1973-04-14,F,Bear,DE,19701,Commercial - BCBS
+900,CC106300,Maria,Brown,1986-04-13,F,Chester,PA,19013,Self-Pay
+901,CC106307,Daniel,Walker,1996-07-06,M,Newark,DE,19711,Commercial - BCBS
+902,CC106314,Rosa,Lee,1961-08-31,F,Wilmington,DE,19801,Commercial - Cigna
+903,CC106321,David,Williams,1947-07-11,M,Newark,DE,19711,Medicare Advantage
+904,CC106328,Linda,Garcia,1950-12-24,F,Newark,DE,19711,Medicare
+905,CC106335,Carlos,Hall,1975-10-18,M,New Castle,DE,19720,Commercial - Aetna
+906,CC106342,Isaac,Wright,1957-01-08,M,Wilmington,DE,19801,Medicare
+907,CC106349,Andre,Johnson,1963-05-06,M,Chester,PA,19013,Commercial - Cigna
+908,CC106356,Jennifer,Baker,1967-09-13,F,Wilmington,DE,19801,Self-Pay
+909,CC106363,Victor,Nelson,1990-11-07,M,Bear,DE,19701,Commercial - BCBS
+910,CC106370,Daniel,Green,1965-12-31,M,Middletown,DE,19709,Commercial - Cigna
+911,CC106377,Luis,Rodriguez,1967-07-14,M,Newark,DE,19711,Commercial - Cigna
+912,CC106384,Grace,Walker,1969-12-26,F,Newark,DE,19711,Self-Pay
+913,CC106391,Danielle,Scott,1956-04-15,F,New Castle,DE,19720,Commercial - BCBS
+914,CC106398,Keisha,King,1961-08-19,F,New Castle,DE,19720,Commercial - Aetna
+915,CC106405,Kevin,Roberts,1976-12-28,M,Bear,DE,19701,Commercial - Cigna
+916,CC106412,Tanya,Perez,1968-03-30,F,Newark,DE,19711,Commercial - Cigna
+917,CC106419,Robert,Nelson,1976-03-24,M,Chester,PA,19013,Commercial - Cigna
+918,CC106426,Andre,Baker,1966-05-19,M,Middletown,DE,19709,Self-Pay
+919,CC106433,Emily,Walker,1970-09-24,F,Elkton,MD,21921,Commercial - Cigna
+920,CC106440,Jennifer,King,1987-03-11,F,New Castle,DE,19720,Commercial - Aetna
+921,CC106447,Ruth,Baker,1946-03-20,F,Middletown,DE,19709,Commercial - BCBS
+922,CC106454,Jamal,Turner,1971-03-15,M,Middletown,DE,19709,Medicaid
+923,CC106461,Victor,Johnson,1981-09-17,M,Newark,DE,19711,Commercial - BCBS
+924,CC106468,Angela,Miller,1951-08-04,F,New Castle,DE,19720,Medicare
+925,CC106475,Olivia,Lopez,1961-09-07,F,Bear,DE,19701,Self-Pay
+926,CC106482,Rosa,Martinez,1965-07-18,F,Elkton,MD,21921,Commercial - BCBS
+927,CC106489,James,Turner,1952-08-06,M,Elkton,MD,21921,Medicare
+928,CC106496,Ruth,Walker,1949-09-29,F,Chester,PA,19013,Medicare
+929,CC106503,Carlos,Walker,1987-08-21,M,Middletown,DE,19709,Commercial - Aetna
+930,CC106510,Kevin,Perez,1951-02-01,M,Elkton,MD,21921,Medicare Advantage
+931,CC106517,Ruth,Johnson,1944-08-12,F,Elkton,MD,21921,Medicare
+932,CC106524,Jamal,Garcia,1943-04-12,M,Elkton,MD,21921,Commercial - BCBS
+933,CC106531,Keisha,Hall,1970-02-10,F,Dover,DE,19901,Medicaid
+934,CC106538,William,Williams,1963-07-09,M,Newark,DE,19711,Self-Pay
+935,CC106545,Maria,Phillips,1967-08-17,F,Chester,PA,19013,Commercial - Cigna
+936,CC106552,Kevin,Wright,1964-07-20,M,Chester,PA,19013,Commercial - BCBS
+937,CC106559,Kevin,Smith,1963-08-07,M,Wilmington,DE,19801,Commercial - BCBS
+938,CC106566,Carlos,Turner,1993-06-18,M,Chester,PA,19013,Commercial - BCBS
+939,CC106573,Hannah,Campbell,1982-09-30,F,Newark,DE,19711,Commercial - Cigna
+940,CC106580,Raj,Wright,1952-03-12,M,Middletown,DE,19709,Medicare
+941,CC106587,Keisha,Miller,1971-01-09,F,Dover,DE,19901,Commercial - Aetna
+942,CC106594,Marcus,Brown,1968-02-19,M,Middletown,DE,19709,Medicaid
+943,CC106601,Aisha,Green,1989-10-22,F,Newark,DE,19711,Medicaid
+944,CC106608,Hannah,Roberts,1995-10-02,F,Chester,PA,19013,Commercial - BCBS
+945,CC106615,Daniel,Carter,1953-06-09,M,Middletown,DE,19709,Medicare
+946,CC106622,Olivia,Wright,1981-07-01,F,Elkton,MD,21921,Commercial - Aetna
+947,CC106629,Brian,Perez,1949-02-12,M,Middletown,DE,19709,Medicare
+948,CC106636,Michael,Brown,1967-06-01,M,Middletown,DE,19709,Medicaid
+949,CC106643,Keisha,Nelson,1968-04-15,F,Dover,DE,19901,Commercial - BCBS
+950,CC106650,David,Garcia,1973-02-10,M,Middletown,DE,19709,Self-Pay
+951,CC106657,Samuel,Nelson,1971-12-24,M,Newark,DE,19711,Commercial - BCBS
+952,CC106664,Victor,Miller,1966-07-20,M,Newark,DE,19711,Self-Pay
+953,CC106671,Sofia,Nelson,1956-06-02,F,Elkton,MD,21921,Medicare
+954,CC106678,Emily,Williams,1953-04-17,F,Elkton,MD,21921,Medicare
+955,CC106685,Thomas,Phillips,1952-09-24,M,Dover,DE,19901,Commercial - BCBS
+956,CC106692,Mei,Martinez,1965-04-06,F,Bear,DE,19701,Commercial - Aetna
+957,CC106699,Angela,Lopez,1950-10-01,F,Elkton,MD,21921,Medicare
+958,CC106706,Carlos,Phillips,1982-07-22,M,Newark,DE,19711,Commercial - BCBS
+959,CC106713,Andre,Smith,1973-06-24,M,Middletown,DE,19709,Commercial - Cigna
+960,CC106720,Luis,Wright,1933-09-01,M,Dover,DE,19901,Medicare
+961,CC106727,Priya,Scott,1936-09-25,F,Newark,DE,19711,Commercial - BCBS
+962,CC106734,Sofia,Lee,1947-01-10,F,Chester,PA,19013,Medicare Advantage
+963,CC106741,David,Hill,1973-02-26,M,Dover,DE,19901,Commercial - Cigna
+964,CC106748,Sofia,Turner,1999-12-09,F,Wilmington,DE,19801,Commercial - Cigna
+965,CC106755,Linda,Turner,1987-02-11,F,Dover,DE,19901,Self-Pay
+966,CC106762,Carmen,Young,1952-07-28,F,Middletown,DE,19709,Medicare
+967,CC106769,Andre,Rodriguez,1975-08-20,M,Middletown,DE,19709,Commercial - Aetna
+968,CC106776,David,Young,1942-06-06,M,Chester,PA,19013,Medicare
+969,CC106783,Hannah,Carter,1962-11-04,F,Middletown,DE,19709,Commercial - BCBS
+970,CC106790,Carmen,Carter,1976-07-02,F,Wilmington,DE,19801,Commercial - Cigna
+971,CC106797,Mei,Young,1971-10-31,F,Chester,PA,19013,Commercial - Aetna
+972,CC106804,Andre,Perez,1956-06-21,M,New Castle,DE,19720,Commercial - BCBS
+973,CC106811,Priya,Carter,2007-01-09,F,Bear,DE,19701,Medicaid
+974,CC106818,Daniel,Lee,2007-02-22,M,Chester,PA,19013,Medicaid
+975,CC106825,William,Adams,1968-10-19,M,New Castle,DE,19720,Medicaid
+976,CC106832,Robert,Young,1950-10-21,M,Newark,DE,19711,Medicare
+977,CC106839,Aisha,Nelson,1977-06-27,F,Chester,PA,19013,Self-Pay
+978,CC106846,Carlos,Turner,1930-12-30,M,Wilmington,DE,19801,Medicare
+979,CC106853,Brian,Johnson,1946-11-06,M,Wilmington,DE,19801,Medicare Advantage
+980,CC106860,Angela,Hall,1958-11-15,F,New Castle,DE,19720,Commercial - BCBS
+981,CC106867,Priya,Baker,1991-11-22,F,Newark,DE,19711,Commercial - BCBS
+982,CC106874,Rosa,King,1973-07-15,F,Elkton,MD,21921,Commercial - Aetna
+983,CC106881,Emily,Davis,1962-04-04,F,Bear,DE,19701,Commercial - Cigna
+984,CC106888,Brian,Roberts,1964-07-15,M,Elkton,MD,21921,Commercial - Aetna
+985,CC106895,Thomas,Allen,1962-07-15,M,Middletown,DE,19709,Medicaid
+986,CC106902,Marcus,Lee,1972-06-25,M,Newark,DE,19711,Commercial - BCBS
+987,CC106909,James,Wright,1980-06-09,M,Dover,DE,19901,Commercial - Aetna
+988,CC106916,Isaac,Roberts,1971-11-15,M,New Castle,DE,19720,Commercial - Aetna
+989,CC106923,Daniel,Mitchell,1964-02-16,M,Middletown,DE,19709,Medicaid
+990,CC106930,Rosa,Mitchell,1966-05-21,F,New Castle,DE,19720,Commercial - BCBS
+991,CC106937,Isaac,Hall,1966-01-10,M,New Castle,DE,19720,Commercial - BCBS
+992,CC106944,Carlos,Green,1966-10-21,M,Middletown,DE,19709,Commercial - BCBS
+993,CC106951,Carmen,Wright,1957-05-26,F,Dover,DE,19901,Medicare
+994,CC106958,Grace,Rodriguez,2007-06-27,F,Newark,DE,19711,Commercial - Aetna
+995,CC106965,Kevin,Johnson,1945-09-08,M,Bear,DE,19701,Medicare Advantage
+996,CC106972,Sofia,Allen,1983-09-28,F,Middletown,DE,19709,Self-Pay
+997,CC106979,Aisha,Williams,1951-10-15,F,Middletown,DE,19709,Medicare
+998,CC106986,Angela,Mitchell,1980-09-12,F,Bear,DE,19701,Commercial - Aetna
+999,CC106993,Carlos,Williams,1988-03-19,M,Wilmington,DE,19801,Self-Pay
+1000,CC107000,Keisha,Phillips,1982-09-01,F,Newark,DE,19711,Medicaid
+1001,CC107007,Luis,Johnson,1956-09-02,M,Dover,DE,19901,Medicare
+1002,CC107014,Carlos,Martinez,1981-08-23,M,New Castle,DE,19720,Medicaid
+1003,CC107021,Daniel,Martinez,1930-09-09,M,Chester,PA,19013,Medicare
+1004,CC107028,Thomas,Williams,1976-09-09,M,Wilmington,DE,19801,Commercial - BCBS
+1005,CC107035,Samuel,Carter,1966-01-13,M,Bear,DE,19701,Commercial - Aetna
+1006,CC107042,Hannah,Williams,1930-03-22,F,New Castle,DE,19720,Commercial - BCBS
+1007,CC107049,William,Walker,1962-04-02,M,Dover,DE,19901,Commercial - Aetna
+1008,CC107056,David,Lopez,1968-11-13,M,Chester,PA,19013,Medicaid
+1009,CC107063,Rosa,Davis,1975-03-19,F,Bear,DE,19701,Commercial - Cigna
+1010,CC107070,Grace,Wright,1956-08-19,F,Elkton,MD,21921,Commercial - BCBS
+1011,CC107077,Carlos,Garcia,1945-07-12,M,Newark,DE,19711,Medicare
+1012,CC107084,Sofia,Martinez,1971-01-05,F,Wilmington,DE,19801,Commercial - Aetna
+1013,CC107091,Priya,Young,1969-06-07,F,Bear,DE,19701,Commercial - BCBS
+1014,CC107098,Kevin,Miller,1939-11-10,M,Bear,DE,19701,Commercial - BCBS
+1015,CC107105,Brian,Young,2004-04-15,M,Middletown,DE,19709,Medicaid
+1016,CC107112,Eric,Allen,1949-12-05,M,Wilmington,DE,19801,Medicare
+1017,CC107119,Priya,Hall,1977-04-19,F,Dover,DE,19901,Commercial - Cigna
+1018,CC107126,David,Lee,1960-08-01,M,Chester,PA,19013,Medicare
+1019,CC107133,Tanya,Green,1930-08-17,F,New Castle,DE,19720,Commercial - BCBS
+1020,CC107140,Carlos,Hill,1956-10-07,M,Middletown,DE,19709,Commercial - BCBS
+1021,CC107147,Luis,Smith,1977-02-18,M,Middletown,DE,19709,Commercial - BCBS
+1022,CC107154,Kevin,Lopez,1966-02-14,M,Elkton,MD,21921,Medicaid
+1023,CC107161,Jennifer,King,1950-02-26,F,Middletown,DE,19709,Commercial - BCBS
+1024,CC107168,Andre,Johnson,1972-02-20,M,Wilmington,DE,19801,Commercial - Aetna
+1025,CC107175,Luis,Davis,1968-06-18,M,Middletown,DE,19709,Commercial - BCBS
+1026,CC107182,Grace,Young,1948-03-30,F,Elkton,MD,21921,Commercial - BCBS
+1027,CC107189,Maria,Nelson,1968-12-20,F,Chester,PA,19013,Medicaid
+1028,CC107196,Maria,Scott,1980-09-06,F,Middletown,DE,19709,Commercial - BCBS
+1029,CC107203,Nicole,Adams,1961-07-28,F,Bear,DE,19701,Self-Pay
+1030,CC107210,Samuel,Mitchell,1957-01-06,M,Middletown,DE,19709,Medicare
+1031,CC107217,Grace,Hill,1938-06-11,F,Elkton,MD,21921,Commercial - BCBS
+1032,CC107224,James,Smith,1963-11-09,M,Middletown,DE,19709,Self-Pay
+1033,CC107231,Maria,Hall,1962-01-05,F,Wilmington,DE,19801,Commercial - BCBS
+1034,CC107238,Priya,Campbell,1988-03-16,F,Newark,DE,19711,Commercial - Aetna
+1035,CC107245,Carlos,Nelson,1930-12-13,M,Bear,DE,19701,Commercial - BCBS
+1036,CC107252,Carlos,Lopez,1942-05-30,M,New Castle,DE,19720,Commercial - BCBS
+1037,CC107259,Luis,Phillips,1983-07-27,M,Middletown,DE,19709,Self-Pay
+1038,CC107266,Anthony,Lopez,1953-03-11,M,Elkton,MD,21921,Medicare
+1039,CC107273,Andre,Turner,1931-01-08,M,Wilmington,DE,19801,Commercial - BCBS
+1040,CC107280,Keisha,Turner,1957-07-10,F,Middletown,DE,19709,Medicare Advantage
+1041,CC107287,Anthony,Perez,1955-12-01,M,Dover,DE,19901,Medicare Advantage
+1042,CC107294,Linda,Young,1956-09-22,F,New Castle,DE,19720,Commercial - BCBS
+1043,CC107301,Eric,Hill,1934-11-15,M,Dover,DE,19901,Commercial - BCBS
+1044,CC107308,Eric,Lopez,1969-07-04,M,Dover,DE,19901,Medicaid
+1045,CC107315,William,Smith,1957-10-27,M,Elkton,MD,21921,Medicare
+1046,CC107322,Robert,Miller,1986-04-19,M,Middletown,DE,19709,Commercial - Cigna
+1047,CC107329,Linda,Phillips,1974-04-14,F,Chester,PA,19013,Commercial - Cigna
+1048,CC107336,James,Smith,1960-11-25,M,Elkton,MD,21921,Medicare
+1049,CC107343,Emily,Williams,1978-01-03,F,Bear,DE,19701,Commercial - Aetna
+1050,CC107350,Raj,Smith,1980-07-16,M,Wilmington,DE,19801,Commercial - BCBS
+1051,CC107357,Nicole,Brown,1969-08-01,F,Chester,PA,19013,Commercial - Cigna
+1052,CC107364,Brian,Miller,1981-10-26,M,Chester,PA,19013,Medicaid
+1053,CC107371,David,Young,1950-03-05,M,Chester,PA,19013,Medicare Advantage
+1054,CC107378,Anthony,King,1969-04-09,M,Dover,DE,19901,Medicaid
+1055,CC107385,Michael,Johnson,2007-02-18,M,Dover,DE,19901,Medicaid
+1056,CC107392,Brianna,Phillips,1998-12-20,F,Chester,PA,19013,Self-Pay
+1057,CC107399,Brianna,Turner,1987-04-19,F,Newark,DE,19711,Commercial - Cigna
+1058,CC107406,Nicole,Mitchell,1962-05-23,F,Dover,DE,19901,Medicaid
+1059,CC107413,Ruth,Hall,1971-11-25,F,Dover,DE,19901,Commercial - Aetna
+1060,CC107420,David,Allen,1974-08-14,M,Newark,DE,19711,Commercial - Aetna
+1061,CC107427,Robert,Phillips,1989-10-29,M,Chester,PA,19013,Commercial - Cigna
+1062,CC107434,Raj,Phillips,1954-07-21,M,Newark,DE,19711,Medicare
+1063,CC107441,Aisha,Lopez,1953-10-02,F,Bear,DE,19701,Medicare Advantage
+1064,CC107448,Brian,Wright,1981-11-08,M,Dover,DE,19901,Commercial - BCBS
+1065,CC107455,James,Phillips,1964-01-13,M,Elkton,MD,21921,Self-Pay
+1066,CC107462,Kevin,Carter,1984-02-19,M,Middletown,DE,19709,Commercial - BCBS
+1067,CC107469,Michael,Rodriguez,2007-09-06,M,Dover,DE,19901,Self-Pay
+1068,CC107476,Thomas,Walker,1944-10-04,M,Bear,DE,19701,Medicare Advantage
+1069,CC107483,Hannah,Brown,1963-09-19,F,New Castle,DE,19720,Medicaid
+1070,CC107490,Priya,Smith,1988-09-23,F,New Castle,DE,19720,Commercial - Aetna
+1071,CC107497,Ruth,Johnson,1937-12-08,F,New Castle,DE,19720,Medicare
+1072,CC107504,Raj,Young,1967-06-17,M,Chester,PA,19013,Commercial - Cigna
+1073,CC107511,Marcus,Walker,1971-11-15,M,Wilmington,DE,19801,Self-Pay
+1074,CC107518,Luis,Young,1983-11-07,M,Newark,DE,19711,Commercial - BCBS
+1075,CC107525,Linda,Carter,1959-03-26,F,Wilmington,DE,19801,Commercial - BCBS
+1076,CC107532,Keisha,Hall,1941-04-11,F,Chester,PA,19013,Commercial - BCBS
+1077,CC107539,Marcus,Green,1939-02-11,M,Middletown,DE,19709,Medicare
+1078,CC107546,Anthony,Wright,1981-07-28,M,New Castle,DE,19720,Commercial - Cigna
+1079,CC107553,Sofia,Walker,1982-02-10,F,Newark,DE,19711,Commercial - BCBS
+1080,CC107560,Carmen,Miller,1983-10-20,F,Newark,DE,19711,Commercial - BCBS
+1081,CC107567,Eric,Davis,1972-11-01,M,Wilmington,DE,19801,Commercial - Cigna
+1082,CC107574,Brianna,Walker,1930-07-14,F,Middletown,DE,19709,Commercial - BCBS
+1083,CC107581,Priya,Johnson,1986-08-17,F,Chester,PA,19013,Commercial - Aetna
+1084,CC107588,Brianna,Lee,1972-01-20,F,Wilmington,DE,19801,Commercial - BCBS
+1085,CC107595,Aisha,Rodriguez,1976-06-23,F,Dover,DE,19901,Medicaid
+1086,CC107602,Victor,Williams,1968-12-17,M,Newark,DE,19711,Medicaid
+1087,CC107609,Andre,Roberts,1969-10-04,M,Wilmington,DE,19801,Medicaid
+1088,CC107616,Eric,Baker,1955-03-25,M,Dover,DE,19901,Commercial - BCBS
+1089,CC107623,Priya,Campbell,1958-11-23,F,Newark,DE,19711,Medicare Advantage
+1090,CC107630,Brianna,Campbell,2007-03-25,F,Dover,DE,19901,Medicaid
+1091,CC107637,Samuel,Wright,1945-11-27,M,Wilmington,DE,19801,Medicare
+1092,CC107644,Grace,Lee,1977-05-07,F,Wilmington,DE,19801,Commercial - Aetna
+1093,CC107651,Michael,King,1930-08-24,M,Wilmington,DE,19801,Commercial - BCBS
+1094,CC107658,Ruth,Allen,1932-05-31,F,Bear,DE,19701,Medicare
+1095,CC107665,Michael,Lee,1958-04-10,M,Newark,DE,19711,Commercial - BCBS
+1096,CC107672,Carmen,Phillips,1986-01-24,F,Newark,DE,19711,Commercial - BCBS
+1097,CC107679,Daniel,Allen,1960-04-17,M,Chester,PA,19013,Medicare
+1098,CC107686,William,Davis,1989-06-08,M,New Castle,DE,19720,Commercial - Aetna
+1099,CC107693,Victor,Carter,1961-10-29,M,Chester,PA,19013,Medicaid
+1100,CC107700,Luis,Mitchell,1998-02-09,M,New Castle,DE,19720,Commercial - Aetna
+1101,CC107707,Sofia,Walker,1965-03-16,F,Middletown,DE,19709,Self-Pay
+1102,CC107714,James,Turner,1959-12-06,M,Dover,DE,19901,Medicare Advantage
+1103,CC107721,Aisha,Young,1973-02-15,F,Middletown,DE,19709,Commercial - BCBS
+1104,CC107728,William,Campbell,1933-10-24,M,Bear,DE,19701,Medicare
+1105,CC107735,William,Campbell,1987-09-04,M,Elkton,MD,21921,Commercial - Aetna
+1106,CC107742,Thomas,Scott,1978-01-02,M,Elkton,MD,21921,Commercial - Aetna
+1107,CC107749,Luis,Williams,1971-11-09,M,New Castle,DE,19720,Self-Pay
+1108,CC107756,Mei,Phillips,1988-03-24,F,Bear,DE,19701,Commercial - Cigna
+1109,CC107763,William,Scott,1954-01-04,M,Chester,PA,19013,Commercial - BCBS
+1110,CC107770,Maria,Turner,1963-03-16,F,Wilmington,DE,19801,Medicaid
+1111,CC107777,William,Lopez,1963-01-03,M,New Castle,DE,19720,Commercial - Cigna
+1112,CC107784,Carmen,Walker,1987-12-07,F,Wilmington,DE,19801,Commercial - Aetna
+1113,CC107791,Kevin,Nelson,1962-02-08,M,Middletown,DE,19709,Commercial - Cigna
+1114,CC107798,Keisha,Hill,1969-04-05,F,Newark,DE,19711,Medicaid
+1115,CC107805,Jennifer,Turner,1976-09-17,F,Bear,DE,19701,Commercial - Cigna
+1116,CC107812,Aisha,Roberts,1968-01-07,F,Middletown,DE,19709,Commercial - Aetna
+1117,CC107819,Eric,Lopez,1969-11-28,M,Bear,DE,19701,Medicaid
+1118,CC107826,Samuel,Lopez,1937-01-26,M,Bear,DE,19701,Medicare Advantage
+1119,CC107833,Priya,Perez,1943-01-07,F,Chester,PA,19013,Medicare
+1120,CC107840,Daniel,Carter,1983-11-08,M,Wilmington,DE,19801,Commercial - Aetna
+1121,CC107847,Jamal,Adams,1960-11-21,M,Elkton,MD,21921,Medicare
+1122,CC107854,Olivia,Young,1951-07-29,F,Chester,PA,19013,Medicare
+1123,CC107861,Eric,Roberts,1956-01-26,M,Wilmington,DE,19801,Commercial - BCBS
+1124,CC107868,Jamal,Young,1978-01-04,M,Middletown,DE,19709,Commercial - BCBS
+1125,CC107875,Angela,Young,1967-05-17,F,Elkton,MD,21921,Medicaid
+1126,CC107882,James,Adams,2002-09-22,M,Dover,DE,19901,Commercial - Cigna
+1127,CC107889,Rosa,Garcia,1966-11-03,F,Chester,PA,19013,Commercial - Aetna
+1128,CC107896,Keisha,Brown,1971-11-09,F,Wilmington,DE,19801,Commercial - BCBS
+1129,CC107903,Keisha,Lopez,1970-01-13,F,Bear,DE,19701,Commercial - BCBS
+1130,CC107910,Olivia,Mitchell,1951-02-28,F,New Castle,DE,19720,Commercial - BCBS
+1131,CC107917,Isaac,Lopez,1993-09-06,M,Bear,DE,19701,Commercial - BCBS
+1132,CC107924,Grace,Perez,1972-10-23,F,Dover,DE,19901,Self-Pay
+1133,CC107931,David,Davis,1952-12-10,M,Wilmington,DE,19801,Medicare
+1134,CC107938,Keisha,Adams,1972-04-27,F,Elkton,MD,21921,Commercial - Aetna
+1135,CC107945,Jamal,Lopez,1978-09-11,M,New Castle,DE,19720,Medicaid
+1136,CC107952,James,Young,2007-09-12,M,Chester,PA,19013,Commercial - Aetna
+1137,CC107959,Anthony,Nelson,1976-11-01,M,Newark,DE,19711,Commercial - Aetna
+1138,CC107966,Priya,Lee,1976-03-23,F,Bear,DE,19701,Commercial - BCBS
+1139,CC107973,Linda,Allen,1952-01-10,F,Middletown,DE,19709,Medicare
+1140,CC107980,Luis,Carter,2002-03-28,M,Dover,DE,19901,Medicaid
+1141,CC107987,Linda,Brown,1991-05-11,F,Bear,DE,19701,Medicaid
+1142,CC107994,Mei,Turner,1965-07-22,F,Newark,DE,19711,Commercial - BCBS
+1143,CC108001,Marcus,Brown,1930-09-12,M,Dover,DE,19901,Medicare
+1144,CC108008,Grace,Garcia,1991-07-29,F,Dover,DE,19901,Self-Pay
+1145,CC108015,Carmen,Johnson,1982-07-10,F,Elkton,MD,21921,Commercial - Aetna
+1146,CC108022,Luis,Rodriguez,1954-02-24,M,New Castle,DE,19720,Medicare Advantage
+1147,CC108029,Jamal,Hall,1941-01-05,M,Newark,DE,19711,Commercial - BCBS
+1148,CC108036,Carlos,Lopez,1971-10-06,M,Bear,DE,19701,Medicaid
+1149,CC108043,Danielle,Johnson,1970-03-28,F,Dover,DE,19901,Self-Pay
+1150,CC108050,Jennifer,Young,1958-02-02,F,Chester,PA,19013,Medicare
+1151,CC108057,William,Hill,1985-11-18,M,Dover,DE,19901,Commercial - Cigna
+1152,CC108064,Maria,King,1972-11-03,F,Chester,PA,19013,Self-Pay
+1153,CC108071,Thomas,Hill,1979-06-17,M,Wilmington,DE,19801,Self-Pay
+1154,CC108078,Jennifer,Scott,1987-05-14,F,Dover,DE,19901,Medicaid
+1155,CC108085,William,Wright,1936-02-11,M,Elkton,MD,21921,Medicare
+1156,CC108092,Anthony,Campbell,1948-12-06,M,Dover,DE,19901,Commercial - BCBS
+1157,CC108099,Michael,Hill,1957-03-21,M,Chester,PA,19013,Medicare
+1158,CC108106,Keisha,Martinez,1959-04-17,F,Wilmington,DE,19801,Medicare Advantage
+1159,CC108113,David,Perez,1933-05-20,M,Elkton,MD,21921,Commercial - BCBS
+1160,CC108120,Brian,Roberts,1961-05-23,M,Wilmington,DE,19801,Medicaid
+1161,CC108127,Anthony,Hall,1989-03-17,M,Dover,DE,19901,Medicaid
+1162,CC108134,Michael,Rodriguez,1996-10-16,M,Chester,PA,19013,Self-Pay
+1163,CC108141,Danielle,Lee,1962-06-17,F,New Castle,DE,19720,Commercial - Cigna
+1164,CC108148,Luis,Johnson,1963-08-31,M,Dover,DE,19901,Medicaid
+1165,CC108155,Hannah,Miller,1965-12-25,F,Wilmington,DE,19801,Commercial - Cigna
+1166,CC108162,Andre,King,1960-02-21,M,Middletown,DE,19709,Medicare Advantage
+1167,CC108169,Angela,Walker,1963-03-15,F,New Castle,DE,19720,Commercial - Aetna
+1168,CC108176,Marcus,Lopez,1990-07-11,M,Middletown,DE,19709,Medicaid
+1169,CC108183,Isaac,Scott,1969-12-30,M,Middletown,DE,19709,Medicaid
+1170,CC108190,Luis,Williams,1968-05-24,M,Newark,DE,19711,Commercial - BCBS
+1171,CC108197,Olivia,Williams,1939-04-03,F,Dover,DE,19901,Medicare
+1172,CC108204,Marcus,Garcia,1980-03-27,M,Newark,DE,19711,Commercial - Cigna
+1173,CC108211,Andre,Garcia,1971-11-04,M,Middletown,DE,19709,Self-Pay
+1174,CC108218,Linda,Hall,1971-01-17,F,Wilmington,DE,19801,Medicaid
+1175,CC108225,Thomas,Williams,1966-12-07,M,Newark,DE,19711,Self-Pay
+1176,CC108232,Eric,Rodriguez,1964-08-08,M,Newark,DE,19711,Commercial - Cigna
+1177,CC108239,Brianna,Williams,1951-01-31,F,Newark,DE,19711,Medicare Advantage
+1178,CC108246,James,Lee,1954-06-25,M,Dover,DE,19901,Commercial - BCBS
+1179,CC108253,Angela,Lee,1954-05-24,F,Elkton,MD,21921,Commercial - BCBS
+1180,CC108260,James,Mitchell,1959-10-31,M,New Castle,DE,19720,Commercial - BCBS
+1181,CC108267,Jennifer,Williams,1969-07-12,F,Dover,DE,19901,Commercial - Cigna
+1182,CC108274,Sofia,Young,1973-09-18,F,Dover,DE,19901,Medicaid
+1183,CC108281,Anthony,Baker,1950-12-23,M,Wilmington,DE,19801,Medicare Advantage
+1184,CC108288,Keisha,Rodriguez,1972-06-19,F,Newark,DE,19711,Medicaid
+1185,CC108295,Raj,Allen,1973-05-03,M,Newark,DE,19711,Commercial - BCBS
+1186,CC108302,Tanya,Young,1986-02-05,F,New Castle,DE,19720,Commercial - Cigna
+1187,CC108309,Ruth,Perez,1944-05-10,F,Bear,DE,19701,Medicare
+1188,CC108316,Andre,Phillips,1936-09-13,M,New Castle,DE,19720,Medicare Advantage
+1189,CC108323,Mei,Miller,1973-07-15,F,Newark,DE,19711,Self-Pay
+1190,CC108330,Samuel,Smith,1990-09-25,M,Middletown,DE,19709,Commercial - Aetna
+1191,CC108337,Linda,Rodriguez,1978-11-23,F,Elkton,MD,21921,Self-Pay
+1192,CC108344,Mei,Johnson,1962-10-05,F,Middletown,DE,19709,Commercial - BCBS
+1193,CC108351,Nicole,Hill,1955-05-13,F,Elkton,MD,21921,Medicare
+1194,CC108358,Tanya,Campbell,1964-03-21,F,Bear,DE,19701,Commercial - BCBS
+1195,CC108365,Danielle,Hall,1941-10-03,F,Newark,DE,19711,Medicare Advantage
+1196,CC108372,Eric,Walker,1963-12-10,M,Wilmington,DE,19801,Commercial - Aetna
+1197,CC108379,Brianna,Lopez,1942-10-13,F,Bear,DE,19701,Medicare
+1198,CC108386,Priya,Carter,1955-08-06,F,Middletown,DE,19709,Medicare
+1199,CC108393,Priya,Lee,2007-11-22,F,Middletown,DE,19709,Commercial - Cigna
+1200,CC108400,Robert,Lee,1975-05-19,M,New Castle,DE,19720,Commercial - BCBS
+1201,CC108407,Emily,Roberts,1956-04-28,F,Wilmington,DE,19801,Commercial - BCBS
+1202,CC108414,Kevin,King,1956-01-11,M,Middletown,DE,19709,Medicare Advantage
+1203,CC108421,Olivia,Johnson,1959-07-17,F,Middletown,DE,19709,Commercial - BCBS
+1204,CC108428,Rosa,Hill,1977-02-21,F,New Castle,DE,19720,Commercial - Aetna
+1205,CC108435,Michael,Hall,1962-08-20,M,New Castle,DE,19720,Commercial - Aetna
+1206,CC108442,Danielle,Martinez,1962-09-23,F,Elkton,MD,21921,Medicaid
+1207,CC108449,Carmen,Lee,1946-02-10,F,Bear,DE,19701,Medicare Advantage
+1208,CC108456,Carmen,Johnson,1958-06-19,F,Wilmington,DE,19801,Medicare
+1209,CC108463,Aisha,Perez,1972-10-17,F,Middletown,DE,19709,Medicaid
+1210,CC108470,Hannah,Phillips,1977-05-08,F,Elkton,MD,21921,Commercial - Cigna
+1211,CC108477,Rosa,King,1979-07-16,F,New Castle,DE,19720,Commercial - Cigna
+1212,CC108484,Jennifer,Garcia,1966-02-14,F,New Castle,DE,19720,Commercial - BCBS
+1213,CC108491,Victor,Lopez,1975-04-26,M,Wilmington,DE,19801,Commercial - Cigna
+1214,CC108498,William,Scott,1974-02-24,M,Bear,DE,19701,Self-Pay
+1215,CC108505,Eric,Young,1980-06-22,M,Bear,DE,19701,Commercial - BCBS
+1216,CC108512,Jamal,Carter,1993-03-29,M,Elkton,MD,21921,Medicaid
+1217,CC108519,Sofia,Carter,1949-04-09,F,Dover,DE,19901,Medicare
+1218,CC108526,Carlos,Green,1957-12-02,M,Wilmington,DE,19801,Medicare
+1219,CC108533,Isaac,Campbell,1984-02-21,M,Wilmington,DE,19801,Commercial - Cigna
+1220,CC108540,Robert,Smith,1978-06-06,M,Dover,DE,19901,Commercial - Cigna
+1221,CC108547,Danielle,Martinez,1977-11-28,F,Chester,PA,19013,Commercial - Cigna
+1222,CC108554,Danielle,Perez,1936-09-03,F,Chester,PA,19013,Medicare
+1223,CC108561,Mei,Williams,1949-08-19,F,Newark,DE,19711,Medicare
+1224,CC108568,Michael,Mitchell,1946-03-21,M,Bear,DE,19701,Medicare
+1225,CC108575,Carlos,Baker,1970-07-25,M,Chester,PA,19013,Medicaid
+1226,CC108582,Ruth,Adams,1972-07-06,F,Chester,PA,19013,Commercial - Cigna
+1227,CC108589,Marcus,Lee,1947-11-08,M,Dover,DE,19901,Medicare Advantage
+1228,CC108596,Priya,Martinez,1978-12-01,F,Dover,DE,19901,Commercial - Aetna
+1229,CC108603,David,Green,1989-06-04,M,Wilmington,DE,19801,Commercial - Cigna
+1230,CC108610,Aisha,Allen,1961-08-07,F,Chester,PA,19013,Medicaid
+1231,CC108617,Jennifer,Hall,1939-10-26,F,Bear,DE,19701,Medicare
+1232,CC108624,Aisha,Wright,1963-04-18,F,Middletown,DE,19709,Medicaid
+1233,CC108631,Danielle,Hall,1983-05-19,F,New Castle,DE,19720,Commercial - Cigna
+1234,CC108638,Carlos,Phillips,1994-08-17,M,New Castle,DE,19720,Self-Pay
+1235,CC108645,Hannah,Baker,1974-05-29,F,Newark,DE,19711,Commercial - Cigna
+1236,CC108652,Angela,Adams,1965-03-30,F,Wilmington,DE,19801,Commercial - Aetna
+1237,CC108659,Robert,Baker,1972-09-26,M,Chester,PA,19013,Commercial - Aetna
+1238,CC108666,Keisha,Williams,1946-02-26,F,Elkton,MD,21921,Medicare Advantage
+1239,CC108673,Tanya,Adams,1977-09-20,F,Bear,DE,19701,Commercial - BCBS
+1240,CC108680,Daniel,Mitchell,1931-03-25,M,Elkton,MD,21921,Commercial - BCBS
+1241,CC108687,Raj,Mitchell,2007-08-02,M,Dover,DE,19901,Commercial - Aetna
+1242,CC108694,William,King,1943-09-08,M,Wilmington,DE,19801,Medicare
+1243,CC108701,Raj,Lee,1988-08-17,M,New Castle,DE,19720,Commercial - BCBS
+1244,CC108708,Hannah,Rodriguez,1965-03-07,F,Newark,DE,19711,Self-Pay
+1245,CC108715,Thomas,Perez,1961-08-08,M,Bear,DE,19701,Commercial - Cigna
+1246,CC108722,Luis,Hill,1962-06-26,M,Newark,DE,19711,Self-Pay
+1247,CC108729,Raj,King,1977-10-21,M,Newark,DE,19711,Commercial - Cigna
+1248,CC108736,Aisha,Lee,1961-09-28,F,Newark,DE,19711,Commercial - Aetna
+1249,CC108743,Eric,Green,1930-07-18,M,Elkton,MD,21921,Medicare
+1250,CC108750,Sofia,King,1998-10-26,F,Bear,DE,19701,Commercial - Aetna
+1251,CC108757,Rosa,Turner,1972-05-02,F,Newark,DE,19711,Self-Pay
+1252,CC108764,Emily,Smith,1970-02-26,F,Dover,DE,19901,Commercial - Aetna
+1253,CC108771,Marcus,Wright,1983-07-20,M,Bear,DE,19701,Commercial - Aetna
+1254,CC108778,Jennifer,Perez,1978-10-10,F,Bear,DE,19701,Commercial - Cigna
+1255,CC108785,Mei,Brown,1954-02-19,F,Newark,DE,19711,Medicare
+1256,CC108792,Isaac,Williams,1955-12-03,M,Newark,DE,19711,Medicare
+1257,CC108799,Michael,Phillips,1981-07-10,M,Dover,DE,19901,Commercial - Aetna
+1258,CC108806,Hannah,Wright,1973-10-14,F,Dover,DE,19901,Commercial - Aetna
+1259,CC108813,Carmen,Adams,1976-01-01,F,Chester,PA,19013,Commercial - BCBS
+1260,CC108820,Anthony,Wright,1953-12-14,M,Wilmington,DE,19801,Medicare
+1261,CC108827,Danielle,Johnson,1968-03-07,F,Newark,DE,19711,Self-Pay
+1262,CC108834,Robert,Garcia,1977-12-30,M,Bear,DE,19701,Medicaid
+1263,CC108841,Luis,Hall,1976-10-24,M,Bear,DE,19701,Commercial - Aetna
+1264,CC108848,William,Scott,1986-10-25,M,Chester,PA,19013,Commercial - Cigna
+1265,CC108855,Raj,Turner,1950-01-31,M,Chester,PA,19013,Medicare
+1266,CC108862,Raj,Wright,1965-05-23,M,Wilmington,DE,19801,Commercial - Aetna
+1267,CC108869,Andre,Davis,1962-10-27,M,Dover,DE,19901,Commercial - BCBS
+1268,CC108876,Ruth,Miller,1964-12-29,F,Elkton,MD,21921,Medicaid
+1269,CC108883,Brian,Allen,1976-09-14,M,Dover,DE,19901,Medicaid
+1270,CC108890,Keisha,Hall,1978-03-27,F,Dover,DE,19901,Commercial - Aetna
+1271,CC108897,David,Campbell,1957-08-14,M,Middletown,DE,19709,Commercial - BCBS
+1272,CC108904,Carmen,Davis,1983-05-13,F,New Castle,DE,19720,Medicaid
+1273,CC108911,David,Young,1973-11-27,M,New Castle,DE,19720,Self-Pay
+1274,CC108918,Ruth,Smith,1964-08-27,F,Middletown,DE,19709,Commercial - Cigna
+1275,CC108925,Angela,Williams,2007-08-06,F,New Castle,DE,19720,Commercial - Cigna
+1276,CC108932,William,Young,1961-05-18,M,Elkton,MD,21921,Medicaid
+1277,CC108939,Aisha,Martinez,2003-02-12,F,Middletown,DE,19709,Commercial - BCBS
+1278,CC108946,Carmen,Young,1978-04-17,F,Dover,DE,19901,Commercial - Aetna
+1279,CC108953,Andre,Adams,1986-10-12,M,Elkton,MD,21921,Self-Pay
+1280,CC108960,Olivia,Garcia,1973-06-08,F,New Castle,DE,19720,Commercial - BCBS
+1281,CC108967,Michael,Walker,1969-01-18,M,Wilmington,DE,19801,Self-Pay
+1282,CC108974,Angela,Johnson,1958-08-03,F,Elkton,MD,21921,Medicare
+1283,CC108981,Emily,Roberts,1964-12-13,F,Middletown,DE,19709,Self-Pay
+1284,CC108988,Linda,King,1952-05-08,F,Bear,DE,19701,Medicare Advantage
+1285,CC108995,Maria,Campbell,1985-01-13,F,New Castle,DE,19720,Medicaid
+1286,CC109002,Rosa,Brown,1976-01-15,F,Wilmington,DE,19801,Commercial - Aetna
+1287,CC109009,Keisha,Nelson,1977-03-04,F,Elkton,MD,21921,Medicaid
+1288,CC109016,Keisha,Scott,1956-05-19,F,Bear,DE,19701,Commercial - BCBS
+1289,CC109023,Kevin,Campbell,1978-05-19,M,Wilmington,DE,19801,Self-Pay
+1290,CC109030,Linda,Adams,1977-10-21,F,Middletown,DE,19709,Commercial - Aetna
+1291,CC109037,Eric,King,1983-02-13,M,New Castle,DE,19720,Self-Pay
+1292,CC109044,Olivia,Roberts,1962-12-21,F,Elkton,MD,21921,Commercial - Aetna
+1293,CC109051,Victor,Hill,1988-09-29,M,Chester,PA,19013,Medicaid
+1294,CC109058,Eric,Perez,1979-11-23,M,Wilmington,DE,19801,Commercial - Aetna
+1295,CC109065,Sofia,King,1954-01-05,F,Chester,PA,19013,Medicare
+1296,CC109072,William,Miller,1993-05-24,M,Chester,PA,19013,Commercial - Aetna
+1297,CC109079,Hannah,Brown,1958-03-13,F,Newark,DE,19711,Medicare
+1298,CC109086,Sofia,Carter,1962-10-15,F,Wilmington,DE,19801,Self-Pay
+1299,CC109093,Jamal,Allen,1969-10-15,M,Bear,DE,19701,Self-Pay
+1300,CC109100,Carmen,Roberts,1981-02-22,F,Wilmington,DE,19801,Commercial - BCBS
+1301,CC109107,Brianna,Lee,1984-02-22,F,Elkton,MD,21921,Commercial - Aetna
+1302,CC109114,Danielle,Wright,1980-03-23,F,Bear,DE,19701,Commercial - Cigna
+1303,CC109121,Olivia,Rodriguez,1978-11-23,F,Bear,DE,19701,Commercial - Aetna
+1304,CC109128,Sofia,Mitchell,1985-07-25,F,Wilmington,DE,19801,Commercial - Aetna
+1305,CC109135,Carmen,Lopez,1963-08-01,F,New Castle,DE,19720,Medicaid
+1306,CC109142,Emily,Martinez,1989-01-22,F,Bear,DE,19701,Commercial - Cigna
+1307,CC109149,Maria,Smith,1977-04-08,F,Dover,DE,19901,Medicaid
+1308,CC109156,Brian,Wright,1959-03-09,M,New Castle,DE,19720,Commercial - BCBS
+1309,CC109163,Tanya,Walker,1942-07-26,F,Bear,DE,19701,Medicare Advantage
+1310,CC109170,Jamal,Campbell,1979-07-24,M,Wilmington,DE,19801,Self-Pay
+1311,CC109177,Marcus,Williams,1977-07-25,M,Elkton,MD,21921,Commercial - Aetna
+1312,CC109184,Eric,Miller,1943-12-09,M,New Castle,DE,19720,Commercial - BCBS
+1313,CC109191,Samuel,Hill,1967-10-26,M,Bear,DE,19701,Self-Pay
+1314,CC109198,Brianna,Perez,1964-02-05,F,Chester,PA,19013,Commercial - Aetna
+1315,CC109205,Carlos,Wright,1987-09-11,M,New Castle,DE,19720,Medicaid
+1316,CC109212,Marcus,Hall,1961-08-16,M,Dover,DE,19901,Medicaid
+1317,CC109219,Olivia,Turner,1930-02-04,F,Dover,DE,19901,Medicare
+1318,CC109226,Eric,Wright,1955-05-12,M,Chester,PA,19013,Medicare Advantage
+1319,CC109233,Brianna,Carter,1969-01-25,F,New Castle,DE,19720,Commercial - Aetna
+1320,CC109240,Carmen,Allen,1941-09-22,F,New Castle,DE,19720,Commercial - BCBS
+1321,CC109247,Andre,Roberts,1937-10-28,M,Chester,PA,19013,Medicare
+1322,CC109254,Brian,Carter,1993-01-30,M,Newark,DE,19711,Commercial - Aetna
+1323,CC109261,Isaac,Perez,1949-01-03,M,Wilmington,DE,19801,Medicare Advantage
+1324,CC109268,Keisha,Roberts,1989-07-12,F,Chester,PA,19013,Commercial - BCBS
+1325,CC109275,William,Miller,1968-12-23,M,Newark,DE,19711,Commercial - BCBS
+1326,CC109282,James,Carter,2003-12-16,M,Bear,DE,19701,Commercial - Cigna
+1327,CC109289,David,Garcia,1958-09-07,M,Bear,DE,19701,Commercial - BCBS
+1328,CC109296,Danielle,Young,1935-08-21,F,Dover,DE,19901,Medicare Advantage
+1329,CC109303,Danielle,Smith,1969-03-07,F,New Castle,DE,19720,Medicaid
+1330,CC109310,Carmen,Miller,1969-11-15,F,Elkton,MD,21921,Commercial - Aetna
+1331,CC109317,Carlos,Campbell,1948-06-29,M,Wilmington,DE,19801,Medicare Advantage
+1332,CC109324,Rosa,Martinez,1988-11-16,F,Elkton,MD,21921,Commercial - BCBS
+1333,CC109331,Maria,Green,1965-04-12,F,Newark,DE,19711,Commercial - Aetna
+1334,CC109338,Ruth,Allen,1979-05-01,F,Wilmington,DE,19801,Commercial - BCBS
+1335,CC109345,Raj,Walker,1970-01-10,M,Middletown,DE,19709,Medicaid
+1336,CC109352,Sofia,King,1980-03-31,F,Wilmington,DE,19801,Commercial - Aetna
+1337,CC109359,Thomas,Carter,1981-06-12,M,Chester,PA,19013,Commercial - Cigna
+1338,CC109366,Jamal,Miller,1973-11-22,M,Chester,PA,19013,Medicaid
+1339,CC109373,Hannah,Turner,1956-06-16,F,Middletown,DE,19709,Medicare Advantage
+1340,CC109380,Isaac,King,1992-12-23,M,Newark,DE,19711,Commercial - BCBS
+1341,CC109387,Victor,Carter,1969-06-25,M,Bear,DE,19701,Commercial - Cigna
+1342,CC109394,Hannah,Allen,1985-07-22,F,Elkton,MD,21921,Commercial - Aetna
+1343,CC109401,Jennifer,Baker,1982-04-29,F,Bear,DE,19701,Commercial - Cigna
+1344,CC109408,Rosa,Williams,1943-02-23,F,Bear,DE,19701,Medicare
+1345,CC109415,Isaac,Baker,1988-11-29,M,Middletown,DE,19709,Self-Pay
+1346,CC109422,Carlos,Martinez,1982-03-15,M,Chester,PA,19013,Commercial - Aetna
+1347,CC109429,David,Wright,1968-12-24,M,Middletown,DE,19709,Self-Pay
+1348,CC109436,Mei,Perez,1996-05-31,F,Bear,DE,19701,Commercial - Aetna
+1349,CC109443,David,Hill,1983-06-28,M,New Castle,DE,19720,Self-Pay
+1350,CC109450,Daniel,King,1952-08-29,M,Wilmington,DE,19801,Medicare
+1351,CC109457,James,Williams,1951-07-25,M,Wilmington,DE,19801,Medicare Advantage
+1352,CC109464,Marcus,Perez,1968-05-19,M,Bear,DE,19701,Self-Pay
+1353,CC109471,William,Johnson,1935-01-16,M,Elkton,MD,21921,Medicare
+1354,CC109478,Brianna,Davis,1955-03-03,F,Bear,DE,19701,Medicare Advantage
+1355,CC109485,Isaac,Perez,1986-12-16,M,Elkton,MD,21921,Commercial - Aetna
+1356,CC109492,William,Scott,1940-12-03,M,Wilmington,DE,19801,Medicare
+1357,CC109499,Victor,Carter,1930-03-06,M,New Castle,DE,19720,Commercial - BCBS
+1358,CC109506,Olivia,Allen,1955-01-13,F,Elkton,MD,21921,Medicare Advantage
+1359,CC109513,Sofia,Lee,1930-11-22,F,Chester,PA,19013,Medicare
+1360,CC109520,Tanya,Campbell,1972-05-25,F,Dover,DE,19901,Commercial - Aetna
+1361,CC109527,William,Johnson,1951-05-24,M,Bear,DE,19701,Medicare
+1362,CC109534,Tanya,Garcia,1954-10-26,F,Chester,PA,19013,Medicare
+1363,CC109541,Linda,Walker,1950-09-06,F,Wilmington,DE,19801,Medicare
+1364,CC109548,Emily,Carter,1981-04-17,F,Middletown,DE,19709,Self-Pay
+1365,CC109555,Hannah,Roberts,1973-11-21,F,New Castle,DE,19720,Commercial - BCBS
+1366,CC109562,Kevin,Miller,1963-05-16,M,New Castle,DE,19720,Commercial - BCBS
+1367,CC109569,Daniel,Lee,1968-06-25,M,Middletown,DE,19709,Self-Pay
+1368,CC109576,Rosa,Miller,1975-02-03,F,Chester,PA,19013,Commercial - Aetna
+1369,CC109583,Andre,Brown,1971-09-09,M,Elkton,MD,21921,Commercial - Cigna
+1370,CC109590,Ruth,King,2002-11-29,F,Bear,DE,19701,Self-Pay
+1371,CC109597,James,Carter,1965-05-22,M,New Castle,DE,19720,Medicaid
+1372,CC109604,Brianna,Mitchell,1995-02-11,F,Middletown,DE,19709,Commercial - BCBS
+1373,CC109611,Andre,Scott,1935-03-22,M,Chester,PA,19013,Commercial - BCBS
+1374,CC109618,Carmen,Perez,1950-08-21,F,Middletown,DE,19709,Medicare
+1375,CC109625,Sofia,Hill,1947-05-04,F,Newark,DE,19711,Medicare
+1376,CC109632,Kevin,Hill,1995-07-22,M,Dover,DE,19901,Commercial - Cigna
+1377,CC109639,Kevin,Martinez,1949-12-05,M,Bear,DE,19701,Medicare Advantage
+1378,CC109646,Brianna,Allen,1969-12-16,F,New Castle,DE,19720,Commercial - Aetna
+1379,CC109653,Danielle,Campbell,1986-05-18,F,New Castle,DE,19720,Self-Pay
+1380,CC109660,Nicole,Allen,1930-03-16,F,Middletown,DE,19709,Commercial - BCBS
+1381,CC109667,Aisha,Mitchell,1957-07-04,F,Newark,DE,19711,Medicare
+1382,CC109674,Raj,Turner,1965-08-13,M,New Castle,DE,19720,Commercial - Aetna
+1383,CC109681,Michael,Turner,1948-05-20,M,Middletown,DE,19709,Medicare
+1384,CC109688,William,Nelson,1965-11-14,M,Dover,DE,19901,Self-Pay
+1385,CC109695,Daniel,Hill,1939-11-27,M,Chester,PA,19013,Medicare
+1386,CC109702,Sofia,Scott,1952-04-11,F,Dover,DE,19901,Medicare Advantage
+1387,CC109709,Samuel,Adams,1972-06-02,M,Middletown,DE,19709,Commercial - Aetna
+1388,CC109716,Carlos,Davis,1955-08-17,M,Wilmington,DE,19801,Medicare
+1389,CC109723,Kevin,Walker,1958-10-16,M,New Castle,DE,19720,Medicare
+1390,CC109730,Thomas,King,1956-01-30,M,Middletown,DE,19709,Medicare Advantage
+1391,CC109737,Brianna,Adams,1964-02-15,F,New Castle,DE,19720,Medicaid
+1392,CC109744,Samuel,Rodriguez,1957-09-14,M,Chester,PA,19013,Medicare Advantage
+1393,CC109751,Priya,Roberts,1977-01-27,F,Bear,DE,19701,Commercial - Aetna
+1394,CC109758,Brianna,Garcia,1963-08-09,F,Middletown,DE,19709,Commercial - Aetna
+1395,CC109765,David,Scott,1964-06-02,M,Wilmington,DE,19801,Medicaid
+1396,CC109772,Danielle,Campbell,1991-10-10,F,Elkton,MD,21921,Self-Pay
+1397,CC109779,Keisha,King,1960-05-22,F,Dover,DE,19901,Medicare
+1398,CC109786,Anthony,Campbell,1986-03-19,M,Dover,DE,19901,Self-Pay
+1399,CC109793,Luis,Phillips,1945-04-13,M,Middletown,DE,19709,Medicare
+1400,CC109800,Kevin,Carter,1978-11-01,M,Bear,DE,19701,Commercial - BCBS
+1401,CC109807,Michael,Rodriguez,1990-05-01,M,New Castle,DE,19720,Self-Pay
+1402,CC109814,Brian,Miller,1973-03-15,M,Bear,DE,19701,Medicaid
+1403,CC109821,Rosa,Turner,1944-04-13,F,Wilmington,DE,19801,Commercial - BCBS
+1404,CC109828,Sofia,Mitchell,1958-10-30,F,Chester,PA,19013,Medicare
+1405,CC109835,David,Scott,1988-05-09,M,Wilmington,DE,19801,Self-Pay
+1406,CC109842,Ruth,Martinez,1971-08-25,F,New Castle,DE,19720,Medicaid
+1407,CC109849,Sofia,Nelson,2000-02-12,F,Elkton,MD,21921,Commercial - Aetna
+1408,CC109856,David,Rodriguez,1972-12-23,M,Chester,PA,19013,Self-Pay
+1409,CC109863,Aisha,Martinez,2008-01-02,F,Middletown,DE,19709,Commercial - BCBS
+1410,CC109870,Aisha,Brown,1932-05-17,F,Dover,DE,19901,Medicare Advantage
+1411,CC109877,Jennifer,Allen,1976-03-22,F,Elkton,MD,21921,Commercial - Cigna
+1412,CC109884,Jennifer,Williams,1950-03-26,F,Dover,DE,19901,Medicare
+1413,CC109891,Raj,Phillips,1994-02-19,M,New Castle,DE,19720,Commercial - BCBS
+1414,CC109898,Linda,Phillips,1973-01-16,F,Newark,DE,19711,Commercial - Cigna
+1415,CC109905,Tanya,Green,1957-09-28,F,New Castle,DE,19720,Commercial - BCBS
+1416,CC109912,Carmen,Brown,1982-07-27,F,Elkton,MD,21921,Commercial - Cigna
+1417,CC109919,Daniel,Allen,1987-01-15,M,Chester,PA,19013,Commercial - Aetna
+1418,CC109926,Rosa,Miller,1983-05-23,F,Elkton,MD,21921,Self-Pay
+1419,CC109933,David,Adams,1957-07-17,M,Bear,DE,19701,Commercial - BCBS
+1420,CC109940,Isaac,Roberts,1950-06-22,M,Middletown,DE,19709,Medicare
+1421,CC109947,Carlos,Davis,1982-04-09,M,Dover,DE,19901,Self-Pay
+1422,CC109954,Hannah,Campbell,1978-04-01,F,Elkton,MD,21921,Commercial - Cigna
+1423,CC109961,Thomas,Williams,1972-08-17,M,Bear,DE,19701,Medicaid
+1424,CC109968,Angela,Brown,1975-04-12,F,Dover,DE,19901,Commercial - Aetna
+1425,CC109975,David,Roberts,1940-07-17,M,Middletown,DE,19709,Medicare
+1426,CC109982,Ruth,Hall,1942-01-07,F,Newark,DE,19711,Medicare
+1427,CC109989,Priya,King,1980-07-28,F,Wilmington,DE,19801,Commercial - BCBS
+1428,CC109996,Priya,Carter,1960-01-05,F,New Castle,DE,19720,Commercial - BCBS
+1429,CC110003,William,Nelson,1972-08-25,M,Middletown,DE,19709,Commercial - Cigna
+1430,CC110010,Keisha,Hall,1995-08-03,F,Bear,DE,19701,Commercial - BCBS
+1431,CC110017,Thomas,Nelson,1972-07-04,M,Wilmington,DE,19801,Commercial - Cigna
+1432,CC110024,Grace,Rodriguez,1979-10-30,F,New Castle,DE,19720,Self-Pay
+1433,CC110031,Linda,Turner,1962-11-19,F,Middletown,DE,19709,Self-Pay
+1434,CC110038,Thomas,Brown,1983-02-11,M,Newark,DE,19711,Medicaid
+1435,CC110045,Kevin,Lee,1976-06-13,M,Elkton,MD,21921,Commercial - Aetna
+1436,CC110052,Hannah,Lee,1971-07-16,F,Wilmington,DE,19801,Commercial - Aetna
+1437,CC110059,David,Lee,1982-04-19,M,Newark,DE,19711,Commercial - BCBS
+1438,CC110066,Carlos,Hall,1991-11-13,M,Bear,DE,19701,Commercial - Aetna
+1439,CC110073,Linda,Campbell,1937-10-24,F,Newark,DE,19711,Medicare
+1440,CC110080,Marcus,Hill,1948-02-16,M,Wilmington,DE,19801,Medicare
+1441,CC110087,Daniel,Adams,1993-03-22,M,Middletown,DE,19709,Commercial - BCBS
+1442,CC110094,Anthony,Smith,1984-03-24,M,Dover,DE,19901,Self-Pay
+1443,CC110101,Ruth,Smith,1983-01-13,F,Newark,DE,19711,Commercial - Cigna
+1444,CC110108,James,Campbell,1972-11-27,M,Bear,DE,19701,Medicaid
+1445,CC110115,Kevin,Scott,1936-10-21,M,Chester,PA,19013,Commercial - BCBS
+1446,CC110122,Keisha,King,1975-07-16,F,Elkton,MD,21921,Commercial - Cigna
+1447,CC110129,Angela,Miller,1954-04-04,F,New Castle,DE,19720,Commercial - BCBS
+1448,CC110136,Michael,Nelson,1969-09-27,M,Newark,DE,19711,Commercial - Cigna
+1449,CC110143,Sofia,Mitchell,1964-09-08,F,Bear,DE,19701,Commercial - Aetna
+1450,CC110150,Angela,Miller,1976-07-16,F,Bear,DE,19701,Self-Pay
+1451,CC110157,Maria,Turner,1946-05-04,F,New Castle,DE,19720,Commercial - BCBS
+1452,CC110164,Mei,Adams,1935-12-30,F,Newark,DE,19711,Medicare Advantage
+1453,CC110171,Carmen,King,1973-10-23,F,Wilmington,DE,19801,Commercial - Cigna
+1454,CC110178,Kevin,Baker,1944-08-30,M,Bear,DE,19701,Medicare
+1455,CC110185,Linda,Wright,1973-12-02,F,Wilmington,DE,19801,Commercial - Aetna
+1456,CC110192,Aisha,Carter,1988-05-25,F,Bear,DE,19701,Commercial - BCBS
+1457,CC110199,Jennifer,Nelson,1931-01-16,F,New Castle,DE,19720,Commercial - BCBS
+1458,CC110206,Carlos,Nelson,1969-07-24,M,Chester,PA,19013,Commercial - Aetna
+1459,CC110213,William,Green,1961-12-30,M,Elkton,MD,21921,Commercial - Cigna
+1460,CC110220,Hannah,Adams,1967-07-20,F,Bear,DE,19701,Commercial - BCBS
+1461,CC110227,Daniel,Carter,1970-12-17,M,Elkton,MD,21921,Commercial - Cigna
+1462,CC110234,James,Green,1950-11-13,M,Elkton,MD,21921,Commercial - BCBS
+1463,CC110241,Sofia,Scott,1977-05-08,F,Wilmington,DE,19801,Commercial - BCBS
+1464,CC110248,Angela,Miller,1977-09-02,F,Elkton,MD,21921,Medicaid
+1465,CC110255,Sofia,Baker,1969-07-23,F,Bear,DE,19701,Commercial - Aetna
+1466,CC110262,Hannah,Wright,1958-04-04,F,Newark,DE,19711,Medicare Advantage
+1467,CC110269,Andre,Brown,1941-03-02,M,Middletown,DE,19709,Medicare
+1468,CC110276,Tanya,Walker,1946-04-26,F,New Castle,DE,19720,Medicare Advantage
+1469,CC110283,Tanya,Green,1947-09-27,F,Bear,DE,19701,Medicare
+1470,CC110290,Ruth,Nelson,1966-08-03,F,Elkton,MD,21921,Commercial - Cigna
+1471,CC110297,Ruth,Brown,1983-04-02,F,Chester,PA,19013,Commercial - Aetna
+1472,CC110304,Luis,Campbell,1950-08-28,M,Middletown,DE,19709,Medicare Advantage
+1473,CC110311,Angela,Miller,1964-07-03,F,Newark,DE,19711,Commercial - Aetna
+1474,CC110318,William,Turner,1984-04-08,M,Elkton,MD,21921,Medicaid
+1475,CC110325,Daniel,Hall,1956-06-10,M,Chester,PA,19013,Medicare Advantage
+1476,CC110332,Luis,Williams,1973-01-22,M,Bear,DE,19701,Medicaid
+1477,CC110339,Tanya,Miller,1941-04-17,F,Bear,DE,19701,Medicare Advantage
+1478,CC110346,Luis,Adams,1980-04-14,M,Middletown,DE,19709,Commercial - BCBS
+1479,CC110353,Rosa,Williams,1978-08-03,F,Bear,DE,19701,Medicaid
+1480,CC110360,Samuel,Miller,1971-11-09,M,Chester,PA,19013,Medicaid
+1481,CC110367,Isaac,Baker,1975-08-05,M,Middletown,DE,19709,Commercial - BCBS
+1482,CC110374,Daniel,Scott,1947-02-08,M,New Castle,DE,19720,Commercial - BCBS
+1483,CC110381,Ruth,Turner,1969-04-04,F,Bear,DE,19701,Commercial - BCBS
+1484,CC110388,Hannah,Phillips,1954-11-30,F,Wilmington,DE,19801,Medicare
+1485,CC110395,Robert,Garcia,1957-11-18,M,Newark,DE,19711,Commercial - BCBS
+1486,CC110402,Anthony,Smith,1968-10-30,M,Newark,DE,19711,Commercial - BCBS
+1487,CC110409,Olivia,Scott,1974-08-08,F,Bear,DE,19701,Medicaid
+1488,CC110416,Maria,Wright,1966-02-18,F,Bear,DE,19701,Commercial - Aetna
+1489,CC110423,Samuel,Scott,1950-04-18,M,New Castle,DE,19720,Medicare Advantage
+1490,CC110430,Carmen,Rodriguez,1941-04-26,F,Elkton,MD,21921,Medicare
+1491,CC110437,Victor,Green,1976-06-01,M,Elkton,MD,21921,Commercial - Aetna
+1492,CC110444,Sofia,Lopez,1965-06-11,F,New Castle,DE,19720,Medicaid
+1493,CC110451,Marcus,Allen,1984-02-21,M,Newark,DE,19711,Commercial - Cigna
+1494,CC110458,Luis,Brown,1949-02-17,M,Bear,DE,19701,Medicare Advantage
+1495,CC110465,Victor,Mitchell,1951-07-30,M,Chester,PA,19013,Medicare
+1496,CC110472,Andre,Walker,1965-10-26,M,Elkton,MD,21921,Self-Pay
+1497,CC110479,Anthony,Walker,1949-09-25,M,Middletown,DE,19709,Medicare
+1498,CC110486,Linda,Campbell,1943-05-18,F,Elkton,MD,21921,Medicare
+1499,CC110493,Victor,Smith,1979-08-10,M,Bear,DE,19701,Commercial - BCBS
+1500,CC110500,Robert,Walker,1967-07-28,M,Chester,PA,19013,Commercial - Cigna
+1501,CC110507,Hannah,Williams,2003-08-12,F,New Castle,DE,19720,Commercial - Aetna
+1502,CC110514,Ruth,Young,1969-11-18,F,Chester,PA,19013,Commercial - BCBS
+1503,CC110521,Priya,Green,1961-09-01,F,Newark,DE,19711,Commercial - Cigna
+1504,CC110528,Thomas,Brown,1938-11-11,M,Wilmington,DE,19801,Medicare
+1505,CC110535,Priya,Campbell,1963-02-06,F,Bear,DE,19701,Medicaid
+1506,CC110542,Hannah,Hill,1930-12-04,F,Dover,DE,19901,Medicare Advantage
+1507,CC110549,Hannah,Mitchell,1936-01-07,F,Bear,DE,19701,Commercial - BCBS
+1508,CC110556,Grace,Phillips,1979-10-20,F,Newark,DE,19711,Medicaid
+1509,CC110563,Emily,Turner,1981-09-08,F,Dover,DE,19901,Commercial - BCBS
+1510,CC110570,Keisha,Scott,1973-02-10,F,Dover,DE,19901,Commercial - BCBS
+1511,CC110577,David,Nelson,2007-03-03,M,Dover,DE,19901,Self-Pay
+1512,CC110584,Michael,Roberts,1950-12-01,M,Middletown,DE,19709,Medicare
+1513,CC110591,Jennifer,Carter,1953-02-01,F,Chester,PA,19013,Medicare Advantage
+1514,CC110598,Keisha,Walker,1966-07-11,F,Bear,DE,19701,Commercial - Cigna
+1515,CC110605,Priya,Perez,1991-03-04,F,New Castle,DE,19720,Commercial - Aetna
+1516,CC110612,Keisha,Martinez,1945-10-18,F,Bear,DE,19701,Medicare Advantage
+1517,CC110619,Thomas,Turner,1981-12-06,M,Newark,DE,19711,Commercial - BCBS
+1518,CC110626,James,Martinez,1975-10-21,M,Chester,PA,19013,Medicaid
+1519,CC110633,Emily,Young,1961-02-17,F,New Castle,DE,19720,Commercial - Aetna
+1520,CC110640,Kevin,Hall,1945-04-08,M,Newark,DE,19711,Commercial - BCBS
+1521,CC110647,Jamal,Campbell,1993-03-31,M,Dover,DE,19901,Commercial - Aetna
+1522,CC110654,Tanya,Miller,1962-02-01,F,Dover,DE,19901,Self-Pay
+1523,CC110661,Danielle,Brown,1951-04-07,F,New Castle,DE,19720,Medicare Advantage
+1524,CC110668,William,Phillips,1930-08-22,M,Chester,PA,19013,Medicare Advantage
+1525,CC110675,Marcus,Wright,1958-02-16,M,Dover,DE,19901,Medicare
+1526,CC110682,Angela,Brown,1967-07-21,F,Wilmington,DE,19801,Commercial - Cigna
+1527,CC110689,David,Hill,1961-07-23,M,Chester,PA,19013,Medicaid
+1528,CC110696,Maria,Walker,1978-03-05,F,Wilmington,DE,19801,Medicaid
+1529,CC110703,Mei,King,1945-07-25,F,Bear,DE,19701,Commercial - BCBS
+1530,CC110710,Thomas,Smith,1940-01-07,M,Bear,DE,19701,Medicare Advantage
+1531,CC110717,Jamal,Miller,1991-10-07,M,New Castle,DE,19720,Commercial - Aetna
+1532,CC110724,Robert,Johnson,1966-06-08,M,Wilmington,DE,19801,Self-Pay
+1533,CC110731,Hannah,Hill,1982-11-18,F,Middletown,DE,19709,Commercial - Aetna
+1534,CC110738,Rosa,Davis,1957-11-11,F,New Castle,DE,19720,Medicare Advantage
+1535,CC110745,Robert,Brown,1963-07-02,M,New Castle,DE,19720,Self-Pay
+1536,CC110752,Nicole,Lopez,1943-03-17,F,Dover,DE,19901,Medicare Advantage
+1537,CC110759,Victor,Roberts,1965-08-04,M,Chester,PA,19013,Commercial - Aetna
+1538,CC110766,Grace,Hill,1947-10-07,F,Middletown,DE,19709,Medicare
+1539,CC110773,Eric,Young,1930-04-22,M,Dover,DE,19901,Medicare
+1540,CC110780,Jamal,Adams,1942-03-15,M,Elkton,MD,21921,Medicare
+1541,CC110787,Samuel,Roberts,1971-06-11,M,Chester,PA,19013,Self-Pay
+1542,CC110794,Sofia,Smith,1971-12-28,F,Middletown,DE,19709,Medicaid
+1543,CC110801,Daniel,Johnson,1942-09-30,M,Bear,DE,19701,Medicare Advantage
+1544,CC110808,Danielle,Roberts,1952-08-18,F,Newark,DE,19711,Medicare
+1545,CC110815,Samuel,Young,1963-07-19,M,New Castle,DE,19720,Medicaid
+1546,CC110822,Jennifer,Hall,1956-01-22,F,Bear,DE,19701,Medicare
+1547,CC110829,Angela,Perez,1968-09-03,F,Chester,PA,19013,Commercial - Aetna
+1548,CC110836,Mei,Turner,1966-03-18,F,Newark,DE,19711,Commercial - Aetna
+1549,CC110843,David,Wright,1966-08-05,M,Elkton,MD,21921,Commercial - Aetna
+1550,CC110850,Isaac,Scott,1973-05-09,M,Bear,DE,19701,Self-Pay
+1551,CC110857,Robert,Rodriguez,1950-06-20,M,Elkton,MD,21921,Medicare Advantage
+1552,CC110864,Samuel,Wright,1974-03-08,M,Newark,DE,19711,Medicaid
+1553,CC110871,William,Carter,1977-06-16,M,Dover,DE,19901,Medicaid
+1554,CC110878,Carmen,Hill,1987-10-08,F,Bear,DE,19701,Commercial - Aetna
+1555,CC110885,Raj,Allen,1938-11-16,M,Elkton,MD,21921,Medicare Advantage
+1556,CC110892,Marcus,Martinez,1966-04-09,M,Newark,DE,19711,Commercial - Cigna
+1557,CC110899,Ruth,Green,1938-12-08,F,Chester,PA,19013,Medicare
+1558,CC110906,Tanya,Smith,1935-03-17,F,Bear,DE,19701,Medicare
+1559,CC110913,Maria,Scott,1964-03-06,F,Middletown,DE,19709,Commercial - Aetna
+1560,CC110920,Anthony,Perez,1952-06-22,M,Elkton,MD,21921,Medicare
+1561,CC110927,Marcus,Hill,1955-12-22,M,Middletown,DE,19709,Medicare
+1562,CC110934,Kevin,Baker,1985-03-04,M,Wilmington,DE,19801,Medicaid
+1563,CC110941,Angela,Hill,1955-07-06,F,Elkton,MD,21921,Medicare
+1564,CC110948,Kevin,Allen,1962-05-04,M,Middletown,DE,19709,Commercial - Aetna
+1565,CC110955,Angela,Rodriguez,1980-03-29,F,Elkton,MD,21921,Commercial - Cigna
+1566,CC110962,Emily,Phillips,1967-10-17,F,Chester,PA,19013,Commercial - Cigna
+1567,CC110969,Luis,Johnson,1971-02-22,M,Bear,DE,19701,Self-Pay
+1568,CC110976,Anthony,King,1970-07-03,M,Middletown,DE,19709,Commercial - Aetna
+1569,CC110983,David,Green,1977-07-24,M,Chester,PA,19013,Medicaid
+1570,CC110990,Thomas,Green,1952-06-08,M,New Castle,DE,19720,Medicare Advantage
+1571,CC110997,Jennifer,Roberts,1975-05-15,F,Middletown,DE,19709,Medicaid
+1572,CC111004,Sofia,Walker,1953-06-29,F,New Castle,DE,19720,Medicare
+1573,CC111011,Jamal,Smith,1971-07-14,M,Middletown,DE,19709,Self-Pay
+1574,CC111018,Carlos,Miller,1983-11-18,M,Chester,PA,19013,Self-Pay
+1575,CC111025,Hannah,Allen,1964-03-23,F,Dover,DE,19901,Self-Pay
+1576,CC111032,Emily,Green,1960-09-14,F,Middletown,DE,19709,Medicare
+1577,CC111039,Michael,Hill,1991-04-29,M,Bear,DE,19701,Self-Pay
+1578,CC111046,Priya,Lee,1958-11-02,F,Middletown,DE,19709,Medicare
+1579,CC111053,Danielle,Nelson,1981-08-17,F,Dover,DE,19901,Commercial - Aetna
+1580,CC111060,Isaac,Miller,1948-03-01,M,New Castle,DE,19720,Medicare Advantage
+1581,CC111067,Keisha,Roberts,1952-03-09,F,Bear,DE,19701,Commercial - BCBS
+1582,CC111074,Olivia,Garcia,1967-05-07,F,Middletown,DE,19709,Commercial - BCBS
+1583,CC111081,Aisha,Roberts,1968-10-30,F,Elkton,MD,21921,Commercial - Aetna
+1584,CC111088,Linda,Scott,1995-01-28,F,Chester,PA,19013,Commercial - Aetna
+1585,CC111095,Maria,Mitchell,1965-06-29,F,Chester,PA,19013,Medicaid
+1586,CC111102,Isaac,Allen,1938-09-02,M,New Castle,DE,19720,Medicare
+1587,CC111109,David,Lopez,1949-08-26,M,New Castle,DE,19720,Commercial - BCBS
+1588,CC111116,Grace,Miller,1972-08-16,F,Chester,PA,19013,Self-Pay
+1589,CC111123,Linda,Adams,1962-08-22,F,Newark,DE,19711,Commercial - Cigna
+1590,CC111130,Tanya,Scott,1961-09-06,F,Chester,PA,19013,Commercial - Aetna
+1591,CC111137,Nicole,Perez,1967-08-13,F,New Castle,DE,19720,Self-Pay
+1592,CC111144,Brianna,Martinez,1990-03-15,F,Middletown,DE,19709,Commercial - Cigna
+1593,CC111151,Andre,Campbell,1967-11-20,M,Elkton,MD,21921,Commercial - Cigna
+1594,CC111158,Luis,Mitchell,1931-04-13,M,Dover,DE,19901,Medicare
+1595,CC111165,Kevin,Mitchell,1968-06-10,M,Newark,DE,19711,Commercial - BCBS
+1596,CC111172,David,Lee,1959-12-04,M,Middletown,DE,19709,Medicare Advantage
+1597,CC111179,Maria,Allen,1973-05-15,F,Bear,DE,19701,Commercial - BCBS
+1598,CC111186,Sofia,Young,1949-08-14,F,Middletown,DE,19709,Commercial - BCBS
+1599,CC111193,Brian,Allen,1991-10-11,M,Wilmington,DE,19801,Commercial - Cigna
+1600,CC111200,Michael,Adams,1940-01-23,M,Elkton,MD,21921,Medicare
+1601,CC111207,Maria,Perez,1990-03-16,F,New Castle,DE,19720,Self-Pay
+1602,CC111214,Nicole,Allen,1984-06-15,F,Middletown,DE,19709,Self-Pay
+1603,CC111221,Victor,Turner,1998-06-18,M,Newark,DE,19711,Medicaid
+1604,CC111228,David,Walker,1961-06-25,M,Newark,DE,19711,Commercial - BCBS
+1605,CC111235,Brianna,Davis,1930-03-28,F,Bear,DE,19701,Medicare
+1606,CC111242,Angela,Baker,1945-07-21,F,Wilmington,DE,19801,Commercial - BCBS
+1607,CC111249,Danielle,Johnson,1946-08-16,F,Chester,PA,19013,Medicare
+1608,CC111256,James,Miller,1994-08-12,M,Middletown,DE,19709,Self-Pay
+1609,CC111263,Tanya,Hall,1993-04-29,F,Chester,PA,19013,Commercial - Cigna
+1610,CC111270,Isaac,Walker,1968-01-31,M,Bear,DE,19701,Self-Pay
+1611,CC111277,Carmen,Hill,1930-11-10,F,Dover,DE,19901,Medicare Advantage
+1612,CC111284,Grace,Lopez,1968-02-07,F,Wilmington,DE,19801,Self-Pay
+1613,CC111291,Victor,Roberts,2003-01-18,M,Dover,DE,19901,Commercial - Cigna
+1614,CC111298,Brian,Baker,1969-12-07,M,Dover,DE,19901,Medicaid
+1615,CC111305,Michael,Allen,1953-02-17,M,Newark,DE,19711,Medicare Advantage
+1616,CC111312,Rosa,Lopez,1962-12-03,F,Elkton,MD,21921,Commercial - Cigna
+1617,CC111319,Hannah,Lopez,1959-03-09,F,Middletown,DE,19709,Commercial - BCBS
+1618,CC111326,Jennifer,Wright,1966-10-16,F,Newark,DE,19711,Self-Pay
+1619,CC111333,Tanya,Scott,1960-08-09,F,Middletown,DE,19709,Commercial - BCBS
+1620,CC111340,Aisha,Williams,1992-12-31,F,Dover,DE,19901,Commercial - Aetna
+1621,CC111347,Brianna,Martinez,1972-09-22,F,Dover,DE,19901,Commercial - Cigna
+1622,CC111354,Victor,Lee,1963-07-26,M,Elkton,MD,21921,Commercial - BCBS
+1623,CC111361,Thomas,Roberts,1975-01-01,M,New Castle,DE,19720,Commercial - Aetna
+1624,CC111368,Carlos,Adams,1974-05-24,M,Chester,PA,19013,Commercial - Aetna
+1625,CC111375,Tanya,Wright,1952-02-28,F,New Castle,DE,19720,Medicare
+1626,CC111382,Brianna,Rodriguez,1988-02-13,F,Newark,DE,19711,Commercial - Cigna
+1627,CC111389,Daniel,Williams,1950-05-24,M,Chester,PA,19013,Medicare
+1628,CC111396,Olivia,Scott,1970-02-26,F,Middletown,DE,19709,Commercial - BCBS
+1629,CC111403,Olivia,Scott,1993-09-16,F,Middletown,DE,19709,Commercial - BCBS
+1630,CC111410,Ruth,Young,1949-06-01,F,Chester,PA,19013,Medicare
+1631,CC111417,Carmen,King,1963-08-21,F,Newark,DE,19711,Medicaid
+1632,CC111424,Michael,Nelson,2005-10-06,M,Elkton,MD,21921,Commercial - BCBS
+1633,CC111431,Linda,Williams,1968-02-01,F,Chester,PA,19013,Commercial - Aetna
+1634,CC111438,Eric,Lee,1959-03-22,M,Middletown,DE,19709,Medicare
+1635,CC111445,Eric,Hill,1944-10-25,M,Chester,PA,19013,Medicare
+1636,CC111452,Michael,Wright,1975-11-25,M,Dover,DE,19901,Commercial - BCBS
+1637,CC111459,James,Adams,1987-12-22,M,New Castle,DE,19720,Commercial - Aetna
+1638,CC111466,Isaac,Lee,1988-06-17,M,Chester,PA,19013,Commercial - BCBS
+1639,CC111473,Olivia,Rodriguez,1944-06-07,F,Bear,DE,19701,Medicare Advantage
+1640,CC111480,Michael,Rodriguez,2000-04-03,M,Wilmington,DE,19801,Commercial - BCBS
+1641,CC111487,Angela,Johnson,1982-04-29,F,Wilmington,DE,19801,Commercial - Cigna
+1642,CC111494,Keisha,Miller,1978-12-05,F,Middletown,DE,19709,Self-Pay
+1643,CC111501,Robert,Carter,1933-01-27,M,Elkton,MD,21921,Medicare Advantage
+1644,CC111508,Robert,Lee,1973-07-04,M,Bear,DE,19701,Commercial - Aetna
+1645,CC111515,Emily,King,1988-03-18,F,New Castle,DE,19720,Commercial - Aetna
+1646,CC111522,Raj,Young,1973-01-14,M,Middletown,DE,19709,Commercial - BCBS
+1647,CC111529,Linda,Rodriguez,1978-06-15,F,Middletown,DE,19709,Commercial - BCBS
+1648,CC111536,David,Martinez,1988-01-08,M,Dover,DE,19901,Commercial - Cigna
+1649,CC111543,Kevin,Davis,1942-05-13,M,Bear,DE,19701,Medicare Advantage
+1650,CC111550,Anthony,Hill,1981-06-05,M,Middletown,DE,19709,Commercial - Cigna
+1651,CC111557,Angela,Allen,1956-08-22,F,Dover,DE,19901,Medicare
+1652,CC111564,Aisha,Perez,1956-12-27,F,Bear,DE,19701,Medicare Advantage
+1653,CC111571,Jamal,Green,1956-12-28,M,Middletown,DE,19709,Medicare
+1654,CC111578,Robert,King,1983-05-24,M,Bear,DE,19701,Commercial - Aetna
+1655,CC111585,Ruth,Miller,1960-08-24,F,Dover,DE,19901,Commercial - BCBS
+1656,CC111592,Marcus,Campbell,1936-02-04,M,Dover,DE,19901,Medicare Advantage
+1657,CC111599,Daniel,Johnson,1973-10-13,M,Wilmington,DE,19801,Commercial - Aetna
+1658,CC111606,Raj,Carter,1959-07-29,M,Dover,DE,19901,Commercial - BCBS
+1659,CC111613,Victor,Lee,1980-04-07,M,New Castle,DE,19720,Commercial - BCBS
+1660,CC111620,Anthony,Campbell,1974-02-05,M,Middletown,DE,19709,Medicaid
+1661,CC111627,Kevin,Allen,1943-07-11,M,Middletown,DE,19709,Commercial - BCBS
+1662,CC111634,Marcus,King,1978-12-15,M,Newark,DE,19711,Commercial - Cigna
+1663,CC111641,Michael,Hill,1956-10-11,M,Wilmington,DE,19801,Medicare
+1664,CC111648,Samuel,Williams,1978-09-07,M,Newark,DE,19711,Medicaid
+1665,CC111655,Nicole,Johnson,1957-03-26,F,Elkton,MD,21921,Commercial - BCBS
+1666,CC111662,Brianna,Williams,1969-05-13,F,Dover,DE,19901,Commercial - Aetna
+1667,CC111669,Sofia,Nelson,1975-07-31,F,Dover,DE,19901,Commercial - BCBS
+1668,CC111676,Maria,Carter,2001-08-25,F,Wilmington,DE,19801,Commercial - Cigna
+1669,CC111683,Maria,Scott,1954-08-26,F,Middletown,DE,19709,Medicare
+1670,CC111690,Emily,Roberts,1975-03-08,F,Chester,PA,19013,Commercial - BCBS
+1671,CC111697,Anthony,Allen,1948-06-12,M,Wilmington,DE,19801,Medicare Advantage
+1672,CC111704,Carmen,Lopez,1953-02-12,F,Middletown,DE,19709,Medicare
+1673,CC111711,Raj,Rodriguez,1968-02-04,M,Wilmington,DE,19801,Medicaid
+1674,CC111718,Luis,Green,1982-01-30,M,Bear,DE,19701,Commercial - Aetna
+1675,CC111725,Rosa,Hall,1952-12-23,F,Chester,PA,19013,Commercial - BCBS
+1676,CC111732,Linda,Carter,1963-09-27,F,Dover,DE,19901,Commercial - Cigna
+1677,CC111739,Mei,Mitchell,1971-07-14,F,Bear,DE,19701,Self-Pay
+1678,CC111746,Tanya,Lee,2007-01-12,F,Newark,DE,19711,Commercial - Cigna
+1679,CC111753,Keisha,Baker,1980-02-17,F,Newark,DE,19711,Commercial - Aetna
+1680,CC111760,Michael,Martinez,1942-09-07,M,Elkton,MD,21921,Commercial - BCBS
+1681,CC111767,William,Brown,1984-11-13,M,Middletown,DE,19709,Self-Pay
+1682,CC111774,Linda,Young,1961-05-02,F,Middletown,DE,19709,Commercial - Aetna
+1683,CC111781,Thomas,Smith,1990-10-03,M,Bear,DE,19701,Commercial - Aetna
+1684,CC111788,Kevin,Campbell,1980-01-28,M,Bear,DE,19701,Medicaid
+1685,CC111795,Maria,Roberts,1996-07-26,F,Wilmington,DE,19801,Commercial - BCBS
+1686,CC111802,Mei,Johnson,1964-08-10,F,New Castle,DE,19720,Commercial - Cigna
+1687,CC111809,Aisha,Scott,1936-06-08,F,Bear,DE,19701,Medicare
+1688,CC111816,Raj,Perez,1960-10-10,M,Bear,DE,19701,Medicare Advantage
+1689,CC111823,Sofia,Young,2006-01-06,F,Dover,DE,19901,Commercial - BCBS
+1690,CC111830,Grace,Nelson,1980-11-29,F,Elkton,MD,21921,Medicaid
+1691,CC111837,Aisha,Brown,1950-05-13,F,Chester,PA,19013,Medicare
+1692,CC111844,Kevin,Allen,1978-09-13,M,Bear,DE,19701,Commercial - Aetna
+1693,CC111851,Robert,Walker,1959-08-03,M,Dover,DE,19901,Medicare
+1694,CC111858,Ruth,Young,1978-09-07,F,Chester,PA,19013,Self-Pay
+1695,CC111865,Danielle,Wright,1999-08-09,F,New Castle,DE,19720,Commercial - Cigna
+1696,CC111872,Marcus,Campbell,1972-06-29,M,Elkton,MD,21921,Commercial - BCBS
+1697,CC111879,Tanya,Campbell,1949-06-22,F,New Castle,DE,19720,Medicare
+1698,CC111886,Linda,Johnson,1976-08-29,F,New Castle,DE,19720,Commercial - Aetna
+1699,CC111893,Maria,Brown,1991-02-16,F,Newark,DE,19711,Commercial - Aetna
+1700,CC111900,Michael,Brown,1976-04-22,M,New Castle,DE,19720,Commercial - Cigna
+1701,CC111907,Olivia,Lopez,1995-08-24,F,Middletown,DE,19709,Self-Pay
+1702,CC111914,Samuel,Wright,1948-10-30,M,Elkton,MD,21921,Medicare
+1703,CC111921,Brianna,Davis,1949-06-21,F,Dover,DE,19901,Medicare
+1704,CC111928,David,Lopez,1933-12-12,M,Middletown,DE,19709,Commercial - BCBS
+1705,CC111935,Grace,Williams,1937-07-27,F,New Castle,DE,19720,Commercial - BCBS
+1706,CC111942,Brian,Hill,1954-03-19,M,Middletown,DE,19709,Medicare
+1707,CC111949,Anthony,Baker,1932-03-26,M,Bear,DE,19701,Commercial - BCBS
+1708,CC111956,James,Phillips,1968-07-02,M,Bear,DE,19701,Commercial - Aetna
+1709,CC111963,Andre,Scott,2007-02-02,M,Wilmington,DE,19801,Medicaid
+1710,CC111970,Victor,Roberts,2001-09-25,M,Elkton,MD,21921,Medicaid
+1711,CC111977,Victor,Baker,1960-10-23,M,New Castle,DE,19720,Medicare
+1712,CC111984,Priya,Smith,1981-02-14,F,Middletown,DE,19709,Commercial - Cigna
+1713,CC111991,Andre,Adams,1952-08-07,M,Elkton,MD,21921,Medicare Advantage
+1714,CC111998,Eric,Rodriguez,1954-12-03,M,Newark,DE,19711,Medicare
+1715,CC112005,Eric,King,1948-04-11,M,Bear,DE,19701,Medicare
+1716,CC112012,William,Davis,1983-08-10,M,Bear,DE,19701,Self-Pay
+1717,CC112019,Mei,Mitchell,1961-09-25,F,Chester,PA,19013,Commercial - Aetna
+1718,CC112026,Carmen,Scott,1973-03-06,F,Elkton,MD,21921,Commercial - Aetna
+1719,CC112033,Carlos,Johnson,1976-03-21,M,Chester,PA,19013,Commercial - BCBS
+1720,CC112040,David,Smith,1930-02-07,M,New Castle,DE,19720,Commercial - BCBS
+1721,CC112047,Nicole,Perez,1996-08-20,F,Bear,DE,19701,Medicaid
+1722,CC112054,Danielle,Lee,1949-04-21,F,Chester,PA,19013,Medicare
+1723,CC112061,Danielle,Garcia,1966-11-14,F,Chester,PA,19013,Medicaid
+1724,CC112068,Brianna,Williams,1987-07-26,F,Newark,DE,19711,Self-Pay
+1725,CC112075,Aisha,Roberts,1986-08-03,F,Dover,DE,19901,Commercial - Cigna
+1726,CC112082,Jamal,Nelson,1961-02-02,M,New Castle,DE,19720,Commercial - Aetna
+1727,CC112089,Michael,Martinez,1990-04-25,M,Elkton,MD,21921,Commercial - Cigna
+1728,CC112096,Grace,Hill,1984-07-17,F,Dover,DE,19901,Medicaid
+1729,CC112103,Brian,Walker,1959-07-02,M,Newark,DE,19711,Medicare
+1730,CC112110,Michael,Davis,1971-01-11,M,Bear,DE,19701,Commercial - BCBS
+1731,CC112117,James,Perez,1945-05-21,M,Bear,DE,19701,Medicare
+1732,CC112124,Olivia,Smith,1992-07-01,F,Chester,PA,19013,Commercial - Cigna
+1733,CC112131,Nicole,Perez,1962-11-29,F,Dover,DE,19901,Self-Pay
+1734,CC112138,David,Adams,1950-08-14,M,Middletown,DE,19709,Medicare Advantage
+1735,CC112145,Robert,Roberts,1979-02-16,M,New Castle,DE,19720,Commercial - BCBS
+1736,CC112152,Michael,Williams,1982-09-11,M,New Castle,DE,19720,Medicaid
+1737,CC112159,Keisha,Young,1958-11-30,F,New Castle,DE,19720,Medicare
+1738,CC112166,Nicole,Phillips,1962-07-04,F,Wilmington,DE,19801,Medicaid
+1739,CC112173,Michael,Wright,1959-06-12,M,New Castle,DE,19720,Medicare
+1740,CC112180,Brian,Carter,1970-01-20,M,Dover,DE,19901,Commercial - Aetna
+1741,CC112187,Priya,Young,1970-04-19,F,Elkton,MD,21921,Commercial - Aetna
+1742,CC112194,Grace,Walker,1977-12-03,F,Bear,DE,19701,Commercial - Aetna
+1743,CC112201,David,Lee,1976-10-18,M,Newark,DE,19711,Commercial - BCBS
+1744,CC112208,Hannah,Davis,1955-06-19,F,Bear,DE,19701,Commercial - BCBS
+1745,CC112215,Victor,Adams,1986-11-02,M,Newark,DE,19711,Commercial - BCBS
+1746,CC112222,Jennifer,Johnson,1968-03-14,F,Dover,DE,19901,Self-Pay
+1747,CC112229,Brian,Martinez,1965-07-15,M,Dover,DE,19901,Self-Pay
+1748,CC112236,Linda,Perez,1960-05-17,F,Chester,PA,19013,Commercial - BCBS
+1749,CC112243,Anthony,Brown,1930-03-15,M,Chester,PA,19013,Medicare
+1750,CC112250,Hannah,Rodriguez,1982-02-16,F,Wilmington,DE,19801,Commercial - Cigna
+1751,CC112257,Rosa,Mitchell,1955-02-06,F,New Castle,DE,19720,Medicare Advantage
+1752,CC112264,Carmen,Martinez,1947-11-08,F,Newark,DE,19711,Medicare Advantage
+1753,CC112271,William,Lopez,1952-12-28,M,New Castle,DE,19720,Medicare
+1754,CC112278,Samuel,Lee,1971-05-29,M,New Castle,DE,19720,Commercial - Cigna
+1755,CC112285,Olivia,Hill,1987-06-17,F,Bear,DE,19701,Commercial - Aetna
+1756,CC112292,Hannah,Garcia,1958-04-18,F,Bear,DE,19701,Medicare
+1757,CC112299,Carlos,Smith,1976-06-17,M,Newark,DE,19711,Self-Pay
+1758,CC112306,Anthony,Lopez,1968-08-08,M,Newark,DE,19711,Self-Pay
+1759,CC112313,Eric,King,1937-05-05,M,Wilmington,DE,19801,Medicare
+1760,CC112320,Raj,Smith,1975-04-14,M,Bear,DE,19701,Commercial - BCBS
+1761,CC112327,Sofia,Baker,1970-07-22,F,Middletown,DE,19709,Commercial - BCBS
+1762,CC112334,Isaac,Young,1971-04-15,M,Wilmington,DE,19801,Commercial - Aetna
+1763,CC112341,William,Smith,1944-03-03,M,Bear,DE,19701,Medicare Advantage
+1764,CC112348,Eric,Phillips,1983-04-05,M,Wilmington,DE,19801,Commercial - Aetna
+1765,CC112355,James,Smith,1979-08-07,M,Elkton,MD,21921,Commercial - BCBS
+1766,CC112362,Daniel,Garcia,1943-08-31,M,Wilmington,DE,19801,Medicare Advantage
+1767,CC112369,Priya,Nelson,1945-09-26,F,Newark,DE,19711,Medicare
+1768,CC112376,Michael,Mitchell,1974-03-29,M,Elkton,MD,21921,Self-Pay
+1769,CC112383,Rosa,Mitchell,1944-05-12,F,Elkton,MD,21921,Medicare
+1770,CC112390,Brian,Williams,1972-04-02,M,Newark,DE,19711,Commercial - BCBS
+1771,CC112397,Brian,Roberts,1962-06-02,M,Bear,DE,19701,Self-Pay
+1772,CC112404,Luis,Scott,1959-06-24,M,Dover,DE,19901,Medicare Advantage
+1773,CC112411,Hannah,Lee,1962-12-23,F,Middletown,DE,19709,Medicaid
+1774,CC112418,Danielle,Wright,1969-06-09,F,Wilmington,DE,19801,Self-Pay
+1775,CC112425,Nicole,Phillips,1952-04-02,F,Dover,DE,19901,Commercial - BCBS
+1776,CC112432,Anthony,Perez,1952-06-06,M,New Castle,DE,19720,Medicare
+1777,CC112439,Keisha,Johnson,1965-06-18,F,Middletown,DE,19709,Commercial - Aetna
+1778,CC112446,James,Walker,1984-05-17,M,Middletown,DE,19709,Self-Pay
+1779,CC112453,Jamal,Allen,1970-10-27,M,Chester,PA,19013,Medicaid
+1780,CC112460,Eric,Williams,1953-02-22,M,Newark,DE,19711,Medicare
+1781,CC112467,Carmen,King,1991-04-28,F,Chester,PA,19013,Self-Pay
+1782,CC112474,Anthony,Miller,1936-08-01,M,New Castle,DE,19720,Medicare
+1783,CC112481,Brian,Garcia,1952-01-30,M,Chester,PA,19013,Medicare
+1784,CC112488,Michael,Brown,1977-11-27,M,New Castle,DE,19720,Self-Pay
+1785,CC112495,Victor,Martinez,1930-06-22,M,Dover,DE,19901,Medicare
+1786,CC112502,Emily,Hill,1947-05-13,F,Bear,DE,19701,Medicare Advantage
+1787,CC112509,James,Nelson,1982-07-21,M,New Castle,DE,19720,Commercial - Aetna
+1788,CC112516,Eric,Scott,1974-07-16,M,Middletown,DE,19709,Commercial - BCBS
+1789,CC112523,Olivia,Scott,1968-12-28,F,Newark,DE,19711,Self-Pay
+1790,CC112530,David,Williams,1995-03-10,M,Middletown,DE,19709,Medicaid
+1791,CC112537,Keisha,Perez,1978-10-29,F,Elkton,MD,21921,Self-Pay
+1792,CC112544,Keisha,Miller,1951-10-29,F,New Castle,DE,19720,Medicare
+1793,CC112551,Victor,Nelson,1976-03-02,M,Dover,DE,19901,Commercial - BCBS
+1794,CC112558,Luis,Hall,1961-03-02,M,Wilmington,DE,19801,Commercial - BCBS
+1795,CC112565,Kevin,Perez,1964-05-29,M,Middletown,DE,19709,Commercial - Cigna
+1796,CC112572,Anthony,Smith,1989-06-01,M,Middletown,DE,19709,Commercial - Aetna
+1797,CC112579,James,Martinez,1963-06-30,M,Chester,PA,19013,Commercial - Aetna
+1798,CC112586,Brian,Miller,1987-11-01,M,Dover,DE,19901,Self-Pay
+1799,CC112593,Isaac,Garcia,1997-02-03,M,Elkton,MD,21921,Medicaid
+1800,CC112600,Danielle,Hall,1931-03-18,F,Dover,DE,19901,Commercial - BCBS
+1801,CC112607,Carmen,Johnson,1973-10-29,F,Bear,DE,19701,Commercial - Cigna
+1802,CC112614,Michael,Hill,1978-02-04,M,Middletown,DE,19709,Commercial - Cigna
+1803,CC112621,Angela,Baker,1963-01-30,F,Wilmington,DE,19801,Commercial - BCBS
+1804,CC112628,Luis,King,1945-10-28,M,Bear,DE,19701,Commercial - BCBS
+1805,CC112635,Brian,Perez,1986-03-03,M,Chester,PA,19013,Self-Pay
+1806,CC112642,Thomas,Turner,1979-09-10,M,Chester,PA,19013,Self-Pay
+1807,CC112649,Emily,Rodriguez,1986-11-01,F,New Castle,DE,19720,Commercial - Cigna
+1808,CC112656,Samuel,Phillips,1969-09-17,M,Middletown,DE,19709,Commercial - BCBS
+1809,CC112663,Danielle,Lopez,1944-11-20,F,Chester,PA,19013,Medicare
+1810,CC112670,Rosa,Walker,1985-11-22,F,Middletown,DE,19709,Medicaid
+1811,CC112677,Kevin,Johnson,1968-04-07,M,Middletown,DE,19709,Commercial - Cigna
+1812,CC112684,Michael,Wright,1973-12-26,M,Elkton,MD,21921,Medicaid
+1813,CC112691,Maria,Miller,1972-02-25,F,Wilmington,DE,19801,Medicaid
+1814,CC112698,Raj,Perez,1958-04-02,M,Newark,DE,19711,Medicare
+1815,CC112705,Eric,Nelson,1968-11-07,M,Newark,DE,19711,Self-Pay
+1816,CC112712,Rosa,Scott,1989-10-16,F,New Castle,DE,19720,Commercial - Aetna
+1817,CC112719,Marcus,Lopez,1968-03-22,M,Dover,DE,19901,Medicaid
+1818,CC112726,Tanya,King,1982-06-23,F,Elkton,MD,21921,Commercial - BCBS
+1819,CC112733,Andre,Phillips,1961-09-23,M,Elkton,MD,21921,Commercial - Aetna
+1820,CC112740,Sofia,Williams,1934-04-20,F,Newark,DE,19711,Commercial - BCBS
+1821,CC112747,Marcus,Brown,1948-03-09,M,Bear,DE,19701,Medicare
+1822,CC112754,Ruth,Garcia,1976-02-11,F,Bear,DE,19701,Medicaid
+1823,CC112761,Jamal,Carter,1964-02-03,M,Elkton,MD,21921,Commercial - BCBS
+1824,CC112768,Nicole,Hall,1992-04-27,F,Bear,DE,19701,Self-Pay
+1825,CC112775,Rosa,Garcia,1947-11-15,F,New Castle,DE,19720,Commercial - BCBS
+1826,CC112782,Robert,Brown,1975-06-27,M,New Castle,DE,19720,Self-Pay
+1827,CC112789,Jamal,Hill,1937-09-03,M,Bear,DE,19701,Medicare
+1828,CC112796,Raj,Davis,1961-07-24,M,Elkton,MD,21921,Commercial - Aetna
+1829,CC112803,David,Garcia,1985-12-30,M,Wilmington,DE,19801,Commercial - Cigna
+1830,CC112810,Danielle,Rodriguez,1991-11-14,F,Bear,DE,19701,Self-Pay
+1831,CC112817,Linda,Hill,1930-07-13,F,Middletown,DE,19709,Commercial - BCBS
+1832,CC112824,Priya,Smith,1969-12-04,F,Dover,DE,19901,Commercial - Aetna
+1833,CC112831,Sofia,Garcia,1957-09-11,F,Dover,DE,19901,Medicare Advantage
+1834,CC112838,Ruth,King,1963-02-09,F,Newark,DE,19711,Commercial - Cigna
+1835,CC112845,Samuel,Mitchell,1935-07-20,M,Newark,DE,19711,Medicare Advantage
+1836,CC112852,Brian,Adams,1988-05-13,M,Dover,DE,19901,Commercial - Cigna
+1837,CC112859,Tanya,Hill,1951-08-19,F,Elkton,MD,21921,Medicare
+1838,CC112866,Olivia,Martinez,1960-05-08,F,Chester,PA,19013,Medicare
+1839,CC112873,Emily,Williams,1971-07-18,F,New Castle,DE,19720,Commercial - BCBS
+1840,CC112880,James,Phillips,2007-12-10,M,Newark,DE,19711,Commercial - BCBS
+1841,CC112887,Carlos,Martinez,1960-04-23,M,Newark,DE,19711,Medicare Advantage
+1842,CC112894,Brian,Rodriguez,1969-07-26,M,Elkton,MD,21921,Self-Pay
+1843,CC112901,Brian,Davis,1974-11-17,M,Elkton,MD,21921,Commercial - Cigna
+1844,CC112908,Eric,Brown,1967-09-21,M,Newark,DE,19711,Commercial - BCBS
+1845,CC112915,Thomas,Scott,1955-06-29,M,Middletown,DE,19709,Medicare Advantage
+1846,CC112922,Marcus,Brown,1930-09-10,M,Bear,DE,19701,Medicare
+1847,CC112929,Eric,Walker,1977-08-05,M,Middletown,DE,19709,Commercial - Aetna
+1848,CC112936,Luis,Young,1938-01-11,M,Dover,DE,19901,Medicare
+1849,CC112943,Jennifer,Johnson,1978-06-02,F,Bear,DE,19701,Self-Pay
+1850,CC112950,Tanya,Hall,1988-11-19,F,Bear,DE,19701,Commercial - BCBS
+1851,CC112957,Danielle,Hill,1987-07-11,F,Elkton,MD,21921,Medicaid
+1852,CC112964,Victor,Baker,1936-01-15,M,New Castle,DE,19720,Medicare
+1853,CC112971,Jennifer,Scott,1980-09-03,F,Newark,DE,19711,Commercial - BCBS
+1854,CC112978,Jennifer,Green,1962-06-02,F,Bear,DE,19701,Commercial - BCBS
+1855,CC112985,Emily,Williams,1952-11-19,F,Bear,DE,19701,Commercial - BCBS
+1856,CC112992,Brian,Turner,1981-11-17,M,Chester,PA,19013,Commercial - Cigna
+1857,CC112999,Ruth,Turner,1951-08-26,F,Bear,DE,19701,Commercial - BCBS
+1858,CC113006,Rosa,Carter,1972-08-29,F,Chester,PA,19013,Commercial - Cigna
+1859,CC113013,Isaac,Nelson,1977-12-16,M,Newark,DE,19711,Commercial - Aetna
+1860,CC113020,Kevin,Carter,1968-09-05,M,Chester,PA,19013,Commercial - BCBS
+1861,CC113027,Isaac,Perez,1968-04-06,M,Elkton,MD,21921,Self-Pay
+1862,CC113034,Marcus,Phillips,1974-12-05,M,Chester,PA,19013,Commercial - BCBS
+1863,CC113041,Linda,Perez,1931-01-31,F,Wilmington,DE,19801,Medicare
+1864,CC113048,Hannah,Williams,1984-03-18,F,Middletown,DE,19709,Commercial - Cigna
+1865,CC113055,Andre,Hall,1968-07-17,M,Wilmington,DE,19801,Commercial - Aetna
+1866,CC113062,Mei,Hall,1967-06-26,F,Wilmington,DE,19801,Commercial - BCBS
+1867,CC113069,Luis,Carter,1965-08-16,M,Bear,DE,19701,Medicaid
+1868,CC113076,Andre,Lee,1946-07-21,M,Dover,DE,19901,Medicare
+1869,CC113083,William,Hall,2005-12-22,M,Dover,DE,19901,Commercial - Cigna
+1870,CC113090,Emily,Davis,1952-07-30,F,Dover,DE,19901,Commercial - BCBS
+1871,CC113097,Andre,Roberts,1960-05-03,M,New Castle,DE,19720,Medicare Advantage
+1872,CC113104,Kevin,Mitchell,1985-02-18,M,Newark,DE,19711,Commercial - BCBS
+1873,CC113111,Carlos,Young,1952-07-21,M,Chester,PA,19013,Medicare
+1874,CC113118,Samuel,Hall,1946-10-18,M,Middletown,DE,19709,Medicare
+1875,CC113125,William,Allen,1958-06-14,M,Wilmington,DE,19801,Medicare
+1876,CC113132,Brian,Walker,1964-10-12,M,Bear,DE,19701,Commercial - Aetna
+1877,CC113139,Raj,Hall,1971-05-02,M,Bear,DE,19701,Medicaid
+1878,CC113146,Marcus,Smith,1966-11-21,M,Wilmington,DE,19801,Self-Pay
+1879,CC113153,Linda,Mitchell,1973-02-06,F,New Castle,DE,19720,Self-Pay
+1880,CC113160,Maria,Martinez,1969-08-09,F,Bear,DE,19701,Commercial - Aetna
+1881,CC113167,Aisha,Davis,1962-12-09,F,Wilmington,DE,19801,Commercial - Cigna
+1882,CC113174,Tanya,Rodriguez,2003-10-15,F,Elkton,MD,21921,Commercial - Aetna
+1883,CC113181,Samuel,Carter,1999-09-20,M,Middletown,DE,19709,Commercial - BCBS
+1884,CC113188,Samuel,Baker,2007-05-17,M,Dover,DE,19901,Commercial - Aetna
+1885,CC113195,Victor,Martinez,1931-12-19,M,Wilmington,DE,19801,Medicare
+1886,CC113202,Carlos,Phillips,1946-12-19,M,Middletown,DE,19709,Medicare Advantage
+1887,CC113209,Victor,Nelson,1982-01-24,M,Dover,DE,19901,Commercial - BCBS
+1888,CC113216,David,Perez,1979-02-18,M,Chester,PA,19013,Commercial - Cigna
+1889,CC113223,Michael,Nelson,1955-04-19,M,Wilmington,DE,19801,Commercial - BCBS
+1890,CC113230,Raj,Johnson,1945-06-05,M,Chester,PA,19013,Medicare
+1891,CC113237,Rosa,Scott,1981-03-15,F,Middletown,DE,19709,Medicaid
+1892,CC113244,Jennifer,Phillips,1948-04-08,F,Elkton,MD,21921,Medicare Advantage
+1893,CC113251,James,Mitchell,1961-08-23,M,Bear,DE,19701,Medicaid
+1894,CC113258,Kevin,Miller,1977-05-29,M,Middletown,DE,19709,Commercial - Cigna
+1895,CC113265,Luis,Hall,2007-03-23,M,Wilmington,DE,19801,Self-Pay
+1896,CC113272,Nicole,Baker,1965-06-07,F,Newark,DE,19711,Commercial - BCBS
+1897,CC113279,Carmen,Rodriguez,1965-12-25,F,New Castle,DE,19720,Commercial - Aetna
+1898,CC113286,Rosa,Martinez,1968-12-09,F,Wilmington,DE,19801,Self-Pay
+1899,CC113293,Nicole,Wright,1986-06-28,F,Middletown,DE,19709,Commercial - Cigna
+1900,CC113300,Brian,King,1971-03-25,M,Newark,DE,19711,Commercial - Aetna
+1901,CC113307,Ruth,Garcia,1981-07-05,F,New Castle,DE,19720,Self-Pay
+1902,CC113314,Hannah,Walker,1964-09-05,F,Dover,DE,19901,Commercial - Aetna
+1903,CC113321,Isaac,Miller,1983-12-14,M,Chester,PA,19013,Commercial - Aetna
+1904,CC113328,Brian,Brown,1987-02-16,M,Newark,DE,19711,Commercial - Aetna
+1905,CC113335,Priya,Allen,1938-10-08,F,Elkton,MD,21921,Commercial - BCBS
+1906,CC113342,Isaac,Phillips,1983-07-13,M,Chester,PA,19013,Self-Pay
+1907,CC113349,Samuel,Adams,1961-11-23,M,Elkton,MD,21921,Self-Pay
+1908,CC113356,Samuel,Miller,1970-08-28,M,Middletown,DE,19709,Medicaid
+1909,CC113363,Michael,Rodriguez,1977-12-03,M,Middletown,DE,19709,Medicaid
+1910,CC113370,Anthony,Wright,1978-08-26,M,Bear,DE,19701,Self-Pay
+1911,CC113377,Nicole,Garcia,1977-04-01,F,New Castle,DE,19720,Self-Pay
+1912,CC113384,Anthony,Hill,1960-08-04,M,Middletown,DE,19709,Medicare
+1913,CC113391,Danielle,Mitchell,1964-10-29,F,Middletown,DE,19709,Self-Pay
+1914,CC113398,Sofia,Turner,1941-07-29,F,Elkton,MD,21921,Commercial - BCBS
+1915,CC113405,Aisha,Williams,1968-01-02,F,Wilmington,DE,19801,Commercial - Aetna
+1916,CC113412,Carmen,Miller,1942-01-05,F,Dover,DE,19901,Medicare Advantage
+1917,CC113419,Grace,Allen,1983-09-02,F,Wilmington,DE,19801,Commercial - Aetna
+1918,CC113426,Sofia,Roberts,1980-12-24,F,Wilmington,DE,19801,Commercial - Cigna
+1919,CC113433,Brian,Williams,1987-10-13,M,Bear,DE,19701,Self-Pay
+1920,CC113440,Aisha,Johnson,1961-05-11,F,Newark,DE,19711,Commercial - Cigna
+1921,CC113447,Michael,King,1959-10-23,M,Elkton,MD,21921,Medicare
+1922,CC113454,Kevin,Miller,1965-12-28,M,Newark,DE,19711,Commercial - Cigna
+1923,CC113461,Jennifer,Mitchell,1981-05-11,F,Dover,DE,19901,Commercial - BCBS
+1924,CC113468,Andre,Campbell,1968-07-06,M,Elkton,MD,21921,Medicaid
+1925,CC113475,Luis,Johnson,1992-02-06,M,Newark,DE,19711,Commercial - Aetna
+1926,CC113482,Sofia,Williams,1944-08-12,F,Bear,DE,19701,Medicare Advantage
+1927,CC113489,Nicole,Walker,1973-05-23,F,Wilmington,DE,19801,Commercial - Cigna
+1928,CC113496,Tanya,Young,1957-10-21,F,Newark,DE,19711,Medicare Advantage
+1929,CC113503,Danielle,Johnson,1958-09-08,F,Newark,DE,19711,Commercial - BCBS
+1930,CC113510,Jamal,Phillips,1961-09-08,M,Dover,DE,19901,Commercial - Cigna
+1931,CC113517,Victor,Smith,1954-06-28,M,Dover,DE,19901,Medicare
+1932,CC113524,Daniel,Davis,1946-12-01,M,Elkton,MD,21921,Medicare
+1933,CC113531,Luis,Green,1961-10-07,M,Elkton,MD,21921,Self-Pay
+1934,CC113538,Carlos,Mitchell,1935-12-18,M,Bear,DE,19701,Medicare
+1935,CC113545,Carlos,Turner,1980-12-27,M,New Castle,DE,19720,Commercial - Aetna
+1936,CC113552,Priya,Allen,1993-12-31,F,Dover,DE,19901,Commercial - Aetna
+1937,CC113559,Hannah,Garcia,1961-02-23,F,Chester,PA,19013,Commercial - BCBS
+1938,CC113566,Olivia,Lopez,1964-01-21,F,Wilmington,DE,19801,Commercial - BCBS
+1939,CC113573,Thomas,Allen,1979-10-18,M,Newark,DE,19711,Medicaid
+1940,CC113580,Andre,Turner,1981-04-13,M,Wilmington,DE,19801,Commercial - Cigna
+1941,CC113587,Carlos,Lee,1998-08-01,M,Middletown,DE,19709,Self-Pay
+1942,CC113594,Grace,Brown,1962-03-08,F,Middletown,DE,19709,Medicaid
+1943,CC113601,Sofia,Hill,1987-11-15,F,Bear,DE,19701,Commercial - Aetna
+1944,CC113608,Jamal,Williams,1994-07-28,M,Bear,DE,19701,Commercial - BCBS
+1945,CC113615,Michael,Nelson,1978-07-07,M,Elkton,MD,21921,Commercial - BCBS
+1946,CC113622,Jennifer,Nelson,1964-07-23,F,New Castle,DE,19720,Commercial - Aetna
+1947,CC113629,Kevin,King,1987-07-21,M,Dover,DE,19901,Commercial - BCBS
+1948,CC113636,Ruth,Turner,1955-07-30,F,Bear,DE,19701,Medicare Advantage
+1949,CC113643,Danielle,Green,1967-01-08,F,Middletown,DE,19709,Commercial - Aetna
+1950,CC113650,Rosa,Wright,1976-07-11,F,Chester,PA,19013,Commercial - BCBS
+1951,CC113657,Samuel,Martinez,1965-07-27,M,New Castle,DE,19720,Commercial - BCBS
+1952,CC113664,Priya,Williams,2001-06-29,F,Wilmington,DE,19801,Commercial - BCBS
+1953,CC113671,Isaac,Mitchell,1954-06-08,M,Bear,DE,19701,Commercial - BCBS
+1954,CC113678,William,Phillips,1971-09-01,M,Wilmington,DE,19801,Self-Pay
+1955,CC113685,Samuel,Wright,1948-06-02,M,Elkton,MD,21921,Commercial - BCBS
+1956,CC113692,Marcus,Campbell,1986-09-14,M,Chester,PA,19013,Commercial - Aetna
+1957,CC113699,Eric,Martinez,1991-01-26,M,New Castle,DE,19720,Commercial - Aetna
+1958,CC113706,Hannah,Lopez,1956-05-15,F,Middletown,DE,19709,Commercial - BCBS
+1959,CC113713,Michael,Mitchell,1966-12-07,M,Chester,PA,19013,Self-Pay
+1960,CC113720,Andre,Carter,2005-01-16,M,Dover,DE,19901,Commercial - Aetna
+1961,CC113727,Hannah,Mitchell,1957-07-24,F,Dover,DE,19901,Medicare
+1962,CC113734,William,Smith,1961-03-08,M,New Castle,DE,19720,Commercial - Aetna
+1963,CC113741,Andre,Perez,1973-11-02,M,Dover,DE,19901,Commercial - Aetna
+1964,CC113748,Rosa,Lee,1953-08-13,F,Wilmington,DE,19801,Commercial - BCBS
+1965,CC113755,Samuel,Nelson,1970-11-19,M,Middletown,DE,19709,Self-Pay
+1966,CC113762,Keisha,Allen,1964-02-13,F,Elkton,MD,21921,Commercial - Aetna
+1967,CC113769,Carlos,Allen,1978-11-28,M,New Castle,DE,19720,Self-Pay
+1968,CC113776,Brianna,Carter,1999-08-08,F,Chester,PA,19013,Commercial - Aetna
+1969,CC113783,Anthony,Green,1948-06-28,M,Newark,DE,19711,Medicare
+1970,CC113790,Sofia,Turner,1976-06-28,F,Wilmington,DE,19801,Commercial - Aetna
+1971,CC113797,Sofia,Walker,1960-03-13,F,Chester,PA,19013,Medicare Advantage
+1972,CC113804,Isaac,Scott,1978-05-14,M,Bear,DE,19701,Commercial - Cigna
+1973,CC113811,Brian,Allen,1974-11-14,M,Dover,DE,19901,Commercial - Aetna
+1974,CC113818,Nicole,Johnson,1967-07-28,F,Wilmington,DE,19801,Commercial - BCBS
+1975,CC113825,Tanya,Hill,1954-06-15,F,Chester,PA,19013,Medicare
+1976,CC113832,Aisha,Allen,1970-12-07,F,Newark,DE,19711,Commercial - Aetna
+1977,CC113839,Sofia,Hall,1948-12-25,F,Dover,DE,19901,Medicare
+1978,CC113846,Marcus,Green,1966-05-02,M,Middletown,DE,19709,Commercial - Cigna
+1979,CC113853,Angela,Mitchell,1984-01-23,F,Wilmington,DE,19801,Self-Pay
+1980,CC113860,James,Wright,1953-08-08,M,Bear,DE,19701,Medicare
+1981,CC113867,Carlos,Wright,1959-05-07,M,Elkton,MD,21921,Commercial - BCBS
+1982,CC113874,Brianna,Green,1968-12-14,F,Dover,DE,19901,Commercial - BCBS
+1983,CC113881,Keisha,Carter,1984-04-09,F,Wilmington,DE,19801,Commercial - BCBS
+1984,CC113888,Linda,Johnson,1984-10-10,F,Dover,DE,19901,Commercial - Aetna
+1985,CC113895,Emily,Young,1976-05-07,F,Wilmington,DE,19801,Commercial - Cigna
+1986,CC113902,Raj,Roberts,1942-10-01,M,Newark,DE,19711,Medicare Advantage
+1987,CC113909,Robert,Johnson,1967-06-01,M,Wilmington,DE,19801,Commercial - Cigna
+1988,CC113916,James,Martinez,1971-05-05,M,New Castle,DE,19720,Commercial - Cigna
+1989,CC113923,Hannah,Perez,1962-07-21,F,Dover,DE,19901,Commercial - Aetna
+1990,CC113930,Ruth,Mitchell,1953-12-10,F,Middletown,DE,19709,Medicare Advantage
+1991,CC113937,Carlos,Roberts,2002-02-08,M,New Castle,DE,19720,Medicaid
+1992,CC113944,Linda,Walker,1947-09-17,F,Bear,DE,19701,Commercial - BCBS
+1993,CC113951,William,Garcia,1974-12-09,M,Chester,PA,19013,Self-Pay
+1994,CC113958,Nicole,Adams,1980-02-27,F,Chester,PA,19013,Self-Pay
+1995,CC113965,Carlos,Wright,1976-09-06,M,Middletown,DE,19709,Medicaid
+1996,CC113972,Carlos,King,1966-05-28,M,Middletown,DE,19709,Self-Pay
+1997,CC113979,Grace,Wright,1955-10-16,F,Elkton,MD,21921,Medicare
+1998,CC113986,Raj,Rodriguez,1983-05-11,M,Bear,DE,19701,Self-Pay
+1999,CC113993,Emily,Hall,1966-07-25,F,Dover,DE,19901,Commercial - BCBS
+2000,CC114000,David,Hall,1978-07-04,M,New Castle,DE,19720,Medicaid
+2001,CC114007,Hannah,Miller,1972-10-20,F,Bear,DE,19701,Self-Pay
+2002,CC114014,Tanya,King,1954-09-11,F,Bear,DE,19701,Medicare
+2003,CC114021,Hannah,Carter,1932-05-23,F,Bear,DE,19701,Commercial - BCBS
+2004,CC114028,Samuel,Johnson,1963-05-31,M,Wilmington,DE,19801,Medicaid
+2005,CC114035,Luis,Green,1971-08-18,M,Wilmington,DE,19801,Commercial - Aetna
+2006,CC114042,Carlos,Adams,1962-05-06,M,Newark,DE,19711,Self-Pay
+2007,CC114049,Linda,Smith,1973-10-08,F,Wilmington,DE,19801,Self-Pay
+2008,CC114056,Isaac,King,1991-04-13,M,Elkton,MD,21921,Commercial - BCBS
+2009,CC114063,Robert,Roberts,1952-01-07,M,Wilmington,DE,19801,Medicare
+2010,CC114070,Sofia,Allen,1965-01-26,F,Newark,DE,19711,Commercial - BCBS
+2011,CC114077,Jamal,Phillips,1994-01-06,M,New Castle,DE,19720,Commercial - Cigna
+2012,CC114084,Grace,Scott,1984-06-24,F,Newark,DE,19711,Commercial - BCBS
+2013,CC114091,Carlos,Walker,1968-02-23,M,Chester,PA,19013,Medicaid
+2014,CC114098,Luis,Campbell,1969-07-14,M,Wilmington,DE,19801,Commercial - BCBS
+2015,CC114105,Raj,Perez,1949-06-28,M,Dover,DE,19901,Commercial - BCBS
+2016,CC114112,Brian,Scott,1963-02-10,M,Newark,DE,19711,Medicaid
+2017,CC114119,Carlos,Walker,1938-07-03,M,Middletown,DE,19709,Commercial - BCBS
+2018,CC114126,Anthony,Johnson,1933-03-23,M,Chester,PA,19013,Medicare
+2019,CC114133,Grace,Perez,1954-05-23,F,Dover,DE,19901,Commercial - BCBS
+2020,CC114140,Victor,Garcia,1955-11-02,M,New Castle,DE,19720,Commercial - BCBS
+2021,CC114147,Hannah,Perez,1964-04-13,F,Newark,DE,19711,Self-Pay
+2022,CC114154,Tanya,Turner,1970-05-11,F,Dover,DE,19901,Commercial - BCBS
+2023,CC114161,Daniel,Smith,1950-01-29,M,Elkton,MD,21921,Medicare
+2024,CC114168,David,Adams,1930-02-13,M,Bear,DE,19701,Medicare
+2025,CC114175,Luis,Campbell,1961-03-10,M,Bear,DE,19701,Medicaid
+2026,CC114182,Mei,Hill,1959-05-25,F,Dover,DE,19901,Commercial - BCBS
+2027,CC114189,Hannah,Miller,1957-10-16,F,Dover,DE,19901,Medicare
+2028,CC114196,Angela,Johnson,1950-03-09,F,New Castle,DE,19720,Medicare Advantage
+2029,CC114203,Mei,Campbell,1990-12-01,F,Wilmington,DE,19801,Commercial - BCBS
+2030,CC114210,Olivia,Perez,1971-10-20,F,Wilmington,DE,19801,Self-Pay
+2031,CC114217,Rosa,Brown,1967-01-12,F,Wilmington,DE,19801,Commercial - BCBS
+2032,CC114224,Jennifer,Perez,1985-02-22,F,Wilmington,DE,19801,Medicaid
+2033,CC114231,Ruth,King,1982-11-06,F,Elkton,MD,21921,Medicaid
+2034,CC114238,Jennifer,Walker,1981-04-17,F,Newark,DE,19711,Self-Pay
+2035,CC114245,David,Miller,1978-08-02,M,Bear,DE,19701,Commercial - Cigna
+2036,CC114252,Brianna,Williams,1947-10-14,F,Newark,DE,19711,Medicare
+2037,CC114259,Jamal,Green,1989-08-13,M,Dover,DE,19901,Self-Pay
+2038,CC114266,Raj,Martinez,1965-03-27,M,Middletown,DE,19709,Commercial - Cigna
+2039,CC114273,Eric,Turner,1970-04-11,M,Middletown,DE,19709,Self-Pay
+2040,CC114280,Aisha,Scott,1974-04-25,F,Bear,DE,19701,Self-Pay
+2041,CC114287,Emily,Adams,1962-02-10,F,Dover,DE,19901,Commercial - Cigna
+2042,CC114294,Ruth,Johnson,1957-09-16,F,Middletown,DE,19709,Medicare
+2043,CC114301,Kevin,Williams,1930-05-01,M,Elkton,MD,21921,Medicare Advantage
+2044,CC114308,Tanya,King,1982-09-01,F,Chester,PA,19013,Commercial - Cigna
+2045,CC114315,David,Perez,1973-12-23,M,New Castle,DE,19720,Commercial - Cigna
+2046,CC114322,Ruth,Brown,1962-11-05,F,New Castle,DE,19720,Self-Pay
+2047,CC114329,Marcus,Williams,1953-07-24,M,Chester,PA,19013,Medicare Advantage
+2048,CC114336,Emily,Scott,1962-12-07,F,Bear,DE,19701,Commercial - Cigna
+2049,CC114343,Isaac,Johnson,1930-07-30,M,Bear,DE,19701,Commercial - BCBS
+2050,CC114350,Tanya,Perez,1955-12-19,F,Newark,DE,19711,Medicare
+2051,CC114357,Jennifer,Martinez,1984-07-15,F,New Castle,DE,19720,Self-Pay
+2052,CC114364,Sofia,Davis,2007-12-12,F,Dover,DE,19901,Self-Pay
+2053,CC114371,Brianna,Johnson,1961-02-11,F,Bear,DE,19701,Commercial - Aetna
+2054,CC114378,Marcus,Lopez,1969-08-07,M,Dover,DE,19901,Commercial - Aetna
+2055,CC114385,Linda,Walker,1942-01-19,F,Dover,DE,19901,Commercial - BCBS
+2056,CC114392,Jamal,Miller,1943-08-11,M,Wilmington,DE,19801,Medicare
+2057,CC114399,Tanya,Adams,2007-11-28,F,Newark,DE,19711,Commercial - BCBS
+2058,CC114406,Keisha,Garcia,1966-07-26,F,New Castle,DE,19720,Commercial - BCBS
+2059,CC114413,Grace,Nelson,1962-04-28,F,Dover,DE,19901,Commercial - Cigna
+2060,CC114420,Rosa,Johnson,1972-08-30,F,Newark,DE,19711,Commercial - Cigna
+2061,CC114427,Luis,Roberts,1963-11-10,M,Middletown,DE,19709,Commercial - Aetna
+2062,CC114434,Eric,Davis,1968-05-18,M,Chester,PA,19013,Commercial - Aetna
+2063,CC114441,Luis,Scott,1956-01-02,M,Chester,PA,19013,Medicare Advantage
+2064,CC114448,Danielle,Hall,1985-01-05,F,Elkton,MD,21921,Commercial - Aetna
+2065,CC114455,Eric,Nelson,2005-11-24,M,Newark,DE,19711,Commercial - Aetna
+2066,CC114462,Carmen,Allen,1966-09-25,F,Wilmington,DE,19801,Commercial - BCBS
+2067,CC114469,Anthony,Carter,1957-09-18,M,Chester,PA,19013,Medicare
+2068,CC114476,Keisha,Mitchell,1954-12-08,F,Newark,DE,19711,Medicare
+2069,CC114483,Victor,Mitchell,1949-12-03,M,Chester,PA,19013,Medicare
+2070,CC114490,William,Baker,1963-02-03,M,Wilmington,DE,19801,Commercial - Aetna
+2071,CC114497,Carmen,King,1974-03-07,F,Newark,DE,19711,Commercial - Aetna
+2072,CC114504,Tanya,Scott,1983-09-14,F,Elkton,MD,21921,Medicaid
+2073,CC114511,Brianna,Baker,1974-11-30,F,New Castle,DE,19720,Medicaid
+2074,CC114518,Carlos,Johnson,1949-06-01,M,New Castle,DE,19720,Commercial - BCBS
+2075,CC114525,Kevin,King,1958-01-07,M,Newark,DE,19711,Medicare
+2076,CC114532,Mei,Hall,1989-05-28,F,Bear,DE,19701,Commercial - BCBS
+2077,CC114539,Daniel,Young,1975-12-19,M,Newark,DE,19711,Commercial - Aetna
+2078,CC114546,Samuel,Perez,1960-08-26,M,Newark,DE,19711,Commercial - BCBS
+2079,CC114553,Aisha,Lopez,1963-10-04,F,New Castle,DE,19720,Medicaid
+2080,CC114560,Olivia,Smith,1946-11-01,F,Chester,PA,19013,Commercial - BCBS
+2081,CC114567,Carlos,Baker,1964-08-08,M,Wilmington,DE,19801,Medicaid
+2082,CC114574,Keisha,Smith,1961-07-11,F,Elkton,MD,21921,Commercial - BCBS
+2083,CC114581,Emily,Young,1974-06-08,F,Chester,PA,19013,Commercial - Aetna
+2084,CC114588,Michael,Roberts,1963-06-15,M,Chester,PA,19013,Medicaid
+2085,CC114595,Grace,Hill,1945-11-29,F,Dover,DE,19901,Medicare
+2086,CC114602,Tanya,Smith,1962-04-03,F,Wilmington,DE,19801,Commercial - Cigna
+2087,CC114609,Olivia,Smith,1982-09-16,F,Bear,DE,19701,Medicaid
+2088,CC114616,Danielle,Adams,1940-05-21,F,Elkton,MD,21921,Medicare
+2089,CC114623,Marcus,Adams,1966-02-02,M,Elkton,MD,21921,Self-Pay
+2090,CC114630,Andre,Davis,1945-03-01,M,Chester,PA,19013,Medicare Advantage
+2091,CC114637,Victor,Brown,1963-03-10,M,Chester,PA,19013,Self-Pay
+2092,CC114644,Grace,Williams,1987-12-20,F,Elkton,MD,21921,Commercial - BCBS
+2093,CC114651,Brian,Hall,1954-02-06,M,Middletown,DE,19709,Medicare
+2094,CC114658,Linda,Rodriguez,1968-02-16,F,New Castle,DE,19720,Commercial - Aetna
+2095,CC114665,Luis,Carter,1969-03-23,M,Middletown,DE,19709,Commercial - Aetna
+2096,CC114672,Eric,Johnson,1932-06-26,M,Newark,DE,19711,Commercial - BCBS
+2097,CC114679,Emily,Martinez,1965-04-03,F,Wilmington,DE,19801,Commercial - BCBS
+2098,CC114686,Danielle,King,1974-08-04,F,New Castle,DE,19720,Self-Pay
+2099,CC114693,Samuel,Nelson,1950-11-17,M,Dover,DE,19901,Commercial - BCBS
+2100,CC114700,Priya,Roberts,1961-10-11,F,Elkton,MD,21921,Commercial - Cigna
+2101,CC114707,Kevin,King,1957-03-12,M,Dover,DE,19901,Medicare
+2102,CC114714,Priya,Rodriguez,1943-07-28,F,Dover,DE,19901,Medicare
+2103,CC114721,Angela,Nelson,1945-04-11,F,Wilmington,DE,19801,Medicare
+2104,CC114728,Jamal,Allen,1969-04-06,M,Bear,DE,19701,Self-Pay
+2105,CC114735,Priya,Roberts,1954-05-06,F,Bear,DE,19701,Medicare
+2106,CC114742,Nicole,Hall,1979-02-11,F,Elkton,MD,21921,Self-Pay
+2107,CC114749,Danielle,Phillips,1968-03-08,F,Newark,DE,19711,Self-Pay
+2108,CC114756,Sofia,Perez,1983-02-05,F,Dover,DE,19901,Commercial - BCBS
+2109,CC114763,Luis,Rodriguez,1970-12-28,M,Elkton,MD,21921,Self-Pay
+2110,CC114770,Rosa,Smith,1957-12-26,F,Elkton,MD,21921,Commercial - BCBS
+2111,CC114777,Linda,Nelson,1955-06-04,F,New Castle,DE,19720,Medicare Advantage
+2112,CC114784,Victor,Green,1981-10-16,M,Middletown,DE,19709,Commercial - Cigna
+2113,CC114791,Robert,Lopez,1965-05-20,M,New Castle,DE,19720,Self-Pay
+2114,CC114798,Mei,Carter,1997-08-25,F,Elkton,MD,21921,Medicaid
+2115,CC114805,Maria,Allen,1984-01-04,F,Newark,DE,19711,Medicaid
+2116,CC114812,Sofia,Scott,1987-11-18,F,Chester,PA,19013,Commercial - BCBS
+2117,CC114819,Sofia,Adams,1980-08-27,F,Chester,PA,19013,Commercial - Aetna
+2118,CC114826,Carlos,Perez,1982-01-08,M,Dover,DE,19901,Self-Pay
+2119,CC114833,Luis,Smith,1973-12-08,M,Newark,DE,19711,Commercial - BCBS
+2120,CC114840,Luis,Brown,1971-10-18,M,Newark,DE,19711,Commercial - BCBS
+2121,CC114847,Brian,Hall,1959-08-11,M,Middletown,DE,19709,Medicare
+2122,CC114854,Ruth,Carter,1985-11-18,F,Newark,DE,19711,Commercial - Aetna
+2123,CC114861,David,Adams,1966-02-09,M,Wilmington,DE,19801,Commercial - Aetna
+2124,CC114868,Hannah,Brown,1984-02-04,F,Newark,DE,19711,Commercial - BCBS
+2125,CC114875,Maria,Nelson,1958-11-04,F,Chester,PA,19013,Medicare Advantage
+2126,CC114882,Mei,Wright,1965-04-07,F,Newark,DE,19711,Medicaid
+2127,CC114889,Angela,Williams,1940-05-25,F,Middletown,DE,19709,Medicare
+2128,CC114896,Raj,Walker,2007-01-21,M,Bear,DE,19701,Commercial - Aetna
+2129,CC114903,Sofia,Nelson,2005-03-06,F,Chester,PA,19013,Commercial - Aetna
+2130,CC114910,Carmen,Rodriguez,1964-01-16,F,Newark,DE,19711,Commercial - Cigna
+2131,CC114917,Grace,Hall,1980-02-16,F,Newark,DE,19711,Commercial - Aetna
+2132,CC114924,Victor,Brown,1968-01-28,M,Chester,PA,19013,Commercial - Cigna
+2133,CC114931,Olivia,Hall,1971-08-20,F,Dover,DE,19901,Medicaid
+2134,CC114938,Danielle,Williams,1943-01-14,F,Dover,DE,19901,Medicare Advantage
+2135,CC114945,Andre,King,1976-01-13,M,Middletown,DE,19709,Commercial - BCBS
+2136,CC114952,Angela,Phillips,1987-04-01,F,New Castle,DE,19720,Self-Pay
+2137,CC114959,Samuel,Walker,1976-10-27,M,Middletown,DE,19709,Commercial - Cigna
+2138,CC114966,Carlos,Perez,1970-06-10,M,Newark,DE,19711,Self-Pay
+2139,CC114973,Anthony,Garcia,1960-07-12,M,Elkton,MD,21921,Medicare
+2140,CC114980,Brianna,Hill,1935-06-01,F,New Castle,DE,19720,Commercial - BCBS
+2141,CC114987,Mei,Johnson,1977-12-19,F,New Castle,DE,19720,Self-Pay
+2142,CC114994,Michael,Rodriguez,1948-01-11,M,Elkton,MD,21921,Medicare
+2143,CC115001,Sofia,Green,1966-07-30,F,Bear,DE,19701,Commercial - BCBS
+2144,CC115008,Robert,Nelson,1963-06-01,M,Chester,PA,19013,Commercial - Aetna
+2145,CC115015,Robert,Johnson,1974-08-28,M,Elkton,MD,21921,Commercial - Cigna
+2146,CC115022,Priya,Lopez,1948-02-22,F,Dover,DE,19901,Commercial - BCBS
+2147,CC115029,Andre,Scott,1949-11-10,M,Middletown,DE,19709,Medicare
+2148,CC115036,William,Allen,1957-05-16,M,Newark,DE,19711,Commercial - BCBS
+2149,CC115043,Angela,Green,1960-06-18,F,Dover,DE,19901,Medicare
+2150,CC115050,Emily,Young,1947-07-19,F,Middletown,DE,19709,Medicare
+2151,CC115057,Danielle,King,1969-06-12,F,Elkton,MD,21921,Commercial - BCBS
+2152,CC115064,Kevin,Walker,1958-09-22,M,Middletown,DE,19709,Medicare Advantage
+2153,CC115071,Hannah,Smith,1961-01-08,F,New Castle,DE,19720,Commercial - BCBS
+2154,CC115078,Danielle,Perez,1946-06-11,F,Bear,DE,19701,Medicare
+2155,CC115085,Anthony,Mitchell,1956-08-22,M,Bear,DE,19701,Medicare Advantage
+2156,CC115092,Danielle,Green,1963-06-15,F,Wilmington,DE,19801,Commercial - Cigna
+2157,CC115099,Carlos,Lopez,1973-07-29,M,Elkton,MD,21921,Medicaid
+2158,CC115106,Thomas,Lopez,1963-10-27,M,Wilmington,DE,19801,Commercial - Aetna
+2159,CC115113,Linda,Martinez,1954-05-20,F,Middletown,DE,19709,Commercial - BCBS
+2160,CC115120,Sofia,Wright,1964-04-12,F,Chester,PA,19013,Commercial - Aetna
+2161,CC115127,Carmen,Roberts,1964-11-26,F,Wilmington,DE,19801,Commercial - BCBS
+2162,CC115134,Carmen,Nelson,1988-02-06,F,Middletown,DE,19709,Commercial - BCBS
+2163,CC115141,Nicole,Brown,1975-08-17,F,New Castle,DE,19720,Commercial - Cigna
+2164,CC115148,Thomas,Young,1948-03-08,M,Bear,DE,19701,Commercial - BCBS
+2165,CC115155,Daniel,Allen,1960-12-18,M,New Castle,DE,19720,Medicare
+2166,CC115162,Ruth,Roberts,1957-08-18,F,Middletown,DE,19709,Medicare
+2167,CC115169,Isaac,Scott,1972-12-04,M,Elkton,MD,21921,Self-Pay
+2168,CC115176,Robert,Davis,1972-11-10,M,New Castle,DE,19720,Commercial - BCBS
+2169,CC115183,Aisha,Lee,1989-02-09,F,Chester,PA,19013,Commercial - Aetna
+2170,CC115190,James,Martinez,1960-06-19,M,Dover,DE,19901,Commercial - BCBS
+2171,CC115197,Rosa,Williams,1948-09-14,F,Bear,DE,19701,Medicare Advantage
+2172,CC115204,Angela,Allen,1974-04-20,F,Dover,DE,19901,Self-Pay
+2173,CC115211,David,Turner,1946-06-04,M,Chester,PA,19013,Commercial - BCBS
+2174,CC115218,Grace,Adams,1933-05-29,F,New Castle,DE,19720,Medicare
+2175,CC115225,Olivia,Davis,1977-07-18,F,Chester,PA,19013,Commercial - BCBS
+2176,CC115232,Jennifer,Garcia,1960-07-13,F,Middletown,DE,19709,Medicare
+2177,CC115239,William,Roberts,1978-01-14,M,Elkton,MD,21921,Self-Pay
+2178,CC115246,Luis,Lopez,1954-03-20,M,Chester,PA,19013,Commercial - BCBS
+2179,CC115253,Raj,Adams,1988-05-07,M,Newark,DE,19711,Medicaid
+2180,CC115260,Angela,Rodriguez,1983-07-01,F,Elkton,MD,21921,Medicaid
+2181,CC115267,Tanya,Lopez,1966-01-31,F,New Castle,DE,19720,Commercial - BCBS
+2182,CC115274,Jamal,Hall,1967-04-25,M,Middletown,DE,19709,Self-Pay
+2183,CC115281,Thomas,Green,1942-11-06,M,Bear,DE,19701,Commercial - BCBS
+2184,CC115288,Raj,Williams,1950-08-26,M,Middletown,DE,19709,Medicare
+2185,CC115295,Victor,Campbell,1963-01-10,M,Chester,PA,19013,Commercial - Aetna
+2186,CC115302,Samuel,Mitchell,1983-12-23,M,Bear,DE,19701,Commercial - BCBS
+2187,CC115309,Rosa,Baker,1980-06-19,F,Middletown,DE,19709,Commercial - Cigna
+2188,CC115316,Mei,Adams,1976-04-30,F,Middletown,DE,19709,Commercial - Aetna
+2189,CC115323,Eric,Carter,1960-01-29,M,Chester,PA,19013,Commercial - BCBS
+2190,CC115330,Jennifer,Davis,1977-01-03,F,Newark,DE,19711,Medicaid
+2191,CC115337,Priya,Hill,1953-05-12,F,Elkton,MD,21921,Commercial - BCBS
+2192,CC115344,Mei,Wright,1998-01-24,F,Dover,DE,19901,Commercial - Aetna
+2193,CC115351,Hannah,Johnson,1930-03-19,F,Middletown,DE,19709,Medicare
+2194,CC115358,Olivia,Green,1988-06-15,F,Wilmington,DE,19801,Commercial - BCBS
+2195,CC115365,Jamal,Martinez,1981-11-17,M,Bear,DE,19701,Commercial - Cigna
+2196,CC115372,Aisha,Johnson,1936-12-30,F,Wilmington,DE,19801,Medicare
+2197,CC115379,Thomas,Campbell,1960-01-25,M,Dover,DE,19901,Commercial - BCBS
+2198,CC115386,Brianna,Campbell,1941-08-08,F,Newark,DE,19711,Commercial - BCBS
+2199,CC115393,Jamal,Smith,1951-06-29,M,Middletown,DE,19709,Medicare
+2200,CC115400,Carmen,Johnson,1952-11-25,F,Dover,DE,19901,Medicare Advantage
+2201,CC115407,Thomas,Green,1986-03-30,M,Bear,DE,19701,Medicaid
+2202,CC115414,Jamal,Lee,2007-12-06,M,Wilmington,DE,19801,Commercial - Cigna
+2203,CC115421,Michael,Campbell,1981-07-14,M,Middletown,DE,19709,Self-Pay
+2204,CC115428,Olivia,Campbell,1975-03-22,F,Middletown,DE,19709,Medicaid
+2205,CC115435,William,Williams,1974-01-12,M,Newark,DE,19711,Self-Pay
+2206,CC115442,David,Brown,1983-08-15,M,Chester,PA,19013,Medicaid
+2207,CC115449,Andre,Smith,1946-11-27,M,Newark,DE,19711,Medicare Advantage
+2208,CC115456,Maria,Johnson,1987-05-22,F,Elkton,MD,21921,Self-Pay
+2209,CC115463,Olivia,Roberts,1962-06-17,F,Bear,DE,19701,Commercial - BCBS
+2210,CC115470,Tanya,Lee,1969-06-19,F,Elkton,MD,21921,Medicaid
+2211,CC115477,Brian,Rodriguez,1949-01-08,M,Middletown,DE,19709,Commercial - BCBS
+2212,CC115484,Daniel,Martinez,1960-10-24,M,Chester,PA,19013,Medicare Advantage
+2213,CC115491,Aisha,Turner,1985-09-27,F,Chester,PA,19013,Self-Pay
+2214,CC115498,Angela,Campbell,1979-09-10,F,Newark,DE,19711,Commercial - Aetna
+2215,CC115505,Tanya,Young,1947-10-11,F,New Castle,DE,19720,Medicare
+2216,CC115512,Daniel,Campbell,1998-09-16,M,Newark,DE,19711,Commercial - BCBS
+2217,CC115519,Rosa,Williams,1969-08-24,F,New Castle,DE,19720,Self-Pay
+2218,CC115526,Anthony,Baker,1970-05-31,M,Elkton,MD,21921,Commercial - Aetna
+2219,CC115533,Jennifer,Nelson,1938-08-08,F,Middletown,DE,19709,Commercial - BCBS
+2220,CC115540,Keisha,Scott,1986-07-09,F,Dover,DE,19901,Self-Pay
+2221,CC115547,Robert,Walker,1976-09-15,M,New Castle,DE,19720,Commercial - Cigna
+2222,CC115554,Priya,Carter,1977-01-22,F,Newark,DE,19711,Medicaid
+2223,CC115561,Carlos,Lopez,1970-02-19,M,Middletown,DE,19709,Self-Pay
+2224,CC115568,Eric,Lopez,1954-11-22,M,Elkton,MD,21921,Medicare
+2225,CC115575,Eric,Phillips,1953-04-19,M,Elkton,MD,21921,Medicare Advantage
+2226,CC115582,Brianna,Wright,1950-03-24,F,Newark,DE,19711,Medicare Advantage
+2227,CC115589,Nicole,Walker,1967-11-04,F,Wilmington,DE,19801,Commercial - BCBS
+2228,CC115596,Brianna,Perez,1967-01-08,F,Elkton,MD,21921,Commercial - Aetna
+2229,CC115603,Olivia,Hill,1954-05-29,F,New Castle,DE,19720,Medicare Advantage
+2230,CC115610,Sofia,Campbell,1951-07-23,F,Dover,DE,19901,Medicare
+2231,CC115617,Tanya,Young,1978-05-19,F,Dover,DE,19901,Commercial - BCBS
+2232,CC115624,Eric,Young,1991-09-28,M,Bear,DE,19701,Commercial - Cigna
+2233,CC115631,Sofia,Brown,1944-10-18,F,Middletown,DE,19709,Medicare
+2234,CC115638,David,Rodriguez,1976-02-23,M,Wilmington,DE,19801,Commercial - BCBS
+2235,CC115645,Angela,Scott,1994-06-21,F,Bear,DE,19701,Commercial - BCBS
+2236,CC115652,Isaac,Johnson,1983-06-21,M,New Castle,DE,19720,Self-Pay
+2237,CC115659,Linda,Smith,1994-10-10,F,Chester,PA,19013,Commercial - Cigna
+2238,CC115666,Anthony,Williams,1973-08-23,M,Middletown,DE,19709,Medicaid
+2239,CC115673,Luis,Garcia,1966-12-29,M,Newark,DE,19711,Commercial - BCBS
+2240,CC115680,Angela,Hall,1951-10-18,F,Chester,PA,19013,Medicare Advantage
+2241,CC115687,Brianna,Mitchell,1991-02-14,F,Chester,PA,19013,Commercial - Aetna
+2242,CC115694,Keisha,Smith,1995-01-10,F,Dover,DE,19901,Self-Pay
+2243,CC115701,Emily,Allen,1952-08-02,F,New Castle,DE,19720,Medicare
+2244,CC115708,Jamal,Wright,2007-04-28,M,New Castle,DE,19720,Medicaid
+2245,CC115715,David,Rodriguez,1991-09-09,M,Wilmington,DE,19801,Commercial - Cigna
+2246,CC115722,Robert,Miller,1964-04-20,M,Elkton,MD,21921,Self-Pay
+2247,CC115729,Emily,Baker,1986-04-02,F,Middletown,DE,19709,Commercial - Cigna
+2248,CC115736,Aisha,Adams,1930-07-22,F,Elkton,MD,21921,Commercial - BCBS
+2249,CC115743,Tanya,Scott,1930-12-02,F,Elkton,MD,21921,Medicare
+2250,CC115750,Grace,Walker,2000-10-04,F,Elkton,MD,21921,Self-Pay
+2251,CC115757,Carmen,Allen,1980-04-05,F,Chester,PA,19013,Commercial - Aetna
+2252,CC115764,Daniel,Davis,1964-06-15,M,Wilmington,DE,19801,Commercial - Aetna
+2253,CC115771,Carmen,Davis,1978-02-26,F,Wilmington,DE,19801,Commercial - BCBS
+2254,CC115778,Luis,Miller,1963-01-09,M,Bear,DE,19701,Medicaid
+2255,CC115785,Anthony,Davis,1989-05-22,M,Wilmington,DE,19801,Commercial - Cigna
+2256,CC115792,Brianna,Williams,1946-10-20,F,Chester,PA,19013,Medicare
+2257,CC115799,Angela,Hall,1995-04-06,F,Middletown,DE,19709,Medicaid
+2258,CC115806,Emily,King,1950-04-14,F,Newark,DE,19711,Medicare Advantage
+2259,CC115813,Grace,Perez,1930-09-25,F,Dover,DE,19901,Medicare
+2260,CC115820,Carlos,Martinez,1934-01-05,M,Middletown,DE,19709,Commercial - BCBS
+2261,CC115827,Emily,Walker,1960-09-30,F,Wilmington,DE,19801,Medicare
+2262,CC115834,Eric,Martinez,1998-09-25,M,Middletown,DE,19709,Medicaid
+2263,CC115841,Angela,Smith,1967-09-14,F,Dover,DE,19901,Commercial - BCBS
+2264,CC115848,William,Campbell,1973-11-22,M,Middletown,DE,19709,Commercial - Cigna
+2265,CC115855,Priya,Martinez,1973-03-03,F,Dover,DE,19901,Commercial - Aetna
+2266,CC115862,Ruth,Martinez,1969-06-30,F,Dover,DE,19901,Medicaid
+2267,CC115869,Carlos,Wright,1980-12-12,M,Elkton,MD,21921,Commercial - Aetna
+2268,CC115876,Isaac,Hall,1959-01-30,M,Newark,DE,19711,Medicare
+2269,CC115883,Victor,Martinez,1958-01-22,M,Chester,PA,19013,Commercial - BCBS
+2270,CC115890,Daniel,Mitchell,1980-05-24,M,New Castle,DE,19720,Commercial - BCBS
+2271,CC115897,Linda,Mitchell,1977-06-12,F,Newark,DE,19711,Commercial - Cigna
+2272,CC115904,Andre,Phillips,1966-10-13,M,Newark,DE,19711,Medicaid
+2273,CC115911,Rosa,Wright,1977-07-03,F,Wilmington,DE,19801,Self-Pay
+2274,CC115918,Tanya,Wright,1956-01-03,F,Bear,DE,19701,Medicare
+2275,CC115925,Priya,Martinez,2007-06-21,F,Wilmington,DE,19801,Commercial - Cigna
+2276,CC115932,Aisha,Scott,1965-10-20,F,New Castle,DE,19720,Medicaid
+2277,CC115939,Carlos,Lee,1970-03-22,M,New Castle,DE,19720,Self-Pay
+2278,CC115946,Ruth,Hill,1965-03-12,F,New Castle,DE,19720,Commercial - Cigna
+2279,CC115953,Eric,Davis,1937-09-07,M,Bear,DE,19701,Medicare
+2280,CC115960,Ruth,Young,2007-08-03,F,Middletown,DE,19709,Commercial - Cigna
+2281,CC115967,Marcus,Mitchell,1965-04-03,M,Newark,DE,19711,Commercial - Aetna
+2282,CC115974,Thomas,Perez,1947-05-13,M,Elkton,MD,21921,Commercial - BCBS
+2283,CC115981,Danielle,Miller,1968-10-26,F,New Castle,DE,19720,Self-Pay
+2284,CC115988,Jamal,Green,1966-07-02,M,Wilmington,DE,19801,Medicaid
+2285,CC115995,Brianna,Walker,1985-07-09,F,Bear,DE,19701,Self-Pay
+2286,CC116002,Keisha,Carter,1976-07-15,F,Chester,PA,19013,Medicaid
+2287,CC116009,David,Johnson,1962-05-05,M,Bear,DE,19701,Commercial - BCBS
+2288,CC116016,Jamal,Hill,1930-09-29,M,Middletown,DE,19709,Medicare
+2289,CC116023,Brianna,Martinez,2007-08-15,F,Dover,DE,19901,Commercial - BCBS
+2290,CC116030,Robert,Hall,1979-04-05,M,Chester,PA,19013,Self-Pay
+2291,CC116037,Emily,Garcia,1977-11-08,F,Dover,DE,19901,Commercial - Cigna
+2292,CC116044,Grace,Hall,1984-07-19,F,Elkton,MD,21921,Medicaid
+2293,CC116051,Thomas,Lopez,1957-05-15,M,New Castle,DE,19720,Medicare
+2294,CC116058,Sofia,Roberts,1967-05-13,F,Elkton,MD,21921,Commercial - Aetna
+2295,CC116065,Carmen,Baker,1987-11-14,F,New Castle,DE,19720,Commercial - Aetna
+2296,CC116072,Victor,Roberts,1961-08-26,M,Bear,DE,19701,Commercial - BCBS
+2297,CC116079,Eric,Phillips,1979-12-06,M,Chester,PA,19013,Commercial - Aetna
+2298,CC116086,Grace,Walker,1978-07-30,F,Dover,DE,19901,Self-Pay
+2299,CC116093,Andre,Carter,1983-09-26,M,Wilmington,DE,19801,Medicaid
+2300,CC116100,Jennifer,Campbell,1962-04-16,F,Chester,PA,19013,Commercial - Cigna
+2301,CC116107,Thomas,Phillips,1954-01-25,M,Chester,PA,19013,Medicare Advantage
+2302,CC116114,Daniel,Scott,1950-06-01,M,Bear,DE,19701,Commercial - BCBS
+2303,CC116121,Emily,King,1950-07-19,F,New Castle,DE,19720,Medicare
+2304,CC116128,Michael,Scott,1972-09-22,M,New Castle,DE,19720,Commercial - Cigna
+2305,CC116135,James,Garcia,1937-10-14,M,Dover,DE,19901,Medicare
+2306,CC116142,Sofia,Phillips,1964-09-06,F,Bear,DE,19701,Commercial - BCBS
+2307,CC116149,Linda,Lopez,1961-07-16,F,Newark,DE,19711,Medicaid
+2308,CC116156,Priya,Young,1981-02-23,F,Elkton,MD,21921,Commercial - Cigna
+2309,CC116163,Carlos,Phillips,1945-10-05,M,New Castle,DE,19720,Commercial - BCBS
+2310,CC116170,Jennifer,Lee,1972-12-15,F,New Castle,DE,19720,Medicaid
+2311,CC116177,Michael,Miller,1992-04-25,M,Bear,DE,19701,Commercial - Cigna
+2312,CC116184,Maria,Rodriguez,1988-08-11,F,Wilmington,DE,19801,Medicaid
+2313,CC116191,James,Baker,1983-12-06,M,Middletown,DE,19709,Commercial - BCBS
+2314,CC116198,Victor,Lee,1998-11-05,M,Newark,DE,19711,Commercial - Cigna
+2315,CC116205,Olivia,Carter,1972-10-21,F,Middletown,DE,19709,Commercial - Aetna
+2316,CC116212,Ruth,Martinez,1973-06-11,F,Middletown,DE,19709,Self-Pay
+2317,CC116219,Raj,Hall,1998-01-26,M,Elkton,MD,21921,Commercial - BCBS
+2318,CC116226,Priya,Nelson,1947-06-07,F,Elkton,MD,21921,Commercial - BCBS
+2319,CC116233,Michael,Davis,1959-05-27,M,Newark,DE,19711,Medicare Advantage
+2320,CC116240,Anthony,Roberts,1936-06-06,M,Newark,DE,19711,Commercial - BCBS
+2321,CC116247,Linda,Mitchell,1969-11-07,F,New Castle,DE,19720,Commercial - Aetna
+2322,CC116254,Ruth,Garcia,1951-10-03,F,Wilmington,DE,19801,Commercial - BCBS
+2323,CC116261,Thomas,Brown,1933-06-29,M,New Castle,DE,19720,Medicare
+2324,CC116268,Emily,Davis,1968-08-23,F,New Castle,DE,19720,Self-Pay
+2325,CC116275,Eric,Rodriguez,1954-01-21,M,Newark,DE,19711,Medicare Advantage
+2326,CC116282,James,Williams,1965-11-22,M,Newark,DE,19711,Commercial - Cigna
+2327,CC116289,Luis,Hall,1965-04-12,M,Wilmington,DE,19801,Commercial - Cigna
+2328,CC116296,Isaac,Walker,1963-08-25,M,New Castle,DE,19720,Self-Pay
+2329,CC116303,Angela,Lopez,1961-03-27,F,Newark,DE,19711,Medicaid
+2330,CC116310,Angela,Garcia,1930-03-08,F,Bear,DE,19701,Medicare Advantage
+2331,CC116317,Angela,Rodriguez,1939-09-27,F,Middletown,DE,19709,Medicare
+2332,CC116324,James,Smith,1974-04-07,M,Middletown,DE,19709,Medicaid
+2333,CC116331,Keisha,Miller,1962-08-18,F,New Castle,DE,19720,Commercial - Aetna
+2334,CC116338,Kevin,Garcia,1960-12-15,M,Newark,DE,19711,Commercial - BCBS
+2335,CC116345,Keisha,Allen,1989-10-21,F,Chester,PA,19013,Commercial - BCBS
+2336,CC116352,Isaac,Lee,1985-01-03,M,Bear,DE,19701,Self-Pay
+2337,CC116359,Grace,Martinez,1982-02-13,F,Middletown,DE,19709,Commercial - BCBS
+2338,CC116366,James,Adams,1983-02-27,M,Dover,DE,19901,Commercial - BCBS
+2339,CC116373,Kevin,Campbell,1953-07-16,M,Chester,PA,19013,Commercial - BCBS
+2340,CC116380,Robert,Green,1978-11-18,M,Bear,DE,19701,Commercial - Aetna
+2341,CC116387,Sofia,Martinez,1998-10-24,F,Dover,DE,19901,Commercial - Aetna
+2342,CC116394,Carlos,Miller,1970-02-10,M,Newark,DE,19711,Commercial - Aetna
+2343,CC116401,Tanya,Martinez,1959-04-08,F,Newark,DE,19711,Medicare
+2344,CC116408,Priya,Baker,1953-12-11,F,Chester,PA,19013,Medicare
+2345,CC116415,Michael,Lee,1991-04-19,M,Bear,DE,19701,Commercial - Cigna
+2346,CC116422,Brian,Allen,1971-05-26,M,Bear,DE,19701,Self-Pay
+2347,CC116429,Kevin,Martinez,1962-06-02,M,Chester,PA,19013,Commercial - Aetna
+2348,CC116436,Mei,King,1952-12-31,F,Newark,DE,19711,Commercial - BCBS
+2349,CC116443,Marcus,Walker,1963-11-28,M,Middletown,DE,19709,Self-Pay
+2350,CC116450,Linda,Johnson,2000-10-14,F,Chester,PA,19013,Commercial - BCBS
+2351,CC116457,Marcus,Nelson,1990-01-21,M,Dover,DE,19901,Commercial - Cigna
+2352,CC116464,Hannah,Lopez,1951-09-26,F,Wilmington,DE,19801,Medicare
+2353,CC116471,Rosa,Scott,1945-04-02,F,Elkton,MD,21921,Commercial - BCBS
+2354,CC116478,Rosa,Davis,1992-05-29,F,Elkton,MD,21921,Self-Pay
+2355,CC116485,Rosa,Adams,1951-10-07,F,Wilmington,DE,19801,Medicare
+2356,CC116492,Mei,Green,1992-02-18,F,Chester,PA,19013,Medicaid
+2357,CC116499,Thomas,Hall,1944-09-02,M,New Castle,DE,19720,Commercial - BCBS
+2358,CC116506,Carmen,Johnson,1965-04-29,F,Newark,DE,19711,Self-Pay
+2359,CC116513,James,Miller,1976-06-11,M,Bear,DE,19701,Commercial - Cigna
+2360,CC116520,Brian,Brown,1959-03-27,M,Middletown,DE,19709,Commercial - BCBS
+2361,CC116527,Daniel,Rodriguez,1952-06-22,M,Elkton,MD,21921,Medicare Advantage
+2362,CC116534,Isaac,Garcia,1976-08-22,M,Wilmington,DE,19801,Medicaid
+2363,CC116541,Ruth,Davis,1978-02-03,F,New Castle,DE,19720,Self-Pay
+2364,CC116548,Marcus,Brown,1974-12-02,M,Chester,PA,19013,Commercial - Cigna
+2365,CC116555,David,Turner,1988-10-08,M,New Castle,DE,19720,Commercial - Aetna
+2366,CC116562,James,Martinez,1961-09-08,M,New Castle,DE,19720,Medicaid
+2367,CC116569,Samuel,Phillips,1972-09-21,M,Newark,DE,19711,Medicaid
+2368,CC116576,Sofia,Adams,1954-04-16,F,Dover,DE,19901,Commercial - BCBS
+2369,CC116583,Hannah,King,1959-04-08,F,Middletown,DE,19709,Medicare Advantage
+2370,CC116590,Emily,Martinez,1965-09-17,F,Chester,PA,19013,Self-Pay
+2371,CC116597,Keisha,Baker,1957-08-01,F,New Castle,DE,19720,Commercial - BCBS
+2372,CC116604,Thomas,Lee,1976-01-07,M,New Castle,DE,19720,Commercial - Aetna
+2373,CC116611,Isaac,Green,1945-08-02,M,Chester,PA,19013,Medicare Advantage
+2374,CC116618,Priya,Garcia,1971-06-26,F,Newark,DE,19711,Commercial - Aetna
+2375,CC116625,Priya,Hall,1955-05-19,F,Newark,DE,19711,Medicare
+2376,CC116632,Grace,Perez,1947-08-08,F,Wilmington,DE,19801,Commercial - BCBS
+2377,CC116639,Keisha,Lee,1946-01-06,F,Elkton,MD,21921,Commercial - BCBS
+2378,CC116646,Carlos,Roberts,1950-03-01,M,Elkton,MD,21921,Medicare
+2379,CC116653,Raj,Lopez,2004-04-07,M,Dover,DE,19901,Commercial - Aetna
+2380,CC116660,Anthony,Martinez,1993-04-14,M,New Castle,DE,19720,Medicaid
+2381,CC116667,Brianna,Perez,1999-12-16,F,New Castle,DE,19720,Self-Pay
+2382,CC116674,Nicole,Nelson,1970-09-25,F,Elkton,MD,21921,Self-Pay
+2383,CC116681,Brianna,Smith,1990-12-23,F,Newark,DE,19711,Medicaid
+2384,CC116688,James,Allen,1969-06-21,M,Dover,DE,19901,Self-Pay
+2385,CC116695,Raj,Green,1945-09-25,M,Newark,DE,19711,Commercial - BCBS
+2386,CC116702,Linda,Turner,1988-11-05,F,Chester,PA,19013,Self-Pay
+2387,CC116709,Linda,Perez,1966-04-19,F,Bear,DE,19701,Commercial - Aetna
+2388,CC116716,Olivia,Hall,1930-09-13,F,New Castle,DE,19720,Medicare
+2389,CC116723,Nicole,Smith,1945-11-20,F,Middletown,DE,19709,Commercial - BCBS
+2390,CC116730,Daniel,Phillips,1932-07-28,M,Elkton,MD,21921,Medicare
+2391,CC116737,David,Brown,1943-10-18,M,Wilmington,DE,19801,Medicare
+2392,CC116744,Samuel,Mitchell,1981-02-10,M,Elkton,MD,21921,Commercial - BCBS
+2393,CC116751,Aisha,Green,1979-11-27,F,Bear,DE,19701,Commercial - BCBS
+2394,CC116758,Victor,Brown,1974-11-03,M,Chester,PA,19013,Commercial - Cigna
+2395,CC116765,Samuel,Davis,1974-02-25,M,Middletown,DE,19709,Commercial - Cigna
+2396,CC116772,Anthony,Smith,1966-10-02,M,New Castle,DE,19720,Commercial - BCBS
+2397,CC116779,Brianna,Adams,1944-03-29,F,Middletown,DE,19709,Medicare Advantage
+2398,CC116786,Olivia,Brown,1968-12-20,F,Dover,DE,19901,Commercial - Aetna
+2399,CC116793,Grace,Miller,1950-10-11,F,Newark,DE,19711,Medicare
+2400,CC116800,Brian,Garcia,1959-08-14,M,Chester,PA,19013,Medicare
+2401,CC116807,Daniel,Smith,1982-09-29,M,Elkton,MD,21921,Commercial - BCBS
+2402,CC116814,Daniel,Young,1951-02-27,M,Chester,PA,19013,Medicare Advantage
+2403,CC116821,Maria,Green,1974-04-02,F,Elkton,MD,21921,Self-Pay
+2404,CC116828,Luis,Phillips,1992-09-13,M,Wilmington,DE,19801,Commercial - Cigna
+2405,CC116835,Jennifer,Allen,1958-02-10,F,Chester,PA,19013,Medicare
+2406,CC116842,Nicole,Smith,1941-06-18,F,Wilmington,DE,19801,Commercial - BCBS
+2407,CC116849,Carmen,Phillips,1951-03-09,F,Dover,DE,19901,Medicare Advantage
+2408,CC116856,Samuel,Williams,1944-11-13,M,New Castle,DE,19720,Commercial - BCBS
+2409,CC116863,Aisha,Johnson,1974-02-04,F,Newark,DE,19711,Commercial - BCBS
+2410,CC116870,David,Rodriguez,1947-09-24,M,Middletown,DE,19709,Medicare Advantage
+2411,CC116877,Linda,Roberts,1951-08-12,F,New Castle,DE,19720,Commercial - BCBS
+2412,CC116884,Samuel,Phillips,1961-09-01,M,Newark,DE,19711,Medicaid
+2413,CC116891,Brian,Williams,1973-11-06,M,Chester,PA,19013,Medicaid
+2414,CC116898,Brianna,Turner,1971-10-07,F,New Castle,DE,19720,Medicaid
+2415,CC116905,Jamal,Lee,1968-04-14,M,Newark,DE,19711,Commercial - BCBS
+2416,CC116912,Kevin,Perez,1979-12-17,M,New Castle,DE,19720,Commercial - Cigna
+2417,CC116919,Angela,Hall,1948-12-21,F,Elkton,MD,21921,Medicare
+2418,CC116926,Aisha,Baker,1974-02-17,F,Newark,DE,19711,Commercial - BCBS
+2419,CC116933,Keisha,Hill,1969-02-19,F,Bear,DE,19701,Commercial - Aetna
+2420,CC116940,Brian,Miller,1969-09-05,M,Wilmington,DE,19801,Self-Pay
+2421,CC116947,Andre,Allen,1959-12-27,M,Chester,PA,19013,Medicare
+2422,CC116954,Angela,Johnson,1974-05-04,F,Chester,PA,19013,Self-Pay
+2423,CC116961,Carmen,Roberts,1969-04-30,F,Bear,DE,19701,Medicaid
+2424,CC116968,Carlos,Allen,1968-08-25,M,New Castle,DE,19720,Medicaid
+2425,CC116975,Angela,Perez,1976-06-09,F,Bear,DE,19701,Commercial - Cigna
+2426,CC116982,Anthony,Allen,1967-01-08,M,Dover,DE,19901,Self-Pay
+2427,CC116989,William,Williams,1996-06-22,M,Chester,PA,19013,Commercial - Aetna
+2428,CC116996,Maria,Garcia,1979-09-20,F,Middletown,DE,19709,Commercial - Cigna
+2429,CC117003,Carlos,Davis,1973-02-28,M,Wilmington,DE,19801,Commercial - Aetna
+2430,CC117010,Raj,Walker,2001-10-21,M,Dover,DE,19901,Self-Pay
+2431,CC117017,Ruth,Wright,1946-03-11,F,Newark,DE,19711,Medicare Advantage
+2432,CC117024,Victor,Rodriguez,1985-09-30,M,Middletown,DE,19709,Medicaid
+2433,CC117031,Kevin,Brown,1947-05-26,M,Bear,DE,19701,Medicare Advantage
+2434,CC117038,Carlos,Carter,1977-04-04,M,Chester,PA,19013,Medicaid
+2435,CC117045,James,Carter,1985-01-23,M,Newark,DE,19711,Commercial - BCBS
+2436,CC117052,David,Martinez,1949-04-07,M,Newark,DE,19711,Medicare
+2437,CC117059,David,Johnson,1974-07-17,M,Newark,DE,19711,Commercial - Aetna
+2438,CC117066,Jamal,Campbell,1992-12-19,M,Bear,DE,19701,Medicaid
+2439,CC117073,Michael,Nelson,1969-03-13,M,Bear,DE,19701,Commercial - Cigna
+2440,CC117080,Andre,Perez,1931-06-21,M,Dover,DE,19901,Medicare
+2441,CC117087,Isaac,Carter,1957-11-28,M,Bear,DE,19701,Medicare Advantage
+2442,CC117094,Hannah,King,1976-04-14,F,Elkton,MD,21921,Commercial - Aetna
+2443,CC117101,Ruth,Roberts,1952-10-10,F,Middletown,DE,19709,Commercial - BCBS
+2444,CC117108,Brian,Mitchell,1939-08-20,M,Bear,DE,19701,Medicare
+2445,CC117115,Victor,Wright,1962-07-16,M,Bear,DE,19701,Commercial - Aetna
+2446,CC117122,Daniel,Turner,1968-04-15,M,Chester,PA,19013,Commercial - Aetna
+2447,CC117129,Sofia,Hall,1960-04-03,F,Chester,PA,19013,Medicare
+2448,CC117136,Andre,Hall,1957-04-24,M,Newark,DE,19711,Medicare
+2449,CC117143,Luis,Nelson,1950-08-23,M,Elkton,MD,21921,Medicare
+2450,CC117150,Andre,Roberts,1969-09-01,M,New Castle,DE,19720,Commercial - Cigna
+2451,CC117157,Kevin,Brown,1977-02-21,M,New Castle,DE,19720,Commercial - Cigna
+2452,CC117164,Isaac,Campbell,1990-07-15,M,Wilmington,DE,19801,Medicaid
+2453,CC117171,Raj,Martinez,1988-04-29,M,Middletown,DE,19709,Commercial - BCBS
+2454,CC117178,Samuel,Wright,1965-10-10,M,Bear,DE,19701,Commercial - Cigna
+2455,CC117185,Daniel,Garcia,1965-11-20,M,Chester,PA,19013,Self-Pay
+2456,CC117192,Luis,Brown,1951-09-06,M,New Castle,DE,19720,Medicare Advantage
+2457,CC117199,Anthony,Green,1971-07-31,M,Elkton,MD,21921,Medicaid
+2458,CC117206,Danielle,Walker,1970-11-24,F,Elkton,MD,21921,Commercial - BCBS
+2459,CC117213,Thomas,Lee,1991-09-01,M,New Castle,DE,19720,Medicaid
+2460,CC117220,Jamal,Garcia,1966-03-28,M,Wilmington,DE,19801,Commercial - Aetna
+2461,CC117227,Luis,Mitchell,1974-01-16,M,Elkton,MD,21921,Self-Pay
+2462,CC117234,Rosa,Adams,1960-06-07,F,Middletown,DE,19709,Commercial - BCBS
+2463,CC117241,Hannah,Garcia,1985-11-11,F,Chester,PA,19013,Commercial - Cigna
+2464,CC117248,Jamal,Hall,1973-03-13,M,Wilmington,DE,19801,Medicaid
+2465,CC117255,Robert,Hill,1982-03-26,M,Chester,PA,19013,Commercial - BCBS
+2466,CC117262,Carlos,Baker,1940-01-11,M,Elkton,MD,21921,Medicare Advantage
+2467,CC117269,Emily,Smith,1972-04-04,F,Elkton,MD,21921,Self-Pay
+2468,CC117276,Danielle,Scott,1938-05-26,F,Newark,DE,19711,Medicare
+2469,CC117283,Isaac,Miller,1934-10-14,M,Bear,DE,19701,Medicare
+2470,CC117290,William,Perez,1954-07-26,M,Dover,DE,19901,Medicare
+2471,CC117297,Daniel,Garcia,1951-10-28,M,Elkton,MD,21921,Medicare Advantage
+2472,CC117304,Grace,Allen,1965-05-04,F,Bear,DE,19701,Self-Pay
+2473,CC117311,Raj,Phillips,1978-04-05,M,Bear,DE,19701,Commercial - Aetna
+2474,CC117318,Maria,Garcia,1972-10-21,F,Bear,DE,19701,Medicaid
+2475,CC117325,Andre,Johnson,1976-04-02,M,Dover,DE,19901,Commercial - Aetna
+2476,CC117332,Anthony,Davis,1997-05-04,M,Newark,DE,19711,Self-Pay
+2477,CC117339,Aisha,Roberts,1963-02-26,F,Elkton,MD,21921,Commercial - Aetna
+2478,CC117346,Raj,Davis,1977-09-23,M,Elkton,MD,21921,Commercial - BCBS
+2479,CC117353,Tanya,Campbell,1973-06-19,F,Middletown,DE,19709,Commercial - Cigna
+2480,CC117360,Priya,Williams,1950-11-07,F,Bear,DE,19701,Medicare
+2481,CC117367,Luis,Hall,1963-02-19,M,Wilmington,DE,19801,Self-Pay
+2482,CC117374,Aisha,Brown,1968-07-13,F,Bear,DE,19701,Commercial - BCBS
+2483,CC117381,Ruth,Carter,1972-05-29,F,Middletown,DE,19709,Medicaid
+2484,CC117388,Kevin,Turner,1974-01-22,M,Chester,PA,19013,Medicaid
+2485,CC117395,Carmen,Martinez,1975-10-07,F,Middletown,DE,19709,Commercial - Aetna
+2486,CC117402,Thomas,Perez,1978-08-14,M,Newark,DE,19711,Self-Pay
+2487,CC117409,Kevin,Wright,1977-05-12,M,Wilmington,DE,19801,Medicaid
+2488,CC117416,Isaac,Hill,1959-08-20,M,Middletown,DE,19709,Medicare
+2489,CC117423,Samuel,King,1974-03-04,M,New Castle,DE,19720,Medicaid
+2490,CC117430,Mei,Perez,1948-03-28,F,Middletown,DE,19709,Medicare Advantage
+2491,CC117437,Brian,Adams,1994-11-29,M,New Castle,DE,19720,Medicaid
+2492,CC117444,Daniel,Williams,1969-01-26,M,Middletown,DE,19709,Commercial - BCBS
+2493,CC117451,Brian,Nelson,1945-01-07,M,Wilmington,DE,19801,Medicare
+2494,CC117458,Michael,Lee,1966-09-07,M,Newark,DE,19711,Commercial - Aetna
+2495,CC117465,Ruth,Johnson,1963-06-30,F,Middletown,DE,19709,Medicaid
+2496,CC117472,Raj,Phillips,1955-05-04,M,New Castle,DE,19720,Medicare
+2497,CC117479,Marcus,Perez,1979-04-14,M,Bear,DE,19701,Commercial - BCBS
+2498,CC117486,Tanya,Turner,1979-01-11,F,Bear,DE,19701,Self-Pay
+2499,CC117493,William,Scott,1980-04-05,M,Bear,DE,19701,Commercial - Aetna
+2500,CC117500,Luis,Lee,1952-02-08,M,Dover,DE,19901,Medicare

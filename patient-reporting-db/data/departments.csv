@@ -1,0 +1,9 @@
+department_id,name,unit_type,bed_count
+1,Emergency Department,Emergency,40
+2,Medical-Surgical 4 West,Inpatient,16
+3,Cardiac Step-Down,Inpatient,6
+4,Medical ICU,Critical Care,5
+5,Main OR,Perioperative,12
+6,PACU,Perioperative,18
+7,Primary Care Clinic,Outpatient,0
+8,Cardiology Clinic,Outpatient,0

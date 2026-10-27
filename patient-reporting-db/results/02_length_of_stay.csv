@@ -1,0 +1,13 @@
+unit,icd10,diagnosis,discharges,alos_days,longest_stay_days
+Cardiac Step-Down,I21.4,NSTEMI myocardial infarction,208,4.95,11.8
+Cardiac Step-Down,I50.9,"Heart failure, unspecified",391,4.92,10.4
+Cardiac Step-Down,R07.9,"Chest pain, unspecified",117,1.44,2.0
+Medical ICU,A41.9,"Sepsis, unspecified organism",289,6.26,12.2
+Medical-Surgical 4 West,M17.11,"Primary osteoarthritis, right knee",190,4.81,10.9
+Medical-Surgical 4 West,S72.001A,Fracture of right femoral neck,136,4.74,10.0
+Medical-Surgical 4 West,K35.80,Acute appendicitis,239,4.65,9.8
+Medical-Surgical 4 West,N17.9,"Acute kidney failure, unspecified",196,4.55,8.9
+Medical-Surgical 4 West,J44.1,COPD with acute exacerbation,506,4.44,9.3
+Medical-Surgical 4 West,E11.65,Type 2 diabetes with hyperglycemia,423,4.35,9.4
+Medical-Surgical 4 West,J18.9,"Pneumonia, unspecified organism",618,4.32,9.8
+Medical-Surgical 4 West,N39.0,Urinary tract infection,103,1.49,2.0

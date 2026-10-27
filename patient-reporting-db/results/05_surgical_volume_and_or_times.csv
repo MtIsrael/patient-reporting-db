@@ -1,0 +1,8 @@
+cpt_code,procedure_name,surgeon,cases,avg_or_minutes,avg_incision_to_out_min,avg_pacu_minutes,avg_asa_class
+27130,Total hip arthroplasty,Dr. Tamara Wells,386,154.0,129.0,92.0,2.4
+29881,Knee arthroscopy with meniscectomy,Dr. Tamara Wells,373,84.0,59.0,91.0,2.3
+49505,Inguinal hernia repair,Dr. Robert Klein,370,98.0,73.0,88.0,2.4
+47562,Laparoscopic cholecystectomy,Dr. Robert Klein,353,112.0,87.0,90.0,2.3
+44970,Laparoscopic appendectomy,Dr. Robert Klein,239,95.0,70.0,97.0,2.3
+27447,Total knee arthroplasty,Dr. Tamara Wells,190,146.0,120.0,102.0,2.5
+27236,Open treatment femoral neck fracture,Dr. Tamara Wells,136,135.0,109.0,100.0,2.5

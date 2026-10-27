@@ -1,0 +1,4 @@
+unit,staffed_beds,avg_census,peak_census,avg_occupancy_pct
+Medical-Surgical 4 West,16,12.3,16,77.1
+Medical ICU,5,3.3,7,65.3
+Cardiac Step-Down,6,3.5,7,57.8

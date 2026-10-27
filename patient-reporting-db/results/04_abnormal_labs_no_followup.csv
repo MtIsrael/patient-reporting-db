@@ -1,0 +1,1933 @@
+mrn,patient,test_name,result,reference_range,abnormal_flag,collected,ordering_provider
+CC104431,"Lee, Daniel",Glucose,226.0 mg/dL,70.0 - 140.0,HH,2026-08-27,Dr. Daniel Ortiz
+CC115631,"Brown, Sofia",Creatinine,2.35 mg/dL,0.6 - 1.3,HH,2026-08-25,Dr. Priya Nair
+CC113027,"Perez, Isaac",Potassium,2.4 mmol/L,3.5 - 5.1,LL,2026-08-21,Dr. Daniel Ortiz
+CC115260,"Rodriguez, Angela",Glucose,45.0 mg/dL,70.0 - 140.0,LL,2026-08-18,Dr. Priya Nair
+CC115981,"Miller, Danielle",Creatinine,2.78 mg/dL,0.6 - 1.3,HH,2026-08-10,Dr. Priya Nair
+CC115911,"Wright, Rosa",Sodium,84.0 mmol/L,135.0 - 145.0,LL,2026-08-04,Dr. Priya Nair
+CC101568,"Turner, Robert",Sodium,91.0 mmol/L,135.0 - 145.0,LL,2026-07-31,Dr. Priya Nair
+CC107525,"Carter, Linda",Sodium,85.0 mmol/L,135.0 - 145.0,LL,2026-07-27,Dr. Daniel Ortiz
+CC104872,"Brown, Danielle",Hemoglobin A1c,9.9 %,4.0 - 5.6,HH,2026-07-25,Dr. Priya Nair
+CC104221,"Garcia, Maria",Potassium,2.4 mmol/L,3.5 - 5.1,LL,2026-07-25,Dr. Priya Nair
+CC101596,"Adams, Raj",Creatinine,2.14 mg/dL,0.6 - 1.3,HH,2026-07-23,Dr. Priya Nair
+CC106790,"Carter, Carmen",Creatinine,0.41 mg/dL,0.6 - 1.3,LL,2026-07-23,Dr. Daniel Ortiz
+CC101526,"Martinez, Kevin",Creatinine,2.61 mg/dL,0.6 - 1.3,HH,2026-07-22,Dr. Priya Nair
+CC116702,"Turner, Linda",Sodium,87.0 mmol/L,135.0 - 145.0,LL,2026-07-21,Dr. Daniel Ortiz
+CC115876,"Hall, Isaac",Hemoglobin A1c,9.6 %,4.0 - 5.6,HH,2026-07-19,Dr. Daniel Ortiz
+CC101988,"Williams, Hannah",Sodium,92.0 mmol/L,135.0 - 145.0,LL,2026-07-16,Dr. Daniel Ortiz
+CC115638,"Rodriguez, David",Creatinine,0.38 mg/dL,0.6 - 1.3,LL,2026-07-12,Dr. Priya Nair
+CC112481,"Garcia, Brian",Hemoglobin A1c,10.7 %,4.0 - 5.6,HH,2026-07-08,Dr. Daniel Ortiz
+CC101190,"Campbell, Raj",Potassium,2.4 mmol/L,3.5 - 5.1,LL,2026-06-29,Dr. Laura Chen
+CC106650,"Garcia, David",Creatinine,2.75 mg/dL,0.6 - 1.3,HH,2026-06-13,Dr. Daniel Ortiz
+CC104802,"Adams, Mei",Creatinine,2.13 mg/dL,0.6 - 1.3,HH,2026-06-08,Dr. Daniel Ortiz
+CC104445,"Baker, Jennifer",Glucose,245.0 mg/dL,70.0 - 140.0,HH,2026-06-07,Dr. Priya Nair
+CC116429,"Martinez, Kevin",Creatinine,2.3 mg/dL,0.6 - 1.3,HH,2026-06-06,Dr. Daniel Ortiz
+CC113034,"Phillips, Marcus",Hemoglobin A1c,2.6 %,4.0 - 5.6,LL,2026-06-03,Dr. Daniel Ortiz
+CC113027,"Perez, Isaac",Hemoglobin A1c,2.7 %,4.0 - 5.6,LL,2026-06-01,Dr. Priya Nair
+CC107644,"Lee, Grace",Potassium,2.3 mmol/L,3.5 - 5.1,LL,2026-05-31,Dr. Marcus Reid
+CC112201,"Lee, David",Sodium,85.0 mmol/L,135.0 - 145.0,LL,2026-05-30,Dr. Priya Nair
+CC116961,"Roberts, Carmen",Creatinine,2.09 mg/dL,0.6 - 1.3,HH,2026-05-28,Dr. Marcus Reid
+CC113475,"Johnson, Luis",Glucose,228.0 mg/dL,70.0 - 140.0,HH,2026-05-19,Dr. Priya Nair
+CC104669,"Allen, Linda",Creatinine,0.39 mg/dL,0.6 - 1.3,LL,2026-05-14,Dr. Priya Nair
+CC112026,"Scott, Carmen",Sodium,81.0 mmol/L,135.0 - 145.0,LL,2026-05-12,Dr. Priya Nair
+CC114147,"Perez, Hannah",Sodium,85.0 mmol/L,135.0 - 145.0,LL,2026-05-10,Dr. Daniel Ortiz
+CC115078,"Perez, Danielle",Creatinine,2.44 mg/dL,0.6 - 1.3,HH,2026-05-10,Dr. Priya Nair
+CC100826,"Miller, Jamal",Creatinine,0.38 mg/dL,0.6 - 1.3,LL,2026-05-07,Dr. Priya Nair
+CC115806,"King, Emily",Potassium,2.4 mmol/L,3.5 - 5.1,LL,2026-04-26,Dr. Laura Chen
+CC117423,"King, Samuel",Creatinine,2.24 mg/dL,0.6 - 1.3,HH,2026-04-18,Dr. Daniel Ortiz
+CC117101,"Roberts, Ruth",Potassium,2.4 mmol/L,3.5 - 5.1,LL,2026-04-17,Dr. Daniel Ortiz
+CC109436,"Perez, Mei",Sodium,89.0 mmol/L,135.0 - 145.0,LL,2026-04-13,Dr. Priya Nair
+CC116975,"Perez, Angela",Hemoglobin A1c,9.8 %,4.0 - 5.6,HH,2026-04-12,Dr. Daniel Ortiz
+CC100637,"Walker, Victor",Sodium,84.0 mmol/L,135.0 - 145.0,LL,2026-04-11,Dr. Marcus Reid
+CC115085,"Mitchell, Anthony",Creatinine,2.09 mg/dL,0.6 - 1.3,HH,2026-04-07,Dr. Daniel Ortiz
+CC114056,"King, Isaac",Creatinine,2.54 mg/dL,0.6 - 1.3,HH,2026-04-05,Dr. Priya Nair
+CC110801,"Johnson, Daniel",Creatinine,2.1 mg/dL,0.6 - 1.3,HH,2026-03-29,Dr. Daniel Ortiz
+CC102072,"Green, Anthony",Sodium,93.0 mmol/L,135.0 - 145.0,LL,2026-03-28,Dr. Priya Nair
+CC105628,"Johnson, Luis",Creatinine,0.38 mg/dL,0.6 - 1.3,LL,2026-03-28,Dr. Daniel Ortiz
+CC107049,"Walker, William",Creatinine,2.27 mg/dL,0.6 - 1.3,HH,2026-03-23,Dr. Marcus Reid
+CC103199,"Wright, Maria",Sodium,88.0 mmol/L,135.0 - 145.0,LL,2026-03-23,Dr. Priya Nair
+CC104858,"Green, Keisha",Sodium,86.0 mmol/L,135.0 - 145.0,LL,2026-03-11,Dr. Daniel Ortiz
+CC117311,"Phillips, Raj",Sodium,85.0 mmol/L,135.0 - 145.0,LL,2026-03-09,Dr. Daniel Ortiz
+CC107161,"King, Jennifer",Glucose,251.0 mg/dL,70.0 - 140.0,HH,2026-03-06,Dr. Daniel Ortiz
+CC104844,"Phillips, Emily",Creatinine,2.19 mg/dL,0.6 - 1.3,HH,2026-03-02,Dr. Daniel Ortiz
+CC107217,"Hill, Grace",Creatinine,0.36 mg/dL,0.6 - 1.3,LL,2026-03-02,Dr. Priya Nair
+CC105789,"Rodriguez, Emily",Potassium,2.4 mmol/L,3.5 - 5.1,LL,2026-03-01,Dr. Priya Nair
+CC117346,"Davis, Raj",Potassium,2.4 mmol/L,3.5 - 5.1,LL,2026-02-24,Dr. Priya Nair
+CC115757,"Allen, Carmen",Creatinine,2.26 mg/dL,0.6 - 1.3,HH,2026-02-22,Dr. Priya Nair
+CC110178,"Baker, Kevin",Glucose,234.0 mg/dL,70.0 - 140.0,HH,2026-02-19,Dr. Priya Nair
+CC113811,"Allen, Brian",Potassium,2.1 mmol/L,3.5 - 5.1,LL,2026-02-18,Dr. Daniel Ortiz
+CC104130,"Walker, Ruth",Sodium,90.0 mmol/L,135.0 - 145.0,LL,2026-02-18,Dr. Daniel Ortiz
+CC116835,"Allen, Jennifer",Creatinine,2.41 mg/dL,0.6 - 1.3,HH,2026-02-03,Dr. Laura Chen
+CC106825,"Adams, William",Creatinine,2.44 mg/dL,0.6 - 1.3,HH,2026-02-03,Dr. Priya Nair
+CC106965,"Johnson, Kevin",Creatinine,0.37 mg/dL,0.6 - 1.3,LL,2026-02-01,Dr. Laura Chen
+CC108218,"Hall, Linda",Hemoglobin A1c,9.8 %,4.0 - 5.6,HH,2026-01-25,Dr. Daniel Ortiz
+CC115610,"Campbell, Sofia",Creatinine,2.65 mg/dL,0.6 - 1.3,HH,2026-01-22,Dr. Laura Chen
+CC114448,"Hall, Danielle",Glucose,47.0 mg/dL,70.0 - 140.0,LL,2026-01-18,Dr. Daniel Ortiz
+CC105740,"Perez, Angela",Creatinine,2.27 mg/dL,0.6 - 1.3,HH,2026-01-17,Dr. Priya Nair
+CC107252,"Lopez, Carlos",Sodium,88.0 mmol/L,135.0 - 145.0,LL,2026-01-16,Dr. Daniel Ortiz
+CC114308,"King, Tanya",Creatinine,0.39 mg/dL,0.6 - 1.3,LL,2026-01-13,Dr. Marcus Reid
+CC107567,"Davis, Eric",Creatinine,0.41 mg/dL,0.6 - 1.3,LL,2026-01-11,Dr. Priya Nair
+CC103486,"Garcia, Mei",Creatinine,2.09 mg/dL,0.6 - 1.3,HH,2026-01-08,Dr. Daniel Ortiz
+CC114833,"Smith, Luis",Creatinine,2.29 mg/dL,0.6 - 1.3,HH,2026-01-04,Dr. Daniel Ortiz
+CC111172,"Lee, David",Hemoglobin A1c,2.7 %,4.0 - 5.6,LL,2026-01-01,Dr. Priya Nair
+CC107574,"Walker, Brianna",Creatinine,0.4 mg/dL,0.6 - 1.3,LL,2026-01-01,Dr. Daniel Ortiz
+CC116233,"Davis, Michael",Glucose,274.0 mg/dL,70.0 - 140.0,HH,2025-12-29,Dr. Priya Nair
+CC116520,"Brown, Brian",Hemoglobin A1c,2.6 %,4.0 - 5.6,LL,2025-12-24,Dr. Daniel Ortiz
+CC114728,"Allen, Jamal",Potassium,2.3 mmol/L,3.5 - 5.1,LL,2025-12-18,Dr. Priya Nair
+CC115512,"Campbell, Daniel",Creatinine,2.4 mg/dL,0.6 - 1.3,HH,2025-12-15,Dr. Priya Nair
+CC102415,"Davis, Jennifer",Glucose,237.0 mg/dL,70.0 - 140.0,HH,2025-12-15,Dr. Daniel Ortiz
+CC113510,"Phillips, Jamal",Sodium,85.0 mmol/L,135.0 - 145.0,LL,2025-12-12,Dr. Daniel Ortiz
+CC105306,"Garcia, Isaac",Creatinine,2.15 mg/dL,0.6 - 1.3,HH,2025-12-11,Dr. Marcus Reid
+CC107665,"Lee, Michael",Creatinine,2.14 mg/dL,0.6 - 1.3,HH,2025-12-09,Dr. Daniel Ortiz
+CC112376,"Mitchell, Michael",Potassium,2.3 mmol/L,3.5 - 5.1,LL,2025-12-09,Dr. Daniel Ortiz
+CC117024,"Rodriguez, Victor",Creatinine,2.7 mg/dL,0.6 - 1.3,HH,2025-12-05,Dr. Marcus Reid
+CC117024,"Rodriguez, Victor",Sodium,82.0 mmol/L,135.0 - 145.0,LL,2025-12-05,Dr. Marcus Reid
+CC113090,"Davis, Emily",Potassium,2.1 mmol/L,3.5 - 5.1,LL,2025-12-03,Dr. Daniel Ortiz
+CC111375,"Wright, Tanya",Sodium,94.0 mmol/L,135.0 - 145.0,LL,2025-12-02,Dr. Priya Nair
+CC100686,"Nelson, Nicole",Sodium,84.0 mmol/L,135.0 - 145.0,LL,2025-12-01,Dr. Priya Nair
+CC116520,"Brown, Brian",Sodium,81.0 mmol/L,135.0 - 145.0,LL,2025-11-16,Dr. Priya Nair
+CC102135,"Miller, Keisha",Sodium,87.0 mmol/L,135.0 - 145.0,LL,2025-11-07,Dr. Priya Nair
+CC110178,"Baker, Kevin",Glucose,232.0 mg/dL,70.0 - 140.0,HH,2025-11-06,Dr. Daniel Ortiz
+CC114630,"Davis, Andre",Hemoglobin A1c,2.6 %,4.0 - 5.6,LL,2025-10-28,Dr. Daniel Ortiz
+CC114630,"Davis, Andre",Glucose,44.0 mg/dL,70.0 - 140.0,LL,2025-10-28,Dr. Daniel Ortiz
+CC116107,"Phillips, Thomas",Sodium,94.0 mmol/L,135.0 - 145.0,LL,2025-10-17,Dr. Priya Nair
+CC113874,"Green, Brianna",Creatinine,2.12 mg/dL,0.6 - 1.3,HH,2025-10-15,Dr. Daniel Ortiz
+CC115113,"Martinez, Linda",Creatinine,2.28 mg/dL,0.6 - 1.3,HH,2025-10-12,Dr. Laura Chen
+CC114028,"Johnson, Samuel",Creatinine,2.24 mg/dL,0.6 - 1.3,HH,2025-10-11,Dr. Daniel Ortiz
+CC102534,"Turner, Emily",Creatinine,2.13 mg/dL,0.6 - 1.3,HH,2025-10-04,Dr. Marcus Reid
+CC109408,"Williams, Rosa",Creatinine,2.48 mg/dL,0.6 - 1.3,HH,2025-10-04,Dr. Laura Chen
+CC112544,"Miller, Keisha",Creatinine,2.3 mg/dL,0.6 - 1.3,HH,2025-09-29,Dr. Daniel Ortiz
+CC115141,"Brown, Nicole",Creatinine,2.78 mg/dL,0.6 - 1.3,HH,2025-09-29,Dr. Daniel Ortiz
+CC115141,"Brown, Nicole",Potassium,2.2 mmol/L,3.5 - 5.1,LL,2025-09-29,Dr. Daniel Ortiz
+CC107882,"Adams, James",Sodium,92.0 mmol/L,135.0 - 145.0,LL,2025-09-27,Dr. Laura Chen
+CC100203,"Allen, Linda",Creatinine,2.25 mg/dL,0.6 - 1.3,HH,2025-09-20,Dr. Priya Nair
+CC110423,"Scott, Samuel",Creatinine,2.61 mg/dL,0.6 - 1.3,HH,2025-09-20,Dr. Priya Nair
+CC104641,"Hall, Eric",Creatinine,2.22 mg/dL,0.6 - 1.3,HH,2025-09-19,Dr. Laura Chen
+CC109758,"Garcia, Brianna",Creatinine,2.11 mg/dL,0.6 - 1.3,HH,2025-09-18,Dr. Daniel Ortiz
+CC116086,"Walker, Grace",Glucose,232.0 mg/dL,70.0 - 140.0,HH,2025-09-14,Dr. Daniel Ortiz
+CC116408,"Baker, Priya",Creatinine,0.37 mg/dL,0.6 - 1.3,LL,2025-09-13,Dr. Priya Nair
+CC103409,"Allen, Angela",Creatinine,0.39 mg/dL,0.6 - 1.3,LL,2025-09-08,Dr. Priya Nair
+CC103192,"King, Marcus",Sodium,92.0 mmol/L,135.0 - 145.0,LL,2025-08-31,Dr. Priya Nair
+CC102135,"Miller, Keisha",Creatinine,2.27 mg/dL,0.6 - 1.3,HH,2025-08-26,Dr. Daniel Ortiz
+CC108148,"Johnson, Luis",Creatinine,0.39 mg/dL,0.6 - 1.3,LL,2025-08-25,Dr. Priya Nair
+CC107595,"Rodriguez, Aisha",Potassium,2.3 mmol/L,3.5 - 5.1,LL,2025-08-23,Dr. Marcus Reid
+CC116961,"Roberts, Carmen",Glucose,43.0 mg/dL,70.0 - 140.0,LL,2025-08-21,Dr. Daniel Ortiz
+CC113034,"Phillips, Marcus",Creatinine,2.28 mg/dL,0.6 - 1.3,HH,2025-08-19,Dr. Daniel Ortiz
+CC115372,"Johnson, Aisha",Creatinine,2.61 mg/dL,0.6 - 1.3,HH,2025-08-17,Dr. Priya Nair
+CC108442,"Martinez, Danielle",Hemoglobin A1c,9.0 %,4.0 - 5.6,HH,2025-08-11,Dr. Priya Nair
+CC111452,"Wright, Michael",Potassium,2.4 mmol/L,3.5 - 5.1,LL,2025-08-02,Dr. Priya Nair
+CC115078,"Perez, Danielle",Creatinine,2.24 mg/dL,0.6 - 1.3,HH,2025-07-31,Dr. Daniel Ortiz
+CC112586,"Miller, Brian",Creatinine,2.61 mg/dL,0.6 - 1.3,HH,2025-07-31,Dr. Priya Nair
+CC110808,"Roberts, Danielle",Sodium,83.0 mmol/L,135.0 - 145.0,LL,2025-07-30,Dr. Priya Nair
+CC112166,"Phillips, Nicole",Creatinine,2.26 mg/dL,0.6 - 1.3,HH,2025-07-28,Dr. Priya Nair
+CC104872,"Brown, Danielle",Glucose,47.0 mg/dL,70.0 - 140.0,LL,2025-07-26,Dr. Daniel Ortiz
+CC112138,"Adams, David",Glucose,43.0 mg/dL,70.0 - 140.0,LL,2025-07-25,Dr. Daniel Ortiz
+CC104788,"Martinez, Olivia",Creatinine,2.62 mg/dL,0.6 - 1.3,HH,2025-07-16,Dr. Laura Chen
+CC110899,"Green, Ruth",Potassium,2.1 mmol/L,3.5 - 5.1,LL,2025-07-12,Dr. Daniel Ortiz
+CC103500,"Hill, Robert",Creatinine,0.38 mg/dL,0.6 - 1.3,LL,2025-07-11,Dr. Daniel Ortiz
+CC116240,"Roberts, Anthony",Creatinine,2.29 mg/dL,0.6 - 1.3,HH,2025-07-08,Dr. Daniel Ortiz
+CC104998,"Young, Aisha",Creatinine,2.15 mg/dL,0.6 - 1.3,HH,2025-07-08,Dr. Priya Nair
+CC101414,"Allen, Nicole",Creatinine,0.39 mg/dL,0.6 - 1.3,LL,2025-07-03,Dr. Priya Nair
+CC113979,"Wright, Grace",Sodium,94.0 mmol/L,135.0 - 145.0,LL,2025-06-26,Dr. Priya Nair
+CC115141,"Brown, Nicole",Potassium,2.4 mmol/L,3.5 - 5.1,LL,2025-06-26,Dr. Daniel Ortiz
+CC114434,"Davis, Eric",Creatinine,0.38 mg/dL,0.6 - 1.3,LL,2025-06-25,Dr. Daniel Ortiz
+CC114196,"Johnson, Angela",Creatinine,2.79 mg/dL,0.6 - 1.3,HH,2025-06-23,Dr. Priya Nair
+CC113678,"Phillips, William",Potassium,2.2 mmol/L,3.5 - 5.1,LL,2025-06-23,Dr. Daniel Ortiz
+CC115078,"Perez, Danielle",Creatinine,2.65 mg/dL,0.6 - 1.3,HH,2025-06-22,Dr. Priya Nair
+CC107721,"Young, Aisha",Creatinine,2.22 mg/dL,0.6 - 1.3,HH,2025-06-18,Dr. Daniel Ortiz
+CC106909,"Wright, James",Creatinine,3.16 mg/dL,0.6 - 1.3,HH,2025-06-17,Dr. Priya Nair
+CC108505,"Young, Eric",Hemoglobin A1c,2.6 %,4.0 - 5.6,LL,2025-06-12,Dr. Daniel Ortiz
+CC117136,"Hall, Andre",Sodium,90.0 mmol/L,135.0 - 145.0,LL,2025-06-10,Dr. Daniel Ortiz
+CC114448,"Hall, Danielle",Creatinine,2.53 mg/dL,0.6 - 1.3,HH,2025-06-06,Dr. Priya Nair
+CC115386,"Campbell, Brianna",Potassium,2.2 mmol/L,3.5 - 5.1,LL,2025-06-05,Dr. Priya Nair
+CC100154,"Hill, Brianna",Creatinine,2.38 mg/dL,0.6 - 1.3,HH,2025-06-03,Dr. Laura Chen
+CC103528,"Miller, Daniel",Creatinine,2.12 mg/dL,0.6 - 1.3,HH,2025-06-01,Dr. Daniel Ortiz
+CC100420,"Lee, Carlos",Sodium,81.0 mmol/L,135.0 - 145.0,LL,2025-05-31,Dr. Laura Chen
+CC113195,"Martinez, Victor",Sodium,87.0 mmol/L,135.0 - 145.0,LL,2025-05-30,Dr. Daniel Ortiz
+CC107742,"Scott, Thomas",Creatinine,2.54 mg/dL,0.6 - 1.3,HH,2025-05-21,Dr. Daniel Ortiz
+CC114651,"Hall, Brian",Sodium,84.0 mmol/L,135.0 - 145.0,LL,2025-05-21,Dr. Daniel Ortiz
+CC107315,"Smith, William",Creatinine,2.39 mg/dL,0.6 - 1.3,HH,2025-05-19,Dr. Daniel Ortiz
+CC113636,"Turner, Ruth",Glucose,274.0 mg/dL,70.0 - 140.0,HH,2025-05-08,Dr. Priya Nair
+CC105278,"Garcia, Hannah",Potassium,2.3 mmol/L,3.5 - 5.1,LL,2025-05-05,Dr. Daniel Ortiz
+CC115883,"Martinez, Victor",Creatinine,2.75 mg/dL,0.6 - 1.3,HH,2025-05-04,Dr. Daniel Ortiz
+CC114553,"Lopez, Aisha",Creatinine,2.4 mg/dL,0.6 - 1.3,HH,2025-05-02,Dr. Laura Chen
+CC103451,"Young, Eric",Creatinine,2.18 mg/dL,0.6 - 1.3,HH,2025-05-01,Dr. Daniel Ortiz
+CC106251,"Scott, Aisha",Potassium,2.2 mmol/L,3.5 - 5.1,LL,2025-04-25,Dr. Priya Nair
+CC116765,"Davis, Samuel",Potassium,2.3 mmol/L,3.5 - 5.1,LL,2025-04-19,Dr. Priya Nair
+CC103010,"Carter, William",Creatinine,2.09 mg/dL,0.6 - 1.3,HH,2025-04-11,Dr. Priya Nair
+CC116772,"Smith, Anthony",Creatinine,2.44 mg/dL,0.6 - 1.3,HH,2025-04-02,Dr. Daniel Ortiz
+CC102233,"Baker, James",Creatinine,2.43 mg/dL,0.6 - 1.3,HH,2025-04-01,Dr. Daniel Ortiz
+CC112075,"Roberts, Aisha",Creatinine,2.18 mg/dL,0.6 - 1.3,HH,2025-04-01,Dr. Priya Nair
+CC113713,"Mitchell, Michael",Creatinine,0.37 mg/dL,0.6 - 1.3,LL,2025-03-30,Dr. Laura Chen
+CC110528,"Brown, Thomas",Creatinine,2.42 mg/dL,0.6 - 1.3,HH,2025-03-29,Dr. Priya Nair
+CC116674,"Nelson, Nicole",Sodium,94.0 mmol/L,135.0 - 145.0,LL,2025-03-29,Dr. Daniel Ortiz
+CC111445,"Hill, Eric",Creatinine,0.39 mg/dL,0.6 - 1.3,LL,2025-03-28,Dr. Daniel Ortiz
+CC105229,"Hill, David",Creatinine,2.09 mg/dL,0.6 - 1.3,HH,2025-03-27,Dr. Daniel Ortiz
+CC100189,"Nelson, Emily",Hemoglobin A1c,9.0 %,4.0 - 5.6,HH,2025-03-27,Dr. Priya Nair
+CC112593,"Garcia, Isaac",Hemoglobin A1c,2.5 %,4.0 - 5.6,LL,2025-03-26,Dr. Daniel Ortiz
+CC100315,"Brown, Danielle",Creatinine,2.12 mg/dL,0.6 - 1.3,HH,2025-03-25,Dr. Priya Nair
+CC110878,"Hill, Carmen",Sodium,85.0 mmol/L,135.0 - 145.0,LL,2025-03-22,Dr. Laura Chen
+CC101274,"Adams, Keisha",Creatinine,0.38 mg/dL,0.6 - 1.3,LL,2025-03-21,Dr. Daniel Ortiz
+CC111095,"Mitchell, Maria",Creatinine,0.36 mg/dL,0.6 - 1.3,LL,2025-03-21,Dr. Marcus Reid
+CC109499,"Carter, Victor",Hemoglobin A1c,9.8 %,4.0 - 5.6,HH,2025-03-21,Dr. Priya Nair
+CC104312,"Lopez, Brian",Creatinine,2.18 mg/dL,0.6 - 1.3,HH,2025-03-18,Dr. Daniel Ortiz
+CC107616,"Baker, Eric",Creatinine,2.14 mg/dL,0.6 - 1.3,HH,2025-03-16,Dr. Laura Chen
+CC108141,"Lee, Danielle",Potassium,2.4 mmol/L,3.5 - 5.1,LL,2025-03-16,Dr. Priya Nair
+CC111319,"Lopez, Hannah",Creatinine,2.58 mg/dL,0.6 - 1.3,HH,2025-03-15,Dr. Priya Nair
+CC106426,"Baker, Andre",Creatinine,2.13 mg/dL,0.6 - 1.3,HH,2025-03-15,Dr. Marcus Reid
+CC109142,"Martinez, Emily",Creatinine,0.36 mg/dL,0.6 - 1.3,LL,2025-03-15,Dr. Priya Nair
+CC116884,"Phillips, Samuel",Potassium,2.4 mmol/L,3.5 - 5.1,LL,2025-03-15,Dr. Daniel Ortiz
+CC110241,"Scott, Sofia",Glucose,45.0 mg/dL,70.0 - 140.0,LL,2025-03-11,Dr. Priya Nair
+CC106461,"Johnson, Victor",Potassium,2.4 mmol/L,3.5 - 5.1,LL,2025-03-11,Dr. Daniel Ortiz
+CC103892,"Lee, Isaac",Glucose,229.0 mg/dL,70.0 - 140.0,HH,2025-03-09,Dr. Priya Nair
+CC103892,"Lee, Isaac",Hemoglobin A1c,2.7 %,4.0 - 5.6,LL,2025-03-09,Dr. Priya Nair
+CC112761,"Carter, Jamal",Creatinine,0.36 mg/dL,0.6 - 1.3,LL,2025-03-07,Dr. Priya Nair
+CC106958,"Rodriguez, Grace",Creatinine,0.4 mg/dL,0.6 - 1.3,LL,2025-03-07,Dr. Priya Nair
+CC102464,"Adams, Eric",Glucose,254.0 mg/dL,70.0 - 140.0,HH,2025-03-07,Dr. Priya Nair
+CC100903,"Perez, Luis",Creatinine,0.38 mg/dL,0.6 - 1.3,LL,2025-03-04,Dr. Marcus Reid
+CC108456,"Johnson, Carmen",Creatinine,2.32 mg/dL,0.6 - 1.3,HH,2025-03-03,Dr. Daniel Ortiz
+CC112474,"Miller, Anthony",Hemoglobin A1c,10.4 %,4.0 - 5.6,HH,2025-03-03,Dr. Daniel Ortiz
+CC107196,"Scott, Maria",Potassium,2.2 mmol/L,3.5 - 5.1,LL,2025-03-02,Dr. Daniel Ortiz
+CC106888,"Roberts, Brian",Creatinine,0.39 mg/dL,0.6 - 1.3,LL,2025-02-28,Dr. Daniel Ortiz
+CC113496,"Young, Tanya",Creatinine,2.13 mg/dL,0.6 - 1.3,HH,2025-02-27,Dr. Daniel Ortiz
+CC107042,"Williams, Hannah",Hemoglobin A1c,2.7 %,4.0 - 5.6,LL,2025-02-26,Dr. Priya Nair
+CC103283,"Campbell, Angela",Sodium,84.0 mmol/L,135.0 - 145.0,LL,2025-02-25,Dr. Marcus Reid
+CC112152,"Williams, Michael",Creatinine,2.82 mg/dL,0.6 - 1.3,HH,2025-02-24,Dr. Laura Chen
+CC110731,"Hill, Hannah",Creatinine,2.18 mg/dL,0.6 - 1.3,HH,2025-02-23,Dr. Daniel Ortiz
+CC115302,"Mitchell, Samuel",Creatinine,2.09 mg/dL,0.6 - 1.3,HH,2025-02-19,Dr. Priya Nair
+CC112327,"Baker, Sofia",Creatinine,0.38 mg/dL,0.6 - 1.3,LL,2025-02-18,Dr. Priya Nair
+CC112516,"Scott, Eric",Creatinine,2.19 mg/dL,0.6 - 1.3,HH,2025-02-18,Dr. Priya Nair
+CC112397,"Roberts, Brian",Creatinine,2.42 mg/dL,0.6 - 1.3,HH,2025-02-14,Dr. Daniel Ortiz
+CC109611,"Scott, Andre",Creatinine,2.68 mg/dL,0.6 - 1.3,HH,2025-02-14,Dr. Priya Nair
+CC113027,"Perez, Isaac",Hemoglobin A1c,2.5 %,4.0 - 5.6,LL,2025-02-13,Dr. Priya Nair
+CC103591,"Mitchell, James",Creatinine,2.38 mg/dL,0.6 - 1.3,HH,2025-02-13,Dr. Priya Nair
+CC108841,"Hall, Luis",Creatinine,2.24 mg/dL,0.6 - 1.3,HH,2025-02-13,Dr. Daniel Ortiz
+CC106643,"Nelson, Keisha",Creatinine,2.4 mg/dL,0.6 - 1.3,HH,2025-02-12,Dr. Priya Nair
+CC104669,"Allen, Linda",Creatinine,2.5 mg/dL,0.6 - 1.3,HH,2025-02-12,Dr. Daniel Ortiz
+CC103374,"Miller, Rosa",Creatinine,0.39 mg/dL,0.6 - 1.3,LL,2025-02-12,Dr. Priya Nair
+CC112467,"King, Carmen",Sodium,91.0 mmol/L,135.0 - 145.0,LL,2025-02-09,Dr. Daniel Ortiz
+CC116583,"King, Hannah",Creatinine,2.33 mg/dL,0.6 - 1.3,HH,2025-02-07,Dr. Laura Chen
+CC105208,"Johnson, Jennifer",Hemoglobin A1c,2.7 %,4.0 - 5.6,LL,2025-02-04,Dr. Daniel Ortiz
+CC111088,"Scott, Linda",Hemoglobin A1c,9.2 %,4.0 - 5.6,HH,2025-02-02,Dr. Daniel Ortiz
+CC103150,"Scott, Brian",Creatinine,2.24 mg/dL,0.6 - 1.3,HH,2025-02-01,Dr. Priya Nair
+CC106951,"Wright, Carmen",Sodium,86.0 mmol/L,135.0 - 145.0,LL,2025-02-01,Dr. Daniel Ortiz
+CC105411,"Lopez, Linda",Potassium,2.3 mmol/L,3.5 - 5.1,LL,2025-01-31,Dr. Priya Nair
+CC109100,"Roberts, Carmen",Creatinine,0.41 mg/dL,0.6 - 1.3,LL,2025-01-31,Dr. Daniel Ortiz
+CC108547,"Martinez, Danielle",Creatinine,3.37 mg/dL,0.6 - 1.3,HH,2025-01-30,Dr. Daniel Ortiz
+CC100350,"Smith, Anthony",Creatinine,2.33 mg/dL,0.6 - 1.3,HH,2025-01-28,Dr. Daniel Ortiz
+CC103255,"Brown, Aisha",Creatinine,2.11 mg/dL,0.6 - 1.3,HH,2025-01-23,Dr. Daniel Ortiz
+CC100511,"Carter, Keisha",Potassium,2.1 mmol/L,3.5 - 5.1,LL,2025-01-19,Dr. Laura Chen
+CC107728,"Campbell, William",Creatinine,2.27 mg/dL,0.6 - 1.3,HH,2025-01-15,Dr. Daniel Ortiz
+CC102856,"Carter, Raj",Creatinine,2.43 mg/dL,0.6 - 1.3,HH,2025-01-14,Dr. Priya Nair
+CC114644,"Williams, Grace",Creatinine,2.29 mg/dL,0.6 - 1.3,HH,2025-01-13,Dr. Laura Chen
+CC107959,"Nelson, Anthony",Creatinine,2.73 mg/dL,0.6 - 1.3,HH,2025-01-12,Dr. Laura Chen
+CC112558,"Hall, Luis",Sodium,81.0 mmol/L,135.0 - 145.0,LL,2025-01-10,Dr. Priya Nair
+CC111109,"Lopez, David",Potassium,2.2 mmol/L,3.5 - 5.1,LL,2025-01-09,Dr. Priya Nair
+CC109625,"Hill, Sofia",Creatinine,2.33 mg/dL,0.6 - 1.3,HH,2025-01-07,Dr. Priya Nair
+CC105565,"Green, Anthony",Creatinine,2.18 mg/dL,0.6 - 1.3,HH,2025-01-07,Dr. Daniel Ortiz
+CC107189,"Nelson, Maria",Sodium,92.0 mmol/L,135.0 - 145.0,LL,2025-01-07,Dr. Priya Nair
+CC114847,"Hall, Brian",Creatinine,3.01 mg/dL,0.6 - 1.3,HH,2025-01-05,Dr. Priya Nair
+CC116317,"Rodriguez, Angela",Creatinine,2.35 mg/dL,0.6 - 1.3,HH,2025-01-04,Dr. Priya Nair
+CC105278,"Garcia, Hannah",Creatinine,2.2 mg/dL,0.6 - 1.3,HH,2025-01-04,Dr. Marcus Reid
+CC116625,"Hall, Priya",Creatinine,2.15 mg/dL,0.6 - 1.3,HH,2025-01-01,Dr. Daniel Ortiz
+CC106132,"Roberts, Hannah",Potassium,5.6 mmol/L,3.5 - 5.1,H,2026-08-30,Dr. Daniel Ortiz
+CC106132,"Roberts, Hannah",Creatinine,1.93 mg/dL,0.6 - 1.3,H,2026-08-30,Dr. Daniel Ortiz
+CC117045,"Carter, James",Hemoglobin A1c,6.6 %,4.0 - 5.6,H,2026-08-30,Dr. Priya Nair
+CC102198,"Nelson, Robert",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-08-29,Dr. Priya Nair
+CC102198,"Nelson, Robert",Potassium,3.1 mmol/L,3.5 - 5.1,L,2026-08-29,Dr. Priya Nair
+CC111319,"Lopez, Hannah",Sodium,146.0 mmol/L,135.0 - 145.0,H,2026-08-29,Dr. Priya Nair
+CC111319,"Lopez, Hannah",Potassium,5.3 mmol/L,3.5 - 5.1,H,2026-08-29,Dr. Priya Nair
+CC107385,"Johnson, Michael",Sodium,153.0 mmol/L,135.0 - 145.0,H,2026-08-29,Dr. Priya Nair
+CC100140,"Allen, James",Potassium,6.4 mmol/L,3.5 - 5.1,H,2026-08-29,Dr. Daniel Ortiz
+CC102002,"Lee, Danielle",Potassium,5.3 mmol/L,3.5 - 5.1,H,2026-08-28,Dr. Marcus Reid
+CC105971,"Davis, Nicole",Hemoglobin A1c,7.9 %,4.0 - 5.6,H,2026-08-28,Dr. Priya Nair
+CC108162,"King, Andre",Sodium,151.0 mmol/L,135.0 - 145.0,H,2026-08-28,Dr. Priya Nair
+CC108162,"King, Andre",Potassium,6.3 mmol/L,3.5 - 5.1,H,2026-08-28,Dr. Priya Nair
+CC108162,"King, Andre",Creatinine,1.53 mg/dL,0.6 - 1.3,H,2026-08-28,Dr. Priya Nair
+CC111102,"Allen, Isaac",Sodium,147.0 mmol/L,135.0 - 145.0,H,2026-08-27,Dr. Priya Nair
+CC104431,"Lee, Daniel",Hemoglobin A1c,6.0 %,4.0 - 5.6,H,2026-08-27,Dr. Daniel Ortiz
+CC104046,"Young, Aisha",Potassium,6.4 mmol/L,3.5 - 5.1,H,2026-08-27,Dr. Daniel Ortiz
+CC109520,"Campbell, Tanya",Sodium,147.0 mmol/L,135.0 - 145.0,H,2026-08-27,Dr. Laura Chen
+CC105411,"Lopez, Linda",Hemoglobin A1c,8.7 %,4.0 - 5.6,H,2026-08-26,Dr. Daniel Ortiz
+CC116961,"Roberts, Carmen",Glucose,216.0 mg/dL,70.0 - 140.0,H,2026-08-26,Dr. Priya Nair
+CC116961,"Roberts, Carmen",Hemoglobin A1c,3.8 %,4.0 - 5.6,L,2026-08-26,Dr. Priya Nair
+CC111284,"Lopez, Grace",Potassium,5.2 mmol/L,3.5 - 5.1,H,2026-08-25,Dr. Priya Nair
+CC116702,"Turner, Linda",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-08-25,Dr. Daniel Ortiz
+CC106678,"Williams, Emily",Creatinine,0.58 mg/dL,0.6 - 1.3,L,2026-08-25,Dr. Priya Nair
+CC106377,"Rodriguez, Luis",Hemoglobin A1c,5.8 %,4.0 - 5.6,H,2026-08-24,Dr. Priya Nair
+CC117171,"Martinez, Raj",Potassium,6.3 mmol/L,3.5 - 5.1,H,2026-08-24,Dr. Laura Chen
+CC100231,"Young, Jamal",Creatinine,1.72 mg/dL,0.6 - 1.3,H,2026-08-24,Dr. Priya Nair
+CC100735,"Young, Rosa",Potassium,5.2 mmol/L,3.5 - 5.1,H,2026-08-24,Dr. Priya Nair
+CC101547,"Hall, Priya",Sodium,123.0 mmol/L,135.0 - 145.0,L,2026-08-23,Dr. Daniel Ortiz
+CC101547,"Hall, Priya",Potassium,3.1 mmol/L,3.5 - 5.1,L,2026-08-23,Dr. Daniel Ortiz
+CC103696,"Turner, Olivia",Hemoglobin A1c,3.3 %,4.0 - 5.6,L,2026-08-22,Dr. Priya Nair
+CC104746,"Brown, Eric",Creatinine,1.9 mg/dL,0.6 - 1.3,H,2026-08-21,Dr. Priya Nair
+CC100539,"Lopez, David",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-08-21,Dr. Laura Chen
+CC115043,"Green, Angela",Creatinine,1.36 mg/dL,0.6 - 1.3,H,2026-08-20,Dr. Priya Nair
+CC114112,"Scott, Brian",Sodium,149.0 mmol/L,135.0 - 145.0,H,2026-08-20,Dr. Laura Chen
+CC114112,"Scott, Brian",Potassium,5.2 mmol/L,3.5 - 5.1,H,2026-08-20,Dr. Laura Chen
+CC115099,"Lopez, Carlos",Potassium,5.7 mmol/L,3.5 - 5.1,H,2026-08-19,Dr. Priya Nair
+CC113230,"Johnson, Raj",Sodium,154.0 mmol/L,135.0 - 145.0,H,2026-08-18,Dr. Daniel Ortiz
+CC100777,"Hill, Ruth",Creatinine,1.87 mg/dL,0.6 - 1.3,H,2026-08-18,Dr. Daniel Ortiz
+CC110878,"Hill, Carmen",Potassium,2.8 mmol/L,3.5 - 5.1,L,2026-08-18,Dr. Marcus Reid
+CC115792,"Williams, Brianna",Sodium,154.0 mmol/L,135.0 - 145.0,H,2026-08-17,Dr. Priya Nair
+CC115792,"Williams, Brianna",Potassium,6.2 mmol/L,3.5 - 5.1,H,2026-08-17,Dr. Priya Nair
+CC113286,"Martinez, Rosa",Sodium,149.0 mmol/L,135.0 - 145.0,H,2026-08-16,Dr. Daniel Ortiz
+CC113286,"Martinez, Rosa",Potassium,5.7 mmol/L,3.5 - 5.1,H,2026-08-16,Dr. Daniel Ortiz
+CC113286,"Martinez, Rosa",Creatinine,1.55 mg/dL,0.6 - 1.3,H,2026-08-16,Dr. Daniel Ortiz
+CC113041,"Perez, Linda",Sodium,146.0 mmol/L,135.0 - 145.0,H,2026-08-16,Dr. Priya Nair
+CC110941,"Hill, Angela",Creatinine,0.53 mg/dL,0.6 - 1.3,L,2026-08-15,Dr. Daniel Ortiz
+CC113538,"Mitchell, Carlos",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-08-15,Dr. Priya Nair
+CC100336,"Carter, Tanya",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-08-14,Dr. Priya Nair
+CC103500,"Hill, Robert",Sodium,146.0 mmol/L,135.0 - 145.0,H,2026-08-13,Dr. Priya Nair
+CC103500,"Hill, Robert",Potassium,2.5 mmol/L,3.5 - 5.1,L,2026-08-13,Dr. Priya Nair
+CC108344,"Johnson, Mei",Hemoglobin A1c,6.7 %,4.0 - 5.6,H,2026-08-11,Dr. Priya Nair
+CC108344,"Johnson, Mei",Glucose,197.0 mg/dL,70.0 - 140.0,H,2026-08-11,Dr. Priya Nair
+CC114035,"Green, Luis",Hemoglobin A1c,6.9 %,4.0 - 5.6,H,2026-08-10,Dr. Priya Nair
+CC114035,"Green, Luis",Glucose,176.0 mg/dL,70.0 - 140.0,H,2026-08-10,Dr. Priya Nair
+CC100007,"Williams, Ruth",Creatinine,1.59 mg/dL,0.6 - 1.3,H,2026-08-09,Dr. Priya Nair
+CC103227,"Rodriguez, Jennifer",Sodium,150.0 mmol/L,135.0 - 145.0,H,2026-08-08,Dr. Daniel Ortiz
+CC103227,"Rodriguez, Jennifer",Potassium,5.4 mmol/L,3.5 - 5.1,H,2026-08-08,Dr. Daniel Ortiz
+CC111235,"Davis, Brianna",Hemoglobin A1c,7.2 %,4.0 - 5.6,H,2026-08-07,Dr. Priya Nair
+CC103941,"Campbell, Anthony",Potassium,6.2 mmol/L,3.5 - 5.1,H,2026-08-05,Dr. Laura Chen
+CC103941,"Campbell, Anthony",Sodium,125.0 mmol/L,135.0 - 145.0,L,2026-08-05,Dr. Laura Chen
+CC106636,"Brown, Michael",Glucose,63.0 mg/dL,70.0 - 140.0,L,2026-08-05,Dr. Priya Nair
+CC105943,"Miller, Grace",Creatinine,0.54 mg/dL,0.6 - 1.3,L,2026-08-04,Dr. Priya Nair
+CC102471,"Brown, William",Potassium,5.2 mmol/L,3.5 - 5.1,H,2026-08-03,Dr. Priya Nair
+CC110479,"Walker, Anthony",Hemoglobin A1c,3.3 %,4.0 - 5.6,L,2026-08-03,Dr. Daniel Ortiz
+CC108673,"Adams, Tanya",Hemoglobin A1c,5.7 %,4.0 - 5.6,H,2026-08-02,Dr. Priya Nair
+CC105509,"Davis, Ruth",Hemoglobin A1c,8.2 %,4.0 - 5.6,H,2026-08-02,Dr. Daniel Ortiz
+CC116688,"Allen, James",Hemoglobin A1c,6.7 %,4.0 - 5.6,H,2026-08-02,Dr. Priya Nair
+CC110395,"Garcia, Robert",Potassium,5.7 mmol/L,3.5 - 5.1,H,2026-07-31,Dr. Priya Nair
+CC110780,"Adams, Jamal",Hemoglobin A1c,8.2 %,4.0 - 5.6,H,2026-07-31,Dr. Priya Nair
+CC110780,"Adams, Jamal",Glucose,153.0 mg/dL,70.0 - 140.0,H,2026-07-31,Dr. Priya Nair
+CC100364,"Lee, Luis",Potassium,5.3 mmol/L,3.5 - 5.1,H,2026-07-31,Dr. Daniel Ortiz
+CC100364,"Lee, Luis",Creatinine,1.53 mg/dL,0.6 - 1.3,H,2026-07-31,Dr. Daniel Ortiz
+CC104501,"Garcia, Daniel",Hemoglobin A1c,6.5 %,4.0 - 5.6,H,2026-07-30,Dr. Daniel Ortiz
+CC104501,"Garcia, Daniel",Glucose,169.0 mg/dL,70.0 - 140.0,H,2026-07-30,Dr. Daniel Ortiz
+CC108512,"Carter, Jamal",Creatinine,1.78 mg/dL,0.6 - 1.3,H,2026-07-30,Dr. Daniel Ortiz
+CC110829,"Perez, Angela",Hemoglobin A1c,7.0 %,4.0 - 5.6,H,2026-07-30,Dr. Daniel Ortiz
+CC110829,"Perez, Angela",Glucose,168.0 mg/dL,70.0 - 140.0,H,2026-07-30,Dr. Daniel Ortiz
+CC111109,"Lopez, David",Hemoglobin A1c,8.0 %,4.0 - 5.6,H,2026-07-30,Dr. Priya Nair
+CC113349,"Adams, Samuel",Potassium,6.2 mmol/L,3.5 - 5.1,H,2026-07-29,Dr. Priya Nair
+CC113349,"Adams, Samuel",Creatinine,0.55 mg/dL,0.6 - 1.3,L,2026-07-29,Dr. Priya Nair
+CC106517,"Johnson, Ruth",Potassium,5.7 mmol/L,3.5 - 5.1,H,2026-07-28,Dr. Daniel Ortiz
+CC107525,"Carter, Linda",Potassium,6.0 mmol/L,3.5 - 5.1,H,2026-07-27,Dr. Daniel Ortiz
+CC113356,"Miller, Samuel",Sodium,150.0 mmol/L,135.0 - 145.0,H,2026-07-26,Dr. Priya Nair
+CC113356,"Miller, Samuel",Potassium,2.9 mmol/L,3.5 - 5.1,L,2026-07-26,Dr. Priya Nair
+CC105124,"Green, Brianna",Sodium,154.0 mmol/L,135.0 - 145.0,H,2026-07-25,Dr. Priya Nair
+CC104872,"Brown, Danielle",Glucose,172.0 mg/dL,70.0 - 140.0,H,2026-07-25,Dr. Priya Nair
+CC109345,"Walker, Raj",Potassium,5.3 mmol/L,3.5 - 5.1,H,2026-07-25,Dr. Marcus Reid
+CC105866,"Scott, Brianna",Creatinine,1.96 mg/dL,0.6 - 1.3,H,2026-07-25,Dr. Daniel Ortiz
+CC105866,"Scott, Brianna",Sodium,109.0 mmol/L,135.0 - 145.0,L,2026-07-25,Dr. Daniel Ortiz
+CC105495,"Carter, Keisha",Sodium,154.0 mmol/L,135.0 - 145.0,H,2026-07-25,Dr. Priya Nair
+CC105495,"Carter, Keisha",Creatinine,1.44 mg/dL,0.6 - 1.3,H,2026-07-25,Dr. Priya Nair
+CC104221,"Garcia, Maria",Sodium,150.0 mmol/L,135.0 - 145.0,H,2026-07-25,Dr. Priya Nair
+CC104172,"Adams, James",Creatinine,1.58 mg/dL,0.6 - 1.3,H,2026-07-24,Dr. Daniel Ortiz
+CC106678,"Williams, Emily",Potassium,2.5 mmol/L,3.5 - 5.1,L,2026-07-24,Dr. Priya Nair
+CC100497,"Wright, Brian",Potassium,5.2 mmol/L,3.5 - 5.1,H,2026-07-21,Dr. Daniel Ortiz
+CC103682,"Carter, Carlos",Sodium,128.0 mmol/L,135.0 - 145.0,L,2026-07-21,Dr. Priya Nair
+CC100315,"Brown, Danielle",Sodium,153.0 mmol/L,135.0 - 145.0,H,2026-07-20,Dr. Priya Nair
+CC100315,"Brown, Danielle",Creatinine,0.55 mg/dL,0.6 - 1.3,L,2026-07-20,Dr. Priya Nair
+CC116359,"Martinez, Grace",Sodium,146.0 mmol/L,135.0 - 145.0,H,2026-07-20,Dr. Daniel Ortiz
+CC110640,"Hall, Kevin",Hemoglobin A1c,7.8 %,4.0 - 5.6,H,2026-07-19,Dr. Daniel Ortiz
+CC110640,"Hall, Kevin",Glucose,176.0 mg/dL,70.0 - 140.0,H,2026-07-19,Dr. Daniel Ortiz
+CC103080,"Adams, Raj",Potassium,3.2 mmol/L,3.5 - 5.1,L,2026-07-19,Dr. Daniel Ortiz
+CC115876,"Hall, Isaac",Glucose,157.0 mg/dL,70.0 - 140.0,H,2026-07-19,Dr. Daniel Ortiz
+CC105523,"Carter, Angela",Hemoglobin A1c,7.2 %,4.0 - 5.6,H,2026-07-19,Dr. Priya Nair
+CC115771,"Davis, Carmen",Sodium,151.0 mmol/L,135.0 - 145.0,H,2026-07-18,Dr. Daniel Ortiz
+CC115491,"Turner, Aisha",Hemoglobin A1c,8.0 %,4.0 - 5.6,H,2026-07-17,Dr. Priya Nair
+CC106762,"Young, Carmen",Creatinine,1.68 mg/dL,0.6 - 1.3,H,2026-07-16,Dr. Laura Chen
+CC101988,"Williams, Hannah",Creatinine,0.53 mg/dL,0.6 - 1.3,L,2026-07-16,Dr. Daniel Ortiz
+CC107217,"Hill, Grace",Sodium,153.0 mmol/L,135.0 - 145.0,H,2026-07-16,Dr. Priya Nair
+CC116156,"Young, Priya",Potassium,5.9 mmol/L,3.5 - 5.1,H,2026-07-14,Dr. Daniel Ortiz
+CC101246,"Roberts, David",Sodium,151.0 mmol/L,135.0 - 145.0,H,2026-07-12,Dr. Daniel Ortiz
+CC101246,"Roberts, David",Creatinine,1.48 mg/dL,0.6 - 1.3,H,2026-07-12,Dr. Daniel Ortiz
+CC112292,"Garcia, Hannah",Hemoglobin A1c,3.5 %,4.0 - 5.6,L,2026-07-12,Dr. Daniel Ortiz
+CC110010,"Hall, Keisha",Sodium,154.0 mmol/L,135.0 - 145.0,H,2026-07-11,Dr. Priya Nair
+CC117367,"Hall, Luis",Glucose,59.0 mg/dL,70.0 - 140.0,L,2026-07-09,Dr. Daniel Ortiz
+CC112271,"Lopez, William",Hemoglobin A1c,6.6 %,4.0 - 5.6,H,2026-07-09,Dr. Priya Nair
+CC101106,"Roberts, William",Potassium,5.2 mmol/L,3.5 - 5.1,H,2026-07-08,Dr. Daniel Ortiz
+CC112481,"Garcia, Brian",Glucose,61.0 mg/dL,70.0 - 140.0,L,2026-07-08,Dr. Daniel Ortiz
+CC103717,"Roberts, Raj",Potassium,5.6 mmol/L,3.5 - 5.1,H,2026-07-08,Dr. Priya Nair
+CC103717,"Roberts, Raj",Creatinine,1.54 mg/dL,0.6 - 1.3,H,2026-07-08,Dr. Priya Nair
+CC101442,"Wright, Michael",Potassium,5.4 mmol/L,3.5 - 5.1,H,2026-07-07,Dr. Laura Chen
+CC100238,"Brown, Mei",Potassium,6.2 mmol/L,3.5 - 5.1,H,2026-07-07,Dr. Priya Nair
+CC100238,"Brown, Mei",Creatinine,1.6 mg/dL,0.6 - 1.3,H,2026-07-07,Dr. Priya Nair
+CC101169,"Rodriguez, William",Hemoglobin A1c,3.8 %,4.0 - 5.6,L,2026-07-07,Dr. Priya Nair
+CC117080,"Perez, Andre",Potassium,6.7 mmol/L,3.5 - 5.1,H,2026-07-07,Dr. Daniel Ortiz
+CC105621,"Garcia, James",Sodium,147.0 mmol/L,135.0 - 145.0,H,2026-07-06,Dr. Laura Chen
+CC105621,"Garcia, James",Potassium,5.7 mmol/L,3.5 - 5.1,H,2026-07-06,Dr. Laura Chen
+CC114259,"Green, Jamal",Potassium,5.7 mmol/L,3.5 - 5.1,H,2026-07-06,Dr. Daniel Ortiz
+CC100560,"Walker, Daniel",Hemoglobin A1c,5.7 %,4.0 - 5.6,H,2026-07-06,Dr. Priya Nair
+CC106993,"Williams, Carlos",Potassium,5.2 mmol/L,3.5 - 5.1,H,2026-07-05,Dr. Daniel Ortiz
+CC109667,"Mitchell, Aisha",Sodium,150.0 mmol/L,135.0 - 145.0,H,2026-07-04,Dr. Daniel Ortiz
+CC103829,"Miller, Maria",Potassium,5.5 mmol/L,3.5 - 5.1,H,2026-07-03,Dr. Daniel Ortiz
+CC106804,"Perez, Andre",Sodium,152.0 mmol/L,135.0 - 145.0,H,2026-07-03,Dr. Priya Nair
+CC101022,"Davis, Nicole",Sodium,149.0 mmol/L,135.0 - 145.0,H,2026-07-01,Dr. Daniel Ortiz
+CC103360,"Perez, Carlos",Sodium,149.0 mmol/L,135.0 - 145.0,H,2026-06-30,Dr. Marcus Reid
+CC108001,"Brown, Marcus",Sodium,152.0 mmol/L,135.0 - 145.0,H,2026-06-29,Dr. Priya Nair
+CC103108,"Baker, Anthony",Hemoglobin A1c,6.6 %,4.0 - 5.6,H,2026-06-29,Dr. Daniel Ortiz
+CC116037,"Garcia, Emily",Sodium,149.0 mmol/L,135.0 - 145.0,H,2026-06-29,Dr. Priya Nair
+CC116037,"Garcia, Emily",Creatinine,0.57 mg/dL,0.6 - 1.3,L,2026-06-29,Dr. Priya Nair
+CC101631,"Perez, Danielle",Glucose,159.0 mg/dL,70.0 - 140.0,H,2026-06-28,Dr. Priya Nair
+CC110241,"Scott, Sofia",Sodium,152.0 mmol/L,135.0 - 145.0,H,2026-06-27,Dr. Priya Nair
+CC106832,"Young, Robert",Potassium,5.8 mmol/L,3.5 - 5.1,H,2026-06-27,Dr. Priya Nair
+CC100028,"Lee, Jennifer",Potassium,5.3 mmol/L,3.5 - 5.1,H,2026-06-26,Dr. Daniel Ortiz
+CC100322,"Young, Victor",Creatinine,1.48 mg/dL,0.6 - 1.3,H,2026-06-26,Dr. Priya Nair
+CC115155,"Allen, Daniel",Potassium,6.4 mmol/L,3.5 - 5.1,H,2026-06-25,Dr. Daniel Ortiz
+CC115155,"Allen, Daniel",Creatinine,1.31 mg/dL,0.6 - 1.3,H,2026-06-25,Dr. Daniel Ortiz
+CC103955,"Walker, William",Potassium,6.1 mmol/L,3.5 - 5.1,H,2026-06-25,Dr. Daniel Ortiz
+CC106524,"Garcia, Jamal",Hemoglobin A1c,6.7 %,4.0 - 5.6,H,2026-06-24,Dr. Daniel Ortiz
+CC106524,"Garcia, Jamal",Glucose,58.0 mg/dL,70.0 - 140.0,L,2026-06-24,Dr. Daniel Ortiz
+CC111025,"Allen, Hannah",Glucose,224.0 mg/dL,70.0 - 140.0,H,2026-06-24,Dr. Daniel Ortiz
+CC106118,"Davis, Sofia",Creatinine,1.37 mg/dL,0.6 - 1.3,H,2026-06-24,Dr. Marcus Reid
+CC107763,"Scott, William",Sodium,150.0 mmol/L,135.0 - 145.0,H,2026-06-24,Dr. Daniel Ortiz
+CC107763,"Scott, William",Potassium,5.4 mmol/L,3.5 - 5.1,H,2026-06-24,Dr. Daniel Ortiz
+CC110710,"Smith, Thomas",Sodium,154.0 mmol/L,135.0 - 145.0,H,2026-06-23,Dr. Daniel Ortiz
+CC111613,"Lee, Victor",Creatinine,1.39 mg/dL,0.6 - 1.3,H,2026-06-22,Dr. Daniel Ortiz
+CC106272,"Nelson, Thomas",Creatinine,1.44 mg/dL,0.6 - 1.3,H,2026-06-22,Dr. Marcus Reid
+CC105180,"King, Anthony",Sodium,146.0 mmol/L,135.0 - 145.0,H,2026-06-22,Dr. Priya Nair
+CC108484,"Garcia, Jennifer",Sodium,154.0 mmol/L,135.0 - 145.0,H,2026-06-21,Dr. Priya Nair
+CC101750,"Campbell, Carlos",Creatinine,1.8 mg/dL,0.6 - 1.3,H,2026-06-19,Dr. Priya Nair
+CC108316,"Phillips, Andre",Potassium,5.8 mmol/L,3.5 - 5.1,H,2026-06-17,Dr. Priya Nair
+CC108316,"Phillips, Andre",Creatinine,1.47 mg/dL,0.6 - 1.3,H,2026-06-17,Dr. Priya Nair
+CC105733,"Lee, Angela",Hemoglobin A1c,7.0 %,4.0 - 5.6,H,2026-06-16,Dr. Daniel Ortiz
+CC105733,"Lee, Angela",Glucose,195.0 mg/dL,70.0 - 140.0,H,2026-06-16,Dr. Daniel Ortiz
+CC104774,"Wright, Raj",Sodium,150.0 mmol/L,135.0 - 145.0,H,2026-06-15,Dr. Daniel Ortiz
+CC106650,"Garcia, David",Sodium,149.0 mmol/L,135.0 - 145.0,H,2026-06-13,Dr. Daniel Ortiz
+CC114581,"Young, Emily",Creatinine,1.49 mg/dL,0.6 - 1.3,H,2026-06-13,Dr. Priya Nair
+CC100378,"Rodriguez, Ruth",Sodium,149.0 mmol/L,135.0 - 145.0,H,2026-06-11,Dr. Priya Nair
+CC112236,"Perez, Linda",Potassium,6.3 mmol/L,3.5 - 5.1,H,2026-06-11,Dr. Priya Nair
+CC101533,"Hall, Victor",Hemoglobin A1c,7.6 %,4.0 - 5.6,H,2026-06-11,Dr. Daniel Ortiz
+CC106713,"Smith, Andre",Potassium,5.5 mmol/L,3.5 - 5.1,H,2026-06-10,Dr. Priya Nair
+CC101211,"Mitchell, Ruth",Hemoglobin A1c,6.9 %,4.0 - 5.6,H,2026-06-09,Dr. Priya Nair
+CC101211,"Mitchell, Ruth",Glucose,172.0 mg/dL,70.0 - 140.0,H,2026-06-09,Dr. Priya Nair
+CC102366,"Hill, Jennifer",Potassium,5.3 mmol/L,3.5 - 5.1,H,2026-06-09,Dr. Priya Nair
+CC111648,"Williams, Samuel",Sodium,157.0 mmol/L,135.0 - 145.0,H,2026-06-08,Dr. Priya Nair
+CC103045,"Rodriguez, Hannah",Hemoglobin A1c,7.1 %,4.0 - 5.6,H,2026-06-07,Dr. Priya Nair
+CC108246,"Lee, James",Sodium,147.0 mmol/L,135.0 - 145.0,H,2026-06-07,Dr. Priya Nair
+CC108246,"Lee, James",Potassium,5.5 mmol/L,3.5 - 5.1,H,2026-06-07,Dr. Priya Nair
+CC116387,"Martinez, Sofia",Creatinine,0.5 mg/dL,0.6 - 1.3,L,2026-06-07,Dr. Priya Nair
+CC104445,"Baker, Jennifer",Hemoglobin A1c,6.6 %,4.0 - 5.6,H,2026-06-07,Dr. Priya Nair
+CC105117,"Adams, Marcus",Hemoglobin A1c,6.0 %,4.0 - 5.6,H,2026-06-06,Dr. Daniel Ortiz
+CC108309,"Perez, Ruth",Creatinine,1.66 mg/dL,0.6 - 1.3,H,2026-06-06,Dr. Priya Nair
+CC105019,"Brown, Emily",Sodium,155.0 mmol/L,135.0 - 145.0,H,2026-06-06,Dr. Priya Nair
+CC117199,"Green, Anthony",Creatinine,0.43 mg/dL,0.6 - 1.3,L,2026-06-04,Dr. Marcus Reid
+CC107413,"Hall, Ruth",Creatinine,1.45 mg/dL,0.6 - 1.3,H,2026-06-03,Dr. Priya Nair
+CC109086,"Carter, Sofia",Hemoglobin A1c,5.8 %,4.0 - 5.6,H,2026-06-03,Dr. Priya Nair
+CC116723,"Smith, Nicole",Potassium,3.4 mmol/L,3.5 - 5.1,L,2026-06-02,Dr. Daniel Ortiz
+CC111284,"Lopez, Grace",Potassium,5.9 mmol/L,3.5 - 5.1,H,2026-06-02,Dr. Daniel Ortiz
+CC107560,"Miller, Carmen",Sodium,117.0 mmol/L,135.0 - 145.0,L,2026-06-01,Dr. Priya Nair
+CC109373,"Turner, Hannah",Sodium,105.0 mmol/L,135.0 - 145.0,L,2026-06-01,Dr. Daniel Ortiz
+CC105453,"Brown, Keisha",Potassium,6.5 mmol/L,3.5 - 5.1,H,2026-06-01,Dr. Priya Nair
+CC106944,"Green, Carlos",Sodium,154.0 mmol/L,135.0 - 145.0,H,2026-05-31,Dr. Daniel Ortiz
+CC117115,"Wright, Victor",Potassium,2.6 mmol/L,3.5 - 5.1,L,2026-05-30,Dr. Priya Nair
+CC111676,"Carter, Maria",Creatinine,1.63 mg/dL,0.6 - 1.3,H,2026-05-30,Dr. Daniel Ortiz
+CC106727,"Scott, Priya",Potassium,5.4 mmol/L,3.5 - 5.1,H,2026-05-29,Dr. Priya Nair
+CC111963,"Scott, Andre",Hemoglobin A1c,6.4 %,4.0 - 5.6,H,2026-05-29,Dr. Priya Nair
+CC111963,"Scott, Andre",Glucose,64.0 mg/dL,70.0 - 140.0,L,2026-05-29,Dr. Priya Nair
+CC116520,"Brown, Brian",Creatinine,1.77 mg/dL,0.6 - 1.3,H,2026-05-29,Dr. Daniel Ortiz
+CC109016,"Scott, Keisha",Sodium,147.0 mmol/L,135.0 - 145.0,H,2026-05-29,Dr. Daniel Ortiz
+CC109016,"Scott, Keisha",Potassium,5.4 mmol/L,3.5 - 5.1,H,2026-05-29,Dr. Daniel Ortiz
+CC109016,"Scott, Keisha",Creatinine,0.47 mg/dL,0.6 - 1.3,L,2026-05-29,Dr. Daniel Ortiz
+CC100581,"Hill, Brianna",Hemoglobin A1c,7.4 %,4.0 - 5.6,H,2026-05-28,Dr. Daniel Ortiz
+CC105341,"Green, Emily",Sodium,150.0 mmol/L,135.0 - 145.0,H,2026-05-28,Dr. Marcus Reid
+CC105341,"Green, Emily",Creatinine,1.72 mg/dL,0.6 - 1.3,H,2026-05-28,Dr. Marcus Reid
+CC116961,"Roberts, Carmen",Potassium,5.4 mmol/L,3.5 - 5.1,H,2026-05-28,Dr. Marcus Reid
+CC104781,"Miller, Carmen",Potassium,5.7 mmol/L,3.5 - 5.1,H,2026-05-27,Dr. Daniel Ortiz
+CC106279,"Garcia, Brian",Hemoglobin A1c,5.7 %,4.0 - 5.6,H,2026-05-27,Dr. Daniel Ortiz
+CC114756,"Perez, Sofia",Creatinine,1.32 mg/dL,0.6 - 1.3,H,2026-05-27,Dr. Priya Nair
+CC105824,"Williams, Hannah",Hemoglobin A1c,6.6 %,4.0 - 5.6,H,2026-05-25,Dr. Daniel Ortiz
+CC103710,"Williams, Luis",Sodium,122.0 mmol/L,135.0 - 145.0,L,2026-05-24,Dr. Daniel Ortiz
+CC101092,"Smith, Emily",Potassium,5.7 mmol/L,3.5 - 5.1,H,2026-05-23,Dr. Priya Nair
+CC108057,"Hill, William",Potassium,5.7 mmol/L,3.5 - 5.1,H,2026-05-23,Dr. Laura Chen
+CC113937,"Roberts, Carlos",Sodium,149.0 mmol/L,135.0 - 145.0,H,2026-05-22,Dr. Priya Nair
+CC117220,"Garcia, Jamal",Creatinine,1.87 mg/dL,0.6 - 1.3,H,2026-05-22,Dr. Priya Nair
+CC117220,"Garcia, Jamal",Potassium,2.5 mmol/L,3.5 - 5.1,L,2026-05-22,Dr. Priya Nair
+CC104396,"Baker, James",Potassium,5.6 mmol/L,3.5 - 5.1,H,2026-05-22,Dr. Laura Chen
+CC107070,"Wright, Grace",Sodium,152.0 mmol/L,135.0 - 145.0,H,2026-05-21,Dr. Daniel Ortiz
+CC107070,"Wright, Grace",Creatinine,0.43 mg/dL,0.6 - 1.3,L,2026-05-21,Dr. Daniel Ortiz
+CC116555,"Turner, David",Potassium,5.4 mmol/L,3.5 - 5.1,H,2026-05-21,Dr. Daniel Ortiz
+CC116555,"Turner, David",Creatinine,1.81 mg/dL,0.6 - 1.3,H,2026-05-21,Dr. Daniel Ortiz
+CC108127,"Hall, Anthony",Sodium,151.0 mmol/L,135.0 - 145.0,H,2026-05-21,Dr. Priya Nair
+CC113475,"Johnson, Luis",Hemoglobin A1c,7.9 %,4.0 - 5.6,H,2026-05-19,Dr. Priya Nair
+CC100294,"Roberts, Nicole",Hemoglobin A1c,8.0 %,4.0 - 5.6,H,2026-05-19,Dr. Priya Nair
+CC100301,"Scott, Victor",Hemoglobin A1c,6.8 %,4.0 - 5.6,H,2026-05-17,Dr. Daniel Ortiz
+CC109030,"Adams, Linda",Creatinine,1.31 mg/dL,0.6 - 1.3,H,2026-05-17,Dr. Priya Nair
+CC100343,"Scott, Marcus",Sodium,150.0 mmol/L,135.0 - 145.0,H,2026-05-16,Dr. Priya Nair
+CC101911,"Hill, Michael",Potassium,5.2 mmol/L,3.5 - 5.1,H,2026-05-15,Dr. Daniel Ortiz
+CC101911,"Hill, Michael",Creatinine,1.7 mg/dL,0.6 - 1.3,H,2026-05-15,Dr. Daniel Ortiz
+CC100868,"Allen, Aisha",Sodium,152.0 mmol/L,135.0 - 145.0,H,2026-05-14,Dr. Daniel Ortiz
+CC100007,"Williams, Ruth",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-05-14,Dr. Priya Nair
+CC117444,"Williams, Daniel",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-05-13,Dr. Priya Nair
+CC117444,"Williams, Daniel",Potassium,3.2 mmol/L,3.5 - 5.1,L,2026-05-13,Dr. Priya Nair
+CC104851,"Davis, Thomas",Potassium,6.3 mmol/L,3.5 - 5.1,H,2026-05-13,Dr. Daniel Ortiz
+CC110150,"Miller, Angela",Hemoglobin A1c,3.2 %,4.0 - 5.6,L,2026-05-12,Dr. Priya Nair
+CC116121,"King, Emily",Creatinine,1.38 mg/dL,0.6 - 1.3,H,2026-05-12,Dr. Priya Nair
+CC116121,"King, Emily",Potassium,3.0 mmol/L,3.5 - 5.1,L,2026-05-12,Dr. Priya Nair
+CC115323,"Carter, Eric",Hemoglobin A1c,5.9 %,4.0 - 5.6,H,2026-05-12,Dr. Daniel Ortiz
+CC109394,"Allen, Hannah",Sodium,104.0 mmol/L,135.0 - 145.0,L,2026-05-11,Dr. Daniel Ortiz
+CC111788,"Campbell, Kevin",Sodium,146.0 mmol/L,135.0 - 145.0,H,2026-05-11,Dr. Priya Nair
+CC111788,"Campbell, Kevin",Potassium,5.5 mmol/L,3.5 - 5.1,H,2026-05-11,Dr. Priya Nair
+CC111788,"Campbell, Kevin",Creatinine,1.55 mg/dL,0.6 - 1.3,H,2026-05-11,Dr. Priya Nair
+CC102611,"Young, Sofia",Hemoglobin A1c,6.3 %,4.0 - 5.6,H,2026-05-10,Dr. Priya Nair
+CC102611,"Young, Sofia",Glucose,218.0 mg/dL,70.0 - 140.0,H,2026-05-10,Dr. Priya Nair
+CC114147,"Perez, Hannah",Potassium,3.1 mmol/L,3.5 - 5.1,L,2026-05-10,Dr. Daniel Ortiz
+CC107140,"Hill, Carlos",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-05-10,Dr. Daniel Ortiz
+CC115078,"Perez, Danielle",Potassium,5.5 mmol/L,3.5 - 5.1,H,2026-05-10,Dr. Priya Nair
+CC113629,"King, Kevin",Potassium,5.7 mmol/L,3.5 - 5.1,H,2026-05-08,Dr. Priya Nair
+CC100826,"Miller, Jamal",Potassium,5.3 mmol/L,3.5 - 5.1,H,2026-05-07,Dr. Priya Nair
+CC115666,"Williams, Anthony",Hemoglobin A1c,7.7 %,4.0 - 5.6,H,2026-05-07,Dr. Daniel Ortiz
+CC109618,"Perez, Carmen",Hemoglobin A1c,7.6 %,4.0 - 5.6,H,2026-05-06,Dr. Priya Nair
+CC112054,"Lee, Danielle",Creatinine,1.96 mg/dL,0.6 - 1.3,H,2026-05-05,Dr. Daniel Ortiz
+CC113041,"Perez, Linda",Sodium,153.0 mmol/L,135.0 - 145.0,H,2026-05-04,Dr. Daniel Ortiz
+CC113272,"Baker, Nicole",Creatinine,0.58 mg/dL,0.6 - 1.3,L,2026-05-04,Dr. Priya Nair
+CC101099,"Adams, Isaac",Sodium,153.0 mmol/L,135.0 - 145.0,H,2026-05-01,Dr. Laura Chen
+CC105572,"Williams, Ruth",Potassium,5.8 mmol/L,3.5 - 5.1,H,2026-04-30,Dr. Daniel Ortiz
+CC111333,"Scott, Tanya",Creatinine,0.54 mg/dL,0.6 - 1.3,L,2026-04-30,Dr. Daniel Ortiz
+CC108820,"Wright, Anthony",Hemoglobin A1c,3.4 %,4.0 - 5.6,L,2026-04-29,Dr. Daniel Ortiz
+CC108820,"Wright, Anthony",Glucose,64.0 mg/dL,70.0 - 140.0,L,2026-04-29,Dr. Daniel Ortiz
+CC110724,"Johnson, Robert",Hemoglobin A1c,6.1 %,4.0 - 5.6,H,2026-04-28,Dr. Priya Nair
+CC113944,"Walker, Linda",Hemoglobin A1c,7.9 %,4.0 - 5.6,H,2026-04-28,Dr. Priya Nair
+CC116436,"King, Mei",Glucose,185.0 mg/dL,70.0 - 140.0,H,2026-04-28,Dr. Daniel Ortiz
+CC116436,"King, Mei",Hemoglobin A1c,2.8 %,4.0 - 5.6,L,2026-04-28,Dr. Daniel Ortiz
+CC116030,"Hall, Robert",Creatinine,1.94 mg/dL,0.6 - 1.3,H,2026-04-27,Dr. Daniel Ortiz
+CC106475,"Lopez, Olivia",Hemoglobin A1c,6.0 %,4.0 - 5.6,H,2026-04-26,Dr. Priya Nair
+CC101351,"Perez, Thomas",Potassium,5.6 mmol/L,3.5 - 5.1,H,2026-04-26,Dr. Daniel Ortiz
+CC101351,"Perez, Thomas",Creatinine,1.36 mg/dL,0.6 - 1.3,H,2026-04-26,Dr. Daniel Ortiz
+CC109135,"Lopez, Carmen",Hemoglobin A1c,5.8 %,4.0 - 5.6,H,2026-04-24,Dr. Daniel Ortiz
+CC113020,"Carter, Kevin",Glucose,163.0 mg/dL,70.0 - 140.0,H,2026-04-24,Dr. Priya Nair
+CC106265,"Martinez, David",Potassium,5.4 mmol/L,3.5 - 5.1,H,2026-04-22,Dr. Daniel Ortiz
+CC106818,"Lee, Daniel",Hemoglobin A1c,6.4 %,4.0 - 5.6,H,2026-04-22,Dr. Priya Nair
+CC104410,"Allen, William",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-04-20,Dr. Daniel Ortiz
+CC117423,"King, Samuel",Potassium,5.5 mmol/L,3.5 - 5.1,H,2026-04-18,Dr. Daniel Ortiz
+CC104480,"Scott, Carmen",Hemoglobin A1c,3.7 %,4.0 - 5.6,L,2026-04-17,Dr. Daniel Ortiz
+CC101953,"Hill, Andre",Sodium,147.0 mmol/L,135.0 - 145.0,H,2026-04-16,Dr. Marcus Reid
+CC102401,"Walker, Danielle",Sodium,156.0 mmol/L,135.0 - 145.0,H,2026-04-14,Dr. Marcus Reid
+CC102401,"Walker, Danielle",Potassium,5.4 mmol/L,3.5 - 5.1,H,2026-04-14,Dr. Marcus Reid
+CC102401,"Walker, Danielle",Creatinine,0.5 mg/dL,0.6 - 1.3,L,2026-04-14,Dr. Marcus Reid
+CC107399,"Turner, Brianna",Hemoglobin A1c,6.6 %,4.0 - 5.6,H,2026-04-14,Dr. Daniel Ortiz
+CC107252,"Lopez, Carlos",Sodium,146.0 mmol/L,135.0 - 145.0,H,2026-04-13,Dr. Daniel Ortiz
+CC107252,"Lopez, Carlos",Creatinine,0.58 mg/dL,0.6 - 1.3,L,2026-04-13,Dr. Daniel Ortiz
+CC106832,"Young, Robert",Sodium,153.0 mmol/L,135.0 - 145.0,H,2026-04-13,Dr. Priya Nair
+CC106832,"Young, Robert",Potassium,5.9 mmol/L,3.5 - 5.1,H,2026-04-13,Dr. Priya Nair
+CC106832,"Young, Robert",Creatinine,1.99 mg/dL,0.6 - 1.3,H,2026-04-13,Dr. Priya Nair
+CC108526,"Green, Carlos",Creatinine,1.85 mg/dL,0.6 - 1.3,H,2026-04-12,Dr. Marcus Reid
+CC112740,"Williams, Sofia",Sodium,150.0 mmol/L,135.0 - 145.0,H,2026-04-11,Dr. Daniel Ortiz
+CC100637,"Walker, Victor",Potassium,5.3 mmol/L,3.5 - 5.1,H,2026-04-11,Dr. Marcus Reid
+CC104599,"Miller, Tanya",Sodium,149.0 mmol/L,135.0 - 145.0,H,2026-04-11,Dr. Priya Nair
+CC109954,"Campbell, Hannah",Sodium,149.0 mmol/L,135.0 - 145.0,H,2026-04-11,Dr. Laura Chen
+CC109954,"Campbell, Hannah",Potassium,5.3 mmol/L,3.5 - 5.1,H,2026-04-11,Dr. Laura Chen
+CC114504,"Scott, Tanya",Creatinine,0.55 mg/dL,0.6 - 1.3,L,2026-04-10,Dr. Priya Nair
+CC104515,"Johnson, Sofia",Creatinine,2.0 mg/dL,0.6 - 1.3,H,2026-04-09,Dr. Marcus Reid
+CC114945,"King, Andre",Sodium,150.0 mmol/L,135.0 - 145.0,H,2026-04-08,Dr. Daniel Ortiz
+CC114945,"King, Andre",Potassium,5.9 mmol/L,3.5 - 5.1,H,2026-04-08,Dr. Daniel Ortiz
+CC107343,"Williams, Emily",Hemoglobin A1c,5.8 %,4.0 - 5.6,H,2026-04-08,Dr. Daniel Ortiz
+CC103423,"Carter, Brianna",Potassium,5.7 mmol/L,3.5 - 5.1,H,2026-04-08,Dr. Marcus Reid
+CC116044,"Hall, Grace",Hemoglobin A1c,8.0 %,4.0 - 5.6,H,2026-04-07,Dr. Daniel Ortiz
+CC109387,"Carter, Victor",Creatinine,0.57 mg/dL,0.6 - 1.3,L,2026-04-07,Dr. Marcus Reid
+CC111809,"Scott, Aisha",Creatinine,0.47 mg/dL,0.6 - 1.3,L,2026-04-05,Dr. Priya Nair
+CC111557,"Allen, Angela",Sodium,146.0 mmol/L,135.0 - 145.0,H,2026-04-05,Dr. Daniel Ortiz
+CC111557,"Allen, Angela",Creatinine,1.65 mg/dL,0.6 - 1.3,H,2026-04-05,Dr. Daniel Ortiz
+CC115974,"Perez, Thomas",Potassium,6.1 mmol/L,3.5 - 5.1,H,2026-04-04,Dr. Daniel Ortiz
+CC103801,"Walker, Jamal",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-04-04,Dr. Laura Chen
+CC102079,"Lee, Jennifer",Potassium,5.8 mmol/L,3.5 - 5.1,H,2026-04-04,Dr. Laura Chen
+CC102079,"Lee, Jennifer",Creatinine,2.03 mg/dL,0.6 - 1.3,H,2026-04-04,Dr. Laura Chen
+CC100385,"Brown, Grace",Potassium,2.7 mmol/L,3.5 - 5.1,L,2026-04-04,Dr. Laura Chen
+CC110234,"Green, James",Creatinine,1.7 mg/dL,0.6 - 1.3,H,2026-04-04,Dr. Marcus Reid
+CC100735,"Young, Rosa",Potassium,5.6 mmol/L,3.5 - 5.1,H,2026-04-03,Dr. Priya Nair
+CC100735,"Young, Rosa",Creatinine,1.7 mg/dL,0.6 - 1.3,H,2026-04-03,Dr. Priya Nair
+CC106286,"Adams, Luis",Potassium,2.7 mmol/L,3.5 - 5.1,L,2026-04-02,Dr. Priya Nair
+CC116254,"Garcia, Ruth",Potassium,6.2 mmol/L,3.5 - 5.1,H,2026-04-02,Dr. Daniel Ortiz
+CC111480,"Rodriguez, Michael",Creatinine,1.4 mg/dL,0.6 - 1.3,H,2026-04-02,Dr. Daniel Ortiz
+CC112964,"Baker, Victor",Creatinine,0.54 mg/dL,0.6 - 1.3,L,2026-04-02,Dr. Laura Chen
+CC115099,"Lopez, Carlos",Potassium,2.8 mmol/L,3.5 - 5.1,L,2026-04-02,Dr. Daniel Ortiz
+CC115428,"Campbell, Olivia",Potassium,2.5 mmol/L,3.5 - 5.1,L,2026-04-01,Dr. Daniel Ortiz
+CC114651,"Hall, Brian",Sodium,151.0 mmol/L,135.0 - 145.0,H,2026-04-01,Dr. Daniel Ortiz
+CC114651,"Hall, Brian",Potassium,5.5 mmol/L,3.5 - 5.1,H,2026-04-01,Dr. Daniel Ortiz
+CC101890,"Smith, Olivia",Hemoglobin A1c,7.4 %,4.0 - 5.6,H,2026-03-31,Dr. Priya Nair
+CC103836,"Campbell, Maria",Sodium,146.0 mmol/L,135.0 - 145.0,H,2026-03-31,Dr. Daniel Ortiz
+CC103836,"Campbell, Maria",Potassium,5.9 mmol/L,3.5 - 5.1,H,2026-03-31,Dr. Daniel Ortiz
+CC102142,"Davis, Linda",Hemoglobin A1c,3.5 %,4.0 - 5.6,L,2026-03-31,Dr. Daniel Ortiz
+CC115078,"Perez, Danielle",Hemoglobin A1c,8.0 %,4.0 - 5.6,H,2026-03-31,Dr. Daniel Ortiz
+CC110801,"Johnson, Daniel",Potassium,5.2 mmol/L,3.5 - 5.1,H,2026-03-29,Dr. Daniel Ortiz
+CC102688,"Smith, Robert",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-03-29,Dr. Marcus Reid
+CC107455,"Phillips, James",Hemoglobin A1c,5.9 %,4.0 - 5.6,H,2026-03-29,Dr. Priya Nair
+CC102954,"Garcia, Grace",Potassium,5.2 mmol/L,3.5 - 5.1,H,2026-03-29,Dr. Daniel Ortiz
+CC115925,"Martinez, Priya",Sodium,146.0 mmol/L,135.0 - 145.0,H,2026-03-29,Dr. Laura Chen
+CC101449,"Carter, Raj",Creatinine,0.43 mg/dL,0.6 - 1.3,L,2026-03-29,Dr. Laura Chen
+CC102072,"Green, Anthony",Creatinine,1.43 mg/dL,0.6 - 1.3,H,2026-03-28,Dr. Priya Nair
+CC116450,"Johnson, Linda",Potassium,5.6 mmol/L,3.5 - 5.1,H,2026-03-27,Dr. Priya Nair
+CC112460,"Williams, Eric",Potassium,3.2 mmol/L,3.5 - 5.1,L,2026-03-27,Dr. Priya Nair
+CC104018,"Young, Linda",Creatinine,2.03 mg/dL,0.6 - 1.3,H,2026-03-27,Dr. Daniel Ortiz
+CC107973,"Allen, Linda",Hemoglobin A1c,2.8 %,4.0 - 5.6,L,2026-03-27,Dr. Daniel Ortiz
+CC117248,"Hall, Jamal",Potassium,5.6 mmol/L,3.5 - 5.1,H,2026-03-26,Dr. Priya Nair
+CC107931,"Davis, David",Potassium,5.4 mmol/L,3.5 - 5.1,H,2026-03-26,Dr. Priya Nair
+CC104711,"Martinez, Linda",Creatinine,1.69 mg/dL,0.6 - 1.3,H,2026-03-24,Dr. Priya Nair
+CC113111,"Young, Carlos",Potassium,5.5 mmol/L,3.5 - 5.1,H,2026-03-24,Dr. Marcus Reid
+CC113111,"Young, Carlos",Creatinine,1.41 mg/dL,0.6 - 1.3,H,2026-03-24,Dr. Marcus Reid
+CC113111,"Young, Carlos",Sodium,122.0 mmol/L,135.0 - 145.0,L,2026-03-24,Dr. Marcus Reid
+CC116401,"Martinez, Tanya",Sodium,151.0 mmol/L,135.0 - 145.0,H,2026-03-23,Dr. Daniel Ortiz
+CC114742,"Hall, Nicole",Sodium,150.0 mmol/L,135.0 - 145.0,H,2026-03-23,Dr. Priya Nair
+CC109639,"Martinez, Kevin",Sodium,152.0 mmol/L,135.0 - 145.0,H,2026-03-23,Dr. Priya Nair
+CC109639,"Martinez, Kevin",Potassium,5.4 mmol/L,3.5 - 5.1,H,2026-03-23,Dr. Priya Nair
+CC103878,"Scott, Priya",Creatinine,1.72 mg/dL,0.6 - 1.3,H,2026-03-23,Dr. Marcus Reid
+CC108050,"Young, Jennifer",Hemoglobin A1c,7.2 %,4.0 - 5.6,H,2026-03-22,Dr. Priya Nair
+CC105061,"Mitchell, James",Potassium,5.2 mmol/L,3.5 - 5.1,H,2026-03-22,Dr. Marcus Reid
+CC105061,"Mitchell, James",Creatinine,0.49 mg/dL,0.6 - 1.3,L,2026-03-22,Dr. Marcus Reid
+CC112614,"Hill, Michael",Potassium,5.3 mmol/L,3.5 - 5.1,H,2026-03-22,Dr. Priya Nair
+CC107231,"Hall, Maria",Creatinine,1.52 mg/dL,0.6 - 1.3,H,2026-03-21,Dr. Daniel Ortiz
+CC105901,"Rodriguez, Raj",Potassium,5.2 mmol/L,3.5 - 5.1,H,2026-03-21,Dr. Priya Nair
+CC105901,"Rodriguez, Raj",Creatinine,1.59 mg/dL,0.6 - 1.3,H,2026-03-21,Dr. Priya Nair
+CC105901,"Rodriguez, Raj",Sodium,119.0 mmol/L,135.0 - 145.0,L,2026-03-21,Dr. Priya Nair
+CC114903,"Nelson, Sofia",Creatinine,1.99 mg/dL,0.6 - 1.3,H,2026-03-21,Dr. Priya Nair
+CC116086,"Walker, Grace",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-03-20,Dr. Priya Nair
+CC114301,"Williams, Kevin",Creatinine,1.46 mg/dL,0.6 - 1.3,H,2026-03-20,Dr. Daniel Ortiz
+CC114301,"Williams, Kevin",Sodium,100.0 mmol/L,135.0 - 145.0,L,2026-03-20,Dr. Daniel Ortiz
+CC114294,"Johnson, Ruth",Potassium,6.0 mmol/L,3.5 - 5.1,H,2026-03-19,Dr. Priya Nair
+CC108414,"King, Kevin",Potassium,6.1 mmol/L,3.5 - 5.1,H,2026-03-17,Dr. Daniel Ortiz
+CC108414,"King, Kevin",Creatinine,1.81 mg/dL,0.6 - 1.3,H,2026-03-17,Dr. Daniel Ortiz
+CC108414,"King, Kevin",Sodium,112.0 mmol/L,135.0 - 145.0,L,2026-03-17,Dr. Daniel Ortiz
+CC112271,"Lopez, William",Glucose,55.0 mg/dL,70.0 - 140.0,L,2026-03-17,Dr. Priya Nair
+CC105950,"Phillips, James",Hemoglobin A1c,7.7 %,4.0 - 5.6,H,2026-03-16,Dr. Priya Nair
+CC111879,"Campbell, Tanya",Sodium,150.0 mmol/L,135.0 - 145.0,H,2026-03-16,Dr. Priya Nair
+CC111879,"Campbell, Tanya",Creatinine,1.88 mg/dL,0.6 - 1.3,H,2026-03-16,Dr. Priya Nair
+CC111452,"Wright, Michael",Creatinine,1.34 mg/dL,0.6 - 1.3,H,2026-03-16,Dr. Laura Chen
+CC117150,"Roberts, Andre",Sodium,151.0 mmol/L,135.0 - 145.0,H,2026-03-16,Dr. Priya Nair
+CC117150,"Roberts, Andre",Potassium,6.1 mmol/L,3.5 - 5.1,H,2026-03-16,Dr. Priya Nair
+CC114336,"Scott, Emily",Potassium,2.6 mmol/L,3.5 - 5.1,L,2026-03-16,Dr. Priya Nair
+CC103990,"Turner, Thomas",Potassium,5.2 mmol/L,3.5 - 5.1,H,2026-03-14,Dr. Marcus Reid
+CC103990,"Turner, Thomas",Sodium,125.0 mmol/L,135.0 - 145.0,L,2026-03-14,Dr. Marcus Reid
+CC106104,"Mitchell, Anthony",Potassium,5.7 mmol/L,3.5 - 5.1,H,2026-03-14,Dr. Priya Nair
+CC104452,"Adams, Rosa",Hemoglobin A1c,7.8 %,4.0 - 5.6,H,2026-03-14,Dr. Daniel Ortiz
+CC104452,"Adams, Rosa",Glucose,154.0 mg/dL,70.0 - 140.0,H,2026-03-14,Dr. Daniel Ortiz
+CC112138,"Adams, David",Glucose,158.0 mg/dL,70.0 - 140.0,H,2026-03-13,Dr. Daniel Ortiz
+CC102604,"Carter, James",Sodium,149.0 mmol/L,135.0 - 145.0,H,2026-03-13,Dr. Daniel Ortiz
+CC102604,"Carter, James",Creatinine,1.5 mg/dL,0.6 - 1.3,H,2026-03-13,Dr. Daniel Ortiz
+CC100266,"Adams, Emily",Potassium,2.8 mmol/L,3.5 - 5.1,L,2026-03-12,Dr. Daniel Ortiz
+CC111172,"Lee, David",Potassium,5.3 mmol/L,3.5 - 5.1,H,2026-03-11,Dr. Priya Nair
+CC104858,"Green, Keisha",Potassium,6.0 mmol/L,3.5 - 5.1,H,2026-03-11,Dr. Daniel Ortiz
+CC104858,"Green, Keisha",Creatinine,1.41 mg/dL,0.6 - 1.3,H,2026-03-11,Dr. Daniel Ortiz
+CC110633,"Young, Emily",Creatinine,1.97 mg/dL,0.6 - 1.3,H,2026-03-11,Dr. Marcus Reid
+CC110633,"Young, Emily",Sodium,131.0 mmol/L,135.0 - 145.0,L,2026-03-11,Dr. Marcus Reid
+CC110703,"King, Mei",Potassium,5.8 mmol/L,3.5 - 5.1,H,2026-03-10,Dr. Priya Nair
+CC110703,"King, Mei",Creatinine,2.0 mg/dL,0.6 - 1.3,H,2026-03-10,Dr. Priya Nair
+CC105705,"Williams, Hannah",Sodium,152.0 mmol/L,135.0 - 145.0,H,2026-03-10,Dr. Daniel Ortiz
+CC109142,"Martinez, Emily",Hemoglobin A1c,7.7 %,4.0 - 5.6,H,2026-03-09,Dr. Priya Nair
+CC116205,"Carter, Olivia",Sodium,146.0 mmol/L,135.0 - 145.0,H,2026-03-09,Dr. Daniel Ortiz
+CC117311,"Phillips, Raj",Potassium,5.4 mmol/L,3.5 - 5.1,H,2026-03-09,Dr. Daniel Ortiz
+CC103941,"Campbell, Anthony",Creatinine,1.31 mg/dL,0.6 - 1.3,H,2026-03-08,Dr. Daniel Ortiz
+CC106356,"Baker, Jennifer",Potassium,5.9 mmol/L,3.5 - 5.1,H,2026-03-07,Dr. Priya Nair
+CC106356,"Baker, Jennifer",Creatinine,1.52 mg/dL,0.6 - 1.3,H,2026-03-07,Dr. Priya Nair
+CC102527,"Lee, Angela",Hemoglobin A1c,6.5 %,4.0 - 5.6,H,2026-03-07,Dr. Priya Nair
+CC109093,"Allen, Jamal",Hemoglobin A1c,6.3 %,4.0 - 5.6,H,2026-03-06,Dr. Priya Nair
+CC107161,"King, Jennifer",Hemoglobin A1c,6.6 %,4.0 - 5.6,H,2026-03-06,Dr. Daniel Ortiz
+CC105488,"Turner, Eric",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-03-06,Dr. Daniel Ortiz
+CC105488,"Turner, Eric",Creatinine,1.42 mg/dL,0.6 - 1.3,H,2026-03-06,Dr. Daniel Ortiz
+CC112607,"Johnson, Carmen",Potassium,5.4 mmol/L,3.5 - 5.1,H,2026-03-05,Dr. Priya Nair
+CC106671,"Nelson, Sofia",Creatinine,1.53 mg/dL,0.6 - 1.3,H,2026-03-05,Dr. Daniel Ortiz
+CC106671,"Nelson, Sofia",Sodium,115.0 mmol/L,135.0 - 145.0,L,2026-03-05,Dr. Daniel Ortiz
+CC102800,"Hall, Maria",Potassium,5.9 mmol/L,3.5 - 5.1,H,2026-03-04,Dr. Daniel Ortiz
+CC100518,"Green, Maria",Potassium,6.0 mmol/L,3.5 - 5.1,H,2026-03-03,Dr. Priya Nair
+CC115533,"Nelson, Jennifer",Potassium,5.5 mmol/L,3.5 - 5.1,H,2026-03-01,Dr. Marcus Reid
+CC111585,"Miller, Ruth",Sodium,110.0 mmol/L,135.0 - 145.0,L,2026-02-26,Dr. Daniel Ortiz
+CC108295,"Allen, Raj",Creatinine,0.52 mg/dL,0.6 - 1.3,L,2026-02-25,Dr. Daniel Ortiz
+CC109737,"Adams, Brianna",Hemoglobin A1c,6.8 %,4.0 - 5.6,H,2026-02-24,Dr. Daniel Ortiz
+CC100819,"Hill, Angela",Potassium,6.3 mmol/L,3.5 - 5.1,H,2026-02-23,Dr. Marcus Reid
+CC115757,"Allen, Carmen",Sodium,151.0 mmol/L,135.0 - 145.0,H,2026-02-22,Dr. Priya Nair
+CC113160,"Martinez, Maria",Creatinine,1.34 mg/dL,0.6 - 1.3,H,2026-02-21,Dr. Priya Nair
+CC113160,"Martinez, Maria",Potassium,2.7 mmol/L,3.5 - 5.1,L,2026-02-21,Dr. Priya Nair
+CC109282,"Carter, James",Creatinine,1.99 mg/dL,0.6 - 1.3,H,2026-02-21,Dr. Daniel Ortiz
+CC108876,"Miller, Ruth",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-02-20,Dr. Daniel Ortiz
+CC108876,"Miller, Ruth",Creatinine,1.58 mg/dL,0.6 - 1.3,H,2026-02-20,Dr. Daniel Ortiz
+CC107441,"Lopez, Aisha",Sodium,155.0 mmol/L,135.0 - 145.0,H,2026-02-20,Dr. Priya Nair
+CC113111,"Young, Carlos",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-02-19,Dr. Priya Nair
+CC109506,"Allen, Olivia",Sodium,146.0 mmol/L,135.0 - 145.0,H,2026-02-19,Dr. Laura Chen
+CC110178,"Baker, Kevin",Hemoglobin A1c,6.3 %,4.0 - 5.6,H,2026-02-19,Dr. Priya Nair
+CC115190,"Martinez, James",Hemoglobin A1c,2.9 %,4.0 - 5.6,L,2026-02-18,Dr. Priya Nair
+CC115190,"Martinez, James",Glucose,64.0 mg/dL,70.0 - 140.0,L,2026-02-18,Dr. Priya Nair
+CC110227,"Carter, Daniel",Sodium,146.0 mmol/L,135.0 - 145.0,H,2026-02-18,Dr. Priya Nair
+CC113811,"Allen, Brian",Sodium,100.0 mmol/L,135.0 - 145.0,L,2026-02-18,Dr. Daniel Ortiz
+CC113811,"Allen, Brian",Creatinine,0.48 mg/dL,0.6 - 1.3,L,2026-02-18,Dr. Daniel Ortiz
+CC104130,"Walker, Ruth",Potassium,3.3 mmol/L,3.5 - 5.1,L,2026-02-18,Dr. Daniel Ortiz
+CC108386,"Carter, Priya",Hemoglobin A1c,6.6 %,4.0 - 5.6,H,2026-02-17,Dr. Priya Nair
+CC110465,"Mitchell, Victor",Sodium,150.0 mmol/L,135.0 - 145.0,H,2026-02-17,Dr. Daniel Ortiz
+CC110465,"Mitchell, Victor",Creatinine,0.54 mg/dL,0.6 - 1.3,L,2026-02-17,Dr. Daniel Ortiz
+CC112369,"Nelson, Priya",Sodium,151.0 mmol/L,135.0 - 145.0,H,2026-02-17,Dr. Priya Nair
+CC112369,"Nelson, Priya",Creatinine,2.01 mg/dL,0.6 - 1.3,H,2026-02-17,Dr. Priya Nair
+CC100966,"Rodriguez, Rosa",Creatinine,1.42 mg/dL,0.6 - 1.3,H,2026-02-16,Dr. Laura Chen
+CC104410,"Allen, William",Potassium,6.4 mmol/L,3.5 - 5.1,H,2026-02-16,Dr. Priya Nair
+CC104410,"Allen, William",Creatinine,1.43 mg/dL,0.6 - 1.3,H,2026-02-16,Dr. Priya Nair
+CC116912,"Perez, Kevin",Sodium,150.0 mmol/L,135.0 - 145.0,H,2026-02-16,Dr. Daniel Ortiz
+CC110038,"Brown, Thomas",Hemoglobin A1c,6.2 %,4.0 - 5.6,H,2026-02-16,Dr. Priya Nair
+CC101463,"Miller, Carmen",Sodium,147.0 mmol/L,135.0 - 145.0,H,2026-02-16,Dr. Daniel Ortiz
+CC101463,"Miller, Carmen",Potassium,5.3 mmol/L,3.5 - 5.1,H,2026-02-16,Dr. Daniel Ortiz
+CC111557,"Allen, Angela",Hemoglobin A1c,6.5 %,4.0 - 5.6,H,2026-02-16,Dr. Priya Nair
+CC111557,"Allen, Angela",Glucose,194.0 mg/dL,70.0 - 140.0,H,2026-02-16,Dr. Priya Nair
+CC103080,"Adams, Raj",Sodium,117.0 mmol/L,135.0 - 145.0,L,2026-02-15,Dr. Marcus Reid
+CC113853,"Mitchell, Angela",Creatinine,1.97 mg/dL,0.6 - 1.3,H,2026-02-15,Dr. Daniel Ortiz
+CC113853,"Mitchell, Angela",Potassium,2.5 mmol/L,3.5 - 5.1,L,2026-02-15,Dr. Daniel Ortiz
+CC106622,"Wright, Olivia",Potassium,5.4 mmol/L,3.5 - 5.1,H,2026-02-14,Dr. Priya Nair
+CC100742,"Hill, Keisha",Sodium,146.0 mmol/L,135.0 - 145.0,H,2026-02-14,Dr. Priya Nair
+CC111249,"Johnson, Danielle",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-02-12,Dr. Marcus Reid
+CC111249,"Johnson, Danielle",Creatinine,1.74 mg/dL,0.6 - 1.3,H,2026-02-12,Dr. Marcus Reid
+CC117045,"Carter, James",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-02-09,Dr. Priya Nair
+CC117045,"Carter, James",Creatinine,0.52 mg/dL,0.6 - 1.3,L,2026-02-09,Dr. Priya Nair
+CC100987,"Martinez, Hannah",Potassium,5.4 mmol/L,3.5 - 5.1,H,2026-02-09,Dr. Daniel Ortiz
+CC108694,"King, William",Sodium,102.0 mmol/L,135.0 - 145.0,L,2026-02-09,Dr. Priya Nair
+CC103570,"Phillips, Brianna",Hemoglobin A1c,6.1 %,4.0 - 5.6,H,2026-02-08,Dr. Daniel Ortiz
+CC100497,"Wright, Brian",Hemoglobin A1c,7.2 %,4.0 - 5.6,H,2026-02-08,Dr. Daniel Ortiz
+CC117500,"Lee, Luis",Potassium,5.8 mmol/L,3.5 - 5.1,H,2026-02-07,Dr. Daniel Ortiz
+CC102534,"Turner, Emily",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-02-07,Dr. Daniel Ortiz
+CC110444,"Lopez, Sofia",Potassium,5.5 mmol/L,3.5 - 5.1,H,2026-02-07,Dr. Priya Nair
+CC110444,"Lopez, Sofia",Creatinine,0.5 mg/dL,0.6 - 1.3,L,2026-02-07,Dr. Priya Nair
+CC103227,"Rodriguez, Jennifer",Creatinine,1.88 mg/dL,0.6 - 1.3,H,2026-02-07,Dr. Priya Nair
+CC103227,"Rodriguez, Jennifer",Sodium,128.0 mmol/L,135.0 - 145.0,L,2026-02-07,Dr. Priya Nair
+CC103451,"Young, Eric",Potassium,6.0 mmol/L,3.5 - 5.1,H,2026-02-07,Dr. Daniel Ortiz
+CC115463,"Roberts, Olivia",Sodium,149.0 mmol/L,135.0 - 145.0,H,2026-02-05,Dr. Priya Nair
+CC104746,"Brown, Eric",Sodium,114.0 mmol/L,135.0 - 145.0,L,2026-02-05,Dr. Daniel Ortiz
+CC116835,"Allen, Jennifer",Sodium,113.0 mmol/L,135.0 - 145.0,L,2026-02-03,Dr. Laura Chen
+CC103794,"Phillips, Rosa",Potassium,6.3 mmol/L,3.5 - 5.1,H,2026-02-02,Dr. Priya Nair
+CC105460,"Lee, Raj",Potassium,7.0 mmol/L,3.5 - 5.1,H,2026-02-01,Dr. Laura Chen
+CC106965,"Johnson, Kevin",Sodium,149.0 mmol/L,135.0 - 145.0,H,2026-02-01,Dr. Laura Chen
+CC110437,"Green, Victor",Creatinine,0.42 mg/dL,0.6 - 1.3,L,2026-02-01,Dr. Marcus Reid
+CC110654,"Miller, Tanya",Sodium,147.0 mmol/L,135.0 - 145.0,H,2026-01-31,Dr. Marcus Reid
+CC114315,"Perez, David",Sodium,109.0 mmol/L,135.0 - 145.0,L,2026-01-30,Dr. Daniel Ortiz
+CC105257,"Perez, Carmen",Sodium,146.0 mmol/L,135.0 - 145.0,H,2026-01-30,Dr. Daniel Ortiz
+CC105257,"Perez, Carmen",Potassium,6.5 mmol/L,3.5 - 5.1,H,2026-01-30,Dr. Daniel Ortiz
+CC108897,"Campbell, David",Sodium,116.0 mmol/L,135.0 - 145.0,L,2026-01-30,Dr. Marcus Reid
+CC108897,"Campbell, David",Creatinine,0.42 mg/dL,0.6 - 1.3,L,2026-01-30,Dr. Marcus Reid
+CC100679,"Brown, Brian",Potassium,5.6 mmol/L,3.5 - 5.1,H,2026-01-30,Dr. Laura Chen
+CC100679,"Brown, Brian",Sodium,109.0 mmol/L,135.0 - 145.0,L,2026-01-30,Dr. Laura Chen
+CC114168,"Adams, David",Sodium,122.0 mmol/L,135.0 - 145.0,L,2026-01-28,Dr. Priya Nair
+CC115890,"Mitchell, Daniel",Creatinine,0.53 mg/dL,0.6 - 1.3,L,2026-01-27,Dr. Laura Chen
+CC115295,"Campbell, Victor",Hemoglobin A1c,7.6 %,4.0 - 5.6,H,2026-01-27,Dr. Daniel Ortiz
+CC115295,"Campbell, Victor",Glucose,179.0 mg/dL,70.0 - 140.0,H,2026-01-27,Dr. Daniel Ortiz
+CC115799,"Hall, Angela",Potassium,6.3 mmol/L,3.5 - 5.1,H,2026-01-27,Dr. Priya Nair
+CC117122,"Turner, Daniel",Potassium,5.4 mmol/L,3.5 - 5.1,H,2026-01-25,Dr. Priya Nair
+CC107504,"Young, Raj",Creatinine,0.5 mg/dL,0.6 - 1.3,L,2026-01-25,Dr. Priya Nair
+CC114392,"Miller, Jamal",Sodium,114.0 mmol/L,135.0 - 145.0,L,2026-01-22,Dr. Marcus Reid
+CC101771,"Brown, Maria",Sodium,149.0 mmol/L,135.0 - 145.0,H,2026-01-22,Dr. Priya Nair
+CC101771,"Brown, Maria",Potassium,3.0 mmol/L,3.5 - 5.1,L,2026-01-22,Dr. Priya Nair
+CC101771,"Brown, Maria",Creatinine,0.57 mg/dL,0.6 - 1.3,L,2026-01-22,Dr. Priya Nair
+CC116590,"Martinez, Emily",Potassium,5.5 mmol/L,3.5 - 5.1,H,2026-01-22,Dr. Priya Nair
+CC116590,"Martinez, Emily",Creatinine,2.04 mg/dL,0.6 - 1.3,H,2026-01-22,Dr. Priya Nair
+CC103878,"Scott, Priya",Sodium,157.0 mmol/L,135.0 - 145.0,H,2026-01-22,Dr. Priya Nair
+CC103878,"Scott, Priya",Creatinine,2.02 mg/dL,0.6 - 1.3,H,2026-01-22,Dr. Priya Nair
+CC111886,"Johnson, Linda",Sodium,150.0 mmol/L,135.0 - 145.0,H,2026-01-20,Dr. Daniel Ortiz
+CC115218,"Adams, Grace",Potassium,5.4 mmol/L,3.5 - 5.1,H,2026-01-20,Dr. Priya Nair
+CC113146,"Smith, Marcus",Potassium,5.7 mmol/L,3.5 - 5.1,H,2026-01-19,Dr. Daniel Ortiz
+CC115995,"Walker, Brianna",Potassium,5.9 mmol/L,3.5 - 5.1,H,2026-01-19,Dr. Priya Nair
+CC115995,"Walker, Brianna",Creatinine,0.5 mg/dL,0.6 - 1.3,L,2026-01-19,Dr. Priya Nair
+CC100777,"Hill, Ruth",Creatinine,1.4 mg/dL,0.6 - 1.3,H,2026-01-19,Dr. Marcus Reid
+CC104088,"Allen, Anthony",Hemoglobin A1c,6.0 %,4.0 - 5.6,H,2026-01-19,Dr. Daniel Ortiz
+CC105817,"Smith, Hannah",Hemoglobin A1c,6.7 %,4.0 - 5.6,H,2026-01-19,Dr. Priya Nair
+CC110031,"Turner, Linda",Sodium,147.0 mmol/L,135.0 - 145.0,H,2026-01-18,Dr. Daniel Ortiz
+CC110031,"Turner, Linda",Potassium,5.3 mmol/L,3.5 - 5.1,H,2026-01-18,Dr. Daniel Ortiz
+CC114448,"Hall, Danielle",Hemoglobin A1c,7.5 %,4.0 - 5.6,H,2026-01-18,Dr. Daniel Ortiz
+CC105740,"Perez, Angela",Sodium,150.0 mmol/L,135.0 - 145.0,H,2026-01-17,Dr. Priya Nair
+CC102765,"Baker, Hannah",Creatinine,1.8 mg/dL,0.6 - 1.3,H,2026-01-17,Dr. Laura Chen
+CC111991,"Adams, Andre",Sodium,149.0 mmol/L,135.0 - 145.0,H,2026-01-17,Dr. Daniel Ortiz
+CC108876,"Miller, Ruth",Hemoglobin A1c,7.5 %,4.0 - 5.6,H,2026-01-16,Dr. Priya Nair
+CC108876,"Miller, Ruth",Glucose,178.0 mg/dL,70.0 - 140.0,H,2026-01-16,Dr. Priya Nair
+CC102247,"Baker, Luis",Creatinine,1.48 mg/dL,0.6 - 1.3,H,2026-01-16,Dr. Daniel Ortiz
+CC116527,"Rodriguez, Daniel",Sodium,150.0 mmol/L,135.0 - 145.0,H,2026-01-15,Dr. Daniel Ortiz
+CC116527,"Rodriguez, Daniel",Potassium,3.0 mmol/L,3.5 - 5.1,L,2026-01-15,Dr. Daniel Ortiz
+CC104676,"Mitchell, Danielle",Sodium,157.0 mmol/L,135.0 - 145.0,H,2026-01-15,Dr. Daniel Ortiz
+CC113895,"Young, Emily",Sodium,151.0 mmol/L,135.0 - 145.0,H,2026-01-14,Dr. Daniel Ortiz
+CC113895,"Young, Emily",Potassium,6.1 mmol/L,3.5 - 5.1,H,2026-01-14,Dr. Daniel Ortiz
+CC110612,"Martinez, Keisha",Hemoglobin A1c,6.1 %,4.0 - 5.6,H,2026-01-14,Dr. Daniel Ortiz
+CC113076,"Lee, Andre",Hemoglobin A1c,6.0 %,4.0 - 5.6,H,2026-01-13,Dr. Daniel Ortiz
+CC114308,"King, Tanya",Sodium,97.0 mmol/L,135.0 - 145.0,L,2026-01-13,Dr. Marcus Reid
+CC104508,"Phillips, Michael",Potassium,6.3 mmol/L,3.5 - 5.1,H,2026-01-12,Dr. Priya Nair
+CC107567,"Davis, Eric",Potassium,5.5 mmol/L,3.5 - 5.1,H,2026-01-11,Dr. Priya Nair
+CC114889,"Williams, Angela",Potassium,6.1 mmol/L,3.5 - 5.1,H,2026-01-11,Dr. Laura Chen
+CC112138,"Adams, David",Creatinine,0.5 mg/dL,0.6 - 1.3,L,2026-01-10,Dr. Daniel Ortiz
+CC105488,"Turner, Eric",Sodium,147.0 mmol/L,135.0 - 145.0,H,2026-01-10,Dr. Priya Nair
+CC104060,"Lee, Linda",Hemoglobin A1c,7.7 %,4.0 - 5.6,H,2026-01-10,Dr. Priya Nair
+CC104060,"Lee, Linda",Glucose,173.0 mg/dL,70.0 - 140.0,H,2026-01-10,Dr. Priya Nair
+CC101302,"Brown, Marcus",Sodium,149.0 mmol/L,135.0 - 145.0,H,2026-01-09,Dr. Daniel Ortiz
+CC101113,"Phillips, Jamal",Sodium,150.0 mmol/L,135.0 - 145.0,H,2026-01-08,Dr. Priya Nair
+CC104228,"Wright, Jamal",Sodium,120.0 mmol/L,135.0 - 145.0,L,2026-01-08,Dr. Daniel Ortiz
+CC115344,"Wright, Mei",Creatinine,0.44 mg/dL,0.6 - 1.3,L,2026-01-06,Dr. Priya Nair
+CC107266,"Lopez, Anthony",Glucose,145.0 mg/dL,70.0 - 140.0,H,2026-01-05,Dr. Daniel Ortiz
+CC114833,"Smith, Luis",Sodium,151.0 mmol/L,135.0 - 145.0,H,2026-01-04,Dr. Daniel Ortiz
+CC116051,"Lopez, Thomas",Creatinine,1.43 mg/dL,0.6 - 1.3,H,2026-01-03,Dr. Daniel Ortiz
+CC108491,"Lopez, Victor",Potassium,5.2 mmol/L,3.5 - 5.1,H,2026-01-03,Dr. Daniel Ortiz
+CC117493,"Scott, William",Hemoglobin A1c,6.9 %,4.0 - 5.6,H,2026-01-03,Dr. Priya Nair
+CC117493,"Scott, William",Glucose,172.0 mg/dL,70.0 - 140.0,H,2026-01-03,Dr. Priya Nair
+CC102814,"Adams, Sofia",Sodium,128.0 mmol/L,135.0 - 145.0,L,2026-01-02,Dr. Priya Nair
+CC107084,"Martinez, Sofia",Sodium,146.0 mmol/L,135.0 - 145.0,H,2026-01-02,Dr. Daniel Ortiz
+CC113461,"Mitchell, Jennifer",Hemoglobin A1c,7.6 %,4.0 - 5.6,H,2026-01-01,Dr. Priya Nair
+CC109723,"Walker, Kevin",Sodium,153.0 mmol/L,135.0 - 145.0,H,2026-01-01,Dr. Priya Nair
+CC107441,"Lopez, Aisha",Sodium,148.0 mmol/L,135.0 - 145.0,H,2026-01-01,Dr. Priya Nair
+CC111172,"Lee, David",Glucose,168.0 mg/dL,70.0 - 140.0,H,2026-01-01,Dr. Priya Nair
+CC107182,"Young, Grace",Hemoglobin A1c,8.5 %,4.0 - 5.6,H,2026-01-01,Dr. Priya Nair
+CC107574,"Walker, Brianna",Potassium,5.4 mmol/L,3.5 - 5.1,H,2026-01-01,Dr. Daniel Ortiz
+CC116023,"Martinez, Brianna",Creatinine,1.66 mg/dL,0.6 - 1.3,H,2025-12-31,Dr. Daniel Ortiz
+CC115624,"Young, Eric",Potassium,5.9 mmol/L,3.5 - 5.1,H,2025-12-31,Dr. Priya Nair
+CC115624,"Young, Eric",Sodium,118.0 mmol/L,135.0 - 145.0,L,2025-12-31,Dr. Priya Nair
+CC116576,"Adams, Sofia",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-12-31,Dr. Daniel Ortiz
+CC116576,"Adams, Sofia",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-12-31,Dr. Daniel Ortiz
+CC101246,"Roberts, David",Potassium,2.9 mmol/L,3.5 - 5.1,L,2025-12-30,Dr. Daniel Ortiz
+CC101246,"Roberts, David",Creatinine,0.42 mg/dL,0.6 - 1.3,L,2025-12-30,Dr. Daniel Ortiz
+CC112369,"Nelson, Priya",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-12-30,Dr. Daniel Ortiz
+CC112369,"Nelson, Priya",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-12-30,Dr. Daniel Ortiz
+CC113475,"Johnson, Luis",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-12-30,Dr. Priya Nair
+CC110703,"King, Mei",Hemoglobin A1c,6.9 %,4.0 - 5.6,H,2025-12-29,Dr. Priya Nair
+CC116233,"Davis, Michael",Hemoglobin A1c,3.3 %,4.0 - 5.6,L,2025-12-29,Dr. Priya Nair
+CC110276,"Walker, Tanya",Creatinine,1.38 mg/dL,0.6 - 1.3,H,2025-12-29,Dr. Laura Chen
+CC108694,"King, William",Hemoglobin A1c,6.5 %,4.0 - 5.6,H,2025-12-28,Dr. Priya Nair
+CC108694,"King, William",Glucose,159.0 mg/dL,70.0 - 140.0,H,2025-12-28,Dr. Priya Nair
+CC104480,"Scott, Carmen",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-12-27,Dr. Laura Chen
+CC102548,"Williams, Kevin",Creatinine,1.56 mg/dL,0.6 - 1.3,H,2025-12-26,Dr. Daniel Ortiz
+CC102548,"Williams, Kevin",Potassium,3.0 mmol/L,3.5 - 5.1,L,2025-12-26,Dr. Daniel Ortiz
+CC107588,"Lee, Brianna",Hemoglobin A1c,6.4 %,4.0 - 5.6,H,2025-12-26,Dr. Priya Nair
+CC107588,"Lee, Brianna",Glucose,68.0 mg/dL,70.0 - 140.0,L,2025-12-26,Dr. Priya Nair
+CC110878,"Hill, Carmen",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-12-26,Dr. Priya Nair
+CC103416,"Hill, William",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-12-25,Dr. Priya Nair
+CC112593,"Garcia, Isaac",Sodium,115.0 mmol/L,135.0 - 145.0,L,2025-12-24,Dr. Daniel Ortiz
+CC114560,"Smith, Olivia",Creatinine,1.88 mg/dL,0.6 - 1.3,H,2025-12-24,Dr. Daniel Ortiz
+CC116758,"Brown, Victor",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-12-24,Dr. Marcus Reid
+CC113055,"Hall, Andre",Creatinine,1.36 mg/dL,0.6 - 1.3,H,2025-12-24,Dr. Priya Nair
+CC112047,"Perez, Nicole",Sodium,154.0 mmol/L,135.0 - 145.0,H,2025-12-24,Dr. Priya Nair
+CC109107,"Lee, Brianna",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-12-23,Dr. Priya Nair
+CC109107,"Lee, Brianna",Creatinine,1.51 mg/dL,0.6 - 1.3,H,2025-12-23,Dr. Priya Nair
+CC105460,"Lee, Raj",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-12-23,Dr. Daniel Ortiz
+CC112747,"Brown, Marcus",Creatinine,1.49 mg/dL,0.6 - 1.3,H,2025-12-23,Dr. Daniel Ortiz
+CC105747,"Allen, Marcus",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-12-23,Dr. Daniel Ortiz
+CC103850,"Williams, Angela",Hemoglobin A1c,3.8 %,4.0 - 5.6,L,2025-12-21,Dr. Daniel Ortiz
+CC101260,"Garcia, Anthony",Hemoglobin A1c,7.4 %,4.0 - 5.6,H,2025-12-20,Dr. Daniel Ortiz
+CC112761,"Carter, Jamal",Hemoglobin A1c,3.4 %,4.0 - 5.6,L,2025-12-19,Dr. Priya Nair
+CC115463,"Roberts, Olivia",Creatinine,0.42 mg/dL,0.6 - 1.3,L,2025-12-17,Dr. Priya Nair
+CC108897,"Campbell, David",Creatinine,0.5 mg/dL,0.6 - 1.3,L,2025-12-17,Dr. Priya Nair
+CC100854,"Scott, Victor",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-12-16,Dr. Priya Nair
+CC102415,"Davis, Jennifer",Hemoglobin A1c,7.6 %,4.0 - 5.6,H,2025-12-15,Dr. Daniel Ortiz
+CC103150,"Scott, Brian",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-12-14,Dr. Priya Nair
+CC103283,"Campbell, Angela",Potassium,6.4 mmol/L,3.5 - 5.1,H,2025-12-14,Dr. Priya Nair
+CC106832,"Young, Robert",Creatinine,1.78 mg/dL,0.6 - 1.3,H,2025-12-13,Dr. Daniel Ortiz
+CC106832,"Young, Robert",Potassium,3.1 mmol/L,3.5 - 5.1,L,2025-12-13,Dr. Daniel Ortiz
+CC109282,"Carter, James",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-12-12,Dr. Daniel Ortiz
+CC107056,"Lopez, David",Potassium,3.0 mmol/L,3.5 - 5.1,L,2025-12-12,Dr. Priya Nair
+CC102590,"Lopez, Victor",Creatinine,1.83 mg/dL,0.6 - 1.3,H,2025-12-12,Dr. Daniel Ortiz
+CC111809,"Scott, Aisha",Hemoglobin A1c,6.0 %,4.0 - 5.6,H,2025-12-12,Dr. Priya Nair
+CC117395,"Martinez, Carmen",Glucose,183.0 mg/dL,70.0 - 140.0,H,2025-12-11,Dr. Daniel Ortiz
+CC106300,"Brown, Maria",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-12-11,Dr. Daniel Ortiz
+CC109184,"Miller, Eric",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-12-10,Dr. Priya Nair
+CC109184,"Miller, Eric",Creatinine,1.36 mg/dL,0.6 - 1.3,H,2025-12-10,Dr. Priya Nair
+CC109184,"Miller, Eric",Potassium,2.7 mmol/L,3.5 - 5.1,L,2025-12-10,Dr. Priya Nair
+CC108876,"Miller, Ruth",Sodium,122.0 mmol/L,135.0 - 145.0,L,2025-12-10,Dr. Daniel Ortiz
+CC117276,"Scott, Danielle",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-12-10,Dr. Priya Nair
+CC117276,"Scott, Danielle",Potassium,2.9 mmol/L,3.5 - 5.1,L,2025-12-10,Dr. Priya Nair
+CC110199,"Nelson, Jennifer",Creatinine,1.63 mg/dL,0.6 - 1.3,H,2025-12-09,Dr. Marcus Reid
+CC113447,"King, Michael",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-12-08,Dr. Laura Chen
+CC105845,"Allen, Marcus",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-12-07,Dr. Priya Nair
+CC105845,"Allen, Marcus",Creatinine,1.86 mg/dL,0.6 - 1.3,H,2025-12-07,Dr. Priya Nair
+CC116723,"Smith, Nicole",Glucose,161.0 mg/dL,70.0 - 140.0,H,2025-12-07,Dr. Priya Nair
+CC113405,"Williams, Aisha",Creatinine,1.82 mg/dL,0.6 - 1.3,H,2025-12-07,Dr. Daniel Ortiz
+CC100476,"Nelson, Jennifer",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-12-06,Dr. Marcus Reid
+CC100476,"Nelson, Jennifer",Sodium,102.0 mmol/L,135.0 - 145.0,L,2025-12-06,Dr. Marcus Reid
+CC106412,"Perez, Tanya",Potassium,2.8 mmol/L,3.5 - 5.1,L,2025-12-06,Dr. Priya Nair
+CC109975,"Roberts, David",Hemoglobin A1c,7.3 %,4.0 - 5.6,H,2025-12-05,Dr. Daniel Ortiz
+CC117024,"Rodriguez, Victor",Potassium,5.9 mmol/L,3.5 - 5.1,H,2025-12-05,Dr. Marcus Reid
+CC105348,"Perez, William",Creatinine,1.88 mg/dL,0.6 - 1.3,H,2025-12-05,Dr. Daniel Ortiz
+CC117472,"Phillips, Raj",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-12-05,Dr. Priya Nair
+CC106671,"Nelson, Sofia",Potassium,3.3 mmol/L,3.5 - 5.1,L,2025-12-05,Dr. Priya Nair
+CC114525,"King, Kevin",Creatinine,1.38 mg/dL,0.6 - 1.3,H,2025-12-04,Dr. Daniel Ortiz
+CC108932,"Young, William",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-12-04,Dr. Daniel Ortiz
+CC115974,"Perez, Thomas",Creatinine,1.57 mg/dL,0.6 - 1.3,H,2025-12-02,Dr. Priya Nair
+CC106790,"Carter, Carmen",Hemoglobin A1c,3.1 %,4.0 - 5.6,L,2025-12-01,Dr. Daniel Ortiz
+CC106790,"Carter, Carmen",Glucose,51.0 mg/dL,70.0 - 140.0,L,2025-12-01,Dr. Daniel Ortiz
+CC104431,"Lee, Daniel",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-12-01,Dr. Daniel Ortiz
+CC104431,"Lee, Daniel",Creatinine,0.48 mg/dL,0.6 - 1.3,L,2025-12-01,Dr. Daniel Ortiz
+CC107861,"Roberts, Eric",Creatinine,1.34 mg/dL,0.6 - 1.3,H,2025-12-01,Dr. Marcus Reid
+CC111473,"Rodriguez, Olivia",Hemoglobin A1c,6.0 %,4.0 - 5.6,H,2025-11-30,Dr. Priya Nair
+CC102716,"Rodriguez, Eric",Creatinine,0.51 mg/dL,0.6 - 1.3,L,2025-11-29,Dr. Priya Nair
+CC109471,"Johnson, William",Potassium,2.5 mmol/L,3.5 - 5.1,L,2025-11-27,Dr. Daniel Ortiz
+CC115575,"Phillips, Eric",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-11-27,Dr. Daniel Ortiz
+CC115575,"Phillips, Eric",Creatinine,1.67 mg/dL,0.6 - 1.3,H,2025-11-27,Dr. Daniel Ortiz
+CC111053,"Nelson, Danielle",Hemoglobin A1c,8.0 %,4.0 - 5.6,H,2025-11-26,Dr. Priya Nair
+CC107266,"Lopez, Anthony",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-11-26,Dr. Daniel Ortiz
+CC107266,"Lopez, Anthony",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-11-26,Dr. Daniel Ortiz
+CC107266,"Lopez, Anthony",Creatinine,0.54 mg/dL,0.6 - 1.3,L,2025-11-26,Dr. Daniel Ortiz
+CC107168,"Johnson, Andre",Hemoglobin A1c,6.5 %,4.0 - 5.6,H,2025-11-25,Dr. Daniel Ortiz
+CC107546,"Wright, Anthony",Hemoglobin A1c,8.3 %,4.0 - 5.6,H,2025-11-25,Dr. Daniel Ortiz
+CC106496,"Walker, Ruth",Creatinine,0.52 mg/dL,0.6 - 1.3,L,2025-11-25,Dr. Laura Chen
+CC106748,"Turner, Sofia",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-11-23,Dr. Daniel Ortiz
+CC111977,"Baker, Victor",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-11-23,Dr. Priya Nair
+CC116247,"Mitchell, Linda",Sodium,99.0 mmol/L,135.0 - 145.0,L,2025-11-20,Dr. Laura Chen
+CC110430,"Rodriguez, Carmen",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-11-19,Dr. Priya Nair
+CC111900,"Brown, Michael",Potassium,6.3 mmol/L,3.5 - 5.1,H,2025-11-18,Dr. Marcus Reid
+CC100875,"Brown, Brianna",Potassium,3.2 mmol/L,3.5 - 5.1,L,2025-11-16,Dr. Daniel Ortiz
+CC100434,"Scott, Raj",Sodium,153.0 mmol/L,135.0 - 145.0,H,2025-11-16,Dr. Priya Nair
+CC111788,"Campbell, Kevin",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-11-15,Dr. Daniel Ortiz
+CC111788,"Campbell, Kevin",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-11-15,Dr. Daniel Ortiz
+CC113069,"Carter, Luis",Creatinine,0.54 mg/dL,0.6 - 1.3,L,2025-11-13,Dr. Laura Chen
+CC115750,"Walker, Grace",Sodium,154.0 mmol/L,135.0 - 145.0,H,2025-11-10,Dr. Daniel Ortiz
+CC106048,"Johnson, Kevin",Creatinine,1.68 mg/dL,0.6 - 1.3,H,2025-11-10,Dr. Marcus Reid
+CC109247,"Roberts, Andre",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-11-09,Dr. Daniel Ortiz
+CC109247,"Roberts, Andre",Potassium,2.6 mmol/L,3.5 - 5.1,L,2025-11-09,Dr. Daniel Ortiz
+CC100420,"Lee, Carlos",Sodium,97.0 mmol/L,135.0 - 145.0,L,2025-11-09,Dr. Daniel Ortiz
+CC101736,"Allen, Grace",Creatinine,1.35 mg/dL,0.6 - 1.3,H,2025-11-08,Dr. Daniel Ortiz
+CC114609,"Smith, Olivia",Hemoglobin A1c,7.9 %,4.0 - 5.6,H,2025-11-06,Dr. Priya Nair
+CC114609,"Smith, Olivia",Glucose,147.0 mg/dL,70.0 - 140.0,H,2025-11-06,Dr. Priya Nair
+CC110178,"Baker, Kevin",Hemoglobin A1c,7.9 %,4.0 - 5.6,H,2025-11-06,Dr. Daniel Ortiz
+CC108309,"Perez, Ruth",Sodium,124.0 mmol/L,135.0 - 145.0,L,2025-11-06,Dr. Daniel Ortiz
+CC113545,"Turner, Carlos",Glucose,141.0 mg/dL,70.0 - 140.0,H,2025-11-04,Dr. Daniel Ortiz
+CC108666,"Williams, Keisha",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-11-04,Dr. Daniel Ortiz
+CC108666,"Williams, Keisha",Creatinine,1.62 mg/dL,0.6 - 1.3,H,2025-11-04,Dr. Daniel Ortiz
+CC111683,"Scott, Maria",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-11-03,Dr. Daniel Ortiz
+CC100539,"Lopez, David",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-11-03,Dr. Priya Nair
+CC102807,"Phillips, James",Sodium,160.0 mmol/L,135.0 - 145.0,H,2025-11-03,Dr. Priya Nair
+CC112922,"Brown, Marcus",Creatinine,1.31 mg/dL,0.6 - 1.3,H,2025-11-02,Dr. Daniel Ortiz
+CC115785,"Davis, Anthony",Sodium,130.0 mmol/L,135.0 - 145.0,L,2025-11-02,Dr. Priya Nair
+CC110934,"Baker, Kevin",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-11-02,Dr. Priya Nair
+CC102058,"Perez, Daniel",Creatinine,0.46 mg/dL,0.6 - 1.3,L,2025-11-02,Dr. Priya Nair
+CC113916,"Martinez, James",Creatinine,1.77 mg/dL,0.6 - 1.3,H,2025-11-01,Dr. Priya Nair
+CC108526,"Green, Carlos",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-10-30,Dr. Daniel Ortiz
+CC101596,"Adams, Raj",Hemoglobin A1c,7.0 %,4.0 - 5.6,H,2025-10-29,Dr. Priya Nair
+CC117486,"Turner, Tanya",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-10-29,Dr. Priya Nair
+CC112124,"Smith, Olivia",Creatinine,0.42 mg/dL,0.6 - 1.3,L,2025-10-28,Dr. Priya Nair
+CC108652,"Adams, Angela",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-10-28,Dr. Priya Nair
+CC102387,"Campbell, Brian",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-10-28,Dr. Daniel Ortiz
+CC102156,"Hall, Angela",Potassium,5.9 mmol/L,3.5 - 5.1,H,2025-10-27,Dr. Daniel Ortiz
+CC111277,"Hill, Carmen",Hemoglobin A1c,3.4 %,4.0 - 5.6,L,2025-10-26,Dr. Priya Nair
+CC116751,"Green, Aisha",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-10-25,Dr. Priya Nair
+CC106657,"Nelson, Samuel",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-10-25,Dr. Laura Chen
+CC101477,"Martinez, Isaac",Potassium,2.9 mmol/L,3.5 - 5.1,L,2025-10-25,Dr. Daniel Ortiz
+CC116156,"Young, Priya",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-10-25,Dr. Priya Nair
+CC111543,"Davis, Kevin",Hemoglobin A1c,7.8 %,4.0 - 5.6,H,2025-10-24,Dr. Priya Nair
+CC110136,"Nelson, Michael",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-10-24,Dr. Priya Nair
+CC110136,"Nelson, Michael",Creatinine,1.78 mg/dL,0.6 - 1.3,H,2025-10-24,Dr. Priya Nair
+CC101113,"Phillips, Jamal",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-10-22,Dr. Priya Nair
+CC104683,"Lopez, Michael",Hemoglobin A1c,5.9 %,4.0 - 5.6,H,2025-10-22,Dr. Daniel Ortiz
+CC104683,"Lopez, Michael",Glucose,171.0 mg/dL,70.0 - 140.0,H,2025-10-22,Dr. Daniel Ortiz
+CC112082,"Nelson, Jamal",Creatinine,1.99 mg/dL,0.6 - 1.3,H,2025-10-22,Dr. Priya Nair
+CC112082,"Nelson, Jamal",Sodium,110.0 mmol/L,135.0 - 145.0,L,2025-10-22,Dr. Priya Nair
+CC104088,"Allen, Anthony",Hemoglobin A1c,3.8 %,4.0 - 5.6,L,2025-10-21,Dr. Priya Nair
+CC112446,"Walker, James",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-10-20,Dr. Daniel Ortiz
+CC112446,"Walker, James",Potassium,5.9 mmol/L,3.5 - 5.1,H,2025-10-20,Dr. Daniel Ortiz
+CC115939,"Lee, Carlos",Sodium,128.0 mmol/L,135.0 - 145.0,L,2025-10-20,Dr. Priya Nair
+CC106706,"Phillips, Carlos",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-10-18,Dr. Daniel Ortiz
+CC104466,"Miller, Keisha",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-10-18,Dr. Daniel Ortiz
+CC116107,"Phillips, Thomas",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-10-17,Dr. Priya Nair
+CC113874,"Green, Brianna",Sodium,127.0 mmol/L,135.0 - 145.0,L,2025-10-15,Dr. Daniel Ortiz
+CC108407,"Roberts, Emily",Sodium,157.0 mmol/L,135.0 - 145.0,H,2025-10-14,Dr. Marcus Reid
+CC102163,"Smith, Linda",Hemoglobin A1c,5.7 %,4.0 - 5.6,H,2025-10-14,Dr. Daniel Ortiz
+CC103451,"Young, Eric",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-10-13,Dr. Priya Nair
+CC103451,"Young, Eric",Creatinine,2.0 mg/dL,0.6 - 1.3,H,2025-10-13,Dr. Priya Nair
+CC107889,"Garcia, Rosa",Hemoglobin A1c,6.3 %,4.0 - 5.6,H,2025-10-13,Dr. Priya Nair
+CC110857,"Rodriguez, Robert",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-10-12,Dr. Priya Nair
+CC106951,"Wright, Carmen",Creatinine,1.46 mg/dL,0.6 - 1.3,H,2025-10-11,Dr. Daniel Ortiz
+CC114028,"Johnson, Samuel",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-10-11,Dr. Daniel Ortiz
+CC115309,"Baker, Rosa",Potassium,5.4 mmol/L,3.5 - 5.1,H,2025-10-10,Dr. Marcus Reid
+CC101183,"Hill, Angela",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-10-10,Dr. Marcus Reid
+CC108624,"Wright, Aisha",Potassium,5.4 mmol/L,3.5 - 5.1,H,2025-10-09,Dr. Daniel Ortiz
+CC103157,"Scott, Emily",Creatinine,0.56 mg/dL,0.6 - 1.3,L,2025-10-09,Dr. Daniel Ortiz
+CC114469,"Carter, Anthony",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-10-08,Dr. Daniel Ortiz
+CC102443,"Green, Kevin",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-10-07,Dr. Priya Nair
+CC104669,"Allen, Linda",Sodium,125.0 mmol/L,135.0 - 145.0,L,2025-10-07,Dr. Daniel Ortiz
+CC117262,"Baker, Carlos",Potassium,7.2 mmol/L,3.5 - 5.1,H,2025-10-07,Dr. Marcus Reid
+CC114665,"Carter, Luis",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-10-06,Dr. Marcus Reid
+CC111081,"Roberts, Aisha",Hemoglobin A1c,5.8 %,4.0 - 5.6,H,2025-10-06,Dr. Daniel Ortiz
+CC115960,"Young, Ruth",Sodium,119.0 mmol/L,135.0 - 145.0,L,2025-10-06,Dr. Daniel Ortiz
+CC108428,"Hill, Rosa",Hemoglobin A1c,3.6 %,4.0 - 5.6,L,2025-10-06,Dr. Daniel Ortiz
+CC114189,"Miller, Hannah",Potassium,6.3 mmol/L,3.5 - 5.1,H,2025-10-05,Dr. Laura Chen
+CC114189,"Miller, Hannah",Creatinine,0.52 mg/dL,0.6 - 1.3,L,2025-10-05,Dr. Laura Chen
+CC102534,"Turner, Emily",Sodium,98.0 mmol/L,135.0 - 145.0,L,2025-10-04,Dr. Marcus Reid
+CC109408,"Williams, Rosa",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-10-04,Dr. Laura Chen
+CC104025,"Nelson, Eric",Hemoglobin A1c,6.0 %,4.0 - 5.6,H,2025-10-04,Dr. Priya Nair
+CC102198,"Nelson, Robert",Potassium,3.1 mmol/L,3.5 - 5.1,L,2025-10-04,Dr. Priya Nair
+CC101127,"Smith, James",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-10-04,Dr. Daniel Ortiz
+CC101372,"King, Aisha",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-10-03,Dr. Daniel Ortiz
+CC104732,"Wright, Mei",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-10-03,Dr. Priya Nair
+CC100091,"Hill, Samuel",Creatinine,1.52 mg/dL,0.6 - 1.3,H,2025-10-02,Dr. Daniel Ortiz
+CC104739,"Roberts, Linda",Creatinine,0.54 mg/dL,0.6 - 1.3,L,2025-10-02,Dr. Daniel Ortiz
+CC102688,"Smith, Robert",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-10-02,Dr. Daniel Ortiz
+CC108071,"Hill, Thomas",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-10-01,Dr. Daniel Ortiz
+CC108071,"Hill, Thomas",Creatinine,1.86 mg/dL,0.6 - 1.3,H,2025-10-01,Dr. Daniel Ortiz
+CC100854,"Scott, Victor",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-10-01,Dr. Daniel Ortiz
+CC112544,"Miller, Keisha",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-09-29,Dr. Daniel Ortiz
+CC106993,"Williams, Carlos",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-09-29,Dr. Daniel Ortiz
+CC107882,"Adams, James",Creatinine,2.01 mg/dL,0.6 - 1.3,H,2025-09-27,Dr. Laura Chen
+CC110584,"Roberts, Michael",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-09-27,Dr. Daniel Ortiz
+CC110584,"Roberts, Michael",Creatinine,0.46 mg/dL,0.6 - 1.3,L,2025-09-27,Dr. Daniel Ortiz
+CC100833,"Johnson, Priya",Creatinine,1.53 mg/dL,0.6 - 1.3,H,2025-09-25,Dr. Priya Nair
+CC108078,"Scott, Jennifer",Hemoglobin A1c,8.0 %,4.0 - 5.6,H,2025-09-25,Dr. Priya Nair
+CC107903,"Lopez, Keisha",Creatinine,1.47 mg/dL,0.6 - 1.3,H,2025-09-24,Dr. Daniel Ortiz
+CC107903,"Lopez, Keisha",Potassium,2.8 mmol/L,3.5 - 5.1,L,2025-09-24,Dr. Daniel Ortiz
+CC108596,"Martinez, Priya",Sodium,113.0 mmol/L,135.0 - 145.0,L,2025-09-24,Dr. Priya Nair
+CC112145,"Roberts, Robert",Creatinine,1.8 mg/dL,0.6 - 1.3,H,2025-09-23,Dr. Priya Nair
+CC107532,"Hall, Keisha",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-09-23,Dr. Priya Nair
+CC110710,"Smith, Thomas",Sodium,101.0 mmol/L,135.0 - 145.0,L,2025-09-23,Dr. Daniel Ortiz
+CC116163,"Phillips, Carlos",Glucose,171.0 mg/dL,70.0 - 140.0,H,2025-09-23,Dr. Daniel Ortiz
+CC107322,"Miller, Robert",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-09-21,Dr. Daniel Ortiz
+CC110423,"Scott, Samuel",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-09-20,Dr. Priya Nair
+CC112411,"Lee, Hannah",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-09-19,Dr. Priya Nair
+CC104641,"Hall, Eric",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-09-19,Dr. Laura Chen
+CC104641,"Hall, Eric",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-09-19,Dr. Laura Chen
+CC110738,"Davis, Rosa",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-09-18,Dr. Daniel Ortiz
+CC110738,"Davis, Rosa",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-09-18,Dr. Daniel Ortiz
+CC114994,"Rodriguez, Michael",Creatinine,0.51 mg/dL,0.6 - 1.3,L,2025-09-17,Dr. Priya Nair
+CC115190,"Martinez, James",Glucose,202.0 mg/dL,70.0 - 140.0,H,2025-09-17,Dr. Priya Nair
+CC109975,"Roberts, David",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-09-17,Dr. Daniel Ortiz
+CC117500,"Lee, Luis",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-09-17,Dr. Daniel Ortiz
+CC117500,"Lee, Luis",Creatinine,1.45 mg/dL,0.6 - 1.3,H,2025-09-17,Dr. Daniel Ortiz
+CC110927,"Hill, Marcus",Potassium,6.5 mmol/L,3.5 - 5.1,H,2025-09-16,Dr. Priya Nair
+CC110927,"Hill, Marcus",Sodium,124.0 mmol/L,135.0 - 145.0,L,2025-09-16,Dr. Priya Nair
+CC109814,"Miller, Brian",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-09-14,Dr. Daniel Ortiz
+CC109814,"Miller, Brian",Potassium,6.3 mmol/L,3.5 - 5.1,H,2025-09-14,Dr. Daniel Ortiz
+CC115785,"Davis, Anthony",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-09-14,Dr. Daniel Ortiz
+CC100644,"Brown, Tanya",Potassium,3.0 mmol/L,3.5 - 5.1,L,2025-09-13,Dr. Daniel Ortiz
+CC108029,"Hall, Jamal",Potassium,6.2 mmol/L,3.5 - 5.1,H,2025-09-13,Dr. Daniel Ortiz
+CC116408,"Baker, Priya",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-09-13,Dr. Priya Nair
+CC100448,"Baker, Eric",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-09-13,Dr. Daniel Ortiz
+CC105656,"King, Mei",Creatinine,2.06 mg/dL,0.6 - 1.3,H,2025-09-12,Dr. Priya Nair
+CC115869,"Wright, Carlos",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-09-12,Dr. Priya Nair
+CC104340,"Williams, Carmen",Sodium,108.0 mmol/L,135.0 - 145.0,L,2025-09-12,Dr. Priya Nair
+CC113755,"Nelson, Samuel",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-09-11,Dr. Marcus Reid
+CC113524,"Davis, Daniel",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-09-11,Dr. Laura Chen
+CC113524,"Davis, Daniel",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-09-11,Dr. Laura Chen
+CC113524,"Davis, Daniel",Creatinine,2.02 mg/dL,0.6 - 1.3,H,2025-09-11,Dr. Laura Chen
+CC113482,"Williams, Sofia",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-09-09,Dr. Priya Nair
+CC105593,"Garcia, Brian",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-09-09,Dr. Priya Nair
+CC100231,"Young, Jamal",Hemoglobin A1c,6.7 %,4.0 - 5.6,H,2025-09-08,Dr. Daniel Ortiz
+CC114322,"Brown, Ruth",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-09-08,Dr. Priya Nair
+CC114322,"Brown, Ruth",Creatinine,1.9 mg/dL,0.6 - 1.3,H,2025-09-08,Dr. Priya Nair
+CC103738,"Hill, Hannah",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-09-08,Dr. Daniel Ortiz
+CC103409,"Allen, Angela",Sodium,110.0 mmol/L,135.0 - 145.0,L,2025-09-08,Dr. Priya Nair
+CC101421,"Johnson, Carmen",Sodium,153.0 mmol/L,135.0 - 145.0,H,2025-09-08,Dr. Priya Nair
+CC101421,"Johnson, Carmen",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-09-08,Dr. Priya Nair
+CC116436,"King, Mei",Potassium,3.0 mmol/L,3.5 - 5.1,L,2025-09-07,Dr. Daniel Ortiz
+CC106251,"Scott, Aisha",Sodium,156.0 mmol/L,135.0 - 145.0,H,2025-09-07,Dr. Priya Nair
+CC100924,"Green, Sofia",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-09-07,Dr. Daniel Ortiz
+CC108246,"Lee, James",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-09-06,Dr. Marcus Reid
+CC108246,"Lee, James",Sodium,95.0 mmol/L,135.0 - 145.0,L,2025-09-06,Dr. Marcus Reid
+CC117038,"Carter, Carlos",Creatinine,1.97 mg/dL,0.6 - 1.3,H,2025-09-05,Dr. Daniel Ortiz
+CC106741,"Hill, David",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-09-04,Dr. Daniel Ortiz
+CC106041,"Roberts, Mei",Potassium,3.3 mmol/L,3.5 - 5.1,L,2025-09-04,Dr. Priya Nair
+CC100707,"Garcia, Robert",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-09-03,Dr. Daniel Ortiz
+CC116324,"Smith, James",Creatinine,1.57 mg/dL,0.6 - 1.3,H,2025-09-02,Dr. Daniel Ortiz
+CC103521,"Smith, Linda",Creatinine,0.52 mg/dL,0.6 - 1.3,L,2025-09-01,Dr. Priya Nair
+CC113685,"Wright, Samuel",Hemoglobin A1c,6.7 %,4.0 - 5.6,H,2025-09-01,Dr. Priya Nair
+CC113685,"Wright, Samuel",Glucose,55.0 mg/dL,70.0 - 140.0,L,2025-09-01,Dr. Priya Nair
+CC110598,"Walker, Keisha",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-09-01,Dr. Laura Chen
+CC104179,"Hill, William",Creatinine,1.51 mg/dL,0.6 - 1.3,H,2025-08-31,Dr. Priya Nair
+CC104179,"Hill, William",Sodium,129.0 mmol/L,135.0 - 145.0,L,2025-08-31,Dr. Priya Nair
+CC104179,"Hill, William",Potassium,2.8 mmol/L,3.5 - 5.1,L,2025-08-31,Dr. Priya Nair
+CC103192,"King, Marcus",Creatinine,1.44 mg/dL,0.6 - 1.3,H,2025-08-31,Dr. Priya Nair
+CC115274,"Hall, Jamal",Hemoglobin A1c,6.7 %,4.0 - 5.6,H,2025-08-30,Dr. Priya Nair
+CC115274,"Hall, Jamal",Glucose,64.0 mg/dL,70.0 - 140.0,L,2025-08-30,Dr. Priya Nair
+CC105586,"Lopez, Angela",Sodium,129.0 mmol/L,135.0 - 145.0,L,2025-08-30,Dr. Priya Nair
+CC107525,"Carter, Linda",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-08-29,Dr. Priya Nair
+CC111739,"Mitchell, Mei",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-08-29,Dr. Marcus Reid
+CC112733,"Phillips, Andre",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-08-28,Dr. Marcus Reid
+CC107651,"King, Michael",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-08-28,Dr. Daniel Ortiz
+CC106482,"Martinez, Rosa",Potassium,2.8 mmol/L,3.5 - 5.1,L,2025-08-28,Dr. Daniel Ortiz
+CC109961,"Williams, Thomas",Creatinine,0.56 mg/dL,0.6 - 1.3,L,2025-08-28,Dr. Marcus Reid
+CC115862,"Martinez, Ruth",Sodium,118.0 mmol/L,135.0 - 145.0,L,2025-08-27,Dr. Daniel Ortiz
+CC111991,"Adams, Andre",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-08-27,Dr. Daniel Ortiz
+CC102135,"Miller, Keisha",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-08-26,Dr. Daniel Ortiz
+CC100301,"Scott, Victor",Sodium,121.0 mmol/L,135.0 - 145.0,L,2025-08-26,Dr. Laura Chen
+CC108148,"Johnson, Luis",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-08-25,Dr. Priya Nair
+CC102051,"Martinez, Angela",Hemoglobin A1c,8.0 %,4.0 - 5.6,H,2025-08-25,Dr. Daniel Ortiz
+CC109114,"Wright, Danielle",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-08-25,Dr. Daniel Ortiz
+CC109114,"Wright, Danielle",Potassium,5.9 mmol/L,3.5 - 5.1,H,2025-08-25,Dr. Daniel Ortiz
+CC109114,"Wright, Danielle",Creatinine,0.48 mg/dL,0.6 - 1.3,L,2025-08-25,Dr. Daniel Ortiz
+CC111088,"Scott, Linda",Sodium,109.0 mmol/L,135.0 - 145.0,L,2025-08-25,Dr. Priya Nair
+CC115512,"Campbell, Daniel",Potassium,3.3 mmol/L,3.5 - 5.1,L,2025-08-24,Dr. Daniel Ortiz
+CC111277,"Hill, Carmen",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-08-24,Dr. Priya Nair
+CC111277,"Hill, Carmen",Potassium,5.9 mmol/L,3.5 - 5.1,H,2025-08-24,Dr. Priya Nair
+CC112691,"Miller, Maria",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-08-24,Dr. Laura Chen
+CC112691,"Miller, Maria",Potassium,2.9 mmol/L,3.5 - 5.1,L,2025-08-24,Dr. Laura Chen
+CC112404,"Scott, Luis",Sodium,153.0 mmol/L,135.0 - 145.0,H,2025-08-24,Dr. Priya Nair
+CC112404,"Scott, Luis",Creatinine,1.59 mg/dL,0.6 - 1.3,H,2025-08-24,Dr. Priya Nair
+CC112957,"Hill, Danielle",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-08-24,Dr. Daniel Ortiz
+CC106447,"Baker, Ruth",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-08-23,Dr. Daniel Ortiz
+CC107595,"Rodriguez, Aisha",Sodium,126.0 mmol/L,135.0 - 145.0,L,2025-08-23,Dr. Marcus Reid
+CC115386,"Campbell, Brianna",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-08-22,Dr. Daniel Ortiz
+CC110584,"Roberts, Michael",Glucose,155.0 mg/dL,70.0 - 140.0,H,2025-08-21,Dr. Daniel Ortiz
+CC110584,"Roberts, Michael",Hemoglobin A1c,3.7 %,4.0 - 5.6,L,2025-08-21,Dr. Daniel Ortiz
+CC111340,"Williams, Aisha",Hemoglobin A1c,5.7 %,4.0 - 5.6,H,2025-08-21,Dr. Priya Nair
+CC108239,"Williams, Brianna",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-08-20,Dr. Priya Nair
+CC112628,"King, Luis",Hemoglobin A1c,6.1 %,4.0 - 5.6,H,2025-08-20,Dr. Priya Nair
+CC109576,"Miller, Rosa",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-08-20,Dr. Priya Nair
+CC105110,"Miller, Hannah",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-08-19,Dr. Priya Nair
+CC101848,"Scott, Brianna",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-08-19,Dr. Daniel Ortiz
+CC101848,"Scott, Brianna",Creatinine,1.48 mg/dL,0.6 - 1.3,H,2025-08-19,Dr. Daniel Ortiz
+CC114084,"Scott, Grace",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-08-19,Dr. Priya Nair
+CC114084,"Scott, Grace",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-08-19,Dr. Priya Nair
+CC117199,"Green, Anthony",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-08-19,Dr. Daniel Ortiz
+CC117185,"Garcia, Daniel",Hemoglobin A1c,6.1 %,4.0 - 5.6,H,2025-08-18,Dr. Daniel Ortiz
+CC114336,"Scott, Emily",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-08-18,Dr. Priya Nair
+CC100084,"Green, Michael",Sodium,104.0 mmol/L,135.0 - 145.0,L,2025-08-18,Dr. Daniel Ortiz
+CC101057,"Garcia, Linda",Potassium,2.9 mmol/L,3.5 - 5.1,L,2025-08-17,Dr. Priya Nair
+CC107210,"Mitchell, Samuel",Creatinine,1.49 mg/dL,0.6 - 1.3,H,2025-08-16,Dr. Priya Nair
+CC110269,"Brown, Andre",Creatinine,1.9 mg/dL,0.6 - 1.3,H,2025-08-16,Dr. Daniel Ortiz
+CC109072,"Miller, William",Sodium,108.0 mmol/L,135.0 - 145.0,L,2025-08-15,Dr. Marcus Reid
+CC111480,"Rodriguez, Michael",Creatinine,1.67 mg/dL,0.6 - 1.3,H,2025-08-15,Dr. Daniel Ortiz
+CC107168,"Johnson, Andre",Creatinine,0.43 mg/dL,0.6 - 1.3,L,2025-08-15,Dr. Marcus Reid
+CC100007,"Williams, Ruth",Hemoglobin A1c,8.3 %,4.0 - 5.6,H,2025-08-14,Dr. Priya Nair
+CC114560,"Smith, Olivia",Creatinine,1.8 mg/dL,0.6 - 1.3,H,2025-08-14,Dr. Marcus Reid
+CC104984,"Hall, Danielle",Hemoglobin A1c,7.8 %,4.0 - 5.6,H,2025-08-13,Dr. Priya Nair
+CC101029,"Hill, James",Hemoglobin A1c,7.7 %,4.0 - 5.6,H,2025-08-12,Dr. Daniel Ortiz
+CC111683,"Scott, Maria",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-08-12,Dr. Laura Chen
+CC111683,"Scott, Maria",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-08-12,Dr. Laura Chen
+CC111683,"Scott, Maria",Creatinine,2.02 mg/dL,0.6 - 1.3,H,2025-08-12,Dr. Laura Chen
+CC108442,"Martinez, Danielle",Glucose,64.0 mg/dL,70.0 - 140.0,L,2025-08-11,Dr. Priya Nair
+CC108190,"Williams, Luis",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-08-11,Dr. Daniel Ortiz
+CC108190,"Williams, Luis",Potassium,5.9 mmol/L,3.5 - 5.1,H,2025-08-11,Dr. Daniel Ortiz
+CC108190,"Williams, Luis",Creatinine,1.41 mg/dL,0.6 - 1.3,H,2025-08-11,Dr. Daniel Ortiz
+CC106377,"Rodriguez, Luis",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-08-10,Dr. Daniel Ortiz
+CC114805,"Allen, Maria",Potassium,2.5 mmol/L,3.5 - 5.1,L,2025-08-10,Dr. Marcus Reid
+CC111746,"Lee, Tanya",Creatinine,1.84 mg/dL,0.6 - 1.3,H,2025-08-09,Dr. Laura Chen
+CC112936,"Young, Luis",Creatinine,1.4 mg/dL,0.6 - 1.3,H,2025-08-09,Dr. Priya Nair
+CC106342,"Wright, Isaac",Creatinine,0.43 mg/dL,0.6 - 1.3,L,2025-08-09,Dr. Daniel Ortiz
+CC113643,"Green, Danielle",Hemoglobin A1c,6.9 %,4.0 - 5.6,H,2025-08-09,Dr. Daniel Ortiz
+CC113643,"Green, Danielle",Glucose,55.0 mg/dL,70.0 - 140.0,L,2025-08-09,Dr. Daniel Ortiz
+CC106615,"Carter, Daniel",Hemoglobin A1c,8.2 %,4.0 - 5.6,H,2025-08-08,Dr. Daniel Ortiz
+CC108631,"Hall, Danielle",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-08-06,Dr. Daniel Ortiz
+CC108631,"Hall, Danielle",Potassium,2.7 mmol/L,3.5 - 5.1,L,2025-08-06,Dr. Daniel Ortiz
+CC116093,"Carter, Andre",Potassium,5.4 mmol/L,3.5 - 5.1,H,2025-08-06,Dr. Priya Nair
+CC108253,"Lee, Angela",Creatinine,1.35 mg/dL,0.6 - 1.3,H,2025-08-05,Dr. Priya Nair
+CC116842,"Smith, Nicole",Hemoglobin A1c,6.7 %,4.0 - 5.6,H,2025-08-03,Dr. Daniel Ortiz
+CC105740,"Perez, Angela",Creatinine,0.49 mg/dL,0.6 - 1.3,L,2025-08-02,Dr. Daniel Ortiz
+CC108841,"Hall, Luis",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-08-02,Dr. Daniel Ortiz
+CC106230,"King, Aisha",Creatinine,1.94 mg/dL,0.6 - 1.3,H,2025-08-01,Dr. Daniel Ortiz
+CC110283,"Green, Tanya",Creatinine,1.72 mg/dL,0.6 - 1.3,H,2025-08-01,Dr. Priya Nair
+CC109100,"Roberts, Carmen",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-08-01,Dr. Daniel Ortiz
+CC111221,"Turner, Victor",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-08-01,Dr. Daniel Ortiz
+CC111221,"Turner, Victor",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-08-01,Dr. Daniel Ortiz
+CC111221,"Turner, Victor",Creatinine,1.83 mg/dL,0.6 - 1.3,H,2025-08-01,Dr. Daniel Ortiz
+CC115078,"Perez, Danielle",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-07-31,Dr. Daniel Ortiz
+CC102002,"Lee, Danielle",Sodium,154.0 mmol/L,135.0 - 145.0,H,2025-07-31,Dr. Priya Nair
+CC101806,"Roberts, Kevin",Creatinine,1.99 mg/dL,0.6 - 1.3,H,2025-07-31,Dr. Daniel Ortiz
+CC106727,"Scott, Priya",Potassium,6.6 mmol/L,3.5 - 5.1,H,2025-07-31,Dr. Daniel Ortiz
+CC100343,"Scott, Marcus",Hemoglobin A1c,7.9 %,4.0 - 5.6,H,2025-07-31,Dr. Priya Nair
+CC106034,"Green, Victor",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-07-30,Dr. Priya Nair
+CC106034,"Green, Victor",Creatinine,1.71 mg/dL,0.6 - 1.3,H,2025-07-30,Dr. Priya Nair
+CC107952,"Young, James",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-07-30,Dr. Daniel Ortiz
+CC115708,"Wright, Jamal",Potassium,6.6 mmol/L,3.5 - 5.1,H,2025-07-30,Dr. Daniel Ortiz
+CC108715,"Perez, Thomas",Potassium,3.2 mmol/L,3.5 - 5.1,L,2025-07-29,Dr. Priya Nair
+CC106867,"Baker, Priya",Hemoglobin A1c,5.8 %,4.0 - 5.6,H,2025-07-29,Dr. Daniel Ortiz
+CC112166,"Phillips, Nicole",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-07-28,Dr. Priya Nair
+CC101015,"Davis, Hannah",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-07-28,Dr. Daniel Ortiz
+CC115813,"Perez, Grace",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-07-28,Dr. Priya Nair
+CC115813,"Perez, Grace",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-07-28,Dr. Priya Nair
+CC112383,"Mitchell, Rosa",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-07-26,Dr. Priya Nair
+CC112383,"Mitchell, Rosa",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-07-26,Dr. Priya Nair
+CC112138,"Adams, David",Hemoglobin A1c,6.7 %,4.0 - 5.6,H,2025-07-25,Dr. Daniel Ortiz
+CC112768,"Hall, Nicole",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-07-24,Dr. Daniel Ortiz
+CC104459,"Perez, Priya",Creatinine,0.5 mg/dL,0.6 - 1.3,L,2025-07-23,Dr. Priya Nair
+CC114448,"Hall, Danielle",Hemoglobin A1c,6.9 %,4.0 - 5.6,H,2025-07-22,Dr. Daniel Ortiz
+CC111242,"Baker, Angela",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-07-22,Dr. Priya Nair
+CC102009,"Young, Marcus",Hemoglobin A1c,6.4 %,4.0 - 5.6,H,2025-07-21,Dr. Priya Nair
+CC115001,"Green, Sofia",Potassium,6.4 mmol/L,3.5 - 5.1,H,2025-07-21,Dr. Daniel Ortiz
+CC115001,"Green, Sofia",Sodium,118.0 mmol/L,135.0 - 145.0,L,2025-07-21,Dr. Daniel Ortiz
+CC100553,"Brown, William",Hemoglobin A1c,6.8 %,4.0 - 5.6,H,2025-07-20,Dr. Daniel Ortiz
+CC100553,"Brown, William",Glucose,172.0 mg/dL,70.0 - 140.0,H,2025-07-20,Dr. Daniel Ortiz
+CC107539,"Green, Marcus",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-07-20,Dr. Daniel Ortiz
+CC107539,"Green, Marcus",Potassium,5.4 mmol/L,3.5 - 5.1,H,2025-07-20,Dr. Daniel Ortiz
+CC110885,"Allen, Raj",Creatinine,1.98 mg/dL,0.6 - 1.3,H,2025-07-20,Dr. Daniel Ortiz
+CC116562,"Martinez, James",Hemoglobin A1c,7.6 %,4.0 - 5.6,H,2025-07-20,Dr. Daniel Ortiz
+CC103101,"Wright, Raj",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-07-19,Dr. Laura Chen
+CC103101,"Wright, Raj",Creatinine,1.65 mg/dL,0.6 - 1.3,H,2025-07-19,Dr. Laura Chen
+CC107441,"Lopez, Aisha",Sodium,123.0 mmol/L,135.0 - 145.0,L,2025-07-19,Dr. Priya Nair
+CC100196,"Miller, Keisha",Creatinine,1.43 mg/dL,0.6 - 1.3,H,2025-07-18,Dr. Daniel Ortiz
+CC100196,"Miller, Keisha",Potassium,3.0 mmol/L,3.5 - 5.1,L,2025-07-18,Dr. Daniel Ortiz
+CC112243,"Brown, Anthony",Hemoglobin A1c,7.4 %,4.0 - 5.6,H,2025-07-17,Dr. Daniel Ortiz
+CC108820,"Wright, Anthony",Hemoglobin A1c,2.9 %,4.0 - 5.6,L,2025-07-17,Dr. Daniel Ortiz
+CC109765,"Scott, David",Creatinine,1.94 mg/dL,0.6 - 1.3,H,2025-07-17,Dr. Daniel Ortiz
+CC102807,"Phillips, James",Creatinine,1.63 mg/dL,0.6 - 1.3,H,2025-07-16,Dr. Daniel Ortiz
+CC111886,"Johnson, Linda",Hemoglobin A1c,6.0 %,4.0 - 5.6,H,2025-07-15,Dr. Priya Nair
+CC111886,"Johnson, Linda",Glucose,147.0 mg/dL,70.0 - 140.0,H,2025-07-15,Dr. Priya Nair
+CC110759,"Roberts, Victor",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-07-14,Dr. Daniel Ortiz
+CC110759,"Roberts, Victor",Creatinine,1.53 mg/dL,0.6 - 1.3,H,2025-07-14,Dr. Daniel Ortiz
+CC100658,"Young, Jennifer",Hemoglobin A1c,7.7 %,4.0 - 5.6,H,2025-07-14,Dr. Priya Nair
+CC113860,"Wright, James",Potassium,5.9 mmol/L,3.5 - 5.1,H,2025-07-14,Dr. Priya Nair
+CC101148,"Allen, Samuel",Creatinine,1.47 mg/dL,0.6 - 1.3,H,2025-07-13,Dr. Daniel Ortiz
+CC116408,"Baker, Priya",Potassium,2.6 mmol/L,3.5 - 5.1,L,2025-07-13,Dr. Priya Nair
+CC102443,"Green, Kevin",Sodium,99.0 mmol/L,135.0 - 145.0,L,2025-07-12,Dr. Priya Nair
+CC110899,"Green, Ruth",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-07-12,Dr. Daniel Ortiz
+CC110731,"Hill, Hannah",Creatinine,1.91 mg/dL,0.6 - 1.3,H,2025-07-12,Dr. Priya Nair
+CC103500,"Hill, Robert",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-07-11,Dr. Daniel Ortiz
+CC106244,"Hill, Kevin",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-07-11,Dr. Priya Nair
+CC106244,"Hill, Kevin",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-07-11,Dr. Priya Nair
+CC105523,"Carter, Angela",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-07-11,Dr. Daniel Ortiz
+CC112376,"Mitchell, Michael",Creatinine,1.56 mg/dL,0.6 - 1.3,H,2025-07-11,Dr. Daniel Ortiz
+CC115022,"Lopez, Priya",Creatinine,1.68 mg/dL,0.6 - 1.3,H,2025-07-11,Dr. Laura Chen
+CC112467,"King, Carmen",Hemoglobin A1c,7.4 %,4.0 - 5.6,H,2025-07-10,Dr. Daniel Ortiz
+CC112467,"King, Carmen",Glucose,182.0 mg/dL,70.0 - 140.0,H,2025-07-10,Dr. Daniel Ortiz
+CC114294,"Johnson, Ruth",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-07-09,Dr. Priya Nair
+CC114294,"Johnson, Ruth",Sodium,96.0 mmol/L,135.0 - 145.0,L,2025-07-09,Dr. Priya Nair
+CC114294,"Johnson, Ruth",Creatinine,0.52 mg/dL,0.6 - 1.3,L,2025-07-09,Dr. Priya Nair
+CC109058,"Perez, Eric",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-07-09,Dr. Daniel Ortiz
+CC109058,"Perez, Eric",Sodium,124.0 mmol/L,135.0 - 145.0,L,2025-07-09,Dr. Daniel Ortiz
+CC109933,"Adams, David",Creatinine,2.04 mg/dL,0.6 - 1.3,H,2025-07-08,Dr. Priya Nair
+CC116240,"Roberts, Anthony",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-07-08,Dr. Daniel Ortiz
+CC111606,"Carter, Raj",Hemoglobin A1c,7.5 %,4.0 - 5.6,H,2025-07-08,Dr. Priya Nair
+CC104998,"Young, Aisha",Potassium,3.2 mmol/L,3.5 - 5.1,L,2025-07-08,Dr. Priya Nair
+CC114875,"Nelson, Maria",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-07-08,Dr. Priya Nair
+CC112460,"Williams, Eric",Sodium,153.0 mmol/L,135.0 - 145.0,H,2025-07-07,Dr. Priya Nair
+CC108008,"Garcia, Grace",Sodium,106.0 mmol/L,135.0 - 145.0,L,2025-07-05,Dr. Priya Nair
+CC113013,"Nelson, Isaac",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-07-04,Dr. Priya Nair
+CC113013,"Nelson, Isaac",Potassium,5.4 mmol/L,3.5 - 5.1,H,2025-07-04,Dr. Priya Nair
+CC112558,"Hall, Luis",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-07-03,Dr. Priya Nair
+CC100266,"Adams, Emily",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-07-03,Dr. Priya Nair
+CC100266,"Adams, Emily",Potassium,6.3 mmol/L,3.5 - 5.1,H,2025-07-03,Dr. Priya Nair
+CC107133,"Green, Tanya",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-07-01,Dr. Priya Nair
+CC104802,"Adams, Mei",Hemoglobin A1c,6.0 %,4.0 - 5.6,H,2025-07-01,Dr. Priya Nair
+CC104802,"Adams, Mei",Glucose,208.0 mg/dL,70.0 - 140.0,H,2025-07-01,Dr. Priya Nair
+CC113727,"Mitchell, Hannah",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-06-30,Dr. Priya Nair
+CC113727,"Mitchell, Hannah",Potassium,2.5 mmol/L,3.5 - 5.1,L,2025-06-30,Dr. Priya Nair
+CC116625,"Hall, Priya",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-06-30,Dr. Daniel Ortiz
+CC110465,"Mitchell, Victor",Creatinine,1.65 mg/dL,0.6 - 1.3,H,2025-06-29,Dr. Daniel Ortiz
+CC110465,"Mitchell, Victor",Potassium,2.6 mmol/L,3.5 - 5.1,L,2025-06-29,Dr. Daniel Ortiz
+CC110234,"Green, James",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-06-29,Dr. Daniel Ortiz
+CC106671,"Nelson, Sofia",Potassium,6.5 mmol/L,3.5 - 5.1,H,2025-06-28,Dr. Daniel Ortiz
+CC100028,"Lee, Jennifer",Hemoglobin A1c,6.2 %,4.0 - 5.6,H,2025-06-28,Dr. Priya Nair
+CC100028,"Lee, Jennifer",Glucose,154.0 mg/dL,70.0 - 140.0,H,2025-06-28,Dr. Priya Nair
+CC110661,"Brown, Danielle",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-06-28,Dr. Marcus Reid
+CC102058,"Perez, Daniel",Potassium,6.6 mmol/L,3.5 - 5.1,H,2025-06-28,Dr. Laura Chen
+CC113468,"Campbell, Andre",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-06-27,Dr. Priya Nair
+CC113468,"Campbell, Andre",Creatinine,1.8 mg/dL,0.6 - 1.3,H,2025-06-27,Dr. Priya Nair
+CC107714,"Turner, James",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-06-27,Dr. Priya Nair
+CC107714,"Turner, James",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-06-27,Dr. Priya Nair
+CC107714,"Turner, James",Creatinine,0.45 mg/dL,0.6 - 1.3,L,2025-06-27,Dr. Priya Nair
+CC106097,"Davis, Brianna",Potassium,5.9 mmol/L,3.5 - 5.1,H,2025-06-27,Dr. Laura Chen
+CC117430,"Perez, Mei",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-06-27,Dr. Priya Nair
+CC113979,"Wright, Grace",Potassium,5.4 mmol/L,3.5 - 5.1,H,2025-06-26,Dr. Priya Nair
+CC115141,"Brown, Nicole",Creatinine,1.58 mg/dL,0.6 - 1.3,H,2025-06-26,Dr. Daniel Ortiz
+CC105978,"Turner, William",Hemoglobin A1c,6.3 %,4.0 - 5.6,H,2025-06-26,Dr. Priya Nair
+CC109002,"Brown, Rosa",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-06-25,Dr. Laura Chen
+CC109002,"Brown, Rosa",Potassium,6.2 mmol/L,3.5 - 5.1,H,2025-06-25,Dr. Laura Chen
+CC100427,"Davis, Olivia",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-06-23,Dr. Priya Nair
+CC115582,"Wright, Brianna",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-06-23,Dr. Daniel Ortiz
+CC109751,"Roberts, Priya",Sodium,154.0 mmol/L,135.0 - 145.0,H,2025-06-23,Dr. Priya Nair
+CC100021,"Walker, Samuel",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-06-23,Dr. Priya Nair
+CC114196,"Johnson, Angela",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-06-23,Dr. Priya Nair
+CC113678,"Phillips, William",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-06-23,Dr. Daniel Ortiz
+CC109072,"Miller, William",Hemoglobin A1c,3.6 %,4.0 - 5.6,L,2025-06-23,Dr. Daniel Ortiz
+CC115078,"Perez, Danielle",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-06-22,Dr. Priya Nair
+CC104536,"Hall, Danielle",Hemoglobin A1c,5.8 %,4.0 - 5.6,H,2025-06-22,Dr. Daniel Ortiz
+CC102625,"Lee, Anthony",Hemoglobin A1c,6.9 %,4.0 - 5.6,H,2025-06-22,Dr. Priya Nair
+CC102548,"Williams, Kevin",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-06-18,Dr. Priya Nair
+CC112117,"Perez, James",Creatinine,0.56 mg/dL,0.6 - 1.3,L,2025-06-18,Dr. Priya Nair
+CC114959,"Walker, Samuel",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-06-17,Dr. Marcus Reid
+CC113692,"Campbell, Marcus",Hemoglobin A1c,3.1 %,4.0 - 5.6,L,2025-06-17,Dr. Daniel Ortiz
+CC106909,"Wright, James",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-06-17,Dr. Priya Nair
+CC104333,"Hall, Nicole",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-06-17,Dr. Marcus Reid
+CC104333,"Hall, Nicole",Creatinine,1.65 mg/dL,0.6 - 1.3,H,2025-06-17,Dr. Marcus Reid
+CC112152,"Williams, Michael",Hemoglobin A1c,8.1 %,4.0 - 5.6,H,2025-06-16,Dr. Priya Nair
+CC101981,"Green, Nicole",Creatinine,1.52 mg/dL,0.6 - 1.3,H,2025-06-16,Dr. Daniel Ortiz
+CC100336,"Carter, Tanya",Potassium,6.7 mmol/L,3.5 - 5.1,H,2025-06-15,Dr. Priya Nair
+CC100336,"Carter, Tanya",Creatinine,1.91 mg/dL,0.6 - 1.3,H,2025-06-15,Dr. Priya Nair
+CC114483,"Mitchell, Victor",Hemoglobin A1c,5.7 %,4.0 - 5.6,H,2025-06-13,Dr. Daniel Ortiz
+CC108267,"Williams, Jennifer",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-06-13,Dr. Priya Nair
+CC108267,"Williams, Jennifer",Creatinine,2.07 mg/dL,0.6 - 1.3,H,2025-06-13,Dr. Priya Nair
+CC113517,"Smith, Victor",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-06-12,Dr. Priya Nair
+CC113517,"Smith, Victor",Creatinine,1.38 mg/dL,0.6 - 1.3,H,2025-06-12,Dr. Priya Nair
+CC108505,"Young, Eric",Glucose,181.0 mg/dL,70.0 - 140.0,H,2025-06-12,Dr. Daniel Ortiz
+CC113944,"Walker, Linda",Creatinine,1.77 mg/dL,0.6 - 1.3,H,2025-06-11,Dr. Daniel Ortiz
+CC112824,"Smith, Priya",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-06-09,Dr. Daniel Ortiz
+CC109877,"Allen, Jennifer",Hemoglobin A1c,8.3 %,4.0 - 5.6,H,2025-06-09,Dr. Daniel Ortiz
+CC105950,"Phillips, James",Hemoglobin A1c,6.0 %,4.0 - 5.6,H,2025-06-08,Dr. Priya Nair
+CC113377,"Garcia, Nicole",Creatinine,1.31 mg/dL,0.6 - 1.3,H,2025-06-07,Dr. Daniel Ortiz
+CC105691,"Turner, Emily",Creatinine,1.98 mg/dL,0.6 - 1.3,H,2025-06-07,Dr. Daniel Ortiz
+CC105691,"Turner, Emily",Potassium,3.1 mmol/L,3.5 - 5.1,L,2025-06-07,Dr. Daniel Ortiz
+CC111158,"Mitchell, Luis",Hemoglobin A1c,7.3 %,4.0 - 5.6,H,2025-06-05,Dr. Priya Nair
+CC109723,"Walker, Kevin",Creatinine,0.52 mg/dL,0.6 - 1.3,L,2025-06-04,Dr. Marcus Reid
+CC105775,"Davis, Brian",Creatinine,1.48 mg/dL,0.6 - 1.3,H,2025-06-03,Dr. Daniel Ortiz
+CC112719,"Lopez, Marcus",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-06-03,Dr. Laura Chen
+CC112719,"Lopez, Marcus",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-06-03,Dr. Laura Chen
+CC103479,"Miller, Hannah",Creatinine,1.78 mg/dL,0.6 - 1.3,H,2025-06-02,Dr. Daniel Ortiz
+CC103528,"Miller, Daniel",Sodium,127.0 mmol/L,135.0 - 145.0,L,2025-06-01,Dr. Daniel Ortiz
+CC103283,"Campbell, Angela",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-06-01,Dr. Daniel Ortiz
+CC107098,"Miller, Kevin",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-05-31,Dr. Daniel Ortiz
+CC107098,"Miller, Kevin",Creatinine,0.52 mg/dL,0.6 - 1.3,L,2025-05-31,Dr. Daniel Ortiz
+CC103409,"Allen, Angela",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-05-30,Dr. Laura Chen
+CC113195,"Martinez, Victor",Creatinine,1.53 mg/dL,0.6 - 1.3,H,2025-05-30,Dr. Daniel Ortiz
+CC100070,"Mitchell, Priya",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-05-30,Dr. Laura Chen
+CC115372,"Johnson, Aisha",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-05-29,Dr. Daniel Ortiz
+CC115372,"Johnson, Aisha",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-05-29,Dr. Daniel Ortiz
+CC112684,"Wright, Michael",Sodium,110.0 mmol/L,135.0 - 145.0,L,2025-05-29,Dr. Daniel Ortiz
+CC103311,"Phillips, Robert",Creatinine,1.44 mg/dL,0.6 - 1.3,H,2025-05-27,Dr. Daniel Ortiz
+CC101225,"Phillips, James",Creatinine,1.81 mg/dL,0.6 - 1.3,H,2025-05-27,Dr. Daniel Ortiz
+CC116289,"Hall, Luis",Sodium,153.0 mmol/L,135.0 - 145.0,H,2025-05-22,Dr. Daniel Ortiz
+CC105551,"Carter, Marcus",Hemoglobin A1c,7.5 %,4.0 - 5.6,H,2025-05-22,Dr. Priya Nair
+CC105551,"Carter, Marcus",Glucose,162.0 mg/dL,70.0 - 140.0,H,2025-05-22,Dr. Priya Nair
+CC102072,"Green, Anthony",Hemoglobin A1c,5.9 %,4.0 - 5.6,H,2025-05-22,Dr. Daniel Ortiz
+CC104949,"Lee, James",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-05-21,Dr. Daniel Ortiz
+CC114651,"Hall, Brian",Potassium,2.5 mmol/L,3.5 - 5.1,L,2025-05-21,Dr. Daniel Ortiz
+CC111375,"Wright, Tanya",Hemoglobin A1c,7.9 %,4.0 - 5.6,H,2025-05-21,Dr. Priya Nair
+CC111375,"Wright, Tanya",Glucose,159.0 mg/dL,70.0 - 140.0,H,2025-05-21,Dr. Priya Nair
+CC115204,"Allen, Angela",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-05-20,Dr. Priya Nair
+CC115204,"Allen, Angela",Potassium,6.2 mmol/L,3.5 - 5.1,H,2025-05-20,Dr. Priya Nair
+CC115204,"Allen, Angela",Creatinine,1.38 mg/dL,0.6 - 1.3,H,2025-05-20,Dr. Priya Nair
+CC114693,"Nelson, Samuel",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-05-19,Dr. Laura Chen
+CC114693,"Nelson, Samuel",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-05-19,Dr. Laura Chen
+CC115729,"Baker, Emily",Sodium,104.0 mmol/L,135.0 - 145.0,L,2025-05-19,Dr. Laura Chen
+CC114938,"Williams, Danielle",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-05-19,Dr. Daniel Ortiz
+CC112761,"Carter, Jamal",Potassium,5.9 mmol/L,3.5 - 5.1,H,2025-05-18,Dr. Priya Nair
+CC112761,"Carter, Jamal",Creatinine,2.01 mg/dL,0.6 - 1.3,H,2025-05-18,Dr. Priya Nair
+CC104060,"Lee, Linda",Hemoglobin A1c,7.2 %,4.0 - 5.6,H,2025-05-16,Dr. Priya Nair
+CC105040,"Wright, Jennifer",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-05-16,Dr. Priya Nair
+CC112313,"King, Eric",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-05-16,Dr. Daniel Ortiz
+CC105040,"Wright, Jennifer",Creatinine,0.54 mg/dL,0.6 - 1.3,L,2025-05-16,Dr. Priya Nair
+CC105803,"Phillips, Maria",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-05-16,Dr. Priya Nair
+CC102604,"Carter, James",Hemoglobin A1c,6.2 %,4.0 - 5.6,H,2025-05-15,Dr. Priya Nair
+CC102604,"Carter, James",Glucose,220.0 mg/dL,70.0 - 140.0,H,2025-05-15,Dr. Priya Nair
+CC111452,"Wright, Michael",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-05-15,Dr. Daniel Ortiz
+CC115680,"Hall, Angela",Potassium,3.2 mmol/L,3.5 - 5.1,L,2025-05-15,Dr. Laura Chen
+CC101050,"Green, William",Sodium,118.0 mmol/L,135.0 - 145.0,L,2025-05-14,Dr. Marcus Reid
+CC108456,"Johnson, Carmen",Hemoglobin A1c,5.8 %,4.0 - 5.6,H,2025-05-12,Dr. Priya Nair
+CC111606,"Carter, Raj",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-05-12,Dr. Marcus Reid
+CC111606,"Carter, Raj",Creatinine,1.98 mg/dL,0.6 - 1.3,H,2025-05-12,Dr. Marcus Reid
+CC115687,"Mitchell, Brianna",Sodium,156.0 mmol/L,135.0 - 145.0,H,2025-05-12,Dr. Priya Nair
+CC115687,"Mitchell, Brianna",Creatinine,0.5 mg/dL,0.6 - 1.3,L,2025-05-12,Dr. Priya Nair
+CC111942,"Hill, Brian",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-05-12,Dr. Marcus Reid
+CC111942,"Hill, Brian",Potassium,6.2 mmol/L,3.5 - 5.1,H,2025-05-12,Dr. Marcus Reid
+CC114329,"Williams, Marcus",Potassium,6.3 mmol/L,3.5 - 5.1,H,2025-05-10,Dr. Priya Nair
+CC115498,"Campbell, Angela",Hemoglobin A1c,6.6 %,4.0 - 5.6,H,2025-05-10,Dr. Priya Nair
+CC105719,"Davis, Daniel",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-05-09,Dr. Priya Nair
+CC105719,"Davis, Daniel",Creatinine,0.49 mg/dL,0.6 - 1.3,L,2025-05-09,Dr. Priya Nair
+CC101743,"Hill, Jamal",Creatinine,1.33 mg/dL,0.6 - 1.3,H,2025-05-09,Dr. Daniel Ortiz
+CC111592,"Campbell, Marcus",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-05-09,Dr. Daniel Ortiz
+CC111592,"Campbell, Marcus",Creatinine,0.44 mg/dL,0.6 - 1.3,L,2025-05-09,Dr. Daniel Ortiz
+CC116695,"Green, Raj",Creatinine,1.93 mg/dL,0.6 - 1.3,H,2025-05-08,Dr. Priya Nair
+CC113636,"Turner, Ruth",Hemoglobin A1c,7.3 %,4.0 - 5.6,H,2025-05-08,Dr. Priya Nair
+CC109289,"Garcia, David",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-05-08,Dr. Priya Nair
+CC111760,"Martinez, Michael",Creatinine,1.72 mg/dL,0.6 - 1.3,H,2025-05-07,Dr. Marcus Reid
+CC116569,"Phillips, Samuel",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-05-06,Dr. Daniel Ortiz
+CC105663,"Hall, Brian",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-05-05,Dr. Daniel Ortiz
+CC105278,"Garcia, Hannah",Creatinine,1.32 mg/dL,0.6 - 1.3,H,2025-05-05,Dr. Daniel Ortiz
+CC100602,"Rodriguez, James",Hemoglobin A1c,3.3 %,4.0 - 5.6,L,2025-05-05,Dr. Daniel Ortiz
+CC107406,"Mitchell, Nicole",Hemoglobin A1c,6.4 %,4.0 - 5.6,H,2025-05-05,Dr. Priya Nair
+CC108435,"Hall, Michael",Hemoglobin A1c,7.7 %,4.0 - 5.6,H,2025-05-05,Dr. Priya Nair
+CC108834,"Garcia, Robert",Hemoglobin A1c,8.6 %,4.0 - 5.6,H,2025-05-02,Dr. Daniel Ortiz
+CC117234,"Adams, Rosa",Hemoglobin A1c,6.6 %,4.0 - 5.6,H,2025-05-02,Dr. Daniel Ortiz
+CC114553,"Lopez, Aisha",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-05-02,Dr. Laura Chen
+CC114553,"Lopez, Aisha",Potassium,5.9 mmol/L,3.5 - 5.1,H,2025-05-02,Dr. Laura Chen
+CC109821,"Turner, Rosa",Glucose,53.0 mg/dL,70.0 - 140.0,L,2025-05-02,Dr. Daniel Ortiz
+CC108218,"Hall, Linda",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-04-30,Dr. Priya Nair
+CC108218,"Hall, Linda",Creatinine,1.55 mg/dL,0.6 - 1.3,H,2025-04-30,Dr. Priya Nair
+CC114868,"Brown, Hannah",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-04-30,Dr. Daniel Ortiz
+CC103192,"King, Marcus",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-04-29,Dr. Daniel Ortiz
+CC106615,"Carter, Daniel",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-04-29,Dr. Priya Nair
+CC100420,"Lee, Carlos",Creatinine,0.51 mg/dL,0.6 - 1.3,L,2025-04-28,Dr. Priya Nair
+CC100637,"Walker, Victor",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-04-27,Dr. Priya Nair
+CC109954,"Campbell, Hannah",Creatinine,1.47 mg/dL,0.6 - 1.3,H,2025-04-27,Dr. Daniel Ortiz
+CC109954,"Campbell, Hannah",Sodium,103.0 mmol/L,135.0 - 145.0,L,2025-04-27,Dr. Daniel Ortiz
+CC101988,"Williams, Hannah",Creatinine,1.46 mg/dL,0.6 - 1.3,H,2025-04-26,Dr. Daniel Ortiz
+CC102737,"Nelson, Robert",Creatinine,2.08 mg/dL,0.6 - 1.3,H,2025-04-26,Dr. Daniel Ortiz
+CC102786,"Walker, Sofia",Creatinine,1.82 mg/dL,0.6 - 1.3,H,2025-04-25,Dr. Daniel Ortiz
+CC100553,"Brown, William",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-04-25,Dr. Priya Nair
+CC106251,"Scott, Aisha",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-04-25,Dr. Priya Nair
+CC106251,"Scott, Aisha",Creatinine,1.65 mg/dL,0.6 - 1.3,H,2025-04-25,Dr. Priya Nair
+CC107238,"Campbell, Priya",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-04-24,Dr. Laura Chen
+CC103654,"Young, James",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-04-23,Dr. Priya Nair
+CC105047,"Smith, Sofia",Creatinine,1.37 mg/dL,0.6 - 1.3,H,2025-04-23,Dr. Daniel Ortiz
+CC103458,"King, Aisha",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-04-23,Dr. Marcus Reid
+CC103458,"King, Aisha",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-04-23,Dr. Marcus Reid
+CC103458,"King, Aisha",Creatinine,0.5 mg/dL,0.6 - 1.3,L,2025-04-23,Dr. Marcus Reid
+CC106734,"Lee, Sofia",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-04-21,Dr. Daniel Ortiz
+CC116478,"Davis, Rosa",Hemoglobin A1c,3.3 %,4.0 - 5.6,L,2025-04-21,Dr. Priya Nair
+CC116478,"Davis, Rosa",Glucose,62.0 mg/dL,70.0 - 140.0,L,2025-04-21,Dr. Priya Nair
+CC109891,"Phillips, Raj",Creatinine,1.65 mg/dL,0.6 - 1.3,H,2025-04-20,Dr. Priya Nair
+CC109891,"Phillips, Raj",Sodium,107.0 mmol/L,135.0 - 145.0,L,2025-04-20,Dr. Priya Nair
+CC109891,"Phillips, Raj",Potassium,3.2 mmol/L,3.5 - 5.1,L,2025-04-20,Dr. Priya Nair
+CC106069,"Miller, Marcus",Hemoglobin A1c,6.2 %,4.0 - 5.6,H,2025-04-19,Dr. Daniel Ortiz
+CC116765,"Davis, Samuel",Sodium,156.0 mmol/L,135.0 - 145.0,H,2025-04-19,Dr. Priya Nair
+CC100630,"Perez, Carmen",Creatinine,1.5 mg/dL,0.6 - 1.3,H,2025-04-18,Dr. Daniel Ortiz
+CC116310,"Garcia, Angela",Potassium,5.4 mmol/L,3.5 - 5.1,H,2025-04-18,Dr. Priya Nair
+CC112817,"Hill, Linda",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-04-17,Dr. Priya Nair
+CC112817,"Hill, Linda",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-04-17,Dr. Priya Nair
+CC113804,"Scott, Isaac",Hemoglobin A1c,3.2 %,4.0 - 5.6,L,2025-04-17,Dr. Daniel Ortiz
+CC108309,"Perez, Ruth",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-04-16,Dr. Priya Nair
+CC108309,"Perez, Ruth",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-04-16,Dr. Priya Nair
+CC115701,"Allen, Emily",Creatinine,1.48 mg/dL,0.6 - 1.3,H,2025-04-16,Dr. Priya Nair
+CC115918,"Wright, Tanya",Hemoglobin A1c,7.7 %,4.0 - 5.6,H,2025-04-16,Dr. Priya Nair
+CC107294,"Young, Linda",Hemoglobin A1c,7.4 %,4.0 - 5.6,H,2025-04-16,Dr. Daniel Ortiz
+CC103283,"Campbell, Angela",Hemoglobin A1c,7.4 %,4.0 - 5.6,H,2025-04-16,Dr. Daniel Ortiz
+CC103283,"Campbell, Angela",Glucose,157.0 mg/dL,70.0 - 140.0,H,2025-04-16,Dr. Daniel Ortiz
+CC102933,"Johnson, Jennifer",Sodium,126.0 mmol/L,135.0 - 145.0,L,2025-04-14,Dr. Priya Nair
+CC106090,"Brown, William",Sodium,155.0 mmol/L,135.0 - 145.0,H,2025-04-14,Dr. Daniel Ortiz
+CC106090,"Brown, William",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-04-14,Dr. Daniel Ortiz
+CC117213,"Lee, Thomas",Potassium,2.6 mmol/L,3.5 - 5.1,L,2025-04-14,Dr. Laura Chen
+CC102541,"Scott, Luis",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-04-13,Dr. Daniel Ortiz
+CC102541,"Scott, Luis",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-04-13,Dr. Daniel Ortiz
+CC101617,"Lopez, Thomas",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-04-12,Dr. Priya Nair
+CC113244,"Phillips, Jennifer",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-04-12,Dr. Marcus Reid
+CC101967,"Scott, Anthony",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-04-11,Dr. Daniel Ortiz
+CC103010,"Carter, William",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-04-11,Dr. Priya Nair
+CC116331,"Miller, Keisha",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-04-10,Dr. Laura Chen
+CC116331,"Miller, Keisha",Creatinine,1.54 mg/dL,0.6 - 1.3,H,2025-04-10,Dr. Laura Chen
+CC114301,"Williams, Kevin",Hemoglobin A1c,6.1 %,4.0 - 5.6,H,2025-04-10,Dr. Priya Nair
+CC114301,"Williams, Kevin",Glucose,223.0 mg/dL,70.0 - 140.0,H,2025-04-10,Dr. Priya Nair
+CC108092,"Campbell, Anthony",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-04-10,Dr. Daniel Ortiz
+CC116359,"Martinez, Grace",Sodium,99.0 mmol/L,135.0 - 145.0,L,2025-04-09,Dr. Marcus Reid
+CC116527,"Rodriguez, Daniel",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-04-08,Dr. Daniel Ortiz
+CC112418,"Wright, Danielle",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-04-07,Dr. Priya Nair
+CC115715,"Rodriguez, David",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-04-07,Dr. Priya Nair
+CC109576,"Miller, Rosa",Creatinine,1.39 mg/dL,0.6 - 1.3,H,2025-04-07,Dr. Daniel Ortiz
+CC115036,"Allen, William",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-04-06,Dr. Marcus Reid
+CC116954,"Johnson, Angela",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-04-05,Dr. Priya Nair
+CC116954,"Johnson, Angela",Creatinine,1.82 mg/dL,0.6 - 1.3,H,2025-04-05,Dr. Priya Nair
+CC110962,"Phillips, Emily",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-04-05,Dr. Priya Nair
+CC111893,"Brown, Maria",Potassium,3.0 mmol/L,3.5 - 5.1,L,2025-04-05,Dr. Daniel Ortiz
+CC111893,"Brown, Maria",Creatinine,0.46 mg/dL,0.6 - 1.3,L,2025-04-05,Dr. Daniel Ortiz
+CC105509,"Davis, Ruth",Hemoglobin A1c,7.6 %,4.0 - 5.6,H,2025-04-04,Dr. Daniel Ortiz
+CC114049,"Smith, Linda",Hemoglobin A1c,5.9 %,4.0 - 5.6,H,2025-04-04,Dr. Priya Nair
+CC114049,"Smith, Linda",Glucose,176.0 mg/dL,70.0 - 140.0,H,2025-04-04,Dr. Priya Nair
+CC110304,"Campbell, Luis",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-04-03,Dr. Daniel Ortiz
+CC101855,"Hall, Mei",Hemoglobin A1c,3.3 %,4.0 - 5.6,L,2025-04-03,Dr. Priya Nair
+CC100833,"Johnson, Priya",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-04-02,Dr. Priya Nair
+CC100833,"Johnson, Priya",Sodium,107.0 mmol/L,135.0 - 145.0,L,2025-04-02,Dr. Priya Nair
+CC106664,"Miller, Victor",Potassium,5.4 mmol/L,3.5 - 5.1,H,2025-04-02,Dr. Daniel Ortiz
+CC106664,"Miller, Victor",Creatinine,0.55 mg/dL,0.6 - 1.3,L,2025-04-02,Dr. Daniel Ortiz
+CC109856,"Rodriguez, David",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-04-02,Dr. Laura Chen
+CC102233,"Baker, James",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-04-01,Dr. Daniel Ortiz
+CC113986,"Rodriguez, Raj",Potassium,5.9 mmol/L,3.5 - 5.1,H,2025-04-01,Dr. Priya Nair
+CC113986,"Rodriguez, Raj",Creatinine,0.55 mg/dL,0.6 - 1.3,L,2025-04-01,Dr. Priya Nair
+CC109506,"Allen, Olivia",Creatinine,0.49 mg/dL,0.6 - 1.3,L,2025-04-01,Dr. Priya Nair
+CC112075,"Roberts, Aisha",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-04-01,Dr. Priya Nair
+CC111354,"Lee, Victor",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-04-01,Dr. Marcus Reid
+CC111354,"Lee, Victor",Creatinine,1.65 mg/dL,0.6 - 1.3,H,2025-04-01,Dr. Marcus Reid
+CC101582,"Hall, Angela",Sodium,153.0 mmol/L,135.0 - 145.0,H,2025-03-31,Dr. Marcus Reid
+CC107693,"Carter, Victor",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-03-31,Dr. Laura Chen
+CC110864,"Wright, Samuel",Creatinine,1.86 mg/dL,0.6 - 1.3,H,2025-03-31,Dr. Daniel Ortiz
+CC114434,"Davis, Eric",Hemoglobin A1c,6.3 %,4.0 - 5.6,H,2025-03-31,Dr. Priya Nair
+CC113384,"Hill, Anthony",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-03-31,Dr. Daniel Ortiz
+CC106741,"Hill, David",Creatinine,1.37 mg/dL,0.6 - 1.3,H,2025-03-31,Dr. Priya Nair
+CC108414,"King, Kevin",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-03-30,Dr. Marcus Reid
+CC101715,"Johnson, Anthony",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-03-30,Dr. Priya Nair
+CC101715,"Johnson, Anthony",Creatinine,0.43 mg/dL,0.6 - 1.3,L,2025-03-30,Dr. Priya Nair
+CC108624,"Wright, Aisha",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-03-30,Dr. Daniel Ortiz
+CC108624,"Wright, Aisha",Creatinine,0.5 mg/dL,0.6 - 1.3,L,2025-03-30,Dr. Daniel Ortiz
+CC106055,"Wright, Priya",Creatinine,1.74 mg/dL,0.6 - 1.3,H,2025-03-30,Dr. Priya Nair
+CC116079,"Phillips, Eric",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-03-30,Dr. Daniel Ortiz
+CC111053,"Nelson, Danielle",Sodium,153.0 mmol/L,135.0 - 145.0,H,2025-03-30,Dr. Priya Nair
+CC111053,"Nelson, Danielle",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-03-30,Dr. Priya Nair
+CC115876,"Hall, Isaac",Creatinine,1.78 mg/dL,0.6 - 1.3,H,2025-03-29,Dr. Priya Nair
+CC103633,"Perez, Samuel",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-03-29,Dr. Marcus Reid
+CC103633,"Perez, Samuel",Creatinine,0.44 mg/dL,0.6 - 1.3,L,2025-03-29,Dr. Marcus Reid
+CC111641,"Hill, Michael",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-03-29,Dr. Priya Nair
+CC115050,"Young, Emily",Potassium,3.0 mmol/L,3.5 - 5.1,L,2025-03-29,Dr. Priya Nair
+CC109121,"Rodriguez, Olivia",Creatinine,1.99 mg/dL,0.6 - 1.3,H,2025-03-29,Dr. Priya Nair
+CC109121,"Rodriguez, Olivia",Sodium,120.0 mmol/L,135.0 - 145.0,L,2025-03-29,Dr. Priya Nair
+CC101078,"Baker, Tanya",Potassium,3.2 mmol/L,3.5 - 5.1,L,2025-03-28,Dr. Daniel Ortiz
+CC115624,"Young, Eric",Potassium,6.6 mmol/L,3.5 - 5.1,H,2025-03-28,Dr. Daniel Ortiz
+CC109730,"King, Thomas",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-03-28,Dr. Marcus Reid
+CC114784,"Green, Victor",Hemoglobin A1c,5.7 %,4.0 - 5.6,H,2025-03-28,Dr. Priya Nair
+CC112642,"Turner, Thomas",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-03-28,Dr. Priya Nair
+CC105229,"Hill, David",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-03-27,Dr. Daniel Ortiz
+CC105075,"Hill, Olivia",Potassium,6.3 mmol/L,3.5 - 5.1,H,2025-03-27,Dr. Priya Nair
+CC105075,"Hill, Olivia",Creatinine,2.05 mg/dL,0.6 - 1.3,H,2025-03-27,Dr. Priya Nair
+CC100574,"Allen, Nicole",Glucose,168.0 mg/dL,70.0 - 140.0,H,2025-03-27,Dr. Priya Nair
+CC110570,"Scott, Keisha",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-03-27,Dr. Daniel Ortiz
+CC100294,"Roberts, Nicole",Hemoglobin A1c,7.6 %,4.0 - 5.6,H,2025-03-27,Dr. Daniel Ortiz
+CC100294,"Roberts, Nicole",Glucose,146.0 mg/dL,70.0 - 140.0,H,2025-03-27,Dr. Daniel Ortiz
+CC116968,"Allen, Carlos",Creatinine,0.53 mg/dL,0.6 - 1.3,L,2025-03-27,Dr. Daniel Ortiz
+CC106972,"Allen, Sofia",Creatinine,1.87 mg/dL,0.6 - 1.3,H,2025-03-27,Dr. Marcus Reid
+CC106972,"Allen, Sofia",Potassium,2.8 mmol/L,3.5 - 5.1,L,2025-03-27,Dr. Marcus Reid
+CC116009,"Johnson, David",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-03-26,Dr. Daniel Ortiz
+CC104270,"Williams, Linda",Hemoglobin A1c,6.8 %,4.0 - 5.6,H,2025-03-26,Dr. Priya Nair
+CC104578,"Turner, Eric",Sodium,118.0 mmol/L,135.0 - 145.0,L,2025-03-26,Dr. Priya Nair
+CC113797,"Walker, Sofia",Creatinine,0.46 mg/dL,0.6 - 1.3,L,2025-03-26,Dr. Daniel Ortiz
+CC111571,"Green, Jamal",Hemoglobin A1c,3.3 %,4.0 - 5.6,L,2025-03-26,Dr. Daniel Ortiz
+CC112775,"Garcia, Rosa",Sodium,107.0 mmol/L,135.0 - 145.0,L,2025-03-26,Dr. Daniel Ortiz
+CC116653,"Lopez, Raj",Hemoglobin A1c,3.6 %,4.0 - 5.6,L,2025-03-26,Dr. Priya Nair
+CC102968,"Allen, Linda",Hemoglobin A1c,7.4 %,4.0 - 5.6,H,2025-03-25,Dr. Priya Nair
+CC100931,"Davis, Luis",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-03-25,Dr. Daniel Ortiz
+CC100931,"Davis, Luis",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-03-25,Dr. Daniel Ortiz
+CC110003,"Nelson, William",Potassium,3.3 mmol/L,3.5 - 5.1,L,2025-03-25,Dr. Marcus Reid
+CC108183,"Scott, Isaac",Creatinine,1.53 mg/dL,0.6 - 1.3,H,2025-03-25,Dr. Daniel Ortiz
+CC105152,"Phillips, Tanya",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-03-25,Dr. Laura Chen
+CC112180,"Carter, Brian",Hemoglobin A1c,6.0 %,4.0 - 5.6,H,2025-03-25,Dr. Daniel Ortiz
+CC112180,"Carter, Brian",Glucose,157.0 mg/dL,70.0 - 140.0,H,2025-03-25,Dr. Daniel Ortiz
+CC114777,"Nelson, Linda",Potassium,5.9 mmol/L,3.5 - 5.1,H,2025-03-25,Dr. Priya Nair
+CC114777,"Nelson, Linda",Creatinine,0.44 mg/dL,0.6 - 1.3,L,2025-03-25,Dr. Priya Nair
+CC104648,"Rodriguez, Hannah",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-03-24,Dr. Daniel Ortiz
+CC104648,"Rodriguez, Hannah",Creatinine,1.43 mg/dL,0.6 - 1.3,H,2025-03-24,Dr. Daniel Ortiz
+CC115582,"Wright, Brianna",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-03-24,Dr. Marcus Reid
+CC100385,"Brown, Grace",Creatinine,0.45 mg/dL,0.6 - 1.3,L,2025-03-24,Dr. Priya Nair
+CC110724,"Johnson, Robert",Creatinine,0.51 mg/dL,0.6 - 1.3,L,2025-03-24,Dr. Daniel Ortiz
+CC115421,"Campbell, Michael",Hemoglobin A1c,6.1 %,4.0 - 5.6,H,2025-03-24,Dr. Priya Nair
+CC113468,"Campbell, Andre",Glucose,49.0 mg/dL,70.0 - 140.0,L,2025-03-24,Dr. Daniel Ortiz
+CC104928,"Phillips, Raj",Glucose,149.0 mg/dL,70.0 - 140.0,H,2025-03-23,Dr. Priya Nair
+CC104928,"Phillips, Raj",Hemoglobin A1c,3.7 %,4.0 - 5.6,L,2025-03-23,Dr. Priya Nair
+CC112859,"Hill, Tanya",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-03-23,Dr. Daniel Ortiz
+CC112859,"Hill, Tanya",Potassium,6.2 mmol/L,3.5 - 5.1,H,2025-03-23,Dr. Daniel Ortiz
+CC111256,"Miller, James",Sodium,154.0 mmol/L,135.0 - 145.0,H,2025-03-23,Dr. Daniel Ortiz
+CC111256,"Miller, James",Creatinine,1.89 mg/dL,0.6 - 1.3,H,2025-03-23,Dr. Daniel Ortiz
+CC107602,"Williams, Victor",Creatinine,2.01 mg/dL,0.6 - 1.3,H,2025-03-23,Dr. Daniel Ortiz
+CC109870,"Brown, Aisha",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-03-23,Dr. Laura Chen
+CC114406,"Garcia, Keisha",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-03-23,Dr. Priya Nair
+CC115022,"Lopez, Priya",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-03-23,Dr. Priya Nair
+CC111284,"Lopez, Grace",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-03-23,Dr. Marcus Reid
+CC111284,"Lopez, Grace",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-03-23,Dr. Marcus Reid
+CC111284,"Lopez, Grace",Creatinine,2.03 mg/dL,0.6 - 1.3,H,2025-03-23,Dr. Marcus Reid
+CC100721,"Davis, Maria",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-03-22,Dr. Priya Nair
+CC110878,"Hill, Carmen",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-03-22,Dr. Laura Chen
+CC101883,"Allen, Brianna",Hemoglobin A1c,7.8 %,4.0 - 5.6,H,2025-03-21,Dr. Priya Nair
+CC113286,"Martinez, Rosa",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-03-21,Dr. Daniel Ortiz
+CC109499,"Carter, Victor",Glucose,194.0 mg/dL,70.0 - 140.0,H,2025-03-21,Dr. Priya Nair
+CC101211,"Mitchell, Ruth",Glucose,198.0 mg/dL,70.0 - 140.0,H,2025-03-21,Dr. Priya Nair
+CC113979,"Wright, Grace",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-03-20,Dr. Marcus Reid
+CC113979,"Wright, Grace",Potassium,6.3 mmol/L,3.5 - 5.1,H,2025-03-20,Dr. Marcus Reid
+CC100847,"Johnson, Robert",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-03-20,Dr. Laura Chen
+CC110234,"Green, James",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-03-20,Dr. Daniel Ortiz
+CC113370,"Wright, Anthony",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-03-20,Dr. Priya Nair
+CC105586,"Lopez, Angela",Creatinine,1.36 mg/dL,0.6 - 1.3,H,2025-03-20,Dr. Priya Nair
+CC103521,"Smith, Linda",Sodium,153.0 mmol/L,135.0 - 145.0,H,2025-03-20,Dr. Daniel Ortiz
+CC104879,"Baker, Anthony",Creatinine,1.78 mg/dL,0.6 - 1.3,H,2025-03-20,Dr. Priya Nair
+CC104879,"Baker, Anthony",Sodium,117.0 mmol/L,135.0 - 145.0,L,2025-03-20,Dr. Priya Nair
+CC104725,"Phillips, Andre",Potassium,3.0 mmol/L,3.5 - 5.1,L,2025-03-19,Dr. Priya Nair
+CC115043,"Green, Angela",Creatinine,1.44 mg/dL,0.6 - 1.3,H,2025-03-19,Dr. Daniel Ortiz
+CC114028,"Johnson, Samuel",Potassium,5.4 mmol/L,3.5 - 5.1,H,2025-03-19,Dr. Daniel Ortiz
+CC117108,"Mitchell, Brian",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-03-19,Dr. Priya Nair
+CC115204,"Allen, Angela",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-03-19,Dr. Priya Nair
+CC108435,"Hall, Michael",Creatinine,0.47 mg/dL,0.6 - 1.3,L,2025-03-18,Dr. Daniel Ortiz
+CC104312,"Lopez, Brian",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-03-18,Dr. Daniel Ortiz
+CC111592,"Campbell, Marcus",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-03-17,Dr. Priya Nair
+CC111592,"Campbell, Marcus",Creatinine,0.51 mg/dL,0.6 - 1.3,L,2025-03-17,Dr. Priya Nair
+CC102660,"Rodriguez, Grace",Potassium,3.1 mmol/L,3.5 - 5.1,L,2025-03-17,Dr. Priya Nair
+CC103920,"Turner, Brianna",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-03-17,Dr. Marcus Reid
+CC112117,"Perez, James",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-03-17,Dr. Priya Nair
+CC112992,"Turner, Brian",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-03-17,Dr. Daniel Ortiz
+CC112992,"Turner, Brian",Creatinine,1.6 mg/dL,0.6 - 1.3,H,2025-03-17,Dr. Daniel Ortiz
+CC112992,"Turner, Brian",Potassium,3.1 mmol/L,3.5 - 5.1,L,2025-03-17,Dr. Daniel Ortiz
+CC106377,"Rodriguez, Luis",Hemoglobin A1c,5.7 %,4.0 - 5.6,H,2025-03-17,Dr. Daniel Ortiz
+CC106377,"Rodriguez, Luis",Glucose,189.0 mg/dL,70.0 - 140.0,H,2025-03-17,Dr. Daniel Ortiz
+CC112187,"Young, Priya",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-03-17,Dr. Priya Nair
+CC117101,"Roberts, Ruth",Creatinine,2.0 mg/dL,0.6 - 1.3,H,2025-03-16,Dr. Marcus Reid
+CC112362,"Garcia, Daniel",Sodium,117.0 mmol/L,135.0 - 145.0,L,2025-03-16,Dr. Daniel Ortiz
+CC116436,"King, Mei",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-03-16,Dr. Marcus Reid
+CC100791,"Miller, Linda",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-03-16,Dr. Daniel Ortiz
+CC106426,"Baker, Andre",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-03-15,Dr. Marcus Reid
+CC105502,"Allen, Aisha",Creatinine,1.76 mg/dL,0.6 - 1.3,H,2025-03-15,Dr. Laura Chen
+CC105502,"Allen, Aisha",Potassium,3.2 mmol/L,3.5 - 5.1,L,2025-03-15,Dr. Laura Chen
+CC116884,"Phillips, Samuel",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-03-15,Dr. Daniel Ortiz
+CC115239,"Roberts, William",Potassium,5.4 mmol/L,3.5 - 5.1,H,2025-03-15,Dr. Marcus Reid
+CC107770,"Turner, Maria",Sodium,153.0 mmol/L,135.0 - 145.0,H,2025-03-14,Dr. Priya Nair
+CC111634,"King, Marcus",Hemoglobin A1c,7.8 %,4.0 - 5.6,H,2025-03-14,Dr. Daniel Ortiz
+CC108127,"Hall, Anthony",Glucose,145.0 mg/dL,70.0 - 140.0,H,2025-03-14,Dr. Priya Nair
+CC112733,"Phillips, Andre",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-03-14,Dr. Daniel Ortiz
+CC112537,"Perez, Keisha",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-03-13,Dr. Priya Nair
+CC112537,"Perez, Keisha",Creatinine,1.74 mg/dL,0.6 - 1.3,H,2025-03-13,Dr. Priya Nair
+CC106412,"Perez, Tanya",Sodium,103.0 mmol/L,135.0 - 145.0,L,2025-03-13,Dr. Priya Nair
+CC102765,"Baker, Hannah",Sodium,114.0 mmol/L,135.0 - 145.0,L,2025-03-13,Dr. Daniel Ortiz
+CC116506,"Johnson, Carmen",Hemoglobin A1c,6.2 %,4.0 - 5.6,H,2025-03-13,Dr. Daniel Ortiz
+CC117276,"Scott, Danielle",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-03-12,Dr. Priya Nair
+CC110381,"Turner, Ruth",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-03-12,Dr. Laura Chen
+CC110381,"Turner, Ruth",Creatinine,0.46 mg/dL,0.6 - 1.3,L,2025-03-12,Dr. Laura Chen
+CC104522,"Green, Marcus",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-03-12,Dr. Daniel Ortiz
+CC109149,"Smith, Maria",Potassium,6.3 mmol/L,3.5 - 5.1,H,2025-03-12,Dr. Marcus Reid
+CC116926,"Baker, Aisha",Potassium,6.7 mmol/L,3.5 - 5.1,H,2025-03-12,Dr. Daniel Ortiz
+CC104893,"Hall, Grace",Hemoglobin A1c,8.1 %,4.0 - 5.6,H,2025-03-12,Dr. Priya Nair
+CC104340,"Williams, Carmen",Potassium,2.6 mmol/L,3.5 - 5.1,L,2025-03-11,Dr. Daniel Ortiz
+CC116590,"Martinez, Emily",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-03-11,Dr. Marcus Reid
+CC103003,"Nelson, Angela",Hemoglobin A1c,5.9 %,4.0 - 5.6,H,2025-03-11,Dr. Priya Nair
+CC103003,"Nelson, Angela",Glucose,158.0 mg/dL,70.0 - 140.0,H,2025-03-11,Dr. Priya Nair
+CC106608,"Roberts, Hannah",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-03-11,Dr. Marcus Reid
+CC101358,"Rodriguez, Priya",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-03-11,Dr. Daniel Ortiz
+CC108218,"Hall, Linda",Creatinine,1.76 mg/dL,0.6 - 1.3,H,2025-03-10,Dr. Marcus Reid
+CC105530,"Roberts, Raj",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-03-10,Dr. Daniel Ortiz
+CC105530,"Roberts, Raj",Creatinine,1.35 mg/dL,0.6 - 1.3,H,2025-03-10,Dr. Daniel Ortiz
+CC102359,"Mitchell, Daniel",Creatinine,1.38 mg/dL,0.6 - 1.3,H,2025-03-10,Dr. Daniel Ortiz
+CC101701,"Rodriguez, James",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-03-10,Dr. Marcus Reid
+CC101701,"Rodriguez, James",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-03-10,Dr. Marcus Reid
+CC101701,"Rodriguez, James",Creatinine,1.36 mg/dL,0.6 - 1.3,H,2025-03-10,Dr. Marcus Reid
+CC100735,"Young, Rosa",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-03-10,Dr. Priya Nair
+CC105656,"King, Mei",Creatinine,1.32 mg/dL,0.6 - 1.3,H,2025-03-09,Dr. Priya Nair
+CC112600,"Hall, Danielle",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-03-09,Dr. Daniel Ortiz
+CC106223,"Williams, Nicole",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-03-09,Dr. Priya Nair
+CC114525,"King, Kevin",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-03-09,Dr. Daniel Ortiz
+CC106265,"Martinez, David",Creatinine,1.71 mg/dL,0.6 - 1.3,H,2025-03-08,Dr. Daniel Ortiz
+CC113342,"Phillips, Isaac",Potassium,6.4 mmol/L,3.5 - 5.1,H,2025-03-08,Dr. Laura Chen
+CC113342,"Phillips, Isaac",Sodium,106.0 mmol/L,135.0 - 145.0,L,2025-03-08,Dr. Laura Chen
+CC107903,"Lopez, Keisha",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-03-07,Dr. Daniel Ortiz
+CC112761,"Carter, Jamal",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-03-07,Dr. Priya Nair
+CC110542,"Hill, Hannah",Hemoglobin A1c,7.1 %,4.0 - 5.6,H,2025-03-07,Dr. Daniel Ortiz
+CC104900,"Brown, Jamal",Potassium,5.9 mmol/L,3.5 - 5.1,H,2025-03-06,Dr. Priya Nair
+CC108939,"Martinez, Aisha",Hemoglobin A1c,5.7 %,4.0 - 5.6,H,2025-03-06,Dr. Daniel Ortiz
+CC112838,"King, Ruth",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-03-06,Dr. Daniel Ortiz
+CC101281,"Allen, Thomas",Creatinine,1.55 mg/dL,0.6 - 1.3,H,2025-03-06,Dr. Laura Chen
+CC110885,"Allen, Raj",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-03-06,Dr. Daniel Ortiz
+CC100973,"Lee, Keisha",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-03-05,Dr. Laura Chen
+CC102674,"Nelson, Mei",Creatinine,1.53 mg/dL,0.6 - 1.3,H,2025-03-05,Dr. Priya Nair
+CC113447,"King, Michael",Creatinine,1.64 mg/dL,0.6 - 1.3,H,2025-03-05,Dr. Daniel Ortiz
+CC101204,"Roberts, Grace",Sodium,123.0 mmol/L,135.0 - 145.0,L,2025-03-05,Dr. Priya Nair
+CC108750,"King, Sofia",Creatinine,1.92 mg/dL,0.6 - 1.3,H,2025-03-05,Dr. Laura Chen
+CC114931,"Hall, Olivia",Hemoglobin A1c,7.9 %,4.0 - 5.6,H,2025-03-04,Dr. Priya Nair
+CC115176,"Davis, Robert",Creatinine,1.89 mg/dL,0.6 - 1.3,H,2025-03-04,Dr. Priya Nair
+CC107861,"Roberts, Eric",Sodium,131.0 mmol/L,135.0 - 145.0,L,2025-03-04,Dr. Priya Nair
+CC108351,"Hill, Nicole",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-03-04,Dr. Priya Nair
+CC117094,"King, Hannah",Creatinine,1.32 mg/dL,0.6 - 1.3,H,2025-03-04,Dr. Priya Nair
+CC111137,"Perez, Nicole",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-03-03,Dr. Daniel Ortiz
+CC108456,"Johnson, Carmen",Sodium,126.0 mmol/L,135.0 - 145.0,L,2025-03-03,Dr. Daniel Ortiz
+CC103115,"Rodriguez, Daniel",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-03-03,Dr. Daniel Ortiz
+CC103486,"Garcia, Mei",Hemoglobin A1c,7.9 %,4.0 - 5.6,H,2025-03-03,Dr. Priya Nair
+CC112474,"Miller, Anthony",Glucose,175.0 mg/dL,70.0 - 140.0,H,2025-03-03,Dr. Daniel Ortiz
+CC112460,"Williams, Eric",Creatinine,0.47 mg/dL,0.6 - 1.3,L,2025-03-03,Dr. Daniel Ortiz
+CC113615,"Nelson, Michael",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-03-03,Dr. Daniel Ortiz
+CC116639,"Lee, Keisha",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-03-03,Dr. Marcus Reid
+CC107196,"Scott, Maria",Creatinine,1.98 mg/dL,0.6 - 1.3,H,2025-03-02,Dr. Daniel Ortiz
+CC116940,"Miller, Brian",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-03-02,Dr. Priya Nair
+CC116940,"Miller, Brian",Potassium,2.5 mmol/L,3.5 - 5.1,L,2025-03-02,Dr. Priya Nair
+CC105796,"Brown, Ruth",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-03-02,Dr. Daniel Ortiz
+CC105796,"Brown, Ruth",Sodium,123.0 mmol/L,135.0 - 145.0,L,2025-03-02,Dr. Daniel Ortiz
+CC103409,"Allen, Angela",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-03-02,Dr. Laura Chen
+CC113748,"Lee, Rosa",Glucose,141.0 mg/dL,70.0 - 140.0,H,2025-03-01,Dr. Priya Nair
+CC113748,"Lee, Rosa",Hemoglobin A1c,3.4 %,4.0 - 5.6,L,2025-03-01,Dr. Priya Nair
+CC100742,"Hill, Keisha",Hemoglobin A1c,7.0 %,4.0 - 5.6,H,2025-03-01,Dr. Priya Nair
+CC113062,"Hall, Mei",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-03-01,Dr. Priya Nair
+CC113062,"Hall, Mei",Creatinine,1.67 mg/dL,0.6 - 1.3,H,2025-03-01,Dr. Priya Nair
+CC113538,"Mitchell, Carlos",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-02-28,Dr. Daniel Ortiz
+CC117129,"Hall, Sofia",Hemoglobin A1c,5.8 %,4.0 - 5.6,H,2025-02-28,Dr. Priya Nair
+CC101757,"Miller, Ruth",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-02-27,Dr. Daniel Ortiz
+CC101757,"Miller, Ruth",Creatinine,1.98 mg/dL,0.6 - 1.3,H,2025-02-27,Dr. Daniel Ortiz
+CC114021,"Carter, Hannah",Creatinine,2.07 mg/dL,0.6 - 1.3,H,2025-02-27,Dr. Daniel Ortiz
+CC114021,"Carter, Hannah",Potassium,3.2 mmol/L,3.5 - 5.1,L,2025-02-27,Dr. Daniel Ortiz
+CC115540,"Scott, Keisha",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-02-27,Dr. Priya Nair
+CC115540,"Scott, Keisha",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-02-27,Dr. Priya Nair
+CC115540,"Scott, Keisha",Creatinine,1.77 mg/dL,0.6 - 1.3,H,2025-02-27,Dr. Priya Nair
+CC100007,"Williams, Ruth",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-02-27,Dr. Priya Nair
+CC100007,"Williams, Ruth",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-02-27,Dr. Priya Nair
+CC108904,"Davis, Carmen",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-02-27,Dr. Daniel Ortiz
+CC110626,"Martinez, James",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-02-27,Dr. Laura Chen
+CC101449,"Carter, Raj",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-02-27,Dr. Priya Nair
+CC103850,"Williams, Angela",Creatinine,1.34 mg/dL,0.6 - 1.3,H,2025-02-26,Dr. Daniel Ortiz
+CC115547,"Walker, Robert",Hemoglobin A1c,5.7 %,4.0 - 5.6,H,2025-02-26,Dr. Daniel Ortiz
+CC110976,"King, Anthony",Creatinine,2.0 mg/dL,0.6 - 1.3,H,2025-02-25,Dr. Priya Nair
+CC100616,"Lopez, Isaac",Potassium,5.4 mmol/L,3.5 - 5.1,H,2025-02-25,Dr. Priya Nair
+CC112152,"Williams, Michael",Sodium,155.0 mmol/L,135.0 - 145.0,H,2025-02-24,Dr. Laura Chen
+CC106097,"Davis, Brianna",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-02-24,Dr. Laura Chen
+CC101603,"Carter, Hannah",Potassium,3.3 mmol/L,3.5 - 5.1,L,2025-02-24,Dr. Priya Nair
+CC101603,"Carter, Hannah",Creatinine,0.54 mg/dL,0.6 - 1.3,L,2025-02-24,Dr. Priya Nair
+CC103843,"Lopez, Priya",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-02-24,Dr. Marcus Reid
+CC111410,"Young, Ruth",Creatinine,0.54 mg/dL,0.6 - 1.3,L,2025-02-24,Dr. Daniel Ortiz
+CC105250,"Brown, Andre",Hemoglobin A1c,6.1 %,4.0 - 5.6,H,2025-02-23,Dr. Daniel Ortiz
+CC114616,"Adams, Danielle",Hemoglobin A1c,7.6 %,4.0 - 5.6,H,2025-02-23,Dr. Daniel Ortiz
+CC105691,"Turner, Emily",Hemoglobin A1c,6.0 %,4.0 - 5.6,H,2025-02-23,Dr. Daniel Ortiz
+CC113426,"Roberts, Sofia",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-02-22,Dr. Priya Nair
+CC103304,"Hall, Nicole",Hemoglobin A1c,6.9 %,4.0 - 5.6,H,2025-02-22,Dr. Priya Nair
+CC101491,"Miller, Raj",Creatinine,1.56 mg/dL,0.6 - 1.3,H,2025-02-22,Dr. Priya Nair
+CC112040,"Smith, David",Creatinine,1.9 mg/dL,0.6 - 1.3,H,2025-02-22,Dr. Daniel Ortiz
+CC116163,"Phillips, Carlos",Creatinine,1.65 mg/dL,0.6 - 1.3,H,2025-02-22,Dr. Daniel Ortiz
+CC109926,"Miller, Rosa",Hemoglobin A1c,6.3 %,4.0 - 5.6,H,2025-02-22,Dr. Priya Nair
+CC100448,"Baker, Eric",Hemoglobin A1c,6.0 %,4.0 - 5.6,H,2025-02-22,Dr. Priya Nair
+CC105257,"Perez, Carmen",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-02-21,Dr. Priya Nair
+CC101645,"Allen, Anthony",Sodium,153.0 mmol/L,135.0 - 145.0,H,2025-02-21,Dr. Daniel Ortiz
+CC112803,"Garcia, David",Hemoglobin A1c,5.9 %,4.0 - 5.6,H,2025-02-21,Dr. Daniel Ortiz
+CC102296,"Roberts, Grace",Creatinine,1.44 mg/dL,0.6 - 1.3,H,2025-02-21,Dr. Priya Nair
+CC111200,"Adams, Michael",Glucose,189.0 mg/dL,70.0 - 140.0,H,2025-02-20,Dr. Priya Nair
+CC114903,"Nelson, Sofia",Potassium,3.0 mmol/L,3.5 - 5.1,L,2025-02-20,Dr. Daniel Ortiz
+CC115526,"Baker, Anthony",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-02-20,Dr. Priya Nair
+CC113356,"Miller, Samuel",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-02-20,Dr. Priya Nair
+CC115302,"Mitchell, Samuel",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-02-19,Dr. Priya Nair
+CC109226,"Wright, Eric",Sodium,124.0 mmol/L,135.0 - 145.0,L,2025-02-19,Dr. Marcus Reid
+CC111739,"Mitchell, Mei",Hemoglobin A1c,6.6 %,4.0 - 5.6,H,2025-02-19,Dr. Daniel Ortiz
+CC111739,"Mitchell, Mei",Glucose,195.0 mg/dL,70.0 - 140.0,H,2025-02-19,Dr. Daniel Ortiz
+CC104641,"Hall, Eric",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-02-19,Dr. Laura Chen
+CC117143,"Nelson, Luis",Sodium,153.0 mmol/L,135.0 - 145.0,H,2025-02-19,Dr. Priya Nair
+CC117143,"Nelson, Luis",Creatinine,0.52 mg/dL,0.6 - 1.3,L,2025-02-19,Dr. Priya Nair
+CC103766,"Davis, Priya",Hemoglobin A1c,6.4 %,4.0 - 5.6,H,2025-02-19,Dr. Priya Nair
+CC116989,"Williams, William",Potassium,6.4 mmol/L,3.5 - 5.1,H,2025-02-19,Dr. Priya Nair
+CC116989,"Williams, William",Creatinine,1.77 mg/dL,0.6 - 1.3,H,2025-02-19,Dr. Priya Nair
+CC103234,"Carter, Thomas",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-02-18,Dr. Daniel Ortiz
+CC113125,"Allen, William",Creatinine,1.65 mg/dL,0.6 - 1.3,H,2025-02-18,Dr. Priya Nair
+CC112327,"Baker, Sofia",Potassium,2.7 mmol/L,3.5 - 5.1,L,2025-02-18,Dr. Priya Nair
+CC111515,"King, Emily",Hemoglobin A1c,8.6 %,4.0 - 5.6,H,2025-02-18,Dr. Priya Nair
+CC104389,"Campbell, Mei",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-02-18,Dr. Priya Nair
+CC114546,"Perez, Samuel",Hemoglobin A1c,6.1 %,4.0 - 5.6,H,2025-02-18,Dr. Priya Nair
+CC104599,"Miller, Tanya",Hemoglobin A1c,8.2 %,4.0 - 5.6,H,2025-02-18,Dr. Priya Nair
+CC104599,"Miller, Tanya",Glucose,152.0 mg/dL,70.0 - 140.0,H,2025-02-18,Dr. Priya Nair
+CC107784,"Walker, Carmen",Sodium,113.0 mmol/L,135.0 - 145.0,L,2025-02-18,Dr. Priya Nair
+CC112579,"Martinez, James",Hemoglobin A1c,6.1 %,4.0 - 5.6,H,2025-02-17,Dr. Priya Nair
+CC112299,"Smith, Carlos",Creatinine,1.93 mg/dL,0.6 - 1.3,H,2025-02-17,Dr. Daniel Ortiz
+CC106391,"Scott, Danielle",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-02-17,Dr. Daniel Ortiz
+CC106391,"Scott, Danielle",Creatinine,1.98 mg/dL,0.6 - 1.3,H,2025-02-17,Dr. Daniel Ortiz
+CC103143,"Roberts, Marcus",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-02-17,Dr. Priya Nair
+CC100399,"Lopez, Angela",Hemoglobin A1c,6.1 %,4.0 - 5.6,H,2025-02-17,Dr. Priya Nair
+CC107532,"Hall, Keisha",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-02-17,Dr. Priya Nair
+CC100378,"Rodriguez, Ruth",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-02-17,Dr. Daniel Ortiz
+CC107721,"Young, Aisha",Sodium,154.0 mmol/L,135.0 - 145.0,H,2025-02-17,Dr. Daniel Ortiz
+CC103801,"Walker, Jamal",Hemoglobin A1c,6.7 %,4.0 - 5.6,H,2025-02-16,Dr. Daniel Ortiz
+CC105831,"Nelson, Grace",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-02-16,Dr. Daniel Ortiz
+CC105831,"Nelson, Grace",Creatinine,1.4 mg/dL,0.6 - 1.3,H,2025-02-16,Dr. Daniel Ortiz
+CC110164,"Adams, Mei",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-02-16,Dr. Priya Nair
+CC104004,"Scott, Carmen",Creatinine,1.77 mg/dL,0.6 - 1.3,H,2025-02-16,Dr. Priya Nair
+CC104956,"Smith, James",Hemoglobin A1c,5.9 %,4.0 - 5.6,H,2025-02-16,Dr. Daniel Ortiz
+CC111809,"Scott, Aisha",Creatinine,0.49 mg/dL,0.6 - 1.3,L,2025-02-15,Dr. Marcus Reid
+CC105712,"Nelson, Angela",Creatinine,0.43 mg/dL,0.6 - 1.3,L,2025-02-15,Dr. Priya Nair
+CC111977,"Baker, Victor",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-02-14,Dr. Priya Nair
+CC112397,"Roberts, Brian",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-02-14,Dr. Daniel Ortiz
+CC109611,"Scott, Andre",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-02-14,Dr. Priya Nair
+CC113174,"Rodriguez, Tanya",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-02-13,Dr. Priya Nair
+CC114014,"King, Tanya",Creatinine,1.81 mg/dL,0.6 - 1.3,H,2025-02-13,Dr. Daniel Ortiz
+CC103591,"Mitchell, James",Potassium,6.3 mmol/L,3.5 - 5.1,H,2025-02-13,Dr. Priya Nair
+CC106545,"Phillips, Maria",Hemoglobin A1c,6.0 %,4.0 - 5.6,H,2025-02-12,Dr. Daniel Ortiz
+CC112649,"Rodriguez, Emily",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-02-12,Dr. Daniel Ortiz
+CC112649,"Rodriguez, Emily",Potassium,6.3 mmol/L,3.5 - 5.1,H,2025-02-12,Dr. Daniel Ortiz
+CC115008,"Nelson, Robert",Sodium,119.0 mmol/L,135.0 - 145.0,L,2025-02-12,Dr. Daniel Ortiz
+CC110871,"Carter, William",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-02-12,Dr. Daniel Ortiz
+CC110871,"Carter, William",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-02-12,Dr. Daniel Ortiz
+CC110871,"Carter, William",Creatinine,1.79 mg/dL,0.6 - 1.3,H,2025-02-12,Dr. Daniel Ortiz
+CC111823,"Young, Sofia",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-02-12,Dr. Priya Nair
+CC111823,"Young, Sofia",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-02-12,Dr. Priya Nair
+CC104669,"Allen, Linda",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-02-12,Dr. Daniel Ortiz
+CC104669,"Allen, Linda",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-02-12,Dr. Daniel Ortiz
+CC106475,"Lopez, Olivia",Potassium,6.3 mmol/L,3.5 - 5.1,H,2025-02-12,Dr. Daniel Ortiz
+CC104193,"Roberts, Kevin",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-02-11,Dr. Priya Nair
+CC104193,"Roberts, Kevin",Creatinine,1.85 mg/dL,0.6 - 1.3,H,2025-02-11,Dr. Priya Nair
+CC106447,"Baker, Ruth",Potassium,5.9 mmol/L,3.5 - 5.1,H,2025-02-11,Dr. Priya Nair
+CC106447,"Baker, Ruth",Creatinine,1.68 mg/dL,0.6 - 1.3,H,2025-02-11,Dr. Priya Nair
+CC114322,"Brown, Ruth",Hemoglobin A1c,6.1 %,4.0 - 5.6,H,2025-02-11,Dr. Priya Nair
+CC108176,"Lopez, Marcus",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-02-11,Dr. Daniel Ortiz
+CC106496,"Walker, Ruth",Creatinine,0.53 mg/dL,0.6 - 1.3,L,2025-02-11,Dr. Daniel Ortiz
+CC114714,"Rodriguez, Priya",Potassium,6.4 mmol/L,3.5 - 5.1,H,2025-02-10,Dr. Priya Nair
+CC107343,"Williams, Emily",Hemoglobin A1c,6.7 %,4.0 - 5.6,H,2025-02-10,Dr. Priya Nair
+CC115883,"Martinez, Victor",Creatinine,1.82 mg/dL,0.6 - 1.3,H,2025-02-10,Dr. Laura Chen
+CC107007,"Johnson, Luis",Hemoglobin A1c,7.1 %,4.0 - 5.6,H,2025-02-10,Dr. Priya Nair
+CC102982,"Phillips, Thomas",Hemoglobin A1c,6.2 %,4.0 - 5.6,H,2025-02-10,Dr. Priya Nair
+CC106937,"Hall, Isaac",Creatinine,1.72 mg/dL,0.6 - 1.3,H,2025-02-10,Dr. Priya Nair
+CC106937,"Hall, Isaac",Sodium,123.0 mmol/L,135.0 - 145.0,L,2025-02-10,Dr. Priya Nair
+CC102639,"Nelson, Priya",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-02-09,Dr. Priya Nair
+CC112467,"King, Carmen",Potassium,3.1 mmol/L,3.5 - 5.1,L,2025-02-09,Dr. Daniel Ortiz
+CC101099,"Adams, Isaac",Creatinine,1.54 mg/dL,0.6 - 1.3,H,2025-02-09,Dr. Priya Nair
+CC105516,"Green, Carmen",Hemoglobin A1c,6.6 %,4.0 - 5.6,H,2025-02-09,Dr. Priya Nair
+CC105516,"Green, Carmen",Glucose,152.0 mg/dL,70.0 - 140.0,H,2025-02-09,Dr. Priya Nair
+CC109520,"Campbell, Tanya",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-02-08,Dr. Daniel Ortiz
+CC110318,"Turner, William",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-02-08,Dr. Daniel Ortiz
+CC110318,"Turner, William",Potassium,2.8 mmol/L,3.5 - 5.1,L,2025-02-08,Dr. Daniel Ortiz
+CC104809,"Williams, Thomas",Sodium,153.0 mmol/L,135.0 - 145.0,H,2025-02-08,Dr. Daniel Ortiz
+CC114105,"Perez, Raj",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-02-07,Dr. Daniel Ortiz
+CC114105,"Perez, Raj",Creatinine,1.5 mg/dL,0.6 - 1.3,H,2025-02-07,Dr. Daniel Ortiz
+CC103395,"Campbell, Raj",Potassium,6.2 mmol/L,3.5 - 5.1,H,2025-02-07,Dr. Daniel Ortiz
+CC108498,"Scott, William",Hemoglobin A1c,7.7 %,4.0 - 5.6,H,2025-02-07,Dr. Priya Nair
+CC108498,"Scott, William",Glucose,59.0 mg/dL,70.0 - 140.0,L,2025-02-07,Dr. Priya Nair
+CC106797,"Young, Mei",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-02-06,Dr. Daniel Ortiz
+CC116030,"Hall, Robert",Sodium,156.0 mmol/L,135.0 - 145.0,H,2025-02-06,Dr. Laura Chen
+CC104214,"Phillips, Mei",Creatinine,1.67 mg/dL,0.6 - 1.3,H,2025-02-06,Dr. Priya Nair
+CC111263,"Hall, Tanya",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-02-06,Dr. Marcus Reid
+CC108323,"Miller, Mei",Potassium,2.7 mmol/L,3.5 - 5.1,L,2025-02-05,Dr. Priya Nair
+CC102303,"Miller, Sofia",Creatinine,1.75 mg/dL,0.6 - 1.3,H,2025-02-05,Dr. Daniel Ortiz
+CC110339,"Miller, Tanya",Hemoglobin A1c,5.7 %,4.0 - 5.6,H,2025-02-05,Dr. Daniel Ortiz
+CC113167,"Davis, Aisha",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-02-05,Dr. Laura Chen
+CC113167,"Davis, Aisha",Creatinine,1.36 mg/dL,0.6 - 1.3,H,2025-02-05,Dr. Laura Chen
+CC101988,"Williams, Hannah",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-02-05,Dr. Daniel Ortiz
+CC101988,"Williams, Hannah",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-02-05,Dr. Daniel Ortiz
+CC116142,"Phillips, Sofia",Hemoglobin A1c,7.3 %,4.0 - 5.6,H,2025-02-05,Dr. Daniel Ortiz
+CC116142,"Phillips, Sofia",Glucose,168.0 mg/dL,70.0 - 140.0,H,2025-02-05,Dr. Daniel Ortiz
+CC103619,"Brown, Keisha",Creatinine,1.74 mg/dL,0.6 - 1.3,H,2025-02-04,Dr. Daniel Ortiz
+CC100056,"Lee, Aisha",Hemoglobin A1c,6.9 %,4.0 - 5.6,H,2025-02-04,Dr. Priya Nair
+CC105208,"Johnson, Jennifer",Glucose,179.0 mg/dL,70.0 - 140.0,H,2025-02-04,Dr. Daniel Ortiz
+CC112068,"Williams, Brianna",Potassium,5.4 mmol/L,3.5 - 5.1,H,2025-02-04,Dr. Laura Chen
+CC112068,"Williams, Brianna",Sodium,100.0 mmol/L,135.0 - 145.0,L,2025-02-04,Dr. Laura Chen
+CC106867,"Baker, Priya",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-02-04,Dr. Priya Nair
+CC104739,"Roberts, Linda",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-02-03,Dr. Daniel Ortiz
+CC104739,"Roberts, Linda",Creatinine,0.53 mg/dL,0.6 - 1.3,L,2025-02-03,Dr. Daniel Ortiz
+CC116492,"Green, Mei",Sodium,98.0 mmol/L,135.0 - 145.0,L,2025-02-03,Dr. Priya Nair
+CC114980,"Hill, Brianna",Sodium,153.0 mmol/L,135.0 - 145.0,H,2025-02-03,Dr. Daniel Ortiz
+CC116716,"Hall, Olivia",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-02-03,Dr. Laura Chen
+CC106244,"Hill, Kevin",Creatinine,0.53 mg/dL,0.6 - 1.3,L,2025-02-03,Dr. Daniel Ortiz
+CC108106,"Martinez, Keisha",Creatinine,1.83 mg/dL,0.6 - 1.3,H,2025-02-02,Dr. Priya Nair
+CC112488,"Brown, Michael",Hemoglobin A1c,6.1 %,4.0 - 5.6,H,2025-02-02,Dr. Priya Nair
+CC112488,"Brown, Michael",Glucose,152.0 mg/dL,70.0 - 140.0,H,2025-02-02,Dr. Priya Nair
+CC111088,"Scott, Linda",Glucose,187.0 mg/dL,70.0 - 140.0,H,2025-02-02,Dr. Daniel Ortiz
+CC103150,"Scott, Brian",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-02-01,Dr. Priya Nair
+CC103150,"Scott, Brian",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-02-01,Dr. Priya Nair
+CC110479,"Walker, Anthony",Hemoglobin A1c,8.0 %,4.0 - 5.6,H,2025-02-01,Dr. Priya Nair
+CC106951,"Wright, Carmen",Creatinine,2.05 mg/dL,0.6 - 1.3,H,2025-02-01,Dr. Daniel Ortiz
+CC116821,"Green, Maria",Hemoglobin A1c,7.0 %,4.0 - 5.6,H,2025-02-01,Dr. Daniel Ortiz
+CC105628,"Johnson, Luis",Creatinine,1.57 mg/dL,0.6 - 1.3,H,2025-01-31,Dr. Laura Chen
+CC105411,"Lopez, Linda",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-01-31,Dr. Priya Nair
+CC105411,"Lopez, Linda",Creatinine,1.66 mg/dL,0.6 - 1.3,H,2025-01-31,Dr. Priya Nair
+CC107875,"Young, Angela",Creatinine,1.42 mg/dL,0.6 - 1.3,H,2025-01-31,Dr. Priya Nair
+CC110521,"Green, Priya",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-01-31,Dr. Priya Nair
+CC110521,"Green, Priya",Creatinine,1.62 mg/dL,0.6 - 1.3,H,2025-01-31,Dr. Priya Nair
+CC111193,"Allen, Brian",Creatinine,1.74 mg/dL,0.6 - 1.3,H,2025-01-31,Dr. Daniel Ortiz
+CC111193,"Allen, Brian",Potassium,2.7 mmol/L,3.5 - 5.1,L,2025-01-31,Dr. Daniel Ortiz
+CC117409,"Wright, Kevin",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-01-31,Dr. Priya Nair
+CC104823,"Scott, David",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-01-31,Dr. Priya Nair
+CC104823,"Scott, David",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-01-31,Dr. Priya Nair
+CC117178,"Wright, Samuel",Potassium,3.2 mmol/L,3.5 - 5.1,L,2025-01-31,Dr. Priya Nair
+CC103948,"Young, Kevin",Hemoglobin A1c,7.5 %,4.0 - 5.6,H,2025-01-31,Dr. Priya Nair
+CC108064,"King, Maria",Potassium,5.7 mmol/L,3.5 - 5.1,H,2025-01-31,Dr. Marcus Reid
+CC101764,"Lee, Grace",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-01-30,Dr. Daniel Ortiz
+CC101764,"Lee, Grace",Sodium,113.0 mmol/L,135.0 - 145.0,L,2025-01-30,Dr. Daniel Ortiz
+CC108547,"Martinez, Danielle",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-01-30,Dr. Daniel Ortiz
+CC103087,"Brown, Mei",Hemoglobin A1c,3.0 %,4.0 - 5.6,L,2025-01-29,Dr. Priya Nair
+CC104151,"King, William",Creatinine,1.92 mg/dL,0.6 - 1.3,H,2025-01-29,Dr. Priya Nair
+CC113433,"Williams, Brian",Hemoglobin A1c,6.7 %,4.0 - 5.6,H,2025-01-29,Dr. Priya Nair
+CC103906,"Campbell, Raj",Hemoglobin A1c,6.8 %,4.0 - 5.6,H,2025-01-28,Dr. Priya Nair
+CC117437,"Adams, Brian",Hemoglobin A1c,7.5 %,4.0 - 5.6,H,2025-01-28,Dr. Priya Nair
+CC107399,"Turner, Brianna",Potassium,5.4 mmol/L,3.5 - 5.1,H,2025-01-28,Dr. Priya Nair
+CC107399,"Turner, Brianna",Creatinine,1.9 mg/dL,0.6 - 1.3,H,2025-01-28,Dr. Priya Nair
+CC103829,"Miller, Maria",Sodium,116.0 mmol/L,135.0 - 145.0,L,2025-01-28,Dr. Laura Chen
+CC110773,"Young, Eric",Creatinine,1.49 mg/dL,0.6 - 1.3,H,2025-01-28,Dr. Daniel Ortiz
+CC101855,"Hall, Mei",Potassium,6.7 mmol/L,3.5 - 5.1,H,2025-01-27,Dr. Priya Nair
+CC106587,"Miller, Keisha",Creatinine,1.7 mg/dL,0.6 - 1.3,H,2025-01-27,Dr. Marcus Reid
+CC108617,"Hall, Jennifer",Sodium,153.0 mmol/L,135.0 - 145.0,H,2025-01-27,Dr. Daniel Ortiz
+CC108617,"Hall, Jennifer",Potassium,5.9 mmol/L,3.5 - 5.1,H,2025-01-27,Dr. Daniel Ortiz
+CC106258,"Walker, Carlos",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-01-27,Dr. Marcus Reid
+CC106818,"Lee, Daniel",Hemoglobin A1c,7.7 %,4.0 - 5.6,H,2025-01-27,Dr. Daniel Ortiz
+CC106818,"Lee, Daniel",Glucose,177.0 mg/dL,70.0 - 140.0,H,2025-01-27,Dr. Daniel Ortiz
+CC114910,"Rodriguez, Carmen",Potassium,3.4 mmol/L,3.5 - 5.1,L,2025-01-27,Dr. Daniel Ortiz
+CC114707,"King, Kevin",Hemoglobin A1c,6.0 %,4.0 - 5.6,H,2025-01-26,Dr. Priya Nair
+CC111879,"Campbell, Tanya",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-01-26,Dr. Daniel Ortiz
+CC109590,"King, Ruth",Creatinine,1.37 mg/dL,0.6 - 1.3,H,2025-01-26,Dr. Priya Nair
+CC117017,"Wright, Ruth",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-01-26,Dr. Daniel Ortiz
+CC113202,"Phillips, Carlos",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-01-25,Dr. Priya Nair
+CC102009,"Young, Marcus",Hemoglobin A1c,5.7 %,4.0 - 5.6,H,2025-01-25,Dr. Priya Nair
+CC111046,"Lee, Priya",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-01-25,Dr. Priya Nair
+CC106965,"Johnson, Kevin",Hemoglobin A1c,7.4 %,4.0 - 5.6,H,2025-01-25,Dr. Priya Nair
+CC106965,"Johnson, Kevin",Glucose,56.0 mg/dL,70.0 - 140.0,L,2025-01-25,Dr. Priya Nair
+CC109268,"Roberts, Keisha",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-01-25,Dr. Marcus Reid
+CC109268,"Roberts, Keisha",Sodium,97.0 mmol/L,135.0 - 145.0,L,2025-01-25,Dr. Marcus Reid
+CC110500,"Walker, Robert",Creatinine,1.98 mg/dL,0.6 - 1.3,H,2025-01-25,Dr. Laura Chen
+CC116366,"Adams, James",Hemoglobin A1c,6.3 %,4.0 - 5.6,H,2025-01-24,Dr. Priya Nair
+CC116366,"Adams, James",Glucose,63.0 mg/dL,70.0 - 140.0,L,2025-01-24,Dr. Priya Nair
+CC102884,"Turner, Emily",Hemoglobin A1c,5.9 %,4.0 - 5.6,H,2025-01-24,Dr. Priya Nair
+CC113258,"Miller, Kevin",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-01-24,Dr. Priya Nair
+CC113258,"Miller, Kevin",Creatinine,1.66 mg/dL,0.6 - 1.3,H,2025-01-24,Dr. Priya Nair
+CC113769,"Allen, Carlos",Creatinine,0.52 mg/dL,0.6 - 1.3,L,2025-01-24,Dr. Priya Nair
+CC103255,"Brown, Aisha",Sodium,155.0 mmol/L,135.0 - 145.0,H,2025-01-23,Dr. Daniel Ortiz
+CC117255,"Hill, Robert",Creatinine,1.56 mg/dL,0.6 - 1.3,H,2025-01-23,Dr. Priya Nair
+CC114308,"King, Tanya",Hemoglobin A1c,5.7 %,4.0 - 5.6,H,2025-01-23,Dr. Priya Nair
+CC107350,"Smith, Raj",Hemoglobin A1c,6.7 %,4.0 - 5.6,H,2025-01-23,Dr. Daniel Ortiz
+CC107350,"Smith, Raj",Glucose,63.0 mg/dL,70.0 - 140.0,L,2025-01-23,Dr. Daniel Ortiz
+CC103934,"Hill, Kevin",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-01-23,Dr. Priya Nair
+CC110983,"Green, David",Sodium,154.0 mmol/L,135.0 - 145.0,H,2025-01-22,Dr. Priya Nair
+CC112229,"Martinez, Brian",Creatinine,1.38 mg/dL,0.6 - 1.3,H,2025-01-22,Dr. Priya Nair
+CC115400,"Johnson, Carmen",Sodium,106.0 mmol/L,135.0 - 145.0,L,2025-01-22,Dr. Daniel Ortiz
+CC115400,"Johnson, Carmen",Potassium,2.9 mmol/L,3.5 - 5.1,L,2025-01-22,Dr. Daniel Ortiz
+CC111935,"Williams, Grace",Creatinine,1.82 mg/dL,0.6 - 1.3,H,2025-01-22,Dr. Daniel Ortiz
+CC104991,"Roberts, David",Creatinine,1.93 mg/dL,0.6 - 1.3,H,2025-01-21,Dr. Daniel Ortiz
+CC102548,"Williams, Kevin",Sodium,154.0 mmol/L,135.0 - 145.0,H,2025-01-21,Dr. Marcus Reid
+CC117339,"Roberts, Aisha",Creatinine,1.7 mg/dL,0.6 - 1.3,H,2025-01-20,Dr. Daniel Ortiz
+CC100168,"Williams, Luis",Creatinine,1.73 mg/dL,0.6 - 1.3,H,2025-01-20,Dr. Laura Chen
+CC107987,"Brown, Linda",Creatinine,1.82 mg/dL,0.6 - 1.3,H,2025-01-20,Dr. Daniel Ortiz
+CC109023,"Campbell, Kevin",Hemoglobin A1c,7.7 %,4.0 - 5.6,H,2025-01-20,Dr. Priya Nair
+CC100525,"Davis, Priya",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-01-20,Dr. Daniel Ortiz
+CC106111,"Scott, Raj",Creatinine,1.45 mg/dL,0.6 - 1.3,H,2025-01-20,Dr. Priya Nair
+CC115939,"Lee, Carlos",Sodium,108.0 mmol/L,135.0 - 145.0,L,2025-01-19,Dr. Priya Nair
+CC104417,"Adams, Samuel",Creatinine,1.42 mg/dL,0.6 - 1.3,H,2025-01-19,Dr. Laura Chen
+CC117150,"Roberts, Andre",Creatinine,1.85 mg/dL,0.6 - 1.3,H,2025-01-19,Dr. Priya Nair
+CC117150,"Roberts, Andre",Potassium,3.2 mmol/L,3.5 - 5.1,L,2025-01-19,Dr. Priya Nair
+CC115442,"Brown, David",Potassium,6.3 mmol/L,3.5 - 5.1,H,2025-01-19,Dr. Priya Nair
+CC113664,"Williams, Priya",Creatinine,0.56 mg/dL,0.6 - 1.3,L,2025-01-18,Dr. Marcus Reid
+CC106573,"Campbell, Hannah",Creatinine,1.81 mg/dL,0.6 - 1.3,H,2025-01-18,Dr. Priya Nair
+CC101393,"Garcia, Anthony",Hemoglobin A1c,7.3 %,4.0 - 5.6,H,2025-01-18,Dr. Priya Nair
+CC101393,"Garcia, Anthony",Glucose,159.0 mg/dL,70.0 - 140.0,H,2025-01-18,Dr. Priya Nair
+CC106706,"Phillips, Carlos",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-01-17,Dr. Priya Nair
+CC106706,"Phillips, Carlos",Creatinine,0.55 mg/dL,0.6 - 1.3,L,2025-01-17,Dr. Priya Nair
+CC100434,"Scott, Raj",Sodium,148.0 mmol/L,135.0 - 145.0,H,2025-01-17,Dr. Daniel Ortiz
+CC105089,"Campbell, Tanya",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-01-17,Dr. Daniel Ortiz
+CC105089,"Campbell, Tanya",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-01-17,Dr. Daniel Ortiz
+CC116835,"Allen, Jennifer",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-01-17,Dr. Priya Nair
+CC109289,"Garcia, David",Sodium,149.0 mmol/L,135.0 - 145.0,H,2025-01-17,Dr. Daniel Ortiz
+CC100413,"Lee, Kevin",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-01-17,Dr. Priya Nair
+CC115036,"Allen, William",Hemoglobin A1c,7.2 %,4.0 - 5.6,H,2025-01-16,Dr. Daniel Ortiz
+CC111578,"King, Robert",Creatinine,1.76 mg/dL,0.6 - 1.3,H,2025-01-16,Dr. Daniel Ortiz
+CC111578,"King, Robert",Potassium,2.6 mmol/L,3.5 - 5.1,L,2025-01-16,Dr. Daniel Ortiz
+CC113790,"Turner, Sofia",Hemoglobin A1c,3.7 %,4.0 - 5.6,L,2025-01-16,Dr. Priya Nair
+CC101785,"Adams, Olivia",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-01-16,Dr. Daniel Ortiz
+CC105376,"Carter, Isaac",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-01-16,Dr. Laura Chen
+CC106069,"Miller, Marcus",Hemoglobin A1c,7.9 %,4.0 - 5.6,H,2025-01-16,Dr. Priya Nair
+CC114798,"Carter, Mei",Glucose,165.0 mg/dL,70.0 - 140.0,H,2025-01-15,Dr. Priya Nair
+CC114798,"Carter, Mei",Hemoglobin A1c,3.4 %,4.0 - 5.6,L,2025-01-15,Dr. Priya Nair
+CC102051,"Martinez, Angela",Creatinine,1.31 mg/dL,0.6 - 1.3,H,2025-01-15,Dr. Priya Nair
+CC110689,"Hill, David",Potassium,2.6 mmol/L,3.5 - 5.1,L,2025-01-15,Dr. Marcus Reid
+CC102849,"Green, Jennifer",Potassium,2.8 mmol/L,3.5 - 5.1,L,2025-01-15,Dr. Daniel Ortiz
+CC105495,"Carter, Keisha",Sodium,122.0 mmol/L,135.0 - 145.0,L,2025-01-15,Dr. Laura Chen
+CC115799,"Hall, Angela",Potassium,3.0 mmol/L,3.5 - 5.1,L,2025-01-15,Dr. Daniel Ortiz
+CC102296,"Roberts, Grace",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-01-15,Dr. Marcus Reid
+CC102296,"Roberts, Grace",Creatinine,1.49 mg/dL,0.6 - 1.3,H,2025-01-15,Dr. Marcus Reid
+CC102709,"Rodriguez, Ruth",Hemoglobin A1c,7.4 %,4.0 - 5.6,H,2025-01-14,Dr. Priya Nair
+CC102709,"Rodriguez, Ruth",Glucose,154.0 mg/dL,70.0 - 140.0,H,2025-01-14,Dr. Priya Nair
+CC102856,"Carter, Raj",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-01-14,Dr. Priya Nair
+CC103640,"Miller, Jamal",Creatinine,0.53 mg/dL,0.6 - 1.3,L,2025-01-14,Dr. Priya Nair
+CC101106,"Roberts, William",Creatinine,1.8 mg/dL,0.6 - 1.3,H,2025-01-14,Dr. Priya Nair
+CC103199,"Wright, Maria",Potassium,6.1 mmol/L,3.5 - 5.1,H,2025-01-14,Dr. Priya Nair
+CC103199,"Wright, Maria",Creatinine,0.55 mg/dL,0.6 - 1.3,L,2025-01-14,Dr. Priya Nair
+CC112271,"Lopez, William",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-01-14,Dr. Laura Chen
+CC112271,"Lopez, William",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-01-14,Dr. Laura Chen
+CC112271,"Lopez, William",Creatinine,1.71 mg/dL,0.6 - 1.3,H,2025-01-14,Dr. Laura Chen
+CC107210,"Mitchell, Samuel",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-01-14,Dr. Priya Nair
+CC106363,"Nelson, Victor",Glucose,201.0 mg/dL,70.0 - 140.0,H,2025-01-13,Dr. Priya Nair
+CC100630,"Perez, Carmen",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-01-13,Dr. Priya Nair
+CC109443,"Hill, David",Potassium,2.6 mmol/L,3.5 - 5.1,L,2025-01-12,Dr. Laura Chen
+CC102317,"Walker, Linda",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-01-12,Dr. Daniel Ortiz
+CC102317,"Walker, Linda",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-01-12,Dr. Daniel Ortiz
+CC104354,"Phillips, Ruth",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-01-12,Dr. Daniel Ortiz
+CC109842,"Martinez, Ruth",Hemoglobin A1c,6.4 %,4.0 - 5.6,H,2025-01-11,Dr. Daniel Ortiz
+CC114749,"Phillips, Danielle",Hemoglobin A1c,6.9 %,4.0 - 5.6,H,2025-01-11,Dr. Priya Nair
+CC114749,"Phillips, Danielle",Glucose,223.0 mg/dL,70.0 - 140.0,H,2025-01-11,Dr. Priya Nair
+CC112663,"Lopez, Danielle",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-01-11,Dr. Daniel Ortiz
+CC113020,"Carter, Kevin",Sodium,152.0 mmol/L,135.0 - 145.0,H,2025-01-11,Dr. Priya Nair
+CC100224,"Lopez, James",Glucose,174.0 mg/dL,70.0 - 140.0,H,2025-01-11,Dr. Priya Nair
+CC100224,"Lopez, James",Hemoglobin A1c,3.8 %,4.0 - 5.6,L,2025-01-11,Dr. Priya Nair
+CC105397,"Nelson, Olivia",Sodium,108.0 mmol/L,135.0 - 145.0,L,2025-01-10,Dr. Daniel Ortiz
+CC105397,"Nelson, Olivia",Potassium,2.5 mmol/L,3.5 - 5.1,L,2025-01-10,Dr. Daniel Ortiz
+CC109016,"Scott, Keisha",Potassium,5.2 mmol/L,3.5 - 5.1,H,2025-01-10,Dr. Priya Nair
+CC112558,"Hall, Luis",Creatinine,2.0 mg/dL,0.6 - 1.3,H,2025-01-10,Dr. Priya Nair
+CC100924,"Green, Sofia",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-01-09,Dr. Priya Nair
+CC100924,"Green, Sofia",Creatinine,0.52 mg/dL,0.6 - 1.3,L,2025-01-09,Dr. Priya Nair
+CC106118,"Davis, Sofia",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-01-09,Dr. Daniel Ortiz
+CC114399,"Adams, Tanya",Sodium,100.0 mmol/L,135.0 - 145.0,L,2025-01-09,Dr. Daniel Ortiz
+CC100259,"Young, Brianna",Hemoglobin A1c,3.4 %,4.0 - 5.6,L,2025-01-09,Dr. Daniel Ortiz
+CC103941,"Campbell, Anthony",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-01-09,Dr. Daniel Ortiz
+CC117381,"Carter, Ruth",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-01-08,Dr. Priya Nair
+CC107259,"Phillips, Luis",Hemoglobin A1c,7.9 %,4.0 - 5.6,H,2025-01-08,Dr. Daniel Ortiz
+CC115316,"Adams, Mei",Creatinine,0.55 mg/dL,0.6 - 1.3,L,2025-01-08,Dr. Priya Nair
+CC109625,"Hill, Sofia",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-01-07,Dr. Priya Nair
+CC109625,"Hill, Sofia",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-01-07,Dr. Priya Nair
+CC104074,"Hill, Luis",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-01-07,Dr. Daniel Ortiz
+CC104074,"Hill, Luis",Creatinine,1.33 mg/dL,0.6 - 1.3,H,2025-01-07,Dr. Daniel Ortiz
+CC105565,"Green, Anthony",Potassium,5.4 mmol/L,3.5 - 5.1,H,2025-01-07,Dr. Daniel Ortiz
+CC111949,"Baker, Anthony",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-01-07,Dr. Daniel Ortiz
+CC111949,"Baker, Anthony",Creatinine,1.88 mg/dL,0.6 - 1.3,H,2025-01-07,Dr. Daniel Ortiz
+CC102373,"Wright, Eric",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-01-07,Dr. Daniel Ortiz
+CC102373,"Wright, Eric",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-01-07,Dr. Daniel Ortiz
+CC102373,"Wright, Eric",Creatinine,0.44 mg/dL,0.6 - 1.3,L,2025-01-07,Dr. Daniel Ortiz
+CC117367,"Hall, Luis",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-01-07,Dr. Daniel Ortiz
+CC106405,"Roberts, Kevin",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-01-07,Dr. Daniel Ortiz
+CC106405,"Roberts, Kevin",Creatinine,1.81 mg/dL,0.6 - 1.3,H,2025-01-07,Dr. Daniel Ortiz
+CC107189,"Nelson, Maria",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-01-07,Dr. Priya Nair
+CC116233,"Davis, Michael",Glucose,147.0 mg/dL,70.0 - 140.0,H,2025-01-07,Dr. Daniel Ortiz
+CC102919,"Carter, Hannah",Sodium,154.0 mmol/L,135.0 - 145.0,H,2025-01-07,Dr. Daniel Ortiz
+CC102919,"Carter, Hannah",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-01-07,Dr. Daniel Ortiz
+CC112047,"Perez, Nicole",Sodium,147.0 mmol/L,135.0 - 145.0,H,2025-01-06,Dr. Daniel Ortiz
+CC112047,"Perez, Nicole",Potassium,5.6 mmol/L,3.5 - 5.1,H,2025-01-06,Dr. Daniel Ortiz
+CC103437,"Phillips, Samuel",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-01-06,Dr. Daniel Ortiz
+CC103437,"Phillips, Samuel",Creatinine,1.52 mg/dL,0.6 - 1.3,H,2025-01-06,Dr. Daniel Ortiz
+CC114273,"Turner, Eric",Hemoglobin A1c,7.5 %,4.0 - 5.6,H,2025-01-06,Dr. Daniel Ortiz
+CC100357,"Scott, Robert",Potassium,5.5 mmol/L,3.5 - 5.1,H,2025-01-06,Dr. Priya Nair
+CC100357,"Scott, Robert",Creatinine,1.61 mg/dL,0.6 - 1.3,H,2025-01-06,Dr. Priya Nair
+CC112138,"Adams, David",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-01-06,Dr. Priya Nair
+CC112138,"Adams, David",Sodium,122.0 mmol/L,135.0 - 145.0,L,2025-01-06,Dr. Priya Nair
+CC110801,"Johnson, Daniel",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-01-06,Dr. Marcus Reid
+CC115953,"Davis, Eric",Hemoglobin A1c,7.3 %,4.0 - 5.6,H,2025-01-06,Dr. Daniel Ortiz
+CC100896,"Smith, Rosa",Creatinine,1.43 mg/dL,0.6 - 1.3,H,2025-01-06,Dr. Laura Chen
+CC100896,"Smith, Rosa",Potassium,2.8 mmol/L,3.5 - 5.1,L,2025-01-06,Dr. Laura Chen
+CC111669,"Nelson, Sofia",Hemoglobin A1c,5.7 %,4.0 - 5.6,H,2025-01-06,Dr. Daniel Ortiz
+CC109506,"Allen, Olivia",Potassium,5.8 mmol/L,3.5 - 5.1,H,2025-01-06,Dr. Daniel Ortiz
+CC114378,"Lopez, Marcus",Sodium,151.0 mmol/L,135.0 - 145.0,H,2025-01-05,Dr. Daniel Ortiz
+CC104319,"Wright, Raj",Creatinine,2.03 mg/dL,0.6 - 1.3,H,2025-01-04,Dr. Marcus Reid
+CC102611,"Young, Sofia",Hemoglobin A1c,6.9 %,4.0 - 5.6,H,2025-01-04,Dr. Priya Nair
+CC106510,"Perez, Kevin",Sodium,131.0 mmol/L,135.0 - 145.0,L,2025-01-04,Dr. Daniel Ortiz
+CC102926,"Perez, Luis",Potassium,5.3 mmol/L,3.5 - 5.1,H,2025-01-04,Dr. Daniel Ortiz
+CC105278,"Garcia, Hannah",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-01-04,Dr. Marcus Reid
+CC114231,"King, Ruth",Sodium,146.0 mmol/L,135.0 - 145.0,H,2025-01-03,Dr. Laura Chen
+CC111270,"Walker, Isaac",Potassium,2.5 mmol/L,3.5 - 5.1,L,2025-01-02,Dr. Daniel Ortiz
+CC115666,"Williams, Anthony",Potassium,5.4 mmol/L,3.5 - 5.1,H,2025-01-02,Dr. Marcus Reid
+CC111382,"Rodriguez, Brianna",Hemoglobin A1c,6.5 %,4.0 - 5.6,H,2025-01-02,Dr. Daniel Ortiz
+CC111382,"Rodriguez, Brianna",Glucose,207.0 mg/dL,70.0 - 140.0,H,2025-01-02,Dr. Daniel Ortiz
+CC109513,"Lee, Sofia",Sodium,150.0 mmol/L,135.0 - 145.0,H,2025-01-01,Dr. Priya Nair
+CC109513,"Lee, Sofia",Creatinine,2.06 mg/dL,0.6 - 1.3,H,2025-01-01,Dr. Priya Nair
+CC112194,"Walker, Grace",Potassium,6.0 mmol/L,3.5 - 5.1,H,2025-01-01,Dr. Priya Nair
+CC102506,"Martinez, Sofia",Creatinine,1.89 mg/dL,0.6 - 1.3,H,2025-01-01,Dr. Daniel Ortiz
+CC106839,"Nelson, Aisha",Potassium,3.3 mmol/L,3.5 - 5.1,L,2025-01-01,Dr. Priya Nair

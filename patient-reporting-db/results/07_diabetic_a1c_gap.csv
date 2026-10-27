@@ -1,0 +1,1049 @@
+mrn,patient,age,insurance,last_a1c
+CC111305,"Allen, Michael",73,Medicare Advantage,2025-01-01
+CC111116,"Miller, Grace",54,Self-Pay,2025-01-01
+CC111382,"Rodriguez, Brianna",38,Commercial - Cigna,2025-01-02
+CC110493,"Smith, Victor",47,Commercial - BCBS,2025-01-03
+CC100308,"Campbell, Hannah",60,Medicaid,2025-01-05
+CC103402,"Johnson, Tanya",63,Self-Pay,2025-01-06
+CC103493,"Lopez, Jennifer",60,Self-Pay,2025-01-06
+CC111669,"Nelson, Sofia",51,Commercial - BCBS,2025-01-06
+CC100406,"Roberts, Priya",62,Commercial - BCBS,2025-01-06
+CC108848,"Scott, William",39,Commercial - Cigna,2025-01-06
+CC114273,"Turner, Eric",56,Self-Pay,2025-01-06
+CC115428,"Campbell, Olivia",51,Medicaid,2025-01-07
+CC105985,"Adams, Olivia",45,Commercial - Cigna,2025-01-08
+CC101834,"Brown, Ruth",56,Self-Pay,2025-01-08
+CC100651,"Mitchell, Keisha",49,Self-Pay,2025-01-08
+CC114868,"Brown, Hannah",42,Commercial - BCBS,2025-01-09
+CC117332,"Davis, Anthony",29,Self-Pay,2025-01-09
+CC108057,"Hill, William",40,Commercial - Cigna,2025-01-09
+CC104130,"Walker, Ruth",72,Medicare,2025-01-09
+CC100259,"Young, Brianna",49,Commercial - Cigna,2025-01-09
+CC103262,"Turner, Eric",48,Medicaid,2025-01-10
+CC105467,"Hall, Ruth",47,Self-Pay,2025-01-11
+CC100805,"Johnson, Linda",48,Self-Pay,2025-01-11
+CC100224,"Lopez, James",41,Commercial - Cigna,2025-01-11
+CC109842,"Martinez, Ruth",55,Medicaid,2025-01-11
+CC114749,"Phillips, Danielle",58,Self-Pay,2025-01-11
+CC108477,"King, Rosa",47,Commercial - Cigna,2025-01-12
+CC104116,"Wright, Angela",19,Commercial - Cigna,2025-01-12
+CC106363,"Nelson, Victor",35,Commercial - BCBS,2025-01-13
+CC117353,"Campbell, Tanya",53,Commercial - Cigna,2025-01-14
+CC114945,"King, Andre",50,Commercial - BCBS,2025-01-14
+CC102709,"Rodriguez, Ruth",42,Commercial - Cigna,2025-01-14
+CC104032,"Wright, Hannah",79,Medicare Advantage,2025-01-14
+CC113377,"Garcia, Nicole",49,Self-Pay,2025-01-15
+CC101673,"Miller, Nicole",73,Medicare,2025-01-15
+CC112446,"Walker, James",42,Self-Pay,2025-01-15
+CC112159,"Young, Keisha",67,Medicare,2025-01-15
+CC115036,"Allen, William",69,Commercial - BCBS,2025-01-16
+CC113790,"Turner, Sofia",50,Commercial - Aetna,2025-01-16
+CC106216,"Hill, Isaac",35,Self-Pay,2025-01-17
+CC103479,"Miller, Hannah",66,Medicare Advantage,2025-01-17
+CC101393,"Garcia, Anthony",57,Self-Pay,2025-01-18
+CC116296,"Walker, Isaac",63,Self-Pay,2025-01-18
+CC116401,"Martinez, Tanya",67,Medicare,2025-01-19
+CC109023,"Campbell, Kevin",48,Self-Pay,2025-01-20
+CC100777,"Hill, Ruth",76,Medicare,2025-01-20
+CC114581,"Young, Emily",52,Commercial - Aetna,2025-01-20
+CC113678,"Phillips, William",55,Self-Pay,2025-01-22
+CC116191,"Baker, James",42,Commercial - BCBS,2025-01-23
+CC114308,"King, Tanya",44,Commercial - Cigna,2025-01-23
+CC107350,"Smith, Raj",46,Commercial - BCBS,2025-01-23
+CC116366,"Adams, James",43,Commercial - BCBS,2025-01-24
+CC101379,"Campbell, Carlos",29,Commercial - Aetna,2025-01-24
+CC106965,"Johnson, Kevin",81,Medicare Advantage,2025-01-25
+CC116464,"Lopez, Hannah",75,Medicare,2025-01-25
+CC114707,"King, Kevin",69,Medicare,2025-01-26
+CC115981,"Miller, Danielle",57,Self-Pay,2025-01-26
+CC117437,"Adams, Brian",31,Medicaid,2025-01-28
+CC116408,"Baker, Priya",72,Medicare,2025-01-28
+CC103906,"Campbell, Raj",53,Self-Pay,2025-01-28
+CC103087,"Brown, Mei",57,Medicaid,2025-01-29
+CC107693,"Carter, Victor",64,Medicaid,2025-01-29
+CC102870,"Miller, Jamal",57,Medicaid,2025-01-29
+CC113433,"Williams, Brian",38,Self-Pay,2025-01-29
+CC103360,"Perez, Carlos",90,Medicare,2025-01-30
+CC101477,"Martinez, Isaac",84,Medicare,2025-01-31
+CC103948,"Young, Kevin",18,Medicaid,2025-01-31
+CC101666,"Johnson, Keisha",49,Self-Pay,2025-02-01
+CC112488,"Brown, Michael",48,Self-Pay,2025-02-02
+CC103122,"Lopez, Angela",71,Medicare Advantage,2025-02-03
+CC105208,"Johnson, Jennifer",57,Commercial - Aetna,2025-02-04
+CC100056,"Lee, Aisha",32,Commercial - Aetna,2025-02-04
+CC104606,"Miller, Samuel",50,Commercial - Aetna,2025-02-04
+CC110339,"Miller, Tanya",85,Medicare Advantage,2025-02-05
+CC114133,"Perez, Grace",72,Commercial - BCBS,2025-02-05
+CC116142,"Phillips, Sofia",62,Commercial - BCBS,2025-02-05
+CC112915,"Scott, Thomas",71,Medicare Advantage,2025-02-05
+CC113083,"Hall, William",20,Commercial - Cigna,2025-02-06
+CC103346,"Wright, Priya",22,Commercial - BCBS,2025-02-06
+CC109114,"Wright, Danielle",46,Commercial - Cigna,2025-02-06
+CC103654,"Young, James",83,Medicare,2025-02-06
+CC114217,"Brown, Rosa",59,Commercial - BCBS,2025-02-07
+CC103192,"King, Marcus",69,Medicare,2025-02-07
+CC103689,"Scott, Sofia",64,Commercial - Cigna,2025-02-07
+CC108498,"Scott, William",52,Self-Pay,2025-02-07
+CC102912,"Turner, Kevin",43,Commercial - BCBS,2025-02-08
+CC105516,"Green, Carmen",33,Medicaid,2025-02-09
+CC107231,"Hall, Maria",64,Commercial - BCBS,2025-02-09
+CC107490,"Smith, Priya",38,Commercial - Aetna,2025-02-09
+CC106783,"Carter, Hannah",63,Commercial - BCBS,2025-02-10
+CC107007,"Johnson, Luis",70,Medicare,2025-02-10
+CC109352,"King, Sofia",46,Commercial - Aetna,2025-02-10
+CC102982,"Phillips, Thomas",63,Medicaid,2025-02-10
+CC114322,"Brown, Ruth",63,Self-Pay,2025-02-11
+CC109828,"Mitchell, Sofia",67,Medicare,2025-02-12
+CC106545,"Phillips, Maria",59,Commercial - Cigna,2025-02-12
+CC111956,"Phillips, James",58,Commercial - Aetna,2025-02-12
+CC115827,"Walker, Emily",65,Medicare,2025-02-12
+CC115085,"Mitchell, Anthony",70,Medicare Advantage,2025-02-13
+CC105320,"Campbell, Aisha",63,Self-Pay,2025-02-14
+CC104956,"Smith, James",19,Self-Pay,2025-02-16
+CC103801,"Walker, Jamal",56,Medicaid,2025-02-16
+CC112936,"Young, Luis",88,Medicare,2025-02-16
+CC100399,"Lopez, Angela",70,Medicare Advantage,2025-02-17
+CC112579,"Martinez, James",63,Commercial - Aetna,2025-02-17
+CC116730,"Phillips, Daniel",94,Medicare,2025-02-17
+CC102128,"Smith, Samuel",68,Medicare,2025-02-17
+CC116450,"Johnson, Linda",25,Commercial - BCBS,2025-02-18
+CC111515,"King, Emily",38,Commercial - Aetna,2025-02-18
+CC104599,"Miller, Tanya",93,Medicare,2025-02-18
+CC114546,"Perez, Samuel",66,Commercial - BCBS,2025-02-18
+CC105677,"Adams, Carlos",48,Commercial - Cigna,2025-02-19
+CC108995,"Campbell, Maria",41,Medicaid,2025-02-19
+CC103766,"Davis, Priya",93,Medicare Advantage,2025-02-19
+CC111739,"Mitchell, Mei",55,Self-Pay,2025-02-19
+CC107812,"Roberts, Aisha",58,Commercial - Aetna,2025-02-19
+CC111200,"Adams, Michael",86,Medicare,2025-02-20
+CC105845,"Allen, Marcus",62,Commercial - Cigna,2025-02-21
+CC112803,"Garcia, David",40,Commercial - Cigna,2025-02-21
+CC112054,"Lee, Danielle",77,Medicare,2025-02-21
+CC100448,"Baker, Eric",75,Medicare,2025-02-22
+CC109478,"Davis, Brianna",71,Medicare Advantage,2025-02-22
+CC116751,"Green, Aisha",46,Commercial - BCBS,2025-02-22
+CC103304,"Hall, Nicole",19,Medicaid,2025-02-22
+CC117325,"Johnson, Andre",50,Commercial - Aetna,2025-02-22
+CC109926,"Miller, Rosa",43,Self-Pay,2025-02-22
+CC100462,"Roberts, Ruth",70,Commercial - BCBS,2025-02-22
+CC114616,"Adams, Danielle",86,Medicare,2025-02-23
+CC105691,"Turner, Emily",54,Self-Pay,2025-02-23
+CC116632,"Perez, Grace",79,Commercial - BCBS,2025-02-24
+CC116527,"Rodriguez, Daniel",74,Medicare Advantage,2025-02-24
+CC110367,"Baker, Isaac",51,Commercial - BCBS,2025-02-25
+CC113839,"Hall, Sofia",77,Medicare,2025-02-25
+CC103332,"Lee, Mei",46,Self-Pay,2025-02-26
+CC114392,"Miller, Jamal",83,Medicare,2025-02-26
+CC115547,"Walker, Robert",50,Commercial - Cigna,2025-02-26
+CC117129,"Hall, Sofia",66,Medicare,2025-02-28
+CC110920,"Perez, Anthony",74,Medicare,2025-02-28
+CC100742,"Hill, Keisha",81,Commercial - BCBS,2025-03-01
+CC117423,"King, Samuel",52,Medicaid,2025-03-01
+CC113748,"Lee, Rosa",73,Commercial - BCBS,2025-03-01
+CC112775,"Garcia, Rosa",78,Commercial - BCBS,2025-03-02
+CC102121,"Martinez, Maria",47,Commercial - Aetna,2025-03-02
+CC103486,"Garcia, Mei",46,Commercial - Cigna,2025-03-03
+CC104935,"Lee, Luis",68,Medicare,2025-03-03
+CC114693,"Nelson, Samuel",75,Commercial - BCBS,2025-03-03
+CC110465,"Mitchell, Victor",75,Medicare,2025-03-04
+CC113867,"Wright, Carlos",67,Commercial - BCBS,2025-03-04
+CC115225,"Davis, Olivia",49,Commercial - BCBS,2025-03-05
+CC108939,"Martinez, Aisha",23,Commercial - BCBS,2025-03-06
+CC109408,"Williams, Rosa",83,Medicare,2025-03-06
+CC102464,"Adams, Eric",38,Self-Pay,2025-03-07
+CC111753,"Baker, Keisha",46,Commercial - Aetna,2025-03-07
+CC102632,"Johnson, Rosa",66,Medicare,2025-03-07
+CC101708,"Baker, Jamal",74,Medicare Advantage,2025-03-08
+CC103892,"Lee, Isaac",81,Medicare Advantage,2025-03-09
+CC115631,"Brown, Sofia",81,Medicare,2025-03-10
+CC103017,"Green, Keisha",95,Medicare,2025-03-10
+CC106160,"Mitchell, Jamal",61,Commercial - Cigna,2025-03-10
+CC103003,"Nelson, Angela",35,Commercial - Aetna,2025-03-11
+CC110241,"Scott, Sofia",49,Commercial - BCBS,2025-03-11
+CC104893,"Hall, Grace",55,Medicaid,2025-03-12
+CC117115,"Wright, Victor",64,Commercial - Aetna,2025-03-12
+CC117136,"Hall, Andre",69,Medicare,2025-03-13
+CC113825,"Hill, Tanya",72,Medicare,2025-03-13
+CC105138,"Johnson, Kevin",61,Commercial - Cigna,2025-03-13
+CC108127,"Hall, Anthony",37,Medicaid,2025-03-14
+CC111634,"King, Marcus",47,Commercial - Cigna,2025-03-14
+CC102282,"Nelson, Olivia",77,Commercial - BCBS,2025-03-15
+CC116534,"Garcia, Isaac",50,Medicaid,2025-03-17
+CC114875,"Nelson, Maria",67,Medicare Advantage,2025-03-17
+CC116275,"Rodriguez, Eric",72,Medicare Advantage,2025-03-17
+CC117269,"Smith, Emily",54,Self-Pay,2025-03-17
+CC117178,"Wright, Samuel",60,Commercial - Cigna,2025-03-17
+CC112831,"Garcia, Sofia",69,Medicare Advantage,2025-03-18
+CC115414,"Lee, Jamal",18,Commercial - Cigna,2025-03-18
+CC114812,"Scott, Sofia",38,Commercial - BCBS,2025-03-18
+CC102772,"Allen, Michael",87,Medicare,2025-03-19
+CC115729,"Baker, Emily",40,Commercial - Cigna,2025-03-19
+CC110647,"Campbell, Jamal",33,Commercial - Aetna,2025-03-19
+CC101883,"Allen, Brianna",38,Commercial - Aetna,2025-03-21
+CC109499,"Carter, Victor",96,Commercial - BCBS,2025-03-21
+CC114245,"Miller, David",48,Commercial - Cigna,2025-03-22
+CC101015,"Davis, Hannah",60,Commercial - BCBS,2025-03-23
+CC114189,"Miller, Hannah",68,Medicare,2025-03-23
+CC104928,"Phillips, Raj",69,Medicare,2025-03-23
+CC113468,"Campbell, Andre",58,Medicaid,2025-03-24
+CC115421,"Campbell, Michael",45,Self-Pay,2025-03-24
+CC106622,"Wright, Olivia",45,Commercial - Aetna,2025-03-24
+CC110297,"Brown, Ruth",43,Commercial - Aetna,2025-03-25
+CC112180,"Carter, Brian",56,Commercial - Aetna,2025-03-25
+CC110955,"Rodriguez, Angela",46,Commercial - Cigna,2025-03-25
+CC107518,"Young, Luis",42,Commercial - BCBS,2025-03-25
+CC112593,"Garcia, Isaac",29,Medicaid,2025-03-26
+CC111571,"Green, Jamal",69,Medicare,2025-03-26
+CC116653,"Lopez, Raj",22,Commercial - Aetna,2025-03-26
+CC104270,"Williams, Linda",49,Medicaid,2025-03-26
+CC100574,"Allen, Nicole",66,Medicare Advantage,2025-03-27
+CC100189,"Nelson, Emily",60,Commercial - BCBS,2025-03-27
+CC109723,"Walker, Kevin",67,Medicare,2025-03-27
+CC114784,"Green, Victor",44,Commercial - Cigna,2025-03-28
+CC111487,"Johnson, Angela",44,Commercial - Cigna,2025-03-28
+CC106083,"Davis, Emily",26,Commercial - BCBS,2025-03-29
+CC111788,"Campbell, Kevin",46,Medicaid,2025-03-31
+CC114434,"Davis, Eric",58,Commercial - Aetna,2025-03-31
+CC107560,"Miller, Carmen",42,Commercial - BCBS,2025-04-01
+CC112551,"Nelson, Victor",50,Commercial - BCBS,2025-04-02
+CC101855,"Hall, Mei",36,Medicaid,2025-04-03
+CC113916,"Martinez, James",55,Commercial - Cigna,2025-04-03
+CC114049,"Smith, Linda",52,Self-Pay,2025-04-04
+CC108862,"Wright, Raj",61,Commercial - Aetna,2025-04-04
+CC102345,"Lopez, Carlos",66,Medicare,2025-04-06
+CC107497,"Johnson, Ruth",88,Medicare,2025-04-07
+CC102926,"Perez, Luis",49,Self-Pay,2025-04-07
+CC114301,"Williams, Kevin",96,Medicare Advantage,2025-04-10
+CC105481,"Hill, Victor",48,Commercial - BCBS,2025-04-11
+CC103283,"Campbell, Angela",68,Medicare,2025-04-16
+CC115918,"Wright, Tanya",70,Medicare,2025-04-16
+CC107294,"Young, Linda",70,Commercial - BCBS,2025-04-16
+CC113804,"Scott, Isaac",48,Commercial - Cigna,2025-04-17
+CC102884,"Turner, Emily",55,Commercial - BCBS,2025-04-18
+CC106069,"Miller, Marcus",44,Commercial - BCBS,2025-04-19
+CC113216,"Perez, David",47,Commercial - Cigna,2025-04-20
+CC116478,"Davis, Rosa",34,Self-Pay,2025-04-21
+CC100714,"Perez, Mei",51,Commercial - BCBS,2025-04-24
+CC117108,"Mitchell, Brian",87,Medicare,2025-04-27
+CC116485,"Adams, Rosa",74,Medicare,2025-04-28
+CC111746,"Lee, Tanya",19,Commercial - Cigna,2025-04-28
+CC103528,"Miller, Daniel",88,Commercial - BCBS,2025-04-29
+CC117234,"Adams, Rosa",66,Commercial - BCBS,2025-05-02
+CC108834,"Garcia, Robert",48,Medicaid,2025-05-02
+CC109821,"Turner, Rosa",82,Commercial - BCBS,2025-05-02
+CC108946,"Young, Carmen",48,Commercial - Aetna,2025-05-03
+CC100154,"Hill, Brianna",86,Medicare Advantage,2025-05-04
+CC108435,"Hall, Michael",64,Commercial - Aetna,2025-05-05
+CC107406,"Mitchell, Nicole",64,Medicaid,2025-05-05
+CC100602,"Rodriguez, James",40,Self-Pay,2025-05-05
+CC111004,"Walker, Sofia",73,Medicare,2025-05-06
+CC112950,"Hall, Tanya",37,Commercial - BCBS,2025-05-07
+CC114063,"Roberts, Robert",74,Medicare,2025-05-07
+CC115498,"Campbell, Angela",47,Commercial - Aetna,2025-05-10
+CC108015,"Johnson, Carmen",44,Commercial - Aetna,2025-05-11
+CC108456,"Johnson, Carmen",68,Medicare,2025-05-12
+CC103710,"Williams, Luis",78,Medicare,2025-05-12
+CC102604,"Carter, James",68,Medicare Advantage,2025-05-15
+CC106706,"Phillips, Carlos",44,Commercial - BCBS,2025-05-19
+CC105404,"King, Raj",57,Commercial - BCBS,2025-05-21
+CC115064,"Walker, Kevin",68,Medicare Advantage,2025-05-21
+CC111375,"Wright, Tanya",74,Medicare,2025-05-21
+CC105551,"Carter, Marcus",77,Medicare Advantage,2025-05-22
+CC102072,"Green, Anthony",72,Commercial - BCBS,2025-05-22
+CC111466,"Lee, Isaac",38,Commercial - BCBS,2025-05-22
+CC107021,"Martinez, Daniel",96,Medicare,2025-05-22
+CC112131,"Perez, Nicole",63,Self-Pay,2025-05-23
+CC109590,"King, Ruth",23,Self-Pay,2025-05-25
+CC103129,"Baker, Kevin",53,Medicaid,2025-05-26
+CC100973,"Lee, Keisha",47,Commercial - BCBS,2025-05-30
+CC109527,"Johnson, William",75,Medicare,2025-05-31
+CC105992,"Phillips, Grace",70,Medicare Advantage,2025-05-31
+CC102968,"Allen, Linda",49,Commercial - Cigna,2025-06-02
+CC100595,"Baker, Daniel",21,Commercial - Cigna,2025-06-04
+CC111158,"Mitchell, Luis",95,Medicare,2025-06-05
+CC110472,"Walker, Andre",60,Self-Pay,2025-06-05
+CC109877,"Allen, Jennifer",50,Commercial - Cigna,2025-06-09
+CC114931,"Hall, Olivia",55,Medicaid,2025-06-09
+CC108505,"Young, Eric",46,Commercial - BCBS,2025-06-12
+CC116016,"Hill, Jamal",96,Medicare,2025-06-13
+CC115953,"Davis, Eric",89,Medicare,2025-06-15
+CC113601,"Hill, Sofia",38,Commercial - Aetna,2025-06-16
+CC112152,"Williams, Michael",44,Medicaid,2025-06-16
+CC116807,"Smith, Daniel",44,Commercial - BCBS,2025-06-18
+CC104536,"Hall, Danielle",78,Medicare,2025-06-22
+CC102625,"Lee, Anthony",75,Medicare,2025-06-22
+CC109072,"Miller, William",33,Commercial - Aetna,2025-06-23
+CC112810,"Rodriguez, Danielle",34,Self-Pay,2025-06-24
+CC105978,"Turner, William",55,Self-Pay,2025-06-26
+CC100028,"Lee, Jennifer",49,Medicaid,2025-06-28
+CC104802,"Adams, Mei",49,Medicaid,2025-07-01
+CC112474,"Miller, Anthony",90,Medicare,2025-07-04
+CC108904,"Davis, Carmen",43,Medicaid,2025-07-07
+CC110759,"Roberts, Victor",61,Commercial - Aetna,2025-07-07
+CC111606,"Carter, Raj",67,Commercial - BCBS,2025-07-08
+CC107567,"Davis, Eric",53,Commercial - Cigna,2025-07-09
+CC112467,"King, Carmen",35,Self-Pay,2025-07-10
+CC107630,"Campbell, Brianna",19,Medicaid,2025-07-14
+CC110045,"Lee, Kevin",50,Commercial - Aetna,2025-07-14
+CC100658,"Young, Jennifer",59,Commercial - Aetna,2025-07-14
+CC111886,"Johnson, Linda",50,Commercial - Aetna,2025-07-15
+CC100812,"Mitchell, Raj",42,Medicaid,2025-07-15
+CC112243,"Brown, Anthony",96,Medicare,2025-07-17
+CC109891,"Phillips, Raj",32,Commercial - BCBS,2025-07-19
+CC100553,"Brown, William",73,Commercial - BCBS,2025-07-20
+CC116562,"Martinez, James",65,Medicaid,2025-07-20
+CC116373,"Campbell, Kevin",73,Commercial - BCBS,2025-07-21
+CC102009,"Young, Marcus",49,Commercial - Cigna,2025-07-21
+CC105376,"Carter, Isaac",95,Medicare,2025-07-22
+CC116317,"Rodriguez, Angela",87,Medicare,2025-07-22
+CC111851,"Walker, Robert",67,Medicare,2025-07-24
+CC115890,"Mitchell, Daniel",46,Commercial - BCBS,2025-07-26
+CC111935,"Williams, Grace",89,Commercial - BCBS,2025-07-26
+CC106867,"Baker, Priya",34,Commercial - BCBS,2025-07-29
+CC109744,"Rodriguez, Samuel",69,Medicare Advantage,2025-07-29
+CC113195,"Martinez, Victor",94,Medicare,2025-07-30
+CC100343,"Scott, Marcus",32,Commercial - Cigna,2025-07-31
+CC109037,"King, Eric",43,Self-Pay,2025-08-03
+CC110052,"Lee, Hannah",55,Commercial - Aetna,2025-08-03
+CC116842,"Smith, Nicole",85,Commercial - BCBS,2025-08-03
+CC102044,"Allen, Anthony",94,Medicare,2025-08-04
+CC109835,"Scott, David",38,Self-Pay,2025-08-04
+CC109247,"Roberts, Andre",88,Medicare,2025-08-06
+CC100994,"Hill, Marcus",62,Commercial - Cigna,2025-08-07
+CC106615,"Carter, Daniel",73,Medicare,2025-08-08
+CC103409,"Allen, Angela",38,Commercial - Aetna,2025-08-09
+CC101302,"Brown, Marcus",52,Commercial - Cigna,2025-08-09
+CC113643,"Green, Danielle",59,Commercial - Aetna,2025-08-09
+CC117164,"Campbell, Isaac",36,Medicaid,2025-08-10
+CC108442,"Martinez, Danielle",64,Medicaid,2025-08-11
+CC101029,"Hill, James",52,Commercial - Cigna,2025-08-12
+CC112418,"Wright, Danielle",57,Self-Pay,2025-08-12
+CC104984,"Hall, Danielle",35,Self-Pay,2025-08-13
+CC113972,"King, Carlos",60,Self-Pay,2025-08-13
+CC100007,"Williams, Ruth",73,Medicare,2025-08-14
+CC102877,"Nelson, Isaac",33,Commercial - BCBS,2025-08-15
+CC104200,"Garcia, Angela",70,Medicare,2025-08-18
+CC117185,"Garcia, Daniel",60,Self-Pay,2025-08-18
+CC112313,"King, Eric",89,Medicare,2025-08-20
+CC112628,"King, Luis",80,Commercial - BCBS,2025-08-20
+CC109296,"Young, Danielle",91,Medicare Advantage,2025-08-20
+CC110584,"Roberts, Michael",75,Medicare,2025-08-21
+CC117010,"Walker, Raj",24,Self-Pay,2025-08-21
+CC111340,"Williams, Aisha",33,Commercial - Aetna,2025-08-21
+CC102051,"Martinez, Angela",83,Commercial - BCBS,2025-08-25
+CC108967,"Walker, Michael",57,Self-Pay,2025-08-29
+CC115274,"Hall, Jamal",59,Self-Pay,2025-08-30
+CC113685,"Wright, Samuel",78,Commercial - BCBS,2025-09-01
+CC107259,"Phillips, Luis",43,Self-Pay,2025-09-02
+CC107364,"Miller, Brian",44,Medicaid,2025-09-04
+CC107931,"Davis, David",73,Medicare,2025-09-05
+CC114595,"Hill, Grace",80,Medicare,2025-09-07
+CC108596,"Martinez, Priya",47,Commercial - Aetna,2025-09-07
+CC104333,"Hall, Nicole",96,Medicare,2025-09-08
+CC100231,"Young, Jamal",54,Commercial - Cigna,2025-09-08
+CC105299,"Turner, Aisha",31,Self-Pay,2025-09-10
+CC106895,"Allen, Thomas",64,Medicaid,2025-09-13
+CC114798,"Carter, Mei",29,Medicaid,2025-09-13
+CC116086,"Walker, Grace",48,Self-Pay,2025-09-14
+CC109415,"Baker, Isaac",37,Self-Pay,2025-09-15
+CC116177,"Miller, Michael",34,Commercial - Cigna,2025-09-16
+CC110255,"Baker, Sofia",57,Commercial - Aetna,2025-09-17
+CC109940,"Roberts, Isaac",76,Medicare,2025-09-17
+CC116261,"Brown, Thomas",93,Medicare,2025-09-18
+CC109534,"Garcia, Tanya",71,Medicare,2025-09-18
+CC103626,"Phillips, Daniel",47,Commercial - Cigna,2025-09-18
+CC112320,"Smith, Raj",51,Commercial - BCBS,2025-09-18
+CC102289,"Campbell, Mei",82,Medicare Advantage,2025-09-19
+CC107301,"Hill, Eric",91,Commercial - BCBS,2025-09-20
+CC112509,"Nelson, James",44,Commercial - Aetna,2025-09-22
+CC115813,"Perez, Grace",96,Medicare,2025-09-22
+CC116163,"Phillips, Carlos",80,Commercial - BCBS,2025-09-23
+CC108078,"Scott, Jennifer",39,Medicaid,2025-09-25
+CC107378,"King, Anthony",57,Medicaid,2025-09-27
+CC100588,"Adams, Emily",55,Medicaid,Never
+CC102086,"Adams, Grace",66,Commercial - BCBS,Never
+CC105383,"Adams, Jamal",47,Self-Pay,Never
+CC105810,"Adams, Raj",61,Medicaid,Never
+CC106825,"Adams, William",57,Medicaid,Never
+CC107847,"Adams, Jamal",65,Medicare,Never
+CC108582,"Adams, Ruth",54,Commercial - Cigna,Never
+CC108953,"Adams, Andre",39,Self-Pay,Never
+CC109030,"Adams, Linda",48,Commercial - Aetna,Never
+CC109709,"Adams, Samuel",54,Commercial - Aetna,Never
+CC110087,"Adams, Daniel",33,Commercial - BCBS,Never
+CC111459,"Adams, James",38,Commercial - Aetna,Never
+CC111991,"Adams, Andre",74,Medicare Advantage,Never
+CC112852,"Adams, Brian",38,Commercial - Cigna,Never
+CC114819,"Adams, Sofia",46,Commercial - Aetna,Never
+CC115736,"Adams, Aisha",96,Commercial - BCBS,Never
+CC116576,"Adams, Sofia",72,Commercial - BCBS,Never
+CC116779,"Adams, Brianna",82,Medicare Advantage,Never
+CC100203,"Allen, Linda",68,Medicare,Never
+CC100665,"Allen, Hannah",96,Commercial - BCBS,Never
+CC101281,"Allen, Thomas",75,Medicare,Never
+CC101736,"Allen, Grace",95,Medicare,Never
+CC101974,"Allen, Brianna",18,Medicaid,Never
+CC103535,"Allen, Luis",55,Commercial - BCBS,Never
+CC103885,"Allen, Aisha",60,Commercial - Cigna,Never
+CC104410,"Allen, William",92,Commercial - BCBS,Never
+CC104669,"Allen, Linda",70,Commercial - BCBS,Never
+CC106062,"Allen, Anthony",53,Self-Pay,Never
+CC107112,"Allen, Eric",76,Medicare,Never
+CC107420,"Allen, David",52,Commercial - Aetna,Never
+CC107658,"Allen, Ruth",94,Medicare,Never
+CC108610,"Allen, Aisha",65,Medicaid,Never
+CC109338,"Allen, Ruth",47,Commercial - BCBS,Never
+CC109506,"Allen, Olivia",71,Medicare Advantage,Never
+CC110948,"Allen, Kevin",64,Commercial - Aetna,Never
+CC111179,"Allen, Maria",53,Commercial - BCBS,Never
+CC112453,"Allen, Jamal",55,Medicaid,Never
+CC113125,"Allen, William",68,Medicare,Never
+CC113832,"Allen, Aisha",55,Commercial - Aetna,Never
+CC116345,"Allen, Keisha",36,Commercial - BCBS,Never
+CC100329,"Baker, Jamal",66,Commercial - BCBS,Never
+CC100770,"Baker, Carlos",72,Commercial - BCBS,Never
+CC101078,"Baker, Tanya",68,Commercial - BCBS,Never
+CC102233,"Baker, James",60,Self-Pay,Never
+CC102765,"Baker, Hannah",64,Self-Pay,Never
+CC102835,"Baker, Isaac",67,Medicare Advantage,Never
+CC103556,"Baker, Daniel",64,Self-Pay,Never
+CC104396,"Baker, James",86,Medicare,Never
+CC105369,"Baker, Mei",19,Medicaid,Never
+CC105964,"Baker, Ruth",19,Commercial - BCBS,Never
+CC106006,"Baker, Hannah",63,Commercial - Cigna,Never
+CC106153,"Baker, Sofia",73,Medicare Advantage,Never
+CC106426,"Baker, Andre",60,Self-Pay,Never
+CC106447,"Baker, Ruth",80,Commercial - BCBS,Never
+CC108281,"Baker, Anthony",75,Medicare Advantage,Never
+CC111298,"Baker, Brian",56,Medicaid,Never
+CC111977,"Baker, Victor",65,Medicare,Never
+CC113272,"Baker, Nicole",61,Commercial - BCBS,Never
+CC114490,"Baker, William",63,Commercial - Aetna,Never
+CC116926,"Baker, Aisha",52,Commercial - BCBS,Never
+CC117262,"Baker, Carlos",86,Medicare Advantage,Never
+CC100077,"Brown, Priya",89,Medicare,Never
+CC100469,"Brown, Rosa",74,Commercial - BCBS,Never
+CC101813,"Brown, William",48,Medicaid,Never
+CC102016,"Brown, Daniel",41,Medicaid,Never
+CC102471,"Brown, William",42,Commercial - Cigna,Never
+CC103136,"Brown, Thomas",74,Commercial - BCBS,Never
+CC103318,"Brown, Tanya",67,Commercial - BCBS,Never
+CC103787,"Brown, Olivia",95,Medicare,Never
+CC103808,"Brown, Jamal",52,Self-Pay,Never
+CC104697,"Brown, Danielle",44,Commercial - Cigna,Never
+CC104704,"Brown, Nicole",59,Commercial - BCBS,Never
+CC104746,"Brown, Eric",73,Medicare,Never
+CC105327,"Brown, Priya",72,Commercial - BCBS,Never
+CC105453,"Brown, Keisha",58,Medicaid,Never
+CC106594,"Brown, Marcus",58,Medicaid,Never
+CC107357,"Brown, Nicole",57,Commercial - Cigna,Never
+CC108001,"Brown, Marcus",96,Medicare,Never
+CC109870,"Brown, Aisha",94,Medicare Advantage,Never
+CC110528,"Brown, Thomas",87,Medicare,Never
+CC110661,"Brown, Danielle",75,Medicare Advantage,Never
+CC112747,"Brown, Marcus",78,Medicare,Never
+CC112908,"Brown, Eric",59,Commercial - BCBS,Never
+CC114840,"Brown, Luis",54,Commercial - BCBS,Never
+CC115141,"Brown, Nicole",51,Commercial - Cigna,Never
+CC100280,"Campbell, Isaac",39,Commercial - BCBS,Never
+CC101036,"Campbell, Olivia",19,Commercial - Cigna,Never
+CC101190,"Campbell, Raj",42,Commercial - Aetna,Never
+CC102681,"Campbell, Raj",54,Medicaid,Never
+CC103353,"Campbell, Olivia",40,Commercial - Cigna,Never
+CC103395,"Campbell, Raj",68,Medicare Advantage,Never
+CC104543,"Campbell, Michael",56,Commercial - BCBS,Never
+CC105194,"Campbell, Emily",54,Commercial - BCBS,Never
+CC106139,"Campbell, David",77,Commercial - BCBS,Never
+CC107238,"Campbell, Priya",38,Commercial - Aetna,Never
+CC107623,"Campbell, Priya",67,Medicare Advantage,Never
+CC107728,"Campbell, William",92,Medicare,Never
+CC108533,"Campbell, Isaac",42,Commercial - Cigna,Never
+CC109786,"Campbell, Anthony",40,Self-Pay,Never
+CC109954,"Campbell, Hannah",48,Commercial - Cigna,Never
+CC110108,"Campbell, James",53,Medicaid,Never
+CC111620,"Campbell, Anthony",52,Medicaid,Never
+CC111879,"Campbell, Tanya",77,Medicare,Never
+CC114175,"Campbell, Luis",65,Medicaid,Never
+CC114203,"Campbell, Mei",35,Commercial - BCBS,Never
+CC115379,"Campbell, Thomas",66,Commercial - BCBS,Never
+CC116100,"Campbell, Jennifer",64,Commercial - Cigna,Never
+CC117066,"Campbell, Jamal",33,Medicaid,Never
+CC101603,"Carter, Hannah",68,Commercial - BCBS,Never
+CC101729,"Carter, Kevin",74,Commercial - BCBS,Never
+CC102023,"Carter, Sofia",72,Commercial - BCBS,Never
+CC102457,"Carter, Danielle",37,Self-Pay,Never
+CC103234,"Carter, Thomas",61,Commercial - Cigna,Never
+CC103682,"Carter, Carlos",57,Commercial - BCBS,Never
+CC105726,"Carter, Keisha",51,Commercial - BCBS,Never
+CC106811,"Carter, Priya",19,Medicaid,Never
+CC107035,"Carter, Samuel",60,Commercial - Aetna,Never
+CC109254,"Carter, Brian",33,Commercial - Aetna,Never
+CC111501,"Carter, Robert",93,Medicare Advantage,Never
+CC111676,"Carter, Maria",25,Commercial - Cigna,Never
+CC111732,"Carter, Linda",63,Commercial - Cigna,Never
+CC113181,"Carter, Samuel",27,Commercial - BCBS,Never
+CC113720,"Carter, Andre",21,Commercial - Aetna,Never
+CC113776,"Carter, Brianna",27,Commercial - Aetna,Never
+CC113881,"Carter, Keisha",42,Commercial - BCBS,Never
+CC114854,"Carter, Ruth",40,Commercial - Aetna,Never
+CC117087,"Carter, Isaac",68,Medicare Advantage,Never
+CC100693,"Davis, Kevin",42,Medicaid,Never
+CC100931,"Davis, Luis",82,Medicare Advantage,Never
+CC102408,"Davis, Linda",73,Medicare,Never
+CC102891,"Davis, William",55,Medicaid,Never
+CC103430,"Davis, William",59,Medicaid,Never
+CC104620,"Davis, Samuel",26,Commercial - BCBS,Never
+CC104886,"Davis, Marcus",61,Medicaid,Never
+CC105033,"Davis, Ruth",29,Medicaid,Never
+CC105355,"Davis, Nicole",53,Medicaid,Never
+CC105936,"Davis, Grace",68,Medicare,Never
+CC106027,"Davis, Brian",95,Medicare,Never
+CC106118,"Davis, Sofia",80,Medicare,Never
+CC107175,"Davis, Luis",58,Commercial - BCBS,Never
+CC107686,"Davis, William",37,Commercial - Aetna,Never
+CC109716,"Davis, Carlos",71,Medicare,Never
+CC111921,"Davis, Brianna",77,Medicare,Never
+CC112110,"Davis, Michael",55,Commercial - BCBS,Never
+CC112208,"Davis, Hannah",71,Commercial - BCBS,Never
+CC113167,"Davis, Aisha",63,Commercial - Cigna,Never
+CC113524,"Davis, Daniel",79,Medicare,Never
+CC116541,"Davis, Ruth",48,Self-Pay,Never
+CC100126,"Garcia, Anthony",39,Commercial - Cigna,Never
+CC100133,"Garcia, Carmen",39,Medicaid,Never
+CC100749,"Garcia, David",73,Medicare,Never
+CC101057,"Garcia, Linda",79,Medicare Advantage,Never
+CC102226,"Garcia, David",73,Medicare Advantage,Never
+CC102954,"Garcia, Grace",34,Self-Pay,Never
+CC103724,"Garcia, Michael",74,Medicare Advantage,Never
+CC104137,"Garcia, Ruth",67,Commercial - BCBS,Never
+CC104221,"Garcia, Maria",72,Commercial - BCBS,Never
+CC104487,"Garcia, Victor",66,Medicare Advantage,Never
+CC104970,"Garcia, Sofia",43,Commercial - BCBS,Never
+CC105145,"Garcia, Eric",32,Commercial - Cigna,Never
+CC105201,"Garcia, Thomas",44,Commercial - Cigna,Never
+CC105278,"Garcia, Hannah",45,Commercial - BCBS,Never
+CC105306,"Garcia, Isaac",36,Commercial - Aetna,Never
+CC106328,"Garcia, Linda",75,Medicare,Never
+CC106650,"Garcia, David",53,Self-Pay,Never
+CC113559,"Garcia, Hannah",65,Commercial - BCBS,Never
+CC113951,"Garcia, William",51,Self-Pay,Never
+CC116135,"Garcia, James",88,Medicare,Never
+CC116310,"Garcia, Angela",96,Medicare Advantage,Never
+CC116996,"Garcia, Maria",47,Commercial - Cigna,Never
+CC117220,"Garcia, Jamal",60,Commercial - Aetna,Never
+CC117241,"Garcia, Hannah",40,Commercial - Cigna,Never
+CC117297,"Garcia, Daniel",74,Medicare Advantage,Never
+CC100063,"Green, Kevin",52,Commercial - BCBS,Never
+CC100518,"Green, Maria",74,Medicare,Never
+CC101120,"Green, Thomas",86,Medicare Advantage,Never
+CC102478,"Green, Tanya",74,Medicare,Never
+CC102723,"Green, Mei",56,Self-Pay,Never
+CC103178,"Green, Mei",31,Medicaid,Never
+CC104522,"Green, Marcus",55,Commercial - BCBS,Never
+CC106944,"Green, Carlos",59,Commercial - BCBS,Never
+CC107133,"Green, Tanya",96,Commercial - BCBS,Never
+CC107539,"Green, Marcus",87,Medicare,Never
+CC108526,"Green, Carlos",68,Medicare,Never
+CC109331,"Green, Maria",61,Commercial - Aetna,Never
+CC109905,"Green, Tanya",69,Commercial - BCBS,Never
+CC110213,"Green, William",64,Commercial - Cigna,Never
+CC110899,"Green, Ruth",87,Medicare,Never
+CC111032,"Green, Emily",66,Medicare,Never
+CC113846,"Green, Marcus",60,Commercial - Cigna,Never
+CC115358,"Green, Olivia",38,Commercial - BCBS,Never
+CC115988,"Green, Jamal",60,Medicaid,Never
+CC116380,"Green, Robert",47,Commercial - Aetna,Never
+CC102800,"Hall, Maria",35,Commercial - Aetna,Never
+CC104256,"Hall, Marcus",65,Commercial - BCBS,Never
+CC104767,"Hall, Marcus",72,Medicare,Never
+CC106013,"Hall, David",42,Self-Pay,Never
+CC106335,"Hall, Carlos",50,Commercial - Aetna,Never
+CC108029,"Hall, Jamal",85,Commercial - BCBS,Never
+CC109982,"Hall, Ruth",84,Medicare,Never
+CC110066,"Hall, Carlos",34,Commercial - Aetna,Never
+CC110822,"Hall, Jennifer",70,Medicare,Never
+CC112558,"Hall, Luis",65,Commercial - BCBS,Never
+CC112600,"Hall, Danielle",95,Commercial - BCBS,Never
+CC113118,"Hall, Samuel",79,Medicare,Never
+CC114742,"Hall, Nicole",47,Self-Pay,Never
+CC114847,"Hall, Brian",67,Medicare,Never
+CC115680,"Hall, Angela",74,Medicare Advantage,Never
+CC115799,"Hall, Angela",31,Medicaid,Never
+CC116625,"Hall, Priya",71,Medicare,Never
+CC117248,"Hall, Jamal",53,Medicaid,Never
+CC101162,"Hill, Brian",56,Commercial - BCBS,Never
+CC101183,"Hill, Angela",69,Commercial - BCBS,Never
+CC102366,"Hill, Jennifer",43,Commercial - Aetna,Never
+CC103206,"Hill, Keisha",53,Commercial - BCBS,Never
+CC103500,"Hill, Robert",83,Commercial - BCBS,Never
+CC103507,"Hill, Thomas",38,Self-Pay,Never
+CC103703,"Hill, Hannah",35,Commercial - Aetna,Never
+CC103738,"Hill, Hannah",88,Medicare Advantage,Never
+CC103752,"Hill, James",37,Medicaid,Never
+CC103822,"Hill, Grace",51,Self-Pay,Never
+CC104074,"Hill, Luis",52,Commercial - BCBS,Never
+CC105579,"Hill, Robert",58,Commercial - Cigna,Never
+CC106244,"Hill, Kevin",67,Medicare,Never
+CC107140,"Hill, Carlos",69,Commercial - BCBS,Never
+CC107798,"Hill, Keisha",57,Medicaid,Never
+CC108351,"Hill, Nicole",71,Medicare,Never
+CC109632,"Hill, Kevin",31,Commercial - Cigna,Never
+CC109695,"Hill, Daniel",86,Medicare,Never
+CC110080,"Hill, Marcus",78,Medicare,Never
+CC110766,"Hill, Grace",78,Medicare,Never
+CC110878,"Hill, Carmen",38,Commercial - Aetna,Never
+CC111942,"Hill, Brian",72,Medicare,Never
+CC112096,"Hill, Grace",42,Medicaid,Never
+CC112502,"Hill, Emily",79,Medicare Advantage,Never
+CC112957,"Hill, Danielle",39,Medicaid,Never
+CC115603,"Hill, Olivia",72,Medicare Advantage,Never
+CC115946,"Hill, Ruth",61,Commercial - Cigna,Never
+CC117416,"Hill, Isaac",67,Medicare,Never
+CC100252,"Johnson, Emily",62,Commercial - Aetna,Never
+CC100833,"Johnson, Priya",77,Commercial - BCBS,Never
+CC101365,"Johnson, Isaac",88,Commercial - BCBS,Never
+CC101421,"Johnson, Carmen",53,Commercial - Aetna,Never
+CC103290,"Johnson, James",59,Self-Pay,Never
+CC104564,"Johnson, Isaac",41,Commercial - Aetna,Never
+CC106146,"Johnson, Keisha",83,Commercial - BCBS,Never
+CC106349,"Johnson, Andre",63,Commercial - Cigna,Never
+CC106461,"Johnson, Victor",45,Commercial - BCBS,Never
+CC106853,"Johnson, Brian",79,Medicare Advantage,Never
+CC107385,"Johnson, Michael",19,Medicaid,Never
+CC108421,"Johnson, Olivia",67,Commercial - BCBS,Never
+CC111249,"Johnson, Danielle",80,Medicare,Never
+CC111802,"Johnson, Mei",62,Commercial - Cigna,Never
+CC112222,"Johnson, Jennifer",58,Self-Pay,Never
+CC113503,"Johnson, Danielle",68,Commercial - BCBS,Never
+CC113818,"Johnson, Nicole",59,Commercial - BCBS,Never
+CC113909,"Johnson, Robert",59,Commercial - Cigna,Never
+CC114126,"Johnson, Anthony",93,Medicare,Never
+CC114294,"Johnson, Ruth",69,Medicare,Never
+CC114371,"Johnson, Brianna",65,Commercial - Aetna,Never
+CC114518,"Johnson, Carlos",77,Commercial - BCBS,Never
+CC114672,"Johnson, Eric",94,Commercial - BCBS,Never
+CC115015,"Johnson, Robert",52,Commercial - Cigna,Never
+CC115351,"Johnson, Hannah",96,Medicare,Never
+CC115400,"Johnson, Carmen",73,Medicare Advantage,Never
+CC115456,"Johnson, Maria",39,Self-Pay,Never
+CC116863,"Johnson, Aisha",52,Commercial - BCBS,Never
+CC100959,"King, Hannah",50,Commercial - BCBS,Never
+CC101372,"King, Aisha",50,Commercial - BCBS,Never
+CC101778,"King, William",76,Medicare Advantage,Never
+CC102338,"King, Sofia",85,Medicare,Never
+CC103458,"King, Aisha",88,Medicare Advantage,Never
+CC104291,"King, Nicole",56,Commercial - Aetna,Never
+CC104368,"King, Tanya",34,Commercial - Aetna,Never
+CC106230,"King, Aisha",67,Medicare Advantage,Never
+CC106293,"King, Emily",53,Commercial - BCBS,Never
+CC106874,"King, Rosa",53,Commercial - Aetna,Never
+CC107651,"King, Michael",96,Commercial - BCBS,Never
+CC108414,"King, Kevin",70,Medicare Advantage,Never
+CC109065,"King, Sofia",72,Medicare,Never
+CC109380,"King, Isaac",33,Commercial - BCBS,Never
+CC109779,"King, Keisha",66,Medicare,Never
+CC110122,"King, Keisha",51,Commercial - Cigna,Never
+CC113300,"King, Brian",55,Commercial - Aetna,Never
+CC114014,"King, Tanya",72,Medicare,Never
+CC114497,"King, Carmen",52,Commercial - Aetna,Never
+CC115806,"King, Emily",76,Medicare Advantage,Never
+CC100455,"Lee, Maria",50,Self-Pay,Never
+CC102002,"Lee, Danielle",86,Commercial - BCBS,Never
+CC102079,"Lee, Jennifer",96,Medicare,Never
+CC102961,"Lee, Thomas",63,Medicaid,Never
+CC103563,"Lee, Angela",52,Commercial - Aetna,Never
+CC105005,"Lee, Priya",79,Commercial - BCBS,Never
+CC105761,"Lee, Andre",52,Commercial - BCBS,Never
+CC106314,"Lee, Rosa",65,Commercial - Cigna,Never
+CC106734,"Lee, Sofia",79,Medicare Advantage,Never
+CC106902,"Lee, Marcus",54,Commercial - BCBS,Never
+CC108253,"Lee, Angela",72,Commercial - BCBS,Never
+CC108449,"Lee, Carmen",80,Medicare Advantage,Never
+CC110059,"Lee, David",44,Commercial - BCBS,Never
+CC111046,"Lee, Priya",67,Medicare,Never
+CC112278,"Lee, Samuel",55,Commercial - Cigna,Never
+CC115470,"Lee, Tanya",57,Medicaid,Never
+CC116170,"Lee, Jennifer",53,Medicaid,Never
+CC116905,"Lee, Jamal",58,Commercial - BCBS,Never
+CC117500,"Lee, Luis",74,Medicare,Never
+CC100245,"Lopez, Nicole",58,Commercial - BCBS,Never
+CC100539,"Lopez, David",69,Commercial - BCBS,Never
+CC102590,"Lopez, Victor",56,Commercial - Aetna,Never
+CC103612,"Lopez, Carlos",52,Self-Pay,Never
+CC104312,"Lopez, Brian",48,Commercial - Aetna,Never
+CC105334,"Lopez, Danielle",80,Medicare Advantage,Never
+CC105586,"Lopez, Angela",87,Medicare,Never
+CC105922,"Lopez, Brianna",68,Medicare Advantage,Never
+CC106699,"Lopez, Angela",75,Medicare,Never
+CC107056,"Lopez, David",57,Medicaid,Never
+CC107308,"Lopez, Eric",57,Medicaid,Never
+CC107903,"Lopez, Keisha",56,Commercial - BCBS,Never
+CC107917,"Lopez, Isaac",33,Commercial - BCBS,Never
+CC111319,"Lopez, Hannah",67,Commercial - BCBS,Never
+CC111928,"Lopez, David",92,Commercial - BCBS,Never
+CC115246,"Lopez, Luis",72,Commercial - BCBS,Never
+CC115267,"Lopez, Tanya",60,Commercial - BCBS,Never
+CC115568,"Lopez, Eric",71,Medicare,Never
+CC116051,"Lopez, Thomas",69,Medicare,Never
+CC116149,"Lopez, Linda",65,Medicaid,Never
+CC100273,"Martinez, Michael",27,Commercial - BCBS,Never
+CC102240,"Martinez, Rosa",50,Commercial - Cigna,Never
+CC105054,"Martinez, Brianna",19,Self-Pay,Never
+CC105607,"Martinez, Nicole",64,Commercial - Aetna,Never
+CC105698,"Martinez, Danielle",38,Commercial - Cigna,Never
+CC106195,"Martinez, Brianna",38,Self-Pay,Never
+CC107014,"Martinez, Carlos",45,Medicaid,Never
+CC108106,"Martinez, Keisha",67,Medicare Advantage,Never
+CC109324,"Martinez, Rosa",37,Commercial - BCBS,Never
+CC109639,"Martinez, Kevin",76,Medicare Advantage,Never
+CC110892,"Martinez, Marcus",60,Commercial - Cigna,Never
+CC111347,"Martinez, Brianna",54,Commercial - Cigna,Never
+CC112866,"Martinez, Olivia",66,Medicare,Never
+CC112887,"Martinez, Carlos",66,Medicare Advantage,Never
+CC113286,"Martinez, Rosa",57,Self-Pay,Never
+CC114357,"Martinez, Jennifer",42,Self-Pay,Never
+CC115113,"Martinez, Linda",72,Commercial - BCBS,Never
+CC116590,"Martinez, Emily",61,Self-Pay,Never
+CC116660,"Martinez, Anthony",33,Medicaid,Never
+CC117052,"Martinez, David",77,Medicare,Never
+CC100035,"Miller, Jennifer",36,Commercial - Aetna,Never
+CC101463,"Miller, Carmen",35,Self-Pay,Never
+CC101491,"Miller, Raj",58,Commercial - Aetna,Never
+CC101918,"Miller, Michael",30,Self-Pay,Never
+CC103829,"Miller, Maria",81,Medicare Advantage,Never
+CC104298,"Miller, Olivia",22,Commercial - Cigna,Never
+CC104466,"Miller, Keisha",74,Medicare Advantage,Never
+CC104662,"Miller, Isaac",27,Medicaid,Never
+CC104690,"Miller, Keisha",92,Medicare,Never
+CC104830,"Miller, Marcus",50,Commercial - Aetna,Never
+CC105110,"Miller, Hannah",77,Medicare,Never
+CC105159,"Miller, Carmen",54,Commercial - Aetna,Never
+CC105943,"Miller, Grace",60,Medicaid,Never
+CC106125,"Miller, Grace",60,Commercial - Aetna,Never
+CC106468,"Miller, Angela",75,Medicare,Never
+CC106664,"Miller, Victor",60,Self-Pay,Never
+CC107098,"Miller, Kevin",86,Commercial - BCBS,Never
+CC107322,"Miller, Robert",40,Commercial - Cigna,Never
+CC108155,"Miller, Hannah",60,Commercial - Cigna,Never
+CC108323,"Miller, Mei",53,Self-Pay,Never
+CC109184,"Miller, Eric",82,Commercial - BCBS,Never
+CC109275,"Miller, William",57,Commercial - BCBS,Never
+CC109310,"Miller, Carmen",56,Commercial - Aetna,Never
+CC109576,"Miller, Rosa",51,Commercial - Aetna,Never
+CC109814,"Miller, Brian",53,Medicaid,Never
+CC110311,"Miller, Angela",62,Commercial - Aetna,Never
+CC110360,"Miller, Samuel",54,Medicaid,Never
+CC110654,"Miller, Tanya",64,Self-Pay,Never
+CC111494,"Miller, Keisha",47,Self-Pay,Never
+CC112586,"Miller, Brian",38,Self-Pay,Never
+CC112691,"Miller, Maria",54,Medicaid,Never
+CC113321,"Miller, Isaac",42,Commercial - Aetna,Never
+CC113454,"Miller, Kevin",60,Commercial - Cigna,Never
+CC115722,"Miller, Robert",62,Self-Pay,Never
+CC115778,"Miller, Luis",63,Medicaid,Never
+CC116513,"Miller, James",50,Commercial - Cigna,Never
+CC116793,"Miller, Grace",75,Medicare,Never
+CC100182,"Mitchell, Brian",66,Medicare,Never
+CC100567,"Mitchell, Olivia",30,Commercial - BCBS,Never
+CC100861,"Mitchell, Eric",76,Medicare Advantage,Never
+CC101008,"Mitchell, James",87,Commercial - BCBS,Never
+CC102359,"Mitchell, Daniel",59,Commercial - BCBS,Never
+CC103591,"Mitchell, James",72,Medicare,Never
+CC103773,"Mitchell, David",48,Medicaid,Never
+CC104242,"Mitchell, Priya",49,Self-Pay,Never
+CC104676,"Mitchell, Danielle",71,Medicare,Never
+CC105061,"Mitchell, James",78,Medicare Advantage,Never
+CC106188,"Mitchell, Eric",47,Commercial - BCBS,Never
+CC106930,"Mitchell, Rosa",60,Commercial - BCBS,Never
+CC106986,"Mitchell, Angela",46,Commercial - Aetna,Never
+CC107210,"Mitchell, Samuel",69,Medicare,Never
+CC107700,"Mitchell, Luis",28,Commercial - Aetna,Never
+CC108680,"Mitchell, Daniel",95,Commercial - BCBS,Never
+CC108687,"Mitchell, Raj",19,Commercial - Aetna,Never
+CC109604,"Mitchell, Brianna",31,Commercial - BCBS,Never
+CC109667,"Mitchell, Aisha",69,Medicare,Never
+CC110549,"Mitchell, Hannah",90,Commercial - BCBS,Never
+CC112257,"Mitchell, Rosa",71,Medicare Advantage,Never
+CC112383,"Mitchell, Rosa",82,Medicare,Never
+CC113538,"Mitchell, Carlos",90,Medicare,Never
+CC113671,"Mitchell, Isaac",72,Commercial - BCBS,Never
+CC114476,"Mitchell, Keisha",71,Medicare,Never
+CC115897,"Mitchell, Linda",49,Commercial - Cigna,Never
+CC115967,"Mitchell, Marcus",61,Commercial - Aetna,Never
+CC116247,"Mitchell, Linda",56,Commercial - Aetna,Never
+CC100476,"Nelson, Jennifer",58,Commercial - Aetna,Never
+CC100686,"Nelson, Nicole",70,Medicare,Never
+CC102198,"Nelson, Robert",76,Medicare,Never
+CC102569,"Nelson, Linda",68,Commercial - BCBS,Never
+CC103325,"Nelson, Jamal",61,Commercial - Aetna,Never
+CC105712,"Nelson, Angela",29,Commercial - Cigna,Never
+CC105831,"Nelson, Grace",75,Medicare,Never
+CC106671,"Nelson, Sofia",70,Medicare,Never
+CC107245,"Nelson, Carlos",95,Commercial - BCBS,Never
+CC107959,"Nelson, Anthony",49,Commercial - Aetna,Never
+CC109009,"Nelson, Keisha",49,Medicaid,Never
+CC110003,"Nelson, William",54,Commercial - Cigna,Never
+CC110136,"Nelson, Michael",57,Commercial - Cigna,Never
+CC110290,"Nelson, Ruth",60,Commercial - Cigna,Never
+CC111830,"Nelson, Grace",45,Medicaid,Never
+CC112369,"Nelson, Priya",81,Medicare,Never
+CC113209,"Nelson, Victor",44,Commercial - BCBS,Never
+CC113755,"Nelson, Samuel",55,Self-Pay,Never
+CC114413,"Nelson, Grace",64,Commercial - Cigna,Never
+CC114777,"Nelson, Linda",71,Medicare Advantage,Never
+CC115008,"Nelson, Robert",63,Commercial - Aetna,Never
+CC115134,"Nelson, Carmen",38,Commercial - BCBS,Never
+CC116226,"Nelson, Priya",79,Commercial - BCBS,Never
+CC117143,"Nelson, Luis",76,Medicare,Never
+CC100112,"Perez, Olivia",52,Medicaid,Never
+CC100903,"Perez, Luis",40,Commercial - Aetna,Never
+CC102058,"Perez, Daniel",96,Medicare,Never
+CC102450,"Perez, Angela",60,Commercial - Cigna,Never
+CC103185,"Perez, Linda",47,Commercial - Cigna,Never
+CC104459,"Perez, Priya",67,Medicare,Never
+CC105257,"Perez, Carmen",44,Medicaid,Never
+CC105348,"Perez, William",72,Medicare Advantage,Never
+CC106804,"Perez, Andre",70,Commercial - BCBS,Never
+CC107833,"Perez, Priya",83,Medicare,Never
+CC108113,"Perez, David",93,Commercial - BCBS,Never
+CC108554,"Perez, Danielle",90,Medicare,Never
+CC108778,"Perez, Jennifer",47,Commercial - Cigna,Never
+CC109058,"Perez, Eric",46,Commercial - Aetna,Never
+CC111816,"Perez, Raj",65,Medicare Advantage,Never
+CC113041,"Perez, Linda",95,Medicare,Never
+CC113923,"Perez, Hannah",64,Commercial - Aetna,Never
+CC114315,"Perez, David",52,Commercial - Cigna,Never
+CC115974,"Perez, Thomas",79,Commercial - BCBS,Never
+CC116667,"Perez, Brianna",26,Self-Pay,Never
+CC116709,"Perez, Linda",60,Commercial - Aetna,Never
+CC117080,"Perez, Andre",95,Medicare,Never
+CC100392,"Phillips, Emily",66,Commercial - BCBS,Never
+CC101113,"Phillips, Jamal",68,Medicare Advantage,Never
+CC101225,"Phillips, James",76,Medicare,Never
+CC101799,"Phillips, Raj",78,Medicare Advantage,Never
+CC102485,"Phillips, James",65,Commercial - Aetna,Never
+CC103311,"Phillips, Robert",71,Medicare,Never
+CC103731,"Phillips, Hannah",46,Commercial - Aetna,Never
+CC103794,"Phillips, Rosa",41,Commercial - Cigna,Never
+CC104165,"Phillips, Jamal",54,Self-Pay,Never
+CC104354,"Phillips, Ruth",65,Commercial - BCBS,Never
+CC104508,"Phillips, Michael",32,Self-Pay,Never
+CC104725,"Phillips, Andre",68,Medicare,Never
+CC104844,"Phillips, Emily",81,Medicare,Never
+CC105803,"Phillips, Maria",78,Medicare Advantage,Never
+CC107329,"Phillips, Linda",52,Commercial - Cigna,Never
+CC107672,"Phillips, Carmen",40,Commercial - BCBS,Never
+CC107756,"Phillips, Mei",38,Commercial - Cigna,Never
+CC109898,"Phillips, Linda",53,Commercial - Cigna,Never
+CC110668,"Phillips, William",96,Medicare Advantage,Never
+CC110962,"Phillips, Emily",58,Commercial - Cigna,Never
+CC112166,"Phillips, Nicole",64,Medicaid,Never
+CC113244,"Phillips, Jennifer",78,Medicare Advantage,Never
+CC113342,"Phillips, Isaac",43,Self-Pay,Never
+CC114952,"Phillips, Angela",39,Self-Pay,Never
+CC116849,"Phillips, Carmen",75,Medicare Advantage,Never
+CC117472,"Phillips, Raj",71,Medicare,Never
+CC100098,"Roberts, Aisha",56,Self-Pay,Never
+CC100945,"Roberts, Luis",78,Medicare Advantage,Never
+CC102296,"Roberts, Grace",82,Medicare,Never
+CC102646,"Roberts, Michael",60,Commercial - BCBS,Never
+CC104193,"Roberts, Kevin",48,Commercial - Cigna,Never
+CC105915,"Roberts, Michael",53,Commercial - Aetna,Never
+CC106916,"Roberts, Isaac",54,Commercial - Aetna,Never
+CC107609,"Roberts, Andre",56,Medicaid,Never
+CC107861,"Roberts, Eric",70,Commercial - BCBS,Never
+CC108407,"Roberts, Emily",70,Commercial - BCBS,Never
+CC109044,"Roberts, Olivia",63,Commercial - Aetna,Never
+CC109100,"Roberts, Carmen",45,Commercial - BCBS,Never
+CC109555,"Roberts, Hannah",52,Commercial - BCBS,Never
+CC111067,"Roberts, Keisha",74,Commercial - BCBS,Never
+CC111690,"Roberts, Emily",51,Commercial - BCBS,Never
+CC111795,"Roberts, Maria",30,Commercial - BCBS,Never
+CC113937,"Roberts, Carlos",24,Medicaid,Never
+CC114700,"Roberts, Priya",64,Commercial - Cigna,Never
+CC114735,"Roberts, Priya",72,Medicare,Never
+CC115127,"Roberts, Carmen",61,Commercial - BCBS,Never
+CC117150,"Roberts, Andre",57,Commercial - Cigna,Never
+CC100672,"Rodriguez, Hannah",71,Medicare,Never
+CC100966,"Rodriguez, Rosa",46,Commercial - Cigna,Never
+CC101358,"Rodriguez, Priya",69,Medicare Advantage,Never
+CC101561,"Rodriguez, Danielle",43,Commercial - Aetna,Never
+CC101624,"Rodriguez, Brian",46,Commercial - Aetna,Never
+CC101694,"Rodriguez, Robert",70,Medicare Advantage,Never
+CC101701,"Rodriguez, James",57,Self-Pay,Never
+CC103073,"Rodriguez, Marcus",58,Self-Pay,Never
+CC103227,"Rodriguez, Jennifer",96,Medicare,Never
+CC103871,"Rodriguez, Thomas",63,Commercial - Aetna,Never
+CC105901,"Rodriguez, Raj",71,Medicare,Never
+CC107469,"Rodriguez, Michael",19,Self-Pay,Never
+CC107595,"Rodriguez, Aisha",50,Medicaid,Never
+CC108232,"Rodriguez, Eric",62,Commercial - Cigna,Never
+CC109856,"Rodriguez, David",53,Self-Pay,Never
+CC110857,"Rodriguez, Robert",76,Medicare Advantage,Never
+CC112250,"Rodriguez, Hannah",44,Commercial - Cigna,Never
+CC112649,"Rodriguez, Emily",39,Commercial - Cigna,Never
+CC112894,"Rodriguez, Brian",57,Self-Pay,Never
+CC113363,"Rodriguez, Michael",48,Medicaid,Never
+CC114658,"Rodriguez, Linda",58,Commercial - Aetna,Never
+CC116184,"Rodriguez, Maria",38,Medicaid,Never
+CC100161,"Scott, Angela",46,Medicaid,Never
+CC101064,"Scott, Jamal",53,Commercial - BCBS,Never
+CC101197,"Scott, Danielle",52,Commercial - Cigna,Never
+CC101288,"Scott, Rosa",53,Commercial - Aetna,Never
+CC101505,"Scott, Angela",47,Commercial - Cigna,Never
+CC101967,"Scott, Anthony",67,Medicare Advantage,Never
+CC103150,"Scott, Brian",70,Medicare,Never
+CC103276,"Scott, Priya",43,Medicaid,Never
+CC103878,"Scott, Priya",19,Self-Pay,Never
+CC103913,"Scott, David",79,Medicare,Never
+CC104473,"Scott, Nicole",57,Medicaid,Never
+CC106251,"Scott, Aisha",29,Self-Pay,Never
+CC107763,"Scott, William",72,Commercial - BCBS,Never
+CC109492,"Scott, William",85,Medicare,Never
+CC111333,"Scott, Tanya",66,Commercial - BCBS,Never
+CC112516,"Scott, Eric",52,Commercial - BCBS,Never
+CC112523,"Scott, Olivia",57,Self-Pay,Never
+CC113237,"Scott, Rosa",45,Medicaid,Never
+CC114112,"Scott, Brian",63,Medicaid,Never
+CC114336,"Scott, Emily",63,Commercial - Cigna,Never
+CC114441,"Scott, Luis",70,Medicare Advantage,Never
+CC115169,"Scott, Isaac",53,Self-Pay,Never
+CC115645,"Scott, Angela",32,Commercial - BCBS,Never
+CC100014,"Smith, Raj",60,Commercial - BCBS,Never
+CC101092,"Smith, Emily",82,Medicare Advantage,Never
+CC101897,"Smith, Jamal",71,Medicare,Never
+CC102555,"Smith, James",31,Commercial - BCBS,Never
+CC102688,"Smith, Robert",45,Commercial - Cigna,Never
+CC103024,"Smith, Keisha",73,Commercial - BCBS,Never
+CC104207,"Smith, Grace",93,Medicare,Never
+CC104529,"Smith, Hannah",96,Medicare Advantage,Never
+CC104557,"Smith, Brianna",57,Commercial - Cigna,Never
+CC104977,"Smith, Rosa",69,Medicare Advantage,Never
+CC106167,"Smith, Emily",64,Commercial - Aetna,Never
+CC106559,"Smith, Kevin",63,Commercial - BCBS,Never
+CC107336,"Smith, James",65,Medicare,Never
+CC108330,"Smith, Samuel",36,Commercial - Aetna,Never
+CC110101,"Smith, Ruth",43,Commercial - Cigna,Never
+CC111011,"Smith, Jamal",55,Self-Pay,Never
+CC112341,"Smith, William",82,Medicare Advantage,Never
+CC112572,"Smith, Anthony",37,Commercial - Aetna,Never
+CC112824,"Smith, Priya",56,Commercial - Aetna,Never
+CC113517,"Smith, Victor",72,Medicare,Never
+CC113734,"Smith, William",65,Commercial - Aetna,Never
+CC114602,"Smith, Tanya",64,Commercial - Cigna,Never
+CC114770,"Smith, Rosa",68,Commercial - BCBS,Never
+CC115449,"Smith, Andre",79,Medicare Advantage,Never
+CC115659,"Smith, Linda",31,Commercial - Cigna,Never
+CC115694,"Smith, Keisha",31,Self-Pay,Never
+CC116681,"Smith, Brianna",35,Medicaid,Never
+CC116772,"Smith, Anthony",59,Commercial - BCBS,Never
+CC101568,"Turner, Robert",85,Medicare,Never
+CC101659,"Turner, Victor",67,Commercial - BCBS,Never
+CC105026,"Turner, Rosa",69,Commercial - BCBS,Never
+CC105488,"Turner, Eric",42,Self-Pay,Never
+CC106489,"Turner, James",74,Medicare,Never
+CC106566,"Turner, Carlos",33,Commercial - BCBS,Never
+CC107273,"Turner, Andre",95,Commercial - BCBS,Never
+CC107280,"Turner, Keisha",69,Medicare Advantage,Never
+CC107714,"Turner, James",66,Medicare Advantage,Never
+CC109219,"Turner, Olivia",96,Medicare,Never
+CC109674,"Turner, Raj",61,Commercial - Aetna,Never
+CC110157,"Turner, Maria",80,Commercial - BCBS,Never
+CC110563,"Turner, Emily",45,Commercial - BCBS,Never
+CC110619,"Turner, Thomas",44,Commercial - BCBS,Never
+CC111221,"Turner, Victor",28,Medicaid,Never
+CC114154,"Turner, Tanya",56,Commercial - BCBS,Never
+CC115211,"Turner, David",80,Commercial - BCBS,Never
+CC117486,"Turner, Tanya",47,Self-Pay,Never
+CC100021,"Walker, Samuel",89,Commercial - BCBS,Never
+CC100175,"Walker, Brian",95,Medicare,Never
+CC101309,"Walker, Priya",78,Medicare Advantage,Never
+CC101925,"Walker, Mei",85,Medicare,Never
+CC102317,"Walker, Linda",87,Medicare,Never
+CC103955,"Walker, William",71,Medicare,Never
+CC104613,"Walker, Kevin",71,Medicare Advantage,Never
+CC106496,"Walker, Ruth",77,Medicare,Never
+CC106503,"Walker, Carlos",39,Commercial - Aetna,Never
+CC107049,"Walker, William",64,Commercial - Aetna,Never
+CC107476,"Walker, Thomas",81,Medicare Advantage,Never
+CC107511,"Walker, Marcus",54,Self-Pay,Never
+CC107574,"Walker, Brianna",96,Commercial - BCBS,Never
+CC110696,"Walker, Maria",48,Medicaid,Never
+CC111270,"Walker, Isaac",58,Self-Pay,Never
+CC113132,"Walker, Brian",61,Commercial - Aetna,Never
+CC113489,"Walker, Nicole",53,Commercial - Cigna,Never
+CC114091,"Walker, Carlos",58,Medicaid,Never
+CC114896,"Walker, Raj",19,Commercial - Aetna,Never
+CC115750,"Walker, Grace",25,Self-Pay,Never
+CC117206,"Walker, Danielle",55,Commercial - BCBS,Never
+CC100168,"Williams, Luis",50,Commercial - Aetna,Never
+CC100763,"Williams, William",44,Medicaid,Never
+CC101456,"Williams, Andre",60,Self-Pay,Never
+CC102548,"Williams, Kevin",69,Commercial - BCBS,Never
+CC104809,"Williams, Thomas",70,Medicare,Never
+CC105705,"Williams, Hannah",72,Medicare,Never
+CC106538,"Williams, William",63,Self-Pay,Never
+CC106678,"Williams, Emily",73,Medicare,Never
+CC106993,"Williams, Carlos",38,Self-Pay,Never
+CC108267,"Williams, Jennifer",57,Commercial - Cigna,Never
+CC108792,"Williams, Isaac",70,Medicare,Never
+CC108925,"Williams, Angela",19,Commercial - Cigna,Never
+CC109177,"Williams, Marcus",49,Commercial - Aetna,Never
+CC109961,"Williams, Thomas",54,Medicaid,Never
+CC110332,"Williams, Luis",53,Medicaid,Never
+CC112530,"Williams, David",31,Medicaid,Never
+CC112985,"Williams, Emily",73,Commercial - BCBS,Never
+CC113048,"Williams, Hannah",42,Commercial - Cigna,Never
+CC114252,"Williams, Brianna",78,Medicare,Never
+CC114329,"Williams, Marcus",73,Medicare Advantage,Never
+CC115197,"Williams, Rosa",78,Medicare Advantage,Never
+CC115288,"Williams, Raj",76,Medicare,Never
+CC115792,"Williams, Brianna",79,Medicare,Never
+CC116282,"Williams, James",60,Commercial - Cigna,Never
+CC116856,"Williams, Samuel",81,Commercial - BCBS,Never
+CC116891,"Williams, Brian",52,Medicaid,Never
+CC116989,"Williams, William",30,Commercial - Aetna,Never
+CC101218,"Wright, Ruth",49,Commercial - Cigna,Never
+CC101687,"Wright, Eric",48,Self-Pay,Never
+CC101932,"Wright, Robert",58,Commercial - BCBS,Never
+CC102212,"Wright, Victor",58,Commercial - BCBS,Never
+CC102373,"Wright, Eric",62,Commercial - BCBS,Never
+CC104228,"Wright, Jamal",68,Medicare,Never
+CC104319,"Wright, Raj",51,Self-Pay,Never
+CC104326,"Wright, Victor",59,Commercial - Aetna,Never
+CC104732,"Wright, Mei",45,Commercial - BCBS,Never
+CC105040,"Wright, Jennifer",65,Commercial - BCBS,Never
+CC106055,"Wright, Priya",56,Commercial - BCBS,Never
+CC106342,"Wright, Isaac",69,Medicare,Never
+CC106909,"Wright, James",46,Commercial - Aetna,Never
+CC107070,"Wright, Grace",70,Commercial - BCBS,Never
+CC108771,"Wright, Marcus",43,Commercial - Aetna,Never
+CC108806,"Wright, Hannah",52,Commercial - Aetna,Never
+CC109226,"Wright, Eric",71,Medicare Advantage,Never
+CC109429,"Wright, David",57,Self-Pay,Never
+CC110416,"Wright, Maria",60,Commercial - Aetna,Never
+CC111452,"Wright, Michael",50,Commercial - BCBS,Never
+CC112173,"Wright, Michael",67,Medicare,Never
+CC113370,"Wright, Anthony",48,Self-Pay,Never
+CC115120,"Wright, Sofia",62,Commercial - Aetna,Never
+CC115708,"Wright, Jamal",19,Medicaid,Never
+CC100371,"Young, Jennifer",57,Medicaid,Never
+CC100735,"Young, Rosa",55,Medicaid,Never
+CC101134,"Young, Ruth",79,Commercial - BCBS,Never
+CC102793,"Young, Kevin",86,Medicare Advantage,Never
+CC103647,"Young, Linda",65,Medicaid,Never
+CC104046,"Young, Aisha",64,Commercial - Aetna,Never
+CC104585,"Young, Michael",29,Commercial - Cigna,Never
+CC106762,"Young, Carmen",74,Medicare,Never
+CC107371,"Young, David",76,Medicare Advantage,Never
+CC107504,"Young, Raj",59,Commercial - Cigna,Never
+CC107854,"Young, Olivia",75,Medicare,Never
+CC107952,"Young, James",19,Commercial - Aetna,Never
+CC110514,"Young, Ruth",56,Commercial - BCBS,Never
+CC110815,"Young, Samuel",63,Medicaid,Never
+CC111522,"Young, Raj",53,Commercial - BCBS,Never
+CC112187,"Young, Priya",56,Commercial - Aetna,Never
+CC112334,"Young, Isaac",55,Commercial - Aetna,Never
+CC114539,"Young, Daniel",50,Commercial - Aetna,Never
+CC115505,"Young, Tanya",78,Medicare,Never
+CC116156,"Young, Priya",45,Commercial - Cigna,Never

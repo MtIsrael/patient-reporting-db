@@ -1,0 +1,4 @@
+pacu_arrival_window,cases,avg_pacu_min,asa_1_2_avg_min,asa_3plus_avg_min,stays_over_2hrs
+1) Before noon,1055,90.0,78.0,102.0,116
+2) 12:00-15:59,787,90.0,77.0,103.0,95
+3) 16:00 or later,205,120.0,107.0,133.0,108
